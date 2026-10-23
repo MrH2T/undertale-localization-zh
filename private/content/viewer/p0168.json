@@ -4,8 +4,8 @@
   "printed_page": "168",
   "title": "火热甩卖",
   "subtitle": "瀑布 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T12:23:00.818920+00:00",
   "reference_size": [
     979.905437,
     1400
@@ -863,11 +863,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -879,7 +879,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     }
   ],
   "typography": {

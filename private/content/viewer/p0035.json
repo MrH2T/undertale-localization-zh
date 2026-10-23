@@ -4,8 +4,8 @@
   "printed_page": "35",
   "title": "更多翻译难题",
   "subtitle": "什么是本地化？ · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.114564+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T12:23:00.729280+00:00",
   "reference_size": [
     994.087015,
     1400
@@ -74,11 +74,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.37939285285714286,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -90,7 +90,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0035-b002",
@@ -146,11 +147,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.6350571428571429,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -162,7 +163,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0035-b003",
@@ -214,11 +216,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -230,7 +232,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0035-b004",

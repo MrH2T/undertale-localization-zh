@@ -4,8 +4,8 @@
   "printed_page": "227",
   "title": "“你依然是你”的影响",
   "subtitle": "新家 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T12:23:00.845748+00:00",
   "reference_size": [
     981.367925,
     1400
@@ -72,11 +72,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.13428571428571429,
         "snap_to_guides": true,
-        "resize_anchor": "center",
+        "resize_anchor": "left",
         "gap_before": 12
       },
       "calibration": {
@@ -90,7 +90,8 @@
         "leading": 23.2
       },
       "review_issues": [],
-      "region_id": "sidebar-first-caption"
+      "region_id": "sidebar-first-caption",
+      "content_role": "margin-note"
     },
     {
       "id": "p0227-b002",
@@ -212,11 +213,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.6338642828571429,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -228,7 +229,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0227-b004",
@@ -277,11 +279,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -293,7 +295,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0227-b005",

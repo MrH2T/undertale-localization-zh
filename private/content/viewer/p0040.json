@@ -4,8 +4,8 @@
   "printed_page": "40",
   "title": "游戏背后的那个人",
   "subtitle": "历史 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T10:25:54.390110+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T12:23:00.733862+00:00",
   "reference_size": [
     990.711029,
     1400
@@ -389,11 +389,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.7835714285714286,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -405,7 +405,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0040-b007",

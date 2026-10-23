@@ -4,8 +4,8 @@
   "printed_page": "13",
   "title": "走向世界",
   "subtitle": "引言 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T12:23:00.704906+00:00",
   "reference_size": [
     994.278021,
     1400
@@ -288,11 +288,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.30729285285714286,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -304,7 +304,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0013-b005",
@@ -361,11 +362,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.47334285285714284,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -377,7 +378,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0013-b006",
@@ -434,11 +436,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.6978428528571429,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -450,7 +452,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0013-b007",
@@ -500,11 +503,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -516,7 +519,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0013-b008",

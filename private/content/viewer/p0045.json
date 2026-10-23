@@ -4,8 +4,8 @@
   "printed_page": "45",
   "title": "众筹与宣传",
   "subtitle": "历史 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-22T19:12:45.527615+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T12:23:00.740168+00:00",
   "reference_size": [
     985.99865,
     1400
@@ -74,11 +74,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.4231928528571428,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -90,7 +90,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0045-b002",
@@ -145,11 +146,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.5042857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -161,7 +162,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0045-b003",
@@ -207,11 +209,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.6155000028571429,
         "snap_to_guides": true,
-        "resize_anchor": "center",
+        "resize_anchor": "left",
         "flow_after": "p0045-b002",
         "gap_before": 12
       },
@@ -225,7 +227,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0045-b004",
@@ -282,11 +285,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -298,7 +301,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0045-b005",

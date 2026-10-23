@@ -4,8 +4,8 @@
   "printed_page": "49",
   "title": "走出游戏圈",
   "subtitle": "历史 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T12:23:00.745447+00:00",
   "reference_size": [
     985.719109,
     1400
@@ -72,11 +72,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.25,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -88,7 +88,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0049-b002",
@@ -142,11 +143,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.5112785728571428,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -158,7 +159,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0049-b003",
@@ -214,11 +216,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.5879000028571428,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -230,7 +232,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0049-b004",
@@ -285,11 +288,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.5892857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -301,7 +304,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0049-b005",
@@ -381,11 +385,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -397,7 +401,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0049-b006",

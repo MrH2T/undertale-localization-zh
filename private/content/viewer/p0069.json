@@ -4,8 +4,8 @@
   "printed_page": "69",
   "title": "技术工作",
   "subtitle": "本地化的过程 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.146442+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T12:23:00.763650+00:00",
   "reference_size": [
     986.13828,
     1400
@@ -284,11 +284,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.4969214328571428,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -300,7 +300,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0069-b005",
@@ -415,11 +416,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.7552571428571427,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -431,7 +432,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0069-b007",

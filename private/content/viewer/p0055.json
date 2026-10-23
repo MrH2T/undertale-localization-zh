@@ -4,8 +4,8 @@
   "printed_page": "55",
   "title": "日本的成功",
   "subtitle": "历史 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T12:23:00.751643+00:00",
   "reference_size": [
     982.311321,
     1400
@@ -73,11 +73,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.2857142857142857,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -89,7 +89,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0055-b002",
@@ -214,11 +215,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.5782714328571429,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -230,7 +231,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0055-b004",
@@ -287,11 +289,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.6985714285714286,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -303,7 +305,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0055-b005",
@@ -367,11 +370,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "left",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "left"
       },
       "calibration": {
         "bbox": [
@@ -383,7 +386,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0055-b006",

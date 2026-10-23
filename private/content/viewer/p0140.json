@@ -4,8 +4,8 @@
   "printed_page": "140",
   "title": "Translation Collision",
   "subtitle": "侧栏 · 游戏截图 · 英日字形",
-  "revision": 25,
-  "updated_at": "2026-10-22T16:28:22.436950+00:00",
+  "revision": 26,
+  "updated_at": "2026-10-23T12:23:00.807039+00:00",
   "reference_size": [
     977.0242914979757,
     1400
@@ -101,7 +101,9 @@
         "font_size": 15.5,
         "line_height": 1.4838709677419355,
         "background": "transparent",
-        "font_weight": 400
+        "font_weight": 400,
+        "text_align": "right",
+        "resize_anchor": "right"
       },
       "notes": "",
       "calibration": {
@@ -114,7 +116,8 @@
         "font_size": 15.5,
         "leading": 23
       },
-      "annotations": []
+      "annotations": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0140-b003",
@@ -269,7 +272,9 @@
         "font_weight": 400,
         "keep_phrases": [
           "“COOL DUDE”"
-        ]
+        ],
+        "text_align": "right",
+        "resize_anchor": "right"
       },
       "notes": "",
       "calibration": {
@@ -282,7 +287,8 @@
         "font_size": 15.5,
         "leading": 23
       },
-      "annotations": []
+      "annotations": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0140-b006",
@@ -388,7 +394,9 @@
         "font_size": 15.5,
         "line_height": 1.4838709677419355,
         "background": "transparent",
-        "font_weight": 400
+        "font_weight": 400,
+        "text_align": "right",
+        "resize_anchor": "right"
       },
       "notes": "",
       "calibration": {
@@ -401,7 +409,8 @@
         "font_size": 15.5,
         "leading": 23
       },
-      "annotations": []
+      "annotations": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0140-b008",
@@ -440,7 +449,9 @@
         "font_size": 15.5,
         "line_height": 1.4838709677419355,
         "background": "transparent",
-        "font_weight": 400
+        "font_weight": 400,
+        "text_align": "right",
+        "resize_anchor": "right"
       },
       "notes": "",
       "calibration": {
@@ -453,7 +464,8 @@
         "font_size": 15.5,
         "leading": 23
       },
-      "annotations": []
+      "annotations": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0140-b009",

@@ -47,3 +47,5 @@ data/catalog.json 标记最新发布版本和固定版本；阅读器打开时�
 作者对白：content_role="author-comment" 标记番茄头像对白；不改变原 kind 或 source。
 两端对齐由 layout.text_align="justify" 保存，样式使用正文宋体，末行左齐。
 layout.break_after 是需要固定断行的原文子串（在该串之后换行）；只是显示指令，译文 text 和 spans 保持原偏移，正文排版器与 PDF 共用此断行。
+
+侧栏：content_role="margin-note"；layout.text_align 与 resize_anchor 按左侧 right、右侧 left 保存。图内标签和头像署名不属于侧栏。

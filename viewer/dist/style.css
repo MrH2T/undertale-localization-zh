@@ -87,3 +87,5 @@ dialog{border:1px solid #999;border-radius:0;padding:20px;max-width:min(460px,90
 .translation-box.footer,.translation-box.toc-entry,.translation-box.table-cell,.translation-box.legal{font-family:"Book Sans SC",sans-serif;text-align:left;white-space:pre-wrap}
 .translation-box.legal [lang="en"],.translation-box.table-cell [lang="en"],.translation-box.toc-entry [lang="en"]{font-family:inherit;font-weight:inherit}
 #toc-target{align-self:start;height:27px;font-size:12px}
+
+.translation-box.margin-note{text-wrap:pretty;text-align-last:auto}

@@ -4,8 +4,8 @@
   "printed_page": "213",
   "title": "Sans 台词的翻译记录",
   "subtitle": "热域 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.288035+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T12:23:00.839095+00:00",
   "reference_size": [
     981.790643,
     1400
@@ -130,11 +130,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.9242857142857143,
         "snap_to_guides": true,
-        "resize_anchor": "left"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -146,7 +146,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0213-b003",

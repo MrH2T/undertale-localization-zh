@@ -4,8 +4,8 @@
   "printed_page": "88",
   "title": "获得“决心”",
   "subtitle": "遗迹 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T10:25:54.416560+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T12:23:00.783870+00:00",
   "reference_size": [
     981.965826,
     1400
@@ -130,11 +130,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.4790428528571428,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -146,7 +146,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0088-b003",
@@ -423,11 +424,11 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "center",
+        "text_align": "right",
         "auto_height": true,
         "limit_bottom": 0.8307142857142857,
         "snap_to_guides": true,
-        "resize_anchor": "center"
+        "resize_anchor": "right"
       },
       "calibration": {
         "bbox": [
@@ -439,7 +440,8 @@
         "font_size": 16,
         "leading": 23.2
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "margin-note"
     },
     {
       "id": "p0088-b007",
