@@ -1,0 +1,1150 @@
+{
+  "schema_version": 3,
+  "pdf_page": 192,
+  "printed_page": "192",
+  "title": "洗手秀与网络梗",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    984.0,
+    1400
+  ],
+  "physical_size_pt": [
+    501.84,
+    714.0
+  ],
+  "image_url": "/assets/p0192.jpg",
+  "image_sha256": "70473e67926c0be094089a81a12949cbeeaac45b38b4c2cd8b26e5d64fa5c844",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0192/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0192-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Unhelping Hands",
+        "raw": "Unhelping Hands",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29704268,
+          0.06338571,
+          0.4725,
+          0.07669286
+        ],
+        "mask_bbox": [
+          0.29572154,
+          0.06267143,
+          0.47382114,
+          0.07776429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "洗手也成秀",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.053,
+          0.8988313,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.053,
+          0.8988313,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0192-b002",
+      "kind": "aside",
+      "source": {
+        "text": "This localization change points to a level of cultural knowledge that's beyond the reach of inexperienced translators and machine translation systems",
+        "raw": "This localization change\npoints to a level of\ncultural knowledge\nthat's beyond the\nreach of inexperienced\ntranslators and\nmachine translation\nsystems",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12091463,
+          0.0924,
+          0.26944106,
+          0.21092857
+        ],
+        "mask_bbox": [
+          0.1195935,
+          0.09168571,
+          0.2707622,
+          0.212
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          11,
+          16,
+          20
+        ]
+      },
+      "translation": {
+        "text": "这项本地化改动体现出的文化知识，是缺乏经验的译者和机器翻译系统难以企及的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11686992,
+          0.09097143,
+          0.2717124,
+          0.2145
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.27785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11686992,
+          0.09097143,
+          0.2717124,
+          0.2145
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "During Metta ton's cooking show, the player is asked to find ingredients. If the player checks the sink, Mettaton will remark:",
+        "raw": "During Metta ton's cooking show, the player is asked to find ingredients. If the\nplayer checks the sink, Mettaton will remark:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29691057,
+          0.23783571,
+          0.88908537,
+          0.26855714
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.23712143,
+          0.90086382,
+          0.26962857
+        ],
+        "line_ids": [
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 的烹饪节目要求玩家寻找食材。如果调查水槽，他就会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.23640714,
+          0.8988313,
+          0.27212857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.23640714,
+          0.8988313,
+          0.27212857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b004",
+      "kind": "quote",
+      "source": {
+        "text": "THIS ISN'T A SHOW ABOUT WASHING YOUR HANDS, DARLING.",
+        "raw": "THIS ISN'T A SHOW ABOUT WASHING YOUR HANDS, DARLING.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34158537,
+          0.28321429,
+          0.87054878,
+          0.29497857
+        ],
+        "mask_bbox": [
+          0.34026423,
+          0.2825,
+          0.87186992,
+          0.29605
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "亲爱的，这可不是教你洗手的节目。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34158537,
+          0.28178571,
+          0.8988313,
+          0.302375
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34158537,
+          0.28178571,
+          0.8988313,
+          0.302375
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This relatively straightforward line received a boost of creativity in Japanese:",
+        "raw": "This relatively straightforward line received a boost of creativity in Japanese:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29684959,
+          0.31035,
+          0.88546748,
+          0.32267143
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.30963571,
+          0.90086382,
+          0.32374286
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "这句相当直白的台词，在日语中多了些创意：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.30892143,
+          0.8988313,
+          0.33106429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.30892143,
+          0.8988313,
+          0.33106429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b006",
+      "kind": "quote",
+      "source": {
+        "text": "This show's title isn't \"Teo AraimaSHOW\"!",
+        "raw": "This show's title isn't \"Teo AraimaSHOW\"!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34156504,
+          0.33825714,
+          0.66919715,
+          0.351
+        ],
+        "mask_bbox": [
+          0.3402439,
+          0.33754286,
+          0.67051829,
+          0.35207143
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "这节目的名字可不是“Te o AraimaSHOW”（一起洗手秀）！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34156504,
+          0.33682857,
+          0.8988313,
+          0.35741786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0192-b005",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34156504,
+          0.33682857,
+          0.8988313,
+          0.35741786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Normally, this would be written in Japanese as te o araimasho, which means \"let's wash our hands\". But in Japanese entertainment, titles that end in sho are sometimes replaced with the English word \"show\". This wordplay adds an extra layer of flair to the title in question, so this practice is particularly common with flashy entertainment. And, of course, Mettaton is all about being flashy.",
+        "raw": "Normally, this would be written in Japanese as te o araimasho, which means\n\"let's wash our hands\". But in Japanese entertainment, titles that end in sho are\nsometimes replaced with the English word \"show\". This wordplay adds an extra\nlayer of flair to the title in question, so this practice is particularly common with\nflashy entertainment. And, of course, Mettaton is all about being flashy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2928252,
+          0.36514286,
+          0.8988313,
+          0.45039286
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.36442857,
+          0.90086382,
+          0.45146429
+        ],
+        "line_ids": [
+          26,
+          27,
+          29,
+          31,
+          33
+        ]
+      },
+      "translation": {
+        "text": "这句话在日语里通常写作 te o araimashō，意思是“一起洗手吧”。不过，日本娱乐节目有时会把标题末尾的 shō 换成英语 show（秀）。这个文字游戏让标题更俏皮，所以特别常见于花哨的娱乐节目。Mettaton 当然最爱花哨。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 57,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.36371429,
+          0.8988313,
+          0.45396429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.36371429,
+          0.8988313,
+          0.45396429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Replacing the Japanese verb fragment sho with the English word \"SHOW\" is very common on Japanese TV",
+        "raw": "Replacing the Japanese\nverb fragment sho\nwith the English word\n\"SHOW\" is very common\non Japanese TV",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11651423,
+          0.39256429,
+          0.27176829,
+          0.46639286
+        ],
+        "mask_bbox": [
+          0.11519309,
+          0.39185,
+          0.27308943,
+          0.46746429
+        ],
+        "line_ids": [
+          28,
+          30,
+          32,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "把日语动词末尾的 shō 换成英语“SHOW”，在日本电视节目中很常见。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11651423,
+          0.39113571,
+          0.27176829,
+          0.46996429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5591928528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11651423,
+          0.39113571,
+          0.27176829,
+          0.46996429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, this Japanese line adds an extra level of natural, customary humor that isn't present in the original English text. In doing so, it arguably improves upon the original text.",
+        "raw": "In short, this Japanese line adds an extra level of natural, customary humor\nthat isn't present in the original English text. In doing so, it arguably improves\nupon the original text.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29732724,
+          0.46597857,
+          0.89355691,
+          0.51358571
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.46526429,
+          0.90086382,
+          0.51465714
+        ],
+        "line_ids": [
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "这句日语加入了原英文没有、却自然又符合当地习惯的幽默。从这个角度说，或许还胜过了原文。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.46455,
+          0.8988313,
+          0.51715714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5298571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.46455,
+          0.8988313,
+          0.51715714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b010",
+      "kind": "subheading",
+      "source": {
+        "text": "Meme Temperature",
+        "raw": "Meme Temperature",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29894309,
+          0.537,
+          0.50091463,
+          0.5503
+        ],
+        "mask_bbox": [
+          0.29762195,
+          0.53628571,
+          0.50223577,
+          0.55137143
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "网络梗的温度",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.5283,
+          0.8988313,
+          0.55244286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5524428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.5283,
+          0.8988313,
+          0.55244286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Sometimes, things that seem like references aren't references at all - it's like \"seeing\" faces in clouds and carpet patterns",
+        "raw": "Sometimes, things that\nseem like references\naren't references at all -\nit's like \"seeing\" faces\nin clouds and carpet\npatterns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12609756,
+          0.56633571,
+          0.27223577,
+          0.65462857
+        ],
+        "mask_bbox": [
+          0.12477642,
+          0.56562143,
+          0.27355691,
+          0.6557
+        ],
+        "line_ids": [
+          40,
+          42,
+          43,
+          44,
+          45,
+          48
+        ]
+      },
+      "translation": {
+        "text": "有些看似引用的东西其实并没有出处，就像在云朵和地毯花纹里“看见”人脸一样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11686992,
+          0.56490714,
+          0.27223577,
+          0.6582
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11686992,
+          0.56490714,
+          0.27223577,
+          0.6582
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "During the robot cooking show, Mettaton offers details about the oven:",
+        "raw": "During the robot cooking show, Mettaton offers details about the oven:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29882114,
+          0.71134286,
+          0.84087398,
+          0.72367143
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.71062857,
+          0.90086382,
+          0.72474286
+        ],
+        "line_ids": [
+          59
+        ]
+      },
+      "translation": {
+        "text": "在机器人的烹饪节目里，Mettaton 介绍烤箱：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.70991429,
+          0.8988313,
+          0.73205714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.70991429,
+          0.8988313,
+          0.73205714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b013",
+      "kind": "quote",
+      "source": {
+        "text": "OH YES! MTT-BRAND OVENS CAN REACH TEMPERATURES UP TO NINE-THOUSAND DEGREES!",
+        "raw": "OH YES! MTT-BRAND OVENS CAN REACH TEMPERATURES UP TO\nNINE-THOUSAND DEGREES!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34305894,
+          0.73967857,
+          0.89146341,
+          0.7696
+        ],
+        "mask_bbox": [
+          0.3417378,
+          0.73896429,
+          0.89278455,
+          0.77067143
+        ],
+        "line_ids": [
+          60,
+          61
+        ]
+      },
+      "translation": {
+        "text": "噢，没错！MTT 牌烤箱最高能达到九千度！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34305894,
+          0.73825,
+          0.8988313,
+          0.77317143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.34305894,
+          0.73825,
+          0.8988313,
+          0.77317143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0192-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby confirmed with the localization team that this reference to the number 9000 isn't a reference to the famous \"it's over 9000!\" Internet joke. He even included a note in the translation spreadsheet that said \"Don't localize this as an over 9000 meme. Wait, that doesn't exist in Japan, does it...?\". With this information in mind, the translator gave Mettaton's line a simple, straightforward translation into Japanese.",
+        "raw": "Toby confirmed with the localization team that this reference to the number\n9000 isn't a reference to the famous \"it's over 9000!\" Internet joke. He even\nincluded a note in the translation spreadsheet that said \"Don't localize this\nas an over 9000 meme. Wait, that doesn't exist in Japan, does it...?\". With\nthis information in mind, the translator gave Mettaton's line a simple,\nstraightforward translation into Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29876016,
+          0.78428571,
+          0.88195122,
+          0.88872143
+        ],
+        "mask_bbox": [
+          0.29079268,
+          0.78357143,
+          0.90086382,
+          0.88979286
+        ],
+        "line_ids": [
+          62,
+          63,
+          64,
+          65,
+          66,
+          67
+        ]
+      },
+      "translation": {
+        "text": "Toby 向本地化团队确认，这里的 9000 不是在玩著名网络梗“it’s over 9000!”（超过九千了！）。他甚至在翻译表格里写道：“别把这句本地化成‘超过九千’的梗。等等，日本没有这个梗吧……？”知道这一点后，译者就直接把 Mettaton 的台词译成了日语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971189,
+          0.78285714,
+          0.8988313,
+          0.89229286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0192-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971189,
+          0.78285714,
+          0.8988313,
+          0.89229286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "97df22f1e7685d2b772a2418a5895a47ec5846b5cf7e130cc88ab46af2cb777d"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292.37,
+      884.45
+    ],
+    "text_runs": [
+      {
+        "id": "p0192-b003",
+        "blocks": [
+          "p0192-b003",
+          "p0192-b004",
+          "p0192-b005",
+          "p0192-b006",
+          "p0192-b007",
+          "p0192-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 741.8
+      },
+      {
+        "id": "p0192-b012",
+        "blocks": [
+          "p0192-b012",
+          "p0192-b013",
+          "p0192-b014"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

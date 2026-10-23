@@ -1,0 +1,904 @@
+{
+  "schema_version": 3,
+  "pdf_page": 125,
+  "printed_page": "125",
+  "title": "日语中的蓝与绿",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.190928+00:00",
+  "reference_size": [
+    982.096584,
+    1400
+  ],
+  "physical_size_pt": [
+    500.28,
+    713.16
+  ],
+  "image_url": "/assets/p0125.jpg",
+  "image_sha256": "000b8947e434c9b3be33cc41b4c800ecb0159513105c12c7d88a84259fea6e06",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0125/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0125-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Blue and Green in Japanese",
+        "raw": "Blue and Green in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.25767323,
+          0.08735714,
+          0.54453911,
+          0.1011
+        ],
+        "mask_bbox": [
+          0.25634953,
+          0.08664286,
+          0.54586281,
+          0.10217143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语中的蓝与绿",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1232058,
+          0.07799999999999999,
+          0.68119573,
+          0.10214285714285715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1232058,
+          0.07799999999999999,
+          0.68119573,
+          0.10214285714285715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 147
+    },
+    {
+      "id": "p0125-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "For linguistic and historical reasons, the Japanese word 青 (ao) usually means \"blue\" in English, but can instead mean \"green\" in some situations. In general, ao means \"green\" when referring to plants, fruits, vegetables, and other types of \"vibrant\" green. Ao can also mean \"green\" in relation to other things, including stoplights and being new to something.",
+        "raw": "For linguistic and historical reasons, the Japanese word ~ (ao) usually\nmeans \"blue\" in English, but can instead mean \"green\" in some situations.\nIn general, ao means \"green\" when referring to plants, fruits, vegetables,\nand other types of \"vibrant\" green. Ao can also mean \"green\" in relation\nto other things, including stoplights and being new to something.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12313453,
+          0.11727857,
+          0.67666461,
+          0.19623571
+        ],
+        "mask_bbox": [
+          0.12181083,
+          0.11656429,
+          0.67798831,
+          0.19730714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "由于语言和历史原因，日语“青”（ao）通常对应英语的“蓝”，有时却指“绿”，尤其用于植物、水果、蔬菜等鲜活的绿色。交通灯也用 ao，而“新手”、不熟练的意思也与英语 green 相通。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 63,
+            "end": 65,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1232058,
+          0.11571429,
+          0.68119573,
+          0.19857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.20714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1232058,
+          0.11571429,
+          0.68119573,
+          0.19857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b003",
+      "kind": "caption",
+      "source": {
+        "text": "This sky is ao in Japanese",
+        "raw": "This sky is ao in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17645922,
+          0.34357857,
+          0.33375536,
+          0.35647857
+        ],
+        "mask_bbox": [
+          0.17513552,
+          0.34286429,
+          0.33507906,
+          0.35755
+        ],
+        "line_ids": [
+          7
+        ]
+      },
+      "translation": {
+        "text": "这片天空在日语中是 ao。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13440633,
+          0.34215,
+          0.37878148,
+          0.36015
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.365,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13440633,
+          0.34215,
+          0.37878148,
+          0.36015
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b004",
+      "kind": "caption",
+      "source": {
+        "text": "These chili peppers are also ao in Japanese",
+        "raw": "These chili peppers are also ao in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41584505,
+          0.34357857,
+          0.67484198,
+          0.35647857
+        ],
+        "mask_bbox": [
+          0.41452135,
+          0.34286429,
+          0.67616568,
+          0.35755
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "这些辣椒在日语中也是 ao。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41584505,
+          0.34215,
+          0.67484198,
+          0.36015
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.365,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41584505,
+          0.34215,
+          0.67484198,
+          0.36015
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b005",
+      "kind": "heading",
+      "source": {
+        "text": "Mega Mail",
+        "raw": "Mega Mail",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09742423,
+          0.3973,
+          0.20533622,
+          0.41104286
+        ],
+        "mask_bbox": [
+          0.09610053,
+          0.39658571,
+          0.20665992,
+          0.41211429
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "洛克人的战斗装甲",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09658928,
+          0.388,
+          0.70783262,
+          0.41214286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.41214285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09658928,
+          0.388,
+          0.70783262,
+          0.41214286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 581.0
+    },
+    {
+      "id": "p0125-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Game theory: does the Mega Man series exist in the Undertale universe?",
+        "raw": "Game theory: does\nthe Mega Man series\nexist in the Undertale\nuniverse?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73144537,
+          0.42823571,
+          0.86561751,
+          0.48464286
+        ],
+        "mask_bbox": [
+          0.73012167,
+          0.42752143,
+          0.86694121,
+          0.48571429
+        ],
+        "line_ids": [
+          10,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "游戏猜想：Undertale 的世界里也有 Mega Man 系列吗？",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 22,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73144537,
+          0.42680714,
+          0.88290357,
+          0.48821429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5385714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73144537,
+          0.42680714,
+          0.88290357,
+          0.48821429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans shares inside information about Papyrus’ unusual clothing. In English, he says:",
+        "raw": "Sans shares inside information about Papyms' unusual clothing. In English, he says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09658928,
+          0.5824,
+          0.70783262,
+          0.59502143
+        ],
+        "mask_bbox": [
+          0.09422698,
+          0.58168571,
+          0.70986908,
+          0.59609286
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "Sans 透露了 Papyrus 那身奇特装束的内情。英语版中，他说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09658928,
+          0.58097143,
+          0.70783262,
+          0.60311429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7328571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09658928,
+          0.58097143,
+          0.70783262,
+          0.60311429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b008",
+      "kind": "quote",
+      "source": {
+        "text": "we made that a few weeks ago for a costume party. he hasn't worn anything else since. .. keeps calling it his \"battle body.\"",
+        "raw": "we made that a few weeks ago for a costume party. he hasn't worn anything\nelse since. .. keeps calling it his \"battle body.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14138121,
+          0.60987143,
+          0.70434009,
+          0.63962143
+        ],
+        "mask_bbox": [
+          0.14005751,
+          0.60915714,
+          0.70566379,
+          0.64069286
+        ],
+        "line_ids": [
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "几周前，我们为了化装舞会做了这身衣服。从那以后，他就没换过……老管它叫自己的“battle body”（战斗躯体）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14138121,
+          0.60844286,
+          0.70783262,
+          0.64319286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7328571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0125-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.14138121,
+          0.60844286,
+          0.70783262,
+          0.64319286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that the term \"battle body\" is a direct reference to Sigma’s \"battle body\" in Mega Man X3. The translator checked the original Japanese version of Mega Man X3, found that it used the term sentōyō bodi (\"body for combat use\"), and then used that term in the Japanese Undertale script.",
+        "raw": "Toby noted that the term \"battle body\" is a direct reference to Sigma's \"battle\nbody\" in Mega Man X3. The translator checked the original Japanese version\nof Mega Man X3, found that it used the term sentc5yc5 bodi (\"body for combat\nuse\"), and then used that term in the Japanese Underta/e script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09626344,
+          0.65475,
+          0.68812988,
+          0.7229
+        ],
+        "mask_bbox": [
+          0.09422698,
+          0.65403571,
+          0.70986908,
+          0.72397143
+        ],
+        "line_ids": [
+          20,
+          22,
+          24,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Toby 说，battle body（战斗躯体）直接引用了 Mega Man X3 中 Sigma 的称呼。译者查过日文原版，便把其中的 sentōyō bodi（战斗用躯体）用于 Undertale 日文剧本。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 69,
+            "end": 81,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 91,
+            "end": 100,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09658928,
+          0.65332143,
+          0.70783262,
+          0.72647143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7328571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0125-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09658928,
+          0.65332143,
+          0.70783262,
+          0.72647143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Toby borrowed the term \"battle body\" from Mega Man X3, but Papyrus' costume isn't based on Sigma's battle body",
+        "raw": "Toby borrowed the\nterm \"battle body\"\nfrom Mega Man X3,\nbut Papyrus' costume\nisn't based on\nSigma's battle body",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73247378,
+          0.66616429,
+          0.8683871,
+          0.75318571
+        ],
+        "mask_bbox": [
+          0.73115008,
+          0.66545,
+          0.86971079,
+          0.75425714
+        ],
+        "line_ids": [
+          21,
+          23,
+          25,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "Toby 从 Mega Man X3 借来了“battle body”这个词，但 Papyrus 的服装并不是照着 Sigma 的战斗躯体设计的。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73247378,
+          0.66473571,
+          0.88290357,
+          0.75675714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73247378,
+          0.66473571,
+          0.88290357,
+          0.75675714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "This obscure reference is easy enough to miss in the English script. So without Toby's input, it probably would've been missed in translation too.",
+        "raw": "This obscure reference is easy enough to miss in the English script. So without\nToby's input, it probably would've been missed in translation too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09674201,
+          0.86644286,
+          0.69996171,
+          0.89757143
+        ],
+        "mask_bbox": [
+          0.09422698,
+          0.86572857,
+          0.70986908,
+          0.89864286
+        ],
+        "line_ids": [
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "这个冷僻的梗在英文剧本中就很容易被忽略。若没有 Toby 的提醒，它大概也会在翻译中被漏掉。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09658928,
+          0.86501429,
+          0.70783262,
+          0.90114286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09658928,
+          0.86501429,
+          0.70783262,
+          0.90114286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0125-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64269646,
+          0.9337,
+          0.70697731,
+          0.94365714
+        ],
+        "mask_bbox": [
+          0.64137276,
+          0.93298571,
+          0.70830101,
+          0.94472857
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64269646,
+          0.93227143,
+          0.70697731,
+          0.95027143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9502714285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64269646,
+          0.93227143,
+          0.70697731,
+          0.95027143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "9dc455d584bea4db183e17d0548b5bd521b0024acdc581b5890fc069cccae5e8"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          11,
+          15,
+          16,
+          33
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      94.86,
+      695.16
+    ],
+    "text_runs": [
+      {
+        "id": "p0125-b007",
+        "blocks": [
+          "p0125-b007",
+          "p0125-b008",
+          "p0125-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1026.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

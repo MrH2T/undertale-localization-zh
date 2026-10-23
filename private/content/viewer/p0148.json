@@ -1,0 +1,704 @@
+{
+  "schema_version": 3,
+  "pdf_page": 148,
+  "printed_page": "148",
+  "title": "约会游戏",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.739483+00:00",
+  "reference_size": [
+    984.415584,
+    1400
+  ],
+  "physical_size_pt": [
+    500.28,
+    711.48
+  ],
+  "image_url": "/assets/p0148.jpg",
+  "image_sha256": "37e48c1dc5f2c9b8a8267df8fb8d85bdd75483ee5c955f45784d2aa3878c9b28",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0148/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0148-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Dating Game",
+        "raw": "Dating Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29699855,
+          0.06947143,
+          0.43264248,
+          0.08267857
+        ],
+        "mask_bbox": [
+          0.29567797,
+          0.06875714,
+          0.43396306,
+          0.08375
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "约会游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29706457,
+          0.059428571,
+          0.90613153,
+          0.083571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.083571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29706457,
+          0.059428571,
+          0.90613153,
+          0.083571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 121
+    },
+    {
+      "id": "p0148-b002",
+      "kind": "aside",
+      "source": {
+        "text": "I don't need to date • a skeleton, I already have one of my own",
+        "raw": "I don't need to date •\na skeleton, I already\nhave one of my own",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14413628,
+          0.09732143,
+          0.28435145,
+          0.13919286
+        ],
+        "mask_bbox": [
+          0.1428157,
+          0.09660714,
+          0.28567203,
+          0.14026429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "我用不着和骷髅约会，我自己就有一副。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11682058,
+          0.09589286,
+          0.28435145,
+          0.14276429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3003357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11682058,
+          0.09589286,
+          0.28435145,
+          0.14276429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Eventually, the main character goes on a date with Papyrus, although it's actually more like a silly, date-themed battle.",
+        "raw": "Eventually, the main character goes on a date with Papyrus, although it's\nactually more like a silly, date-themed battle.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29685633,
+          0.2622,
+          0.85250581,
+          0.29242857
+        ],
+        "mask_bbox": [
+          0.28882111,
+          0.26148571,
+          0.90816319,
+          0.2935
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "后来，主角与 Papyrus 来了一场约会——不过，实际上更像一场以约会为主题的胡闹战斗。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29085277,
+          0.25642857,
+          0.90613153,
+          0.29785714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.29928571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29085277,
+          0.25642857,
+          0.90613153,
+          0.29785714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "When this Papyrus dating sequence begins, the English version of Undertale displays the text \"DATI G START!\". Toby noted that this is another reference to Super Matio World, in which each stage begins with the messages \"MARIO START!\" or \"LUIGI START!\".",
+        "raw": "When this Papyrus dating sequence\nbegins, the English version of\nUndertale displays the text \"DATI G\nSTART!\". Toby noted that this is\nanother reference to Super Matio\nWorld, in which each stage begins\nwith the messages \"MARIO START!\"\nor \"LUIGI START!\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61303377,
+          0.30637143,
+          0.90098127,
+          0.44659286
+        ],
+        "mask_bbox": [
+          0.61171319,
+          0.30565714,
+          0.90230185,
+          0.44766429
+        ],
+        "line_ids": [
+          9,
+          12,
+          14,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "与 Papyrus 的约会环节开始时，Undertale 英语版会显示“DATING START!”（约会开始！）。Toby 指出，这又引用了 Super Mario World：每个关卡开头都会显示“MARIO START!”或“LUIGI START!”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 72,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61303377,
+          0.30494286,
+          0.90098127,
+          0.45016429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4561000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61303377,
+          0.30494286,
+          0.90098127,
+          0.45016429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b005",
+      "kind": "aside",
+      "source": {
+        "text": "The Japanese version • of Super Mario World always displays this message in English text",
+        "raw": "The Japanese version •\nof Super Mario World\nalways displays this\nmessage in English text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12446979,
+          0.30747857,
+          0.28530633,
+          0.36653571
+        ],
+        "mask_bbox": [
+          0.12314921,
+          0.30676429,
+          0.28662691,
+          0.36760714
+        ],
+        "line_ids": [
+          10,
+          11,
+          13,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Super Mario World 日语版也一直用英文显示这条提示。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11682058,
+          0.30605,
+          0.28530633,
+          0.37010714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5762642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11682058,
+          0.30605,
+          0.28530633,
+          0.37010714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "With this information in hand, the translator checked the Japanese version of Super Mario World and found that it also displays \"MARIO START!\" and \"LUIGI START!\" in English. For this reason, the translator chose to leave this dating message in English. The phrase was changed to \"DATE START!\", however, as the English word \"date\" already exists in the Japanese language and would be more recognizable to Japanese players.",
+        "raw": "With this information in hand, the translator checked the Japanese version\nof Super Mario World and found that it also displays \"MARIO START!\" and\n\"LUIGI START!\" in English. For this reason, the translator chose to leave\nthis dating message in English. The phrase was changed to \"DATE START!\",\nhowever, as the English word \"date\" already exists in the Japanese language\nand would be more recognizable to Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29085277,
+          0.46324286,
+          0.88544921,
+          0.56634286
+        ],
+        "mask_bbox": [
+          0.28882111,
+          0.46252857,
+          0.90816319,
+          0.56741429
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "有了这条信息，译者检查了 Super Mario World 的日语版，发现其中同样用英文显示“MARIO START!”和“LUIGI START!”。因此，约会开始的提示也保留英文，不过改成了“DATE START!”。英语 date（约会）已经作为外来词进入日语，日本玩家更容易认得。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29706457,
+          0.46181429,
+          0.90613153,
+          0.56991429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5778571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29706457,
+          0.46181429,
+          0.90613153,
+          0.56991429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b007",
+      "kind": "aside",
+      "source": {
+        "text": "We can see that \"THU\" remained unchanged during the localization process - this is because the English abbreviations for the days of the week are semi-common knowledge in Japan",
+        "raw": "We can see that \"THU\"\nremained unchanged\nduring the localization\nprocess - this is\nbecause the English\nabbreviations for\nthe days of the week\nare semi-common\nknowledge in Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13093047,
+          0.58340714,
+          0.27419314,
+          0.71667857
+        ],
+        "mask_bbox": [
+          0.12960989,
+          0.58269286,
+          0.27551372,
+          0.71775
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "可以看到，“THU”（星期四）在本地化时没有改动，因为星期的英语缩写在日本也算比较常见的知识。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11682058,
+          0.58197857,
+          0.27419314,
+          0.72025
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11682058,
+          0.58197857,
+          0.27419314,
+          0.72025
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This Super Mario World reference also appears in an alternate scene, when the main character and Papyrus hang out in Papyrus' room instead of going on a date.",
+        "raw": "This Super Mario World reference also appears in an alternate scene, when the\nmain character and Papyrus hang out in Papyrus' room instead of going\non a date.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29727282,
+          0.75502857,
+          0.89944736,
+          0.80484286
+        ],
+        "mask_bbox": [
+          0.28882111,
+          0.75431429,
+          0.90816319,
+          0.80591429
+        ],
+        "line_ids": [
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "这个 Super Mario World 典故也出现在另一条剧情中：主角不和 Papyrus 约会，而是在他的房间里一起消磨时光。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29706457,
+          0.7536,
+          0.90613153,
+          0.80841429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29706457,
+          0.7536,
+          0.90613153,
+          0.80841429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0148-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The English version of this sequence begins with the message \"HANGOUT START!\". The words \"hang out\" and \"hangout\" aren't well known in Japan, though, so \"hangout\" was replaced with the equivalent Japanese word mattari. Thus the Japanese game displays \"MATTARI START!\" in English before this scene begins.",
+        "raw": "The English version of this sequence begins with the message \"HANGOUT\nSTART!\". The words \"hang out\" and \"hangout\" aren't well known in Japan,\nthough, so \"hangout\" was replaced with the equivalent Japanese word mattari.\nThus the Japanese game displays \"MATTARI START!\" in English before this\nscene begins.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29727282,
+          0.81910714,
+          0.90613153,
+          0.90501429
+        ],
+        "mask_bbox": [
+          0.28882111,
+          0.81839286,
+          0.90816319,
+          0.90608571
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "英语版的这一环节以“HANGOUT START!”（一起玩耍开始！）开场。不过，hang out 和 hangout 在日本并不常见，所以译者把 hangout 换成意思相近的日语 mattari（悠闲放松）。因此，日语版在这一幕开头，会用罗马字显示“MATTARI START!”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 91,
+            "end": 98,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29706457,
+          0.81767857,
+          0.90613153,
+          0.90858571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0148-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29706457,
+          0.81767857,
+          0.90613153,
+          0.90858571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "06f3af8a60f387a255ca2ece0e86f941a29ee8f2c32c632ca664fe3affd9168e"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5,
+          6,
+          28,
+          37,
+          38,
+          47
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292.43,
+      892.01
+    ],
+    "text_runs": [
+      {
+        "id": "p0148-b008",
+        "blocks": [
+          "p0148-b008",
+          "p0148-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1217 @@
+{
+  "schema_version": 3,
+  "pdf_page": 245,
+  "printed_page": "245",
+  "title": "幸运数字与失意感情",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    981.839623,
+    1400
+  ],
+  "physical_size_pt": [
+    499.56,
+    712.32
+  ],
+  "image_url": "/assets/p0245.jpg",
+  "image_sha256": "376f31c9c0ccd9d33105578247968756313ffdf734853d960f541b27ce5533c4",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0245/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0245-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Seven Losses",
+        "raw": "Seven Losses",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09590161,
+          0.07106429,
+          0.21638972,
+          0.08342143
+        ],
+        "mask_bbox": [
+          0.09457756,
+          0.07035,
+          0.21771376,
+          0.08449286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "输七次",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.06871429,
+          0.69032659,
+          0.09285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.09285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.06871429,
+          0.69032659,
+          0.09285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Pachinko is kind of like that Plinko game on The Price Is Right, but with bright lights and sounds to keep your brain addicted",
+        "raw": "Pachinko is kind of like\nthat Plinko game on\nThe Price Is Right, but\nwith bright lights and\nsounds to keep your\nbrain addicted",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73250252,
+          0.09462143,
+          0.87421609,
+          0.18246429
+        ],
+        "mask_bbox": [
+          0.73117848,
+          0.09390714,
+          0.87554014,
+          0.18353571
+        ],
+        "line_ids": [
+          2,
+          5,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "柏青哥有点像《The Price Is Right》里的 Plinko 弹珠游戏，但配上了让人上瘾的闪亮灯光和音效。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71884449,
+          0.09319286,
+          0.87421609,
+          0.18603571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2621428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71884449,
+          0.09319286,
+          0.87421609,
+          0.18603571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans eventually makes a joke about seven being a lucky number:",
+        "raw": "Sans eventually makes a joke about seven being a lucky number:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0957692,
+          0.26727857,
+          0.58572702,
+          0.27963571
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.26656429,
+          0.69236358,
+          0.28070714
+        ],
+        "line_ids": [
+          12
+        ]
+      },
+      "translation": {
+        "text": "随后，Sans 会拿幸运数字七开玩笑：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.26585,
+          0.69032659,
+          0.28799286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46038571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.26585,
+          0.69032659,
+          0.28799286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b004",
+      "kind": "quote",
+      "source": {
+        "text": "who knows, maybe you'll hit the jackpot and that number will multiply tenfold.",
+        "raw": "who knows, maybe you'll hit the jackpot and that number will multiply\ntenfold.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14068489,
+          0.29411429,
+          0.66617804,
+          0.3248
+        ],
+        "mask_bbox": [
+          0.13936085,
+          0.2934,
+          0.66750209,
+          0.32587143
+        ],
+        "line_ids": [
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "谁知道呢，说不定你会中大奖，让这个数字翻上十倍。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14068489,
+          0.29268571,
+          0.69032659,
+          0.32837143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46038571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.14068489,
+          0.29268571,
+          0.69032659,
+          0.32837143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Seven is a lucky number in Japan too, so this line stayed similar in Japanese:",
+        "raw": "Seven is a lucky number in Japan too, so this line stayed similar in Japanese:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0957692,
+          0.33970714,
+          0.67861388,
+          0.35205714
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.33899286,
+          0.69236358,
+          0.35312857
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "七在日本也是幸运数字，所以日文保留了类似的说法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.33827857,
+          0.69032659,
+          0.36042143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46038571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.33827857,
+          0.69032659,
+          0.36042143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b006",
+      "kind": "quote",
+      "source": {
+        "text": "who knows, maybe you can get into \"fever mode\" and turn it into 70.",
+        "raw": "who knows, maybe you can get into \"fever mode\" and turn it into 70.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14068489,
+          0.36757857,
+          0.64749882,
+          0.38007143
+        ],
+        "mask_bbox": [
+          0.13936085,
+          0.36686429,
+          0.64882287,
+          0.38114286
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "谁知道呢，说不定会进入“狂热模式”，变成七十次。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14068489,
+          0.36615,
+          0.69032659,
+          0.38673929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46038571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.14068489,
+          0.36615,
+          0.69032659,
+          0.38673929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the original English line, Sans refers to Western-style slot machines. In the Japanese line, he instead refers to Japanese pachinko and pachinko-related gambling machines.",
+        "raw": "In the original English line, Sans refers to Western-style slot machines. In the\nJapanese line, he instead refers to Japanese pachinko and pachinko-related\ngambling machines.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09454701,
+          0.39497857,
+          0.69032659,
+          0.44370714
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.39426429,
+          0.69236358,
+          0.44477857
+        ],
+        "line_ids": [
+          19,
+          21,
+          24
+        ]
+      },
+      "translation": {
+        "text": "英文原句说的是西式老虎机，日文则改为日本的柏青哥及相关赌博机。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.39355,
+          0.69032659,
+          0.44727857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46038571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.39355,
+          0.69032659,
+          0.44727857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Hitting the \"fever mode\" in a pachinko game usually activates various multipliers, bonuses, or payouts for a short time",
+        "raw": "Hitting the \"fever\nmode\" in a pachinko\ngame usually activates\nvarious multipliers,\nbonuses, or payouts for\na short time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73344972,
+          0.36855,
+          0.87999097,
+          0.45638571
+        ],
+        "mask_bbox": [
+          0.73212568,
+          0.36783571,
+          0.88131501,
+          0.45745714
+        ],
+        "line_ids": [
+          17,
+          18,
+          20,
+          22,
+          23,
+          25
+        ]
+      },
+      "translation": {
+        "text": "柏青哥进入“狂热模式”后，通常会在短时间内触发各种倍率、奖励或出球收益。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71884449,
+          0.36712143,
+          0.87999097,
+          0.45995714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71884449,
+          0.36712143,
+          0.87999097,
+          0.45995714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Rough Romance",
+        "raw": "Rough Romance",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09710343,
+          0.46752857,
+          0.26430997,
+          0.48128571
+        ],
+        "mask_bbox": [
+          0.09577939,
+          0.46681429,
+          0.26563401,
+          0.48235714
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "失意的感情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.458,
+          0.69032659,
+          0.48214286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.458,
+          0.69032659,
+          0.48214286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 679.0
+    },
+    {
+      "id": "p0245-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "After Undyne learns that Torie! and Asgore were once married, she says:",
+        "raw": "After Undyne learns that Torie! and Asgore were once married, she says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09460812,
+          0.6517,
+          0.65120615,
+          0.66405714
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.65098571,
+          0.69236358,
+          0.66512857
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "Undyne 得知 Toriel 和 Asgore 曾经结过婚后，说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.65027143,
+          0.69032659,
+          0.67241429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.65027143,
+          0.69032659,
+          0.67241429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Hey ASGORE, is that your ex? Jeez. That's rough, buddy.",
+        "raw": "Hey ASGORE, is that your ex? Jeez. That's rough, buddy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14091914,
+          0.67990714,
+          0.5649497,
+          0.6924
+        ],
+        "mask_bbox": [
+          0.1395951,
+          0.67919286,
+          0.56627374,
+          0.69347143
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "嘿，ASGORE，那是你前妻？哎，老兄，真够惨的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14091914,
+          0.67847857,
+          0.69032659,
+          0.69906786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.14091914,
+          0.67847857,
+          0.69032659,
+          0.69906786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this line is a direct quote from Avatar: The Last Airbender, an American animated series that debuted in 2005. Specifically, the quote comes from this scene:",
+        "raw": "Toby noted that this line is a direct quote from Avatar: The Last Airbender, an\nAmerican animated series that debuted in 2005. Specifically, the quote comes\nfrom this scene:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09460812,
+          0.70650714,
+          0.68914514,
+          0.75605
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.70579286,
+          0.69236358,
+          0.75712143
+        ],
+        "line_ids": [
+          29,
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，这句直接引用了 2005 年开播的美国动画《降世神通：最后的气宗》，具体出自下面这段对话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.70507857,
+          0.69032659,
+          0.75962143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.70507857,
+          0.69032659,
+          0.75962143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b013",
+      "kind": "quote",
+      "source": {
+        "text": "Sokka: My first girlfriend turned into the moon.",
+        "raw": "Sokka: My first girlfriend turned into the moon.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14170339,
+          0.77155,
+          0.49673082,
+          0.78404286
+        ],
+        "mask_bbox": [
+          0.14037934,
+          0.77083571,
+          0.49805486,
+          0.78511429
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "Sokka：我的初恋女友变成了月亮。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14170339,
+          0.77012143,
+          0.69032659,
+          0.79071071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.14170339,
+          0.77012143,
+          0.69032659,
+          0.79071071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b014",
+      "kind": "quote",
+      "source": {
+        "text": "Zuko: That's rough, buddy.",
+        "raw": "Zuko: That's rough, buddy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14126543,
+          0.79007143,
+          0.34107403,
+          0.80256429
+        ],
+        "mask_bbox": [
+          0.13994139,
+          0.78935714,
+          0.34239808,
+          0.80363571
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "Zuko：That’s rough, buddy.（老兄，真够惨的。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14126543,
+          0.78864286,
+          0.69032659,
+          0.80923214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0245-b013",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.14126543,
+          0.78864286,
+          0.69032659,
+          0.80923214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b015",
+      "kind": "aside",
+      "source": {
+        "text": "This line became a popular Internet meme in English-speaking locales but not so much in Japan",
+        "raw": "This line became a\npopular Internet meme\nin English-speaking\nlocales but not so much\nin Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73352102,
+          0.76342857,
+          0.87753639,
+          0.83576429
+        ],
+        "mask_bbox": [
+          0.73219697,
+          0.76271429,
+          0.87886044,
+          0.83683571
+        ],
+        "line_ids": [
+          33,
+          35,
+          37,
+          38,
+          40
+        ]
+      },
+      "translation": {
+        "text": "这句话在英语圈成了热门网络梗，在日本却没那么出名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71884449,
+          0.762,
+          0.87753639,
+          0.83933571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71884449,
+          0.762,
+          0.87753639,
+          0.83933571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b016",
+      "kind": "paragraph",
+      "source": {
+        "text": "The ridiculousness of this scene transformed \"that's rough, buddy\" into a popular Internet meme in the late 2000s. However, because this quote isn't as well-known in Japan, Toby asked the team to prioritize the content of Undyne's text over the need to retain the reference.",
+        "raw": "The ridiculousness of this scene transformed \"that's rough, buddy\" into a\npopular Internet meme in the late 2000s. However, because this quote isn't\nas well-known in Japan, Toby asked the team to prioritize the content of\nUndyne's text over the need to retain the reference.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09640067,
+          0.81680714,
+          0.67566024,
+          0.88542857
+        ],
+        "mask_bbox": [
+          0.09251002,
+          0.81609286,
+          0.69236358,
+          0.8865
+        ],
+        "line_ids": [
+          39,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "这段对话荒诞得让“that’s rough, buddy”在 2000 年代末成了热门网络梗。但日本玩家未必熟悉，所以 Toby 请团队优先传达 Undyne 台词的内容，不必强求保留典故。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09518866,
+          0.81537857,
+          0.69032659,
+          0.889
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0245-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.09518866,
+          0.81537857,
+          0.69032659,
+          0.889
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0245-b017",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61656709,
+          0.94109286,
+          0.70838453,
+          0.95077857
+        ],
+        "mask_bbox": [
+          0.61524305,
+          0.94037857,
+          0.70970858,
+          0.95185
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61656709,
+          0.93966429,
+          0.70838453,
+          0.95766429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9576642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61656709,
+          0.93966429,
+          0.70838453,
+          0.95766429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "981e94a8744752c6d3d9f0f3f5e99b5394aa488bd68dcca9280b7a099ed50b7a"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      93.46,
+      677.79
+    ],
+    "text_runs": [
+      {
+        "id": "p0245-b003",
+        "blocks": [
+          "p0245-b003",
+          "p0245-b004",
+          "p0245-b005",
+          "p0245-b006",
+          "p0245-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 644.54
+      },
+      {
+        "id": "p0245-b010",
+        "blocks": [
+          "p0245-b010",
+          "p0245-b011",
+          "p0245-b012",
+          "p0245-b013",
+          "p0245-b014",
+          "p0245-b016"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

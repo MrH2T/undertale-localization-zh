@@ -1,0 +1,1098 @@
+{
+  "schema_version": 3,
+  "pdf_page": 98,
+  "printed_page": "98",
+  "title": "坏到根里 · 健康饮食",
+  "subtitle": "Ruins · 私人学习译稿",
+  "revision": 6,
+  "updated_at": "2026-10-22T16:28:22.434622+00:00",
+  "reference_size": [
+    977.66548762001,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    712.44
+  ],
+  "image_url": "/assets/p0098.jpg",
+  "image_sha256": "b5df3da2f48b488d2a986eeecf9aa03e303bf1c9f5d1bed266946ae54ed061d4",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0098/page.json",
+  "blocks": [
+    {
+      "id": "p0098-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Rotten to the Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2915108,
+          0.0614286,
+          0.9144232,
+          0.08
+        ],
+        "mask_bbox": [
+          0.2915108,
+          0.0614286,
+          0.9144232,
+          0.08
+        ]
+      },
+      "translation": {
+        "text": "坏到根里",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2956021,
+          0.0571429,
+          0.9113547,
+          0.08428574285714287
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2956021,
+          0.0571429,
+          0.9113547,
+          0.08428574285714287
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Theory: Mt. Ebott is in the United States because the game references the USDA. Toby’s response when I asked: “USDA could be UNDERGROUND SALAD DEMON ASSOCIATION”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1135358,
+          0.0907143,
+          0.2751452,
+          0.2157143
+        ],
+        "mask_bbox": [
+          0.1135358,
+          0.0907143,
+          0.2751452,
+          0.2157143
+        ]
+      },
+      "translation": {
+        "text": "有人推测：游戏提到 USDA（美国农业部），所以 Mt. Ebott 在美国。我问 Toby，他回答：“USDA 也可以是 UNDERGROUND SALAD DEMON ASSOCIATION（地下沙拉恶魔协会）。”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0981931,
+          0.09,
+          0.2710539,
+          0.2292857
+        ],
+        "font_size": 14.5,
+        "line_height": 1.4482758620689655,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0981931,
+          0.09,
+          0.2710539,
+          0.2292857
+        ],
+        "font_size": 14.5,
+        "leading": 21.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A monster named Vegetoid lives in the ruins. In the English script, Vegetoid’s in-battle description is a parody of the text commonly seen on real-life food labels. Specifically, the description contains a reference to the United States Department of Agriculture:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2884422,
+          0.2271429,
+          0.9144232,
+          0.3
+        ],
+        "mask_bbox": [
+          0.2884422,
+          0.2271429,
+          0.9144232,
+          0.3
+        ]
+      },
+      "translation": {
+        "text": "遗迹里住着一只叫 Vegetoid 的怪物。英文版在战斗中对它的说明，模仿了现实食品标签上的常见文字。具体来说，这段说明还提到了美国农业部：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2945793,
+          0.225,
+          0.9113547,
+          0.3042857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2945793,
+          0.225,
+          0.9113547,
+          0.3042857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Serving Size: 1 Monster\nNot monitored by the USDA",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3354931,
+          0.3092857,
+          0.9103318,
+          0.3464286
+        ],
+        "mask_bbox": [
+          0.3354931,
+          0.3092857,
+          0.9103318,
+          0.3464286
+        ]
+      },
+      "translation": {
+        "text": "Serving Size: 1 Monster（每份：1 只怪物）\nNot monitored by the USDA（不受美国农业部监管）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 8,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 14,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 16,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 27,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 34,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 38,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 48,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 51,
+            "end": 54,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 55,
+            "end": 59,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3395845,
+          0.3092857,
+          0.9113547,
+          0.3492857
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3395845,
+          0.3092857,
+          0.9113547,
+          0.3492857
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Note: this label appearing in this book does not mean this book is USDA approved",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1176271,
+          0.3564286,
+          0.2730995,
+          0.4185714
+        ],
+        "mask_bbox": [
+          0.1176271,
+          0.3564286,
+          0.2730995,
+          0.4185714
+        ]
+      },
+      "translation": {
+        "text": "注意：这枚标志出现在本书中，并不表示本书获得了 USDA 的认可。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1063759,
+          0.3571429,
+          0.2710539,
+          0.4371429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1063759,
+          0.3571429,
+          0.2710539,
+          0.4371429
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "The meaning of “USDA” would be lost on most players in Japan, so the translator adjusted the description to say:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2904879,
+          0.3557143,
+          0.9144232,
+          0.3914286
+        ],
+        "mask_bbox": [
+          0.2904879,
+          0.3557143,
+          0.9144232,
+          0.3914286
+        ]
+      },
+      "translation": {
+        "text": "日本的大多数玩家并不了解 USDA 的含义，因此译者调整了说明，日版大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2956021,
+          0.3542857,
+          0.9113547,
+          0.3957143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2956021,
+          0.3542857,
+          0.9113547,
+          0.3957143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Serves: 1 Monster\nNot registered with the Food Safety Bureau",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3365159,
+          0.4,
+          0.9113547,
+          0.4371429
+        ],
+        "mask_bbox": [
+          0.3365159,
+          0.4,
+          0.9113547,
+          0.4371429
+        ]
+      },
+      "translation": {
+        "text": "Serves: 1 Monster（份量：1 只怪物）\nNot registered with the Food Safety Bureau（未在食品安全局登记）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 6,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 8,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 10,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 21,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 28,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 32,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 48,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 52,
+            "end": 56,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 57,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 70,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3406073,
+          0.3985714,
+          0.9113547,
+          0.4428571
+        ],
+        "font_size": 16,
+        "line_height": 1.5,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3406073,
+          0.3985714,
+          0.9113547,
+          0.4428571
+        ],
+        "font_size": 16,
+        "leading": 24.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Generalizing the description like this makes the original “in-group joke” more accessible to Japanese players. In fact, this new description could conceivably work in any country in the world!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2915108,
+          0.4464286,
+          0.9144232,
+          0.5021429
+        ],
+        "mask_bbox": [
+          0.2915108,
+          0.4464286,
+          0.9144232,
+          0.5021429
+        ]
+      },
+      "translation": {
+        "text": "把说明改得更通用后，日本玩家也更容易理解原先的“圈内笑话”。事实上，这段新说明大概放在世界上任何国家都能成立！",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2956021,
+          0.445,
+          0.9113547,
+          0.5071429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2956021,
+          0.445,
+          0.9113547,
+          0.5071429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Healthy Eating",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2935564,
+          0.5185714,
+          0.9144232,
+          0.5371429
+        ],
+        "mask_bbox": [
+          0.2935564,
+          0.5185714,
+          0.9144232,
+          0.5371429
+        ]
+      },
+      "translation": {
+        "text": "健康饮食",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.296625,
+          0.5142857,
+          0.9113547,
+          0.5414285428571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.296625,
+          0.5142857,
+          0.9113547,
+          0.5414285428571429
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Pop culture references are always a problem, even before translation gets involved – not everyone will get them to begin with, and they grow more dated with every passing minute",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1196728,
+          0.5485714,
+          0.2751452,
+          0.6742857
+        ],
+        "mask_bbox": [
+          0.1196728,
+          0.5485714,
+          0.2751452,
+          0.6742857
+        ]
+      },
+      "translation": {
+        "text": "流行文化典故总会带来麻烦，甚至还没到翻译这一步就已经如此：本来就不是人人都懂，而且时间每过一分，它们就又过时了一点。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1104672,
+          0.5485714,
+          0.2710539,
+          0.6814286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1104672,
+          0.5485714,
+          0.2710539,
+          0.6814286
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "During the battle with Vegetoid, the battle narration occasionally states:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2925336,
+          0.6842857,
+          0.9144232,
+          0.7028571
+        ],
+        "mask_bbox": [
+          0.2925336,
+          0.6842857,
+          0.9144232,
+          0.7028571
+        ]
+      },
+      "translation": {
+        "text": "与 Vegetoid 战斗时，战斗旁白偶尔会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.296625,
+          0.6828571,
+          0.9113547,
+          0.7042857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.296625,
+          0.6828571,
+          0.9113547,
+          0.7042857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Vegetoid’s here for your health.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3365159,
+          0.7121429,
+          0.9123775,
+          0.7307143
+        ],
+        "mask_bbox": [
+          0.3365159,
+          0.7121429,
+          0.9123775,
+          0.7307143
+        ]
+      },
+      "translation": {
+        "text": "Vegetoid’s here for your health.（Vegetoid 为你的健康而来。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 11,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 16,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 20,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 25,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 33,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3406073,
+          0.7107143,
+          0.9123775,
+          0.7357143
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3406073,
+          0.7107143,
+          0.9123775,
+          0.7357143
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby pointed out in his notes that “for your health” is a reference to Dr. Steve Brule’s catchphrase from the American comedy television programs Tim and Eric Awesome Show, Great Job! and Check It Out! with Dr. Steve Brule. He also noted that it wasn’t important to include a similar reference in the Japanese script, so the translator gave the line a straightforward translation:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2915108,
+          0.74,
+          0.915446,
+          0.8321429
+        ],
+        "mask_bbox": [
+          0.2915108,
+          0.74,
+          0.915446,
+          0.8321429
+        ]
+      },
+      "translation": {
+        "text": "Toby 在备注中指出，“for your health”是美国喜剧节目 Tim and Eric Awesome Show, Great Job! 及 Check It Out! with Dr. Steve Brule 中，Dr. Steve Brule 的口头禅。他也说明，日文稿不必加入类似的典故，所以译者采用直译，日版大意是：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 37,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 111,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.296625,
+          0.7385714,
+          0.9123775,
+          0.8357143
+        ],
+        "font_size": 19,
+        "line_height": 1.4210526315789473,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.296625,
+          0.7385714,
+          0.9123775,
+          0.8357143
+        ],
+        "font_size": 19,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b014",
+      "kind": "quote",
+      "source": {
+        "text": "Vegetoid supports your health.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3365159,
+          0.8407143,
+          0.9134004,
+          0.86
+        ],
+        "mask_bbox": [
+          0.3365159,
+          0.8407143,
+          0.9134004,
+          0.86
+        ]
+      },
+      "translation": {
+        "text": "Vegetoid supports your health.（Vegetoid 支持你的健康。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 9,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 23,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 31,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3416301,
+          0.8392857,
+          0.9123775,
+          0.8642857
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3416301,
+          0.8392857,
+          0.9123775,
+          0.8642857
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "Even without the original reference, the primary joke about Vegetoid attacking you while “supporting your health” still works perfectly in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2925336,
+          0.8678571,
+          0.915446,
+          0.905
+        ],
+        "mask_bbox": [
+          0.2925336,
+          0.8678571,
+          0.915446,
+          0.905
+        ]
+      },
+      "translation": {
+        "text": "即使没有原来的典故，Vegetoid 一边攻击你，一边“支持你的健康”，这个核心笑点在日语里仍然完全成立。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.296625,
+          0.8664286,
+          0.9123775,
+          0.9142857
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.296625,
+          0.8664286,
+          0.9123775,
+          0.9142857
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0098-b016",
+      "kind": "aside",
+      "source": {
+        "text": "Fictional doctor Steve Brule offers ridiculous health tips like “put vinegar on your armpits if they stink” and ends by saying “…for your health!”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1166043,
+          0.795,
+          0.2782138,
+          0.9035714
+        ],
+        "mask_bbox": [
+          0.1166043,
+          0.795,
+          0.2782138,
+          0.9035714
+        ]
+      },
+      "translation": {
+        "text": "虚构医生 Steve Brule 会给出“腋窝臭就涂点醋”之类荒唐的健康建议，末了再补一句：“……为了你的健康！”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1073987,
+          0.7957143,
+          0.2720767,
+          0.9157143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1073987,
+          0.7957143,
+          0.2720767,
+          0.9157143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.974646+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 16
+    }
+  }
+}

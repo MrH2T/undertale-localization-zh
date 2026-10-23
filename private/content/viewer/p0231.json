@@ -1,0 +1,109 @@
+{
+  "schema_version": 3,
+  "pdf_page": 231,
+  "printed_page": "231",
+  "title": "真正的实验室",
+  "subtitle": "真正的实验室 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.302992+00:00",
+  "reference_size": [
+    981.910056,
+    1400
+  ],
+  "physical_size_pt": [
+    499.68,
+    712.44
+  ],
+  "image_url": "/assets/p0231.jpg",
+  "image_sha256": "e654c5ebeba9634c932647d4854525e69ed0670672ea7492ee24a0a995bcb319",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0231/page.json",
+  "page_role": "chapter-title",
+  "blocks": [
+    {
+      "id": "p0231-b001",
+      "kind": "heading",
+      "source": {
+        "text": "True Lab",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48273261,
+          0.91785714,
+          0.68641725,
+          0.94642857
+        ],
+        "mask_bbox": [
+          0.48140866,
+          0.91714286,
+          0.6877412,
+          0.9475
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "真正的实验室",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.48273261,
+          0.91285714,
+          0.79437011,
+          0.95
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.95,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "style": "chapter-heading",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.48273261,
+          0.91285714,
+          0.79437011,
+          0.95
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-white-band"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5e50c819c56dc19b4fc1411f61f9701b019d583902c87078230bdb797cbc8193"
+  },
+  "chapter_id": "chapter-230",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

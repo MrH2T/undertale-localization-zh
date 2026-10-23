@@ -1,0 +1,671 @@
+{
+  "schema_version": 3,
+  "pdf_page": 247,
+  "printed_page": "247",
+  "title": "Asriel 的说话方式",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.321316+00:00",
+  "reference_size": [
+    986.121898,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    710.76
+  ],
+  "image_url": "/assets/p0247.jpg",
+  "image_sha256": "b392a85b7d15f09c4dd9bdf0311a2af84ed7ec16b39a14381d01e2e888c2f2cd",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0247/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0247-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Asriel Speaks",
+        "raw": "Asriel Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09685415,
+          0.05963571,
+          0.23523461,
+          0.07342857
+        ],
+        "mask_bbox": [
+          0.09553586,
+          0.05892143,
+          0.23655291,
+          0.0745
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Asriel 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09862371,
+          0.05014286,
+          0.70476074,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09862371,
+          0.05014286,
+          0.70476074,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0247-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "During the big, final battle, Asriel speaks with strong conviction and disgust for the main character. To replicate this in Japanese, the translator gave Asriel a disrespectful speech pattern which includes the use of the assertive personal pronoun ore.",
+        "raw": "During the big, final battle, Asriel speaks with strong conviction and disgust\nfor the main character. To replicate this in Japanese, the translator gave\nAsriel a disrespectful speech pattern which includes the use of the assertive\npersonal pronoun ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09584008,
+          0.08890714,
+          0.67694471,
+          0.15462143
+        ],
+        "mask_bbox": [
+          0.09381193,
+          0.08819286,
+          0.70678889,
+          0.15569286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "在最后的大战中，Asriel 说话非常笃定，对主角满怀厌恶。为在日语中再现这种感觉，译者让他采用无礼的语气，包括使用强势的第一人称 ore（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 66,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09862371,
+          0.08747857,
+          0.70476074,
+          0.15819286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.17142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09862371,
+          0.08747857,
+          0.70476074,
+          0.15819286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b003",
+      "kind": "aside",
+      "source": {
+        "text": "In addition to using the first-person pronoun ore, Asriel uses the rude pronoun omae to say \"you\"",
+        "raw": "In addition to using\nthe first-person\npronoun ore, Asriel\nuses the rude pronoun\nomae to say \"you\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73428042,
+          0.18027857,
+          0.87267102,
+          0.25386429
+        ],
+        "mask_bbox": [
+          0.73296212,
+          0.17956429,
+          0.87398931,
+          0.25493571
+        ],
+        "line_ids": [
+          6,
+          8,
+          9,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "除了用 ore自称，Asriel 还用不客气的 omae 来称呼“你”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7331548,
+          0.17885,
+          0.87918137,
+          0.25743571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6053500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7331548,
+          0.17885,
+          0.87918137,
+          0.25743571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Little by little, though, the player is able to chip away at Asriel's hatred. Eventually, Asriel begins to speak with hesitation and less confidence. This is then followed by strong regret and shame for his actions.",
+        "raw": "Little by little, though, the player is able to chip away at Asriel's hatred.\nEventually, Asriel begins to speak with hesitation and less confidence. This is\nthen followed by strong regret and shame for his actions.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09864906,
+          0.4637,
+          0.68807923,
+          0.51356429
+        ],
+        "mask_bbox": [
+          0.09381193,
+          0.46298571,
+          0.70678889,
+          0.51463571
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "不过，玩家逐渐瓦解了 Asriel 的仇恨。他开始迟疑，不再那么自信，随后又对自己的行为深感懊悔和羞愧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09862371,
+          0.46227143,
+          0.70476074,
+          0.51713571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09862371,
+          0.46227143,
+          0.70476074,
+          0.51713571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translator paralleled this emotional change in Japanese by easing up on the disrespectful speech patterns. As part of this, Asriel eventually switches his personal pronoun to boku, which conveys a more innocent image befitting a scared young boy.",
+        "raw": "The translator paralleled this emotional change in Japanese by easing up on\nthe disrespectful speech patterns. As part of this, Asriel eventually switches his\npersonal pronoun to boku, which conveys a more innocent image befitting a\nscared young boy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09859836,
+          0.52853571,
+          0.70476074,
+          0.59596429
+        ],
+        "mask_bbox": [
+          0.09381193,
+          0.52782143,
+          0.70678889,
+          0.59703571
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "译者也在日文中逐步缓和无礼的语气，呼应这种情感变化。Asriel 最后改用 boku（我）自称，呈现出更天真、符合受惊小男孩的形象。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09862371,
+          0.52710714,
+          0.70476074,
+          0.59953571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0247-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09862371,
+          0.52710714,
+          0.70476074,
+          0.59953571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Asriel switches to using boku to refer to himself, and the more familiar pronoun kimi to say \"you\"",
+        "raw": "Asriel switches to\nusing boku to refer to\nhimself, and the more\nfamiliar pronoun kimi\nto say \"you\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73491928,
+          0.61249286,
+          0.87084569,
+          0.68496429
+        ],
+        "mask_bbox": [
+          0.73360099,
+          0.61177857,
+          0.87216398,
+          0.68603571
+        ],
+        "line_ids": [
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "Asriel 改用 boku自称，并用较亲近的 kimi 来称呼“你”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7331548,
+          0.61106429,
+          0.87918137,
+          0.68853571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7331548,
+          0.61106429,
+          0.87918137,
+          0.68853571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the original English text didn't include any such pronoun changes at all, it's clear that the translator viewed Asriel's dialogue through Asriel's eyes when translating his text, much as an actor might slip into their character's mindset before performing a scene.",
+        "raw": "Because the original English text didn't include any such pronoun changes at\nall, it's clear that the translator viewed Asriel's dialogue through Asriel's eyes\nwhen translating his text, much as an actor might slip into their character's\nmindset before performing a scene.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09921694,
+          0.79562857,
+          0.68988428,
+          0.86306429
+        ],
+        "mask_bbox": [
+          0.09381193,
+          0.79491429,
+          0.70678889,
+          0.86413571
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "英文原文没有这些代词变化，可见译者翻译时是从 Asriel 自己的视角理解台词的，就像演员上场前先进入角色的心境。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09862371,
+          0.7942,
+          0.70476074,
+          0.86663571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09862371,
+          0.7942,
+          0.70476074,
+          0.86663571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0247-b008",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61858478,
+          0.93787857,
+          0.70924295,
+          0.94745
+        ],
+        "mask_bbox": [
+          0.61726649,
+          0.93716429,
+          0.71056124,
+          0.94852143
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61858478,
+          0.93645,
+          0.70924295,
+          0.95445
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.95445,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61858478,
+          0.93645,
+          0.70924295,
+          0.95445
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "e363b55a623f531081e147a3f3a54627e4f54514c30352b78465b9bfe8c4b420"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      97.26,
+      694.98
+    ],
+    "text_runs": [
+      {
+        "id": "p0247-b004",
+        "blocks": [
+          "p0247-b004",
+          "p0247-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 851.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

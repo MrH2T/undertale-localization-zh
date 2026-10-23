@@ -1,0 +1,966 @@
+{
+  "schema_version": 3,
+  "pdf_page": 186,
+  "printed_page": "186",
+  "title": "热域：人类闯入者遇上怪物机器",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:37:49.128765+00:00",
+  "reference_size": [
+    983.802817,
+    1400
+  ],
+  "physical_size_pt": [
+    502.92,
+    715.68
+  ],
+  "image_url": "/assets/p0186.jpg",
+  "image_sha256": "a247879f81195d30f4adad33cb1975fe841ee21198f21e2d4ac1624dcebde07b",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0186/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0186-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Hotland",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29274159,
+          0.045,
+          0.47367215,
+          0.07428571
+        ],
+        "mask_bbox": [
+          0.29142019,
+          0.04428571,
+          0.47499356,
+          0.07535714
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29274159,
+          0.04142857,
+          0.90058697,
+          0.07857143
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29274159,
+          0.04142857,
+          0.90058697,
+          0.07857143
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-band"
+    },
+    {
+      "id": "p0186-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Human Intruder Encounters Monster Machines",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29274159,
+          0.08785714,
+          0.72168933,
+          0.10142857
+        ],
+        "mask_bbox": [
+          0.29142019,
+          0.08714286,
+          0.72301074,
+          0.1025
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "人类闯入者遇上怪物机器",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.08014286,
+          0.90055648,
+          0.10428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.08014286,
+          0.90055648,
+          0.10428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 150.0
+    },
+    {
+      "id": "p0186-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The next step of the journey takes the main character to a lava-filled region packed with new characters, new surprises, and a pitch-dark laboratory.",
+        "raw": "The next step of the journey takes the main character to a lava-filled region\npacked with new characters, new surprises, and a pitch-dark laboratory.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29338196,
+          0.1267,
+          0.86359785,
+          0.15124286
+        ],
+        "mask_bbox": [
+          0.29015977,
+          0.12598571,
+          0.90258941,
+          0.15231429
+        ],
+        "line_ids": [
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "text": "旅程的下一站把主角带到一片满是熔岩的区域。这里有新角色、新惊喜，还有一间漆黑的实验室。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2921927,
+          0.11285714,
+          0.90058697,
+          0.15714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.15714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2921927,
+          0.11285714,
+          0.90058697,
+          0.15714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-intro"
+    },
+    {
+      "id": "p0186-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "A Stab in the Dark",
+        "raw": "A Stab in the Dark",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29445941,
+          0.1682,
+          0.48421288,
+          0.18189286
+        ],
+        "mask_bbox": [
+          0.29313801,
+          0.16748571,
+          0.48553429,
+          0.18296429
+        ],
+        "line_ids": [
+          3
+        ]
+      },
+      "translation": {
+        "text": "黑暗中的线索",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.15871429,
+          0.90055648,
+          0.18285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.18285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.15871429,
+          0.90055648,
+          0.18285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 260.0
+    },
+    {
+      "id": "p0186-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Toby really liked this line from Brandish and included multiple notes about it in the translation spreadsheet",
+        "raw": "Toby really liked this\nline from Brandish\nand included multiple\nnotes about it in the\ntranslation spreadsheet",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12401875,
+          0.19948571,
+          0.27025741,
+          0.27095714
+        ],
+        "mask_bbox": [
+          0.12269735,
+          0.19877143,
+          0.27157881,
+          0.27202857
+        ],
+        "line_ids": [
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Toby 很喜欢《Brandish》里的这句台词，在翻译表格中多次提到它。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11689334,
+          0.19805714,
+          0.27025741,
+          0.27452857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11689334,
+          0.19805714,
+          0.27025741,
+          0.27452857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0186-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "If the player checks the lab's dark walls in the English version of Undertale, the game will state that \"it's too dark to see near the walls\".",
+        "raw": "If the player checks the lab's dark walls in the English version of Undertale, the\ngame will state that \"it's too dark to see near the walls\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2951811,
+          0.34280714,
+          0.8975884,
+          0.37355714
+        ],
+        "mask_bbox": [
+          0.29015977,
+          0.34209286,
+          0.90258941,
+          0.37462857
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "在英文版《Undertale》中调查实验室黑暗的墙壁，游戏会提示：“太暗了，看不清墙边。”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.34137857,
+          0.90055648,
+          0.37712857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5464285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.34137857,
+          0.90055648,
+          0.37712857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0186-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this generic \"there's nothing here\" line is actually a direct quote from Brandish. He also mentioned that it wasn't important to retain the quote in the Japanese Undertale script. Even so, the translator did some research and included the equivalent quote from a Japanese version of Brandish.",
+        "raw": "Toby noted that this generic \"there's nothing here\" line is actually a direct quote\nfrom Brandish. He also mentioned that it wasn't important to retain the quote\nin the Japanese Undertale script. Even so, the translator did some research and\nincluded the equivalent quote from a Japanese version of Brandish.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29572999,
+          0.38842857,
+          0.9002617,
+          0.45538571
+        ],
+        "mask_bbox": [
+          0.29015977,
+          0.38771429,
+          0.90258941,
+          0.45645714
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这句寻常的“这里没东西”式提示，其实直接引用了《Brandish》。他也说，日文版《Undertale》不必保留这个引用。即便如此，译者还是查找了资料，采用了日文版《Brandish》中对应的台词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 32,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 50,
+            "end": 59,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 91,
+            "end": 99,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.387,
+          0.90055648,
+          0.45895714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5464285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0186-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.387,
+          0.90055648,
+          0.45895714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0186-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Japanese version of Brandish has been re-released many times over the past thirty years. Because each version has slightly different text, there is no single \"too dark to see\" line in Japanese - the line is different in each release. Of these, the Japanese version of Undertale quotes the PC Engine port of Brandish:",
+        "raw": "The Japanese version of Brandish has been re-released many times over the past\nthirty years. Because each version has slightly different text, there is no single\n\"too dark to see\" line in Japanese - the line is different in each release. Of these,\nthe Japanese version of Undertale quotes the PC Engine port of Brandish:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2921927,
+          0.47058571,
+          0.90055648,
+          0.53652143
+        ],
+        "mask_bbox": [
+          0.29015977,
+          0.46987143,
+          0.90258941,
+          0.53759286
+        ],
+        "line_ids": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "过去三十年间，日文版《Brandish》多次再版，各版文本略有不同，所以日语并没有一句统一的“太暗了看不见”，每版措辞都不一样。《Undertale》日文版引用的是 PC Engine 移植版：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 65,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.46915714,
+          0.90055648,
+          0.54009286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5464285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0186-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.46915714,
+          0.90055648,
+          0.54009286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0186-b009",
+      "kind": "caption",
+      "source": {
+        "text": "\"Can't identify due to the darkness!\" (PC98, 1991)",
+        "raw": "\"Can't identify due to the darkness!\"\n(PC98, 1991)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32862276,
+          0.67230714,
+          0.55498926,
+          0.69801429
+        ],
+        "mask_bbox": [
+          0.32730136,
+          0.67159286,
+          0.55631067,
+          0.69908571
+        ],
+        "line_ids": [
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "“太暗了，无法辨认！”\n（PC98，1991）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29579098,
+          0.67071429,
+          0.58548318,
+          0.70785714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29579098,
+          0.67071429,
+          0.58548318,
+          0.70785714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "caption-9"
+    },
+    {
+      "id": "p0186-b010",
+      "kind": "caption",
+      "source": {
+        "text": "\"Can't identify due to the darkness.\" (Super Famicom, 1994)",
+        "raw": "\"Can't identify due to the darkness.\"\n(Super Famicom, 1994)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64691825,
+          0.67197143,
+          0.87090623,
+          0.69617857
+        ],
+        "mask_bbox": [
+          0.64559685,
+          0.67125714,
+          0.87222763,
+          0.69725
+        ],
+        "line_ids": [
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "“太暗了，无法辨认。”\n（Super Famicom，1994）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61191124,
+          0.67071429,
+          0.90160344,
+          0.70785714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61191124,
+          0.67071429,
+          0.90160344,
+          0.70785714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "caption-10"
+    },
+    {
+      "id": "p0186-b011",
+      "kind": "caption",
+      "source": {
+        "text": "\"It's too dark to see well\" (PC Engine, 1994)",
+        "raw": "\"It's too dark to see well\"\n(PC Engine, 1994)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.36441246,
+          0.82792143,
+          0.52069377,
+          0.85145714
+        ],
+        "mask_bbox": [
+          0.36309105,
+          0.82720714,
+          0.52201518,
+          0.85252857
+        ],
+        "line_ids": [
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "“太暗了，看不清。”\n（PC Engine，1994）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29579098,
+          0.82642857,
+          0.58548318,
+          0.86357143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8635714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29579098,
+          0.82642857,
+          0.58548318,
+          0.86357143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "caption-11"
+    },
+    {
+      "id": "p0186-b012",
+      "kind": "caption",
+      "source": {
+        "text": "\"Nothing unusual here.\" (PSP, 2009)",
+        "raw": "\"Nothing unusual here.\"\n(PSP, 2009)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.68557437,
+          0.82758571,
+          0.8346388,
+          0.85078571
+        ],
+        "mask_bbox": [
+          0.68425297,
+          0.82687143,
+          0.8359602,
+          0.85185714
+        ],
+        "line_ids": [
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "“这里没什么异常。”\n（PSP，2009）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61191124,
+          0.82642857,
+          0.90160344,
+          0.86357143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8635714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61191124,
+          0.82642857,
+          0.90160344,
+          0.86357143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "caption-12"
+    },
+    {
+      "id": "p0186-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, it's clear that this generic English line is very important to Toby, and that the localization team took that importance seriously.",
+        "raw": "In short, it's clear that this generic English line is very important to Toby, and\nthat the localization team took that importance seriously.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29859642,
+          0.86830714,
+          0.88812513,
+          0.89903571
+        ],
+        "mask_bbox": [
+          0.29015977,
+          0.86759286,
+          0.90258941,
+          0.90010714
+        ],
+        "line_ids": [
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "可见，这句平平无奇的英文对 Toby 很重要，本地化团队也认真对待了他的重视。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2951811,
+          0.86687857,
+          0.90055648,
+          0.90260714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2951811,
+          0.86687857,
+          0.90055648,
+          0.90260714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "562b3b44a00ad638f97860c0d8559e0d7278261d2288359aa7b9a81e318cd86b"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.4,
+      885.97
+    ],
+    "text_runs": [
+      {
+        "id": "p0186-b006",
+        "blocks": [
+          "p0186-b006",
+          "p0186-b007",
+          "p0186-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 765.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        266,
+        0,
+        887,
+        111
+      ],
+      "fill": "#000000"
+    }
+  ]
+}

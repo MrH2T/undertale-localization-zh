@@ -1,0 +1,600 @@
+{
+  "schema_version": 3,
+  "pdf_page": 264,
+  "printed_page": "264",
+  "title": "延续下去的影响",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.337467+00:00",
+  "reference_size": [
+    986.417256,
+    1400
+  ],
+  "physical_size_pt": [
+    501.72,
+    712.08
+  ],
+  "image_url": "/assets/p0264.jpg",
+  "image_sha256": "1855c3d767f88c87ea6efb01f40aa6037376ad680aa70385fbe20e0fb5d250d5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0264/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0264-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Legacy",
+        "raw": "Legacy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29183391,
+          0.06570714,
+          0.36233146,
+          0.07932857
+        ],
+        "mask_bbox": [
+          0.290516,
+          0.06499286,
+          0.36364936,
+          0.0804
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "延续下去的影响",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.05732857,
+          0.89782493,
+          0.08147143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08147142714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.05732857,
+          0.89782493,
+          0.08147143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've seen, Underta/e's Japanese localization has impressed Japanese players, game developers, and critics alike. The localization's success has even inspired others to follow Toby's path of turning a simple hobby into a full fledged career, much as EarthBound's Japanese-to-English localization did for Toby nearly thirty years ago. Games are usually localized to make money, but now we're seeing how localization can start a cycle of inspiration that crosses the language barrier.",
+        "raw": "As we've seen, Underta/e's Japanese localization has impressed Japanese\nplayers, game developers, and critics alike. The localization's success has even\ninspired others to follow Toby's path of turning a simple hobby into a full\nfledged career, much as EarthBound's Japanese-to-English localization did for\nToby nearly thirty years ago. Games are usually localized to make money, but\nnow we're seeing how localization can start a cycle of inspiration that crosses\nthe language barrier.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28888384,
+          0.09447143,
+          0.88742365,
+          0.215
+        ],
+        "mask_bbox": [
+          0.2868563,
+          0.09375714,
+          0.89985247,
+          0.21607143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "我们已经看到，《Undertale》的日文本地化赢得了日本玩家、开发者与评论者的赞赏。它的成功甚至鼓舞了其他人，让他们沿着 Toby 的道路，把普通爱好变成正式事业——正如近三十年前，《EarthBound》的日译英曾启发 Toby 一样。游戏本地化通常为了赚钱，但现在我们也看到了，它如何开启跨越语言障碍、不断传递灵感的循环。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 93,
+            "end": 103,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.09304286,
+          0.89782493,
+          0.21857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.09304286,
+          0.89782493,
+          0.21857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Surprisingly, the legacy of Underta/e's localization doesn't end here. Undertale continues to grow and change as Toby adds new content, which 8-4 continues to localize into Japanese. Toby and 8-4 also continue to collaborate with the Japanese game industry and the Japanese fan community long after Underta/e's Japanese release. They're also working more closely than ever on new projects like Deltarune, Toby's latest game creation.",
+        "raw": "Surprisingly, the legacy of Underta/e's localization doesn't end here. Undertale\ncontinues to grow and change as Toby adds new content, which 8-4 continues\nto localize into Japanese. Toby and 8-4 also continue to collaborate with the\nJapanese game industry and the Japanese fan community long after Underta/e's\nJapanese release. They're also working more closely than ever on new projects\nlike Deltarune, Toby's latest game creation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29026256,
+          0.22994286,
+          0.89782493,
+          0.33466429
+        ],
+        "mask_bbox": [
+          0.2868563,
+          0.22922857,
+          0.89985247,
+          0.33573571
+        ],
+        "line_ids": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "令人惊喜的是，这份影响并未止步于此。Toby 不断为《Undertale》添加新内容，8-4 继续将其本地化为日语。日版发行很久以后，Toby 和 8-4 仍与日本游戏业及粉丝社区保持合作。他们也在 Toby 的新作《Deltarune》等项目上，比以往合作得更加紧密。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 109,
+            "end": 118,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.22851429,
+          0.89782493,
+          0.33823571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0264-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.22851429,
+          0.89782493,
+          0.33823571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, the teamwork that Toby and 8-4 developed during Underta/e's localization has transformed their basic business relationship into something greater: a genuine bond of friendship and trust.",
+        "raw": "In short, the teamwork that Toby and 8-4 developed during Underta/e's\nlocalization has transformed their basic business relationship into something\ngreater: a genuine bond of friendship and trust.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29117495,
+          0.34892143,
+          0.88283127,
+          0.39769286
+        ],
+        "mask_bbox": [
+          0.2868563,
+          0.34820714,
+          0.89985247,
+          0.39876429
+        ],
+        "line_ids": [
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》本地化过程中培养的默契，让 Toby 与 8-4 的关系超出了普通商业合作，成为建立在友谊与信任上的纽带。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.34749286,
+          0.89782493,
+          0.40126429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0264-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.34749286,
+          0.89782493,
+          0.40126429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b005",
+      "kind": "aside",
+      "source": {
+        "text": "\"Suck moss if you want water\" was mistranslated as \"Even moss drinks water\" in Illusion of Gaia",
+        "raw": "\"Suck moss if you\nwant water\" was\nmistranslated as \"Even\nmoss drinks water\" in\nIllusion of Gaia",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12361909,
+          0.52393571,
+          0.26469529,
+          0.59647143
+        ],
+        "mask_bbox": [
+          0.12230119,
+          0.52322143,
+          0.26601319,
+          0.59754286
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "《Illusion of Gaia》把“想喝水就吸吮苔藓”误译成了“连苔藓也喝水”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11658352,
+          0.52250714,
+          0.26491832,
+          0.60004286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11658352,
+          0.52250714,
+          0.26491832,
+          0.60004286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b006",
+      "kind": "caption",
+      "source": {
+        "text": "The English version of this Deltarune line includes an indirect reference to a memorable mistranslation in the classic Japanese RPG, Illusion of Gaia. This reference would be lost on most Japanese Deltarune players, however, so the localization team gave the line a straightforward translation that still conveys the content and mood of the English line",
+        "raw": "The English version of this Deltarune line includes an indirect reference to a memorable\nmistranslation in the classic Japanese RPG, Illusion of Gaia. This reference would be lost on most\nJapanese Deltarune players, however, so the localization team gave the line a straightforward\ntranslation that still conveys the content and mood of the English line",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29121551,
+          0.58786429,
+          0.88763654,
+          0.64598571
+        ],
+        "mask_bbox": [
+          0.2898976,
+          0.58715,
+          0.88895444,
+          0.64705714
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "《Deltarune》这句英文间接引用了经典日式角色扮演游戏《Illusion of Gaia》中的那处著名误译。多数日本玩家认不出这个典故，团队便直接翻译，仍保留英文台词的内容与气氛。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 31,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.58643571,
+          0.89782493,
+          0.64955714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.58643571,
+          0.89782493,
+          0.64955714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0264-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Lancer has a unique \"ho ho ho\" laugh in both the English and Japanese scripts. In English, \"ho ho ho\" is closely associated with Santa Claus' laugh, but in Japanese, \"ho ho ho\" is more closely associated with the laughter of snooty rich ladies. As such, Lancer is compared to Santa Claus in the English script and a snooty old hag in the Japanese script",
+        "raw": "Lancer has a unique \"ho ho ho\" laugh in both the English and Japanese scripts. In English, \"ho\nho ho\" is closely associated with Santa Claus' laugh, but in Japanese, \"ho ho ho\" is more closely\nassociated with the laughter of snooty rich ladies. As such, Lancer is compared to Santa Claus in\nthe English script and a snooty old hag in the Japanese script",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29261451,
+          0.83638571,
+          0.88930926,
+          0.89337143
+        ],
+        "mask_bbox": [
+          0.29129661,
+          0.83567143,
+          0.89062716,
+          0.89444286
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "Lancer 在英日两版里都发出独特的“ho ho ho”笑声。英语里，这让人想到圣诞老人；日语里，却更像傲慢贵妇的笑声。因此，英文把 Lancer 比作圣诞老人，日文则说他像个装腔作势的老太婆。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29026256,
+          0.83495714,
+          0.89782493,
+          0.89694286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29026256,
+          0.83495714,
+          0.89782493,
+          0.89694286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d7a38b7fb9446830acadc43f754312c2582e0e25a8c0bb39ad7d14187dafe144"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.32,
+      885.63
+    ],
+    "text_runs": [
+      {
+        "id": "p0264-b002",
+        "blocks": [
+          "p0264-b002",
+          "p0264-b003",
+          "p0264-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 571.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

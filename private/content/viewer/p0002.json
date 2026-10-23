@@ -1,0 +1,1223 @@
+{
+  "schema_version": 3,
+  "pdf_page": 2,
+  "printed_page": "2",
+  "title": "版权与制作人员",
+  "subtitle": "私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.086119+00:00",
+  "reference_size": [
+    972.169811,
+    1400
+  ],
+  "physical_size_pt": [
+    494.64,
+    712.32
+  ],
+  "image_url": "/assets/p0002.jpg",
+  "image_sha256": "8ee841bf6ca0060e5dd3921d9e9f5baf323c99d0926393e10e9dc9fce93505df",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0002/page.json",
+  "page_role": "credits",
+  "blocks": [
+    {
+      "id": "p0002-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Legends of Localization\nBook 3: UNDERTALE",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.41571429,
+          0.44745269,
+          0.45142857
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.415,
+          0.44878991,
+          0.4525
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "本地化传奇\n第3卷：UNDERTALE",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.40857143,
+          0.44745269,
+          0.45571429
+        ],
+        "font_size": 23,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.45571428571428574,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.40857143,
+          0.44745269,
+          0.45571429
+        ],
+        "font_size": 23,
+        "leading": 32.199999999999996
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0002-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "1ST EDITION – NOVEMBER 2022",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.47571429,
+          0.40013586,
+          0.49071429
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.475,
+          0.40147307,
+          0.49178571
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "第一版 · 2022年11月",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.47071429,
+          0.42790878,
+          0.49
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.47071429,
+          0.42790878,
+          0.49
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0002-b003",
+      "kind": "legal",
+      "source": {
+        "text": "Legends of Localization is an examination of the cultural influences and differences that affect Japanese and English games. This book is an educational, history-focused exploration of the Undertale video game, but this book is not official Undertale merchandise in any form.",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.49785714,
+          0.42688016,
+          0.60357143
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.49714286,
+          0.42821737,
+          0.60464286
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Legends of Localization 探讨影响日语与英语游戏的文化因素及差异。本书以教育和历史为出发点，研究电子游戏 Undertale，但并非任何形式的 Undertale 官方商品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 73,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 83,
+            "end": 92,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.49785714,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.49785714,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "copyright"
+    },
+    {
+      "id": "p0002-b004",
+      "kind": "legal",
+      "source": {
+        "text": "Certain portions of this book’s content (and the localization information on many other games) is freely available online at: http://LegendsOfLocalization.com",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.61214286,
+          0.42276565,
+          0.67642857
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.61142857,
+          0.42410286,
+          0.6775
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "本书部分内容，以及许多其他游戏的本地化资料，可在以下网站免费阅读：\nhttp://LegendsOfLocalization.com",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.53714286,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.53714286,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "copyright"
+    },
+    {
+      "id": "p0002-b005",
+      "kind": "legal",
+      "source": {
+        "text": "Undertale is copyright 2015–2022 Toby Fox. All content created by or licensed to Fangamer LLC in collaboration with Clyde Mandelin, including graphics, photographs, layout and text, are copyright 2022 Fangamer LLC and Clyde Mandelin.",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.68642857,
+          0.4248229,
+          0.77785714
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.68571429,
+          0.42616012,
+          0.77892857
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Undertale 版权归 Toby Fox 所有，2015–2022。由 Fangamer LLC 与 Clyde Mandelin 合作创作，或授权给 Fangamer LLC 的全部内容，包括图形、照片、版式与文字，版权归 Fangamer LLC 与 Clyde Mandelin 所有，2022。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.57642857,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.57642857,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "copyright"
+    },
+    {
+      "id": "p0002-b006",
+      "kind": "legal",
+      "source": {
+        "text": "This work may not be reproduced without express written permission, except for excerpts intended for review.",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.78785714,
+          0.4248229,
+          0.82642857
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.78714286,
+          0.42616012,
+          0.8275
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "除用于评论的摘录外，未经明确书面许可，不得复制本作品。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.61571429,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.61571429,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "copyright"
+    },
+    {
+      "id": "p0002-b007",
+      "kind": "legal",
+      "source": {
+        "text": "Legends of Localization Book 3: Undertale is designed, published, sold and distributed by Fangamer and printed in China by Shanghai Offset Printing.",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12960699,
+          0.835,
+          0.42996604,
+          0.88785714
+        ],
+        "mask_bbox": [
+          0.12826977,
+          0.83428571,
+          0.43130325,
+          0.88892857
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Legends of Localization Book 3: Undertale 由 Fangamer 设计、出版、销售及发行，由 Shanghai Offset Printing 在中国印刷。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12960699,
+          0.655,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.12960699,
+          0.655,
+          0.42790878,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "copyright"
+    },
+    {
+      "id": "p0002-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "CONTRIBUTORS",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.47571429,
+          0.62334789,
+          0.49071429
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.475,
+          0.6246851,
+          0.49178571
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "制作人员",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.47071429,
+          0.75809801,
+          0.49
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.47071429,
+          0.75809801,
+          0.49
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0002-b009",
+      "kind": "legal",
+      "source": {
+        "text": "Clyde Mandelin\nConcept, Writing, Research",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.49785714,
+          0.71901019,
+          0.52642857
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.49714286,
+          0.7203474,
+          0.5275
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Clyde Mandelin\n构思、写作、研究",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.49785714,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.49785714,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b010",
+      "kind": "legal",
+      "source": {
+        "text": "Brian Carmody\nArt Direction, Design, Layout, Visual Display Photography",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.535,
+          0.72415332,
+          0.57642857
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.53428571,
+          0.72549054,
+          0.5775
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Brian Carmody\n美术指导、设计、排版、视觉展示摄影",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.53714286,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.53714286,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b011",
+      "kind": "legal",
+      "source": {
+        "text": "Heidi Mandelin\nProducer, Photography, Purchasing, Research Assistant",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.585,
+          0.72415332,
+          0.62714286
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.58428571,
+          0.72549054,
+          0.62821429
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Heidi Mandelin\n制作人、摄影、采购、研究助理",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.57642857,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.57642857,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b012",
+      "kind": "legal",
+      "source": {
+        "text": "Reid Young\nAssistant Producer, Asgore look-alike",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.63571429,
+          0.72415332,
+          0.66285714
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.635,
+          0.72549054,
+          0.66392857
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Reid Young\n助理制作人、Asgore 的撞脸者",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.61571429,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.61571429,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b013",
+      "kind": "legal",
+      "source": {
+        "text": "Dan Moore\nEditing, Copywriting",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.67214286,
+          0.72415332,
+          0.7
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.67142857,
+          0.72549054,
+          0.70107143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Dan Moore\n编辑、文案",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.655,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.655,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b014",
+      "kind": "legal",
+      "source": {
+        "text": "Nina Matsumoto\nIllustrations, International Communication",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.70928571,
+          0.75089762,
+          0.73714286
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.70857143,
+          0.75223484,
+          0.73821429
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Nina Matsumoto\n插画、国际沟通",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.69428571,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.69428571,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b015",
+      "kind": "legal",
+      "source": {
+        "text": "heavenchai\nResearch Assistant, Game Advisor",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.74642857,
+          0.73032509,
+          0.77428571
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.74571429,
+          0.7316623,
+          0.77535714
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "heavenchai\n研究助理、游戏顾问",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.73357143,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.73357143,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b016",
+      "kind": "legal",
+      "source": {
+        "text": "Everdraed\nImage Editing and Manipulation",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.78428571,
+          0.73238234,
+          0.81214286
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.78357143,
+          0.73371955,
+          0.81321429
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "Everdraed\n图像编辑与处理",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.77285714,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b015"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.77285714,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b017",
+      "kind": "legal",
+      "source": {
+        "text": "O.G. San\nStock Photo Guy, Book Tour Companion",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.82142857,
+          0.74678312,
+          0.84857143
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.82071429,
+          0.74812033,
+          0.84964286
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "O.G. San\n图库照片模特、图书巡回活动旅伴",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.81214286,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b016"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.81214286,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    },
+    {
+      "id": "p0002-b018",
+      "kind": "legal",
+      "source": {
+        "text": "However, many more people helped with this book’s creation. CHECK the Special Thanks section in the back of the book for a full list.",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45773896,
+          0.85785714,
+          0.75809801,
+          0.90785714
+        ],
+        "mask_bbox": [
+          0.45640175,
+          0.85714286,
+          0.75943523,
+          0.90892857
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "还有许多人为本书的制作提供了帮助。完整名单请查看书末的“特别鸣谢”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.45773896,
+          0.85142857,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "gap_before": 12,
+        "flow_after": "p0002-b017"
+      },
+      "calibration": {
+        "bbox": [
+          0.45773896,
+          0.85142857,
+          0.75809801,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "credits"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "acf2d3aa3a14e5839ebbf0d71287e7b1c0d0307469f8a28fbd333e9bd19915ed"
+  },
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

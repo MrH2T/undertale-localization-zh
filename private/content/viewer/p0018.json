@@ -1,0 +1,1137 @@
+{
+  "schema_version": 3,
+  "pdf_page": 18,
+  "printed_page": "18",
+  "title": "为什么需要本地化",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    983.134152,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    712.92
+  ],
+  "image_url": "/assets/p0018.jpg",
+  "image_sha256": "40ffc086c3b85428be0fe805d6a0a00b0fd3511ae09bcad8afa55aeeef0b426f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0018/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0018-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Need for Localization",
+        "raw": "The Need for Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28990957,
+          0.06213571,
+          0.55401391,
+          0.07545714
+        ],
+        "mask_bbox": [
+          0.28838384,
+          0.06142143,
+          0.55553965,
+          0.07652857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "为什么需要本地化",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.052400005714285706,
+          0.89713087,
+          0.07668571428571429
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07668571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.052400005714285706,
+          0.89713087,
+          0.07668571428571429
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 111.36,
+      "region_id": "heading-1"
+    },
+    {
+      "id": "p0018-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Every language has its own unique rules and quirks. Every culture has its own unique values and expectations. Because of this, not every word has a perfect, 1-to-l equivalent in other languages. So when a straightforward, literal translation isn't possible, one alternative is to use completely different words to say the same thing. And that's precisely what localization is: preserving the creator's intended meaning but with completely different words. As the acclaimed translator John Ciardi once put it:",
+        "raw": "Every language has its own unique rules and quirks. Every culture has its\nown unique values and expectations. Because of this, not every word has a\nperfect, 1-to-l equivalent in other languages. So when a straightforward, literal\ntranslation isn't possible, one alternative is to use completely different words\nto say the same thing. And that's precisely what localization is: preserving the\ncreator's intended meaning but with completely different words. As the\nacclaimed translator John Ciardi once put it:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29040798,
+          0.09132857,
+          0.89460833,
+          0.21407857
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.09061429,
+          0.89713087,
+          0.21550714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "每种语言都有自己的规则和特点，每种文化也有自己的价值观和预期。因此，并不是每个词都能在另一种语言中找到一一对应的词。无法直接照字面翻译时，一种办法就是换一套完全不同的说法，表达同样的意思。这正是本地化：用完全不同的词，保留创作者想表达的意思。正如著名译者 John Ciardi 所说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.09,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.09,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "localization-definition"
+    },
+    {
+      "id": "p0018-b003",
+      "kind": "quote",
+      "source": {
+        "text": "'' When the violin repeats what the piano has just played, it cannot make the same sounds and it can only approximate the same chords. It can, however, make recognizably the same \"music,\" the same air. But it can do so only when it is as faithful to the self logic of the violin as it is to the self logic of the piano.",
+        "raw": "'' When the violin repeats what the piano has just played, it cannot make the\nsame sounds and it can only approximate the same chords. It can, however~\nmal<e recognizably the same \"music,\" the same air. But it can do so only\nwhen it is as faithfizl to the self logic of the violin as it is to the self logic of\nthe piano.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29132342,
+          0.22933571,
+          0.89118052,
+          0.31405714
+        ],
+        "mask_bbox": [
+          0.3336269,
+          0.22862143,
+          0.89713087,
+          0.31548571
+        ],
+        "line_ids": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "小提琴重复钢琴刚弹过的旋律时，发不出同样的声音，和弦也只能近似。不过，它仍能奏出听得出是同一段的“音乐”、同一支曲调。但要做到这一点，它既要忠实于钢琴自身的逻辑，也要同样忠实于小提琴自身的逻辑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33566121,
+          0.22790714,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.33566121,
+          0.22790714,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "localization-definition"
+    },
+    {
+      "id": "p0018-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, languages are weird, messy, and complicated. It's easy for people to misunderstand each other in one language, so translating between two can sometimes be impossible. In this chapter, we'll examine a few situations in which straightforward, literal translations don't quite work.",
+        "raw": "In short, languages are weird, messy, and complicated. It's easy for people to\nmisunderstand each other in one language, so translating between two can\nsometimes be impossible. In this chapter, we'll examine a few situations in\nwhich straightforward, literal translations don't quite work.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29048935,
+          0.32967143,
+          0.87489586,
+          0.39621429
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.32895714,
+          0.89713087,
+          0.39764286
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "总之，语言古怪、杂乱而复杂。用同一种语言，人们都容易误解彼此；在两种语言之间翻译，有时甚至是不可能的任务。本章将介绍一些直接照字面翻译不太行得通的情形。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.32824286,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.32824286,
+          0.89713087,
+          0.40357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "localization-definition"
+    },
+    {
+      "id": "p0018-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Humor",
+        "raw": "Humor",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29246263,
+          0.41965,
+          0.36197502,
+          0.43297143
+        ],
+        "mask_bbox": [
+          0.2909369,
+          0.41893571,
+          0.36350075,
+          0.43404286
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "幽默",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.4094500057142857,
+          0.89713087,
+          0.4337357142857143
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4337357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.4094500057142857,
+          0.89713087,
+          0.4337357142857143
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 611.23,
+      "region_id": "heading-5"
+    },
+    {
+      "id": "p0018-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "There's a famous joke in English that goes:",
+        "raw": "There's a famous joke in English that goes:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29082501,
+          0.4475,
+          0.6161621,
+          0.45984286
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.44678571,
+          0.89713087,
+          0.46127143
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "英语里有个著名的笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.44642857,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.44642857,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Why was 6 afraid of 7? Because 7 8 9!",
+        "raw": "Why was 6 afraid of7 ? Because 7 8 9!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33538658,
+          0.47475,
+          0.60982522,
+          0.48709286
+        ],
+        "mask_bbox": [
+          0.3336269,
+          0.47403571,
+          0.89713087,
+          0.48852143
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "Why was 6 afraid of 7? Because 7 8 9!\n6为什么怕7？因为7把9吃了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33566121,
+          0.47332143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "line_height": 1.470588,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33566121,
+          0.47332143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "leading": 24.999996
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Of course, this joke only works because the number \"8\" and the word \"ate\" share the same pronunciation in English. This isn't necessarily true in other languages, so a literal translation of the joke might sound like this:",
+        "raw": "Of course, this joke only works because the number \"8\" and the word \"ate\"\nshare the same pronunciation in English. This isn't necessarily true in other\nlanguages, so a literal translation of the joke might sound like this:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29170994,
+          0.50269286,
+          0.87270898,
+          0.55139286
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.50197857,
+          0.89713087,
+          0.55282143
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "这个笑话能成立，是因为英语里的数字“8”（eight）与“吃了”（ate）同音。其他语言未必如此，所以直译出来可能变成：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.50126429,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.50126429,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Why was the sixth digit afraid of the seventh digit? Because seventh digit eighth digit ninth digit!",
+        "raw": "Why was the sixth digit afraid oft he seventh digit? Because seventh digit\neighth digit ninth digit!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33588499,
+          0.56632143,
+          0.87598422,
+          0.59719286
+        ],
+        "mask_bbox": [
+          0.3336269,
+          0.56560714,
+          0.89713087,
+          0.59862143
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "第六个数字为什么怕第七个数字？因为第七个数字、第八个数字、第九个数字！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33566121,
+          0.56489286,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "line_height": 1.470588,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.33566121,
+          0.56489286,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "leading": 24.999996
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the result is meaningless nonsense that loses the original intention entirely. The joke is lost in translation.",
+        "raw": "As we can see, the result is meaningless nonsense that loses the original\nintention entirely. The joke is lost in translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28951288,
+          0.61277857,
+          0.83823759,
+          0.64296429
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.61206429,
+          0.89713087,
+          0.64439286
+        ],
+        "line_ids": [
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "结果成了毫无意义的胡话，原本的用意完全丢失了。笑话就这样消失在翻译中。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.61135,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.61135,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Similarly, consider this Japanese joke:",
+        "raw": "Similarly, consider this Japanese joke:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29210663,
+          0.65755,
+          0.58200603,
+          0.66989286
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.65683571,
+          0.89713087,
+          0.67132143
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "再看一个日语笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.65612143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.65612143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b012",
+      "kind": "quote",
+      "source": {
+        "text": "ashi nihon aru kara nihonjin da",
+        "raw": "ashi nihon aru kara nihonjin da",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33641391,
+          0.68515,
+          0.56914918,
+          0.6975
+        ],
+        "mask_bbox": [
+          0.3336269,
+          0.68443571,
+          0.89713087,
+          0.69892857
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "ashi nihon aru kara nihonjin da\n我有两条腿，所以我是日本人。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33566121,
+          0.68372143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "line_height": 1.470588,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.33566121,
+          0.68372143,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 17,
+        "leading": 24.999996
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "This joke, translated literally, means \"I have two legs, so I'm Japanese\". Even though it's an incredibly simple, straightforward joke in Japanese, we can see how it makes zero sense when translated into English.",
+        "raw": "This joke, translated literally, means \"I have two legs, so I'm Japanese\". Even\nthough it's an incredibly simple, straightforward joke in Japanese, we can see\nhow it makes zero sense when translated into English.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29132342,
+          0.71344286,
+          0.88326705,
+          0.76179286
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.71272857,
+          0.89713087,
+          0.76322143
+        ],
+        "line_ids": [
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "直译就是“我有两条腿，所以我是日本人”（“两条”和“日本”都读 nihon）。它在日语里是很简单直接的笑话，译成英语却完全莫名其妙。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.71201429,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.71201429,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, humor rarely translates easily between languages.",
+        "raw": "In short, humor rarely translates easily between languages.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29280846,
+          0.77627143,
+          0.78004614,
+          0.78875714
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.77555714,
+          0.89713087,
+          0.79018571
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "总之，幽默很少能轻易跨越语言。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.77484286,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.77484286,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    },
+    {
+      "id": "p0018-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "So, as a translator, what do you do when you run into an untranslatable joke? The most common solution is to take out the original joke and replace it with a similar joke that works in the target language. And that's precisely what localization is all about: retaining the original intent even if it means changing the original words.",
+        "raw": "So, as a translator, what do you do when you run into an untranslatable joke?\nThe most common solution is to take out the original joke and replace it with\na similar joke that works in the target language. And that's precisely what\nlocalization is all about: retaining the original intent even if it means changing\nthe original words.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29179131,
+          0.80432857,
+          0.8897565,
+          0.88906429
+        ],
+        "mask_bbox": [
+          0.28887207,
+          0.80361429,
+          0.89713087,
+          0.89049286
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "那么，译者遇到译不过去的笑话该怎么办？最常见的做法，是撤下原来的笑话，换上目标语言里能讲通的类似笑话。这正是本地化的要点：即使得改换原词，也要保留原本的用意。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29090638,
+          0.8029,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0018-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.29090638,
+          0.8029,
+          0.89713087,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "humor"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "21f6b369fb4184fcd9900563fae0ed33aac3f47352c49f15ece7d6aac34f26b3"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          39
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.41,
+      879.52
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "regions": [
+    {
+      "id": "localization-definition",
+      "kind": "continuous-text",
+      "frame": [
+        286,
+        126,
+        882,
+        565
+      ],
+      "block_indexes": [
+        2,
+        3,
+        4
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    },
+    {
+      "id": "humor",
+      "kind": "continuous-text",
+      "frame": [
+        286,
+        625,
+        882,
+        1280
+      ],
+      "block_indexes": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    }
+  ],
+  "protected_regions": [
+    {
+      "kind": "decoration",
+      "bbox": [
+        284,
+        317,
+        315,
+        340
+      ],
+      "description": "Original red opening quotation mark; source OCR incorrectly absorbs it into the quote text box."
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        284,
+        110.7,
+        883,
+        112.1
+      ]
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        285,
+        610.4,
+        883,
+        612.0
+      ]
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        243,
+        1309,
+        884,
+        1327
+      ]
+    }
+  ],
+  "layout_review": {
+    "status": "region-reviewed",
+    "reference": "layout-review-010-089.json",
+    "scope": "p18 original scan + calibrated pilot rules"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "schema_version": 3,
+  "pdf_page": 8,
+  "printed_page": "8",
+  "title": "引言 · 跨页插图左页",
+  "subtitle": "引言 · 跨页插图左页",
+  "revision": 1,
+  "updated_at": "2026-10-22T16:47:24.368117+00:00",
+  "reference_size": [
+    994.2200439411864,
+    1400
+  ],
+  "physical_size_pt": [
+    504.24,
+    710.04
+  ],
+  "image_url": "/assets/p0008.jpg",
+  "image_sha256": "3f4c360360eb368f128e85f0f1b3ef7833cbde36e6744ddc5e72c660f2dc0a53",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0008/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "chapter_id": "chapter-8",
+  "spread": {
+    "left": 8,
+    "right": 9
+  }
+}

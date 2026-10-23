@@ -1,0 +1,663 @@
+{
+  "schema_version": 3,
+  "pdf_page": 171,
+  "printed_page": "171",
+  "title": "日语人称代词：achishi",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    977.994945,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    712.2
+  ],
+  "image_url": "/assets/p0171.jpg",
+  "image_sha256": "16b124d6db1d72e157108c86ffb75f7856b6d3bfcb1e5d1dd9883f967be813ae",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0171/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0171-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Personal Pronouns: achishi",
+        "raw": "Japanese Personal Pronouns: achishi",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20445913,
+          0.08953571,
+          0.58727297,
+          0.10427857
+        ],
+        "mask_bbox": [
+          0.20312988,
+          0.08882143,
+          0.58860222,
+          0.10535
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：achishi",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.115542519,
+          0.080142857,
+          0.675872614,
+          0.104285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.104285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.115542519,
+          0.080142857,
+          0.675872614,
+          0.104285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 150
+    },
+    {
+      "id": "p0171-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In standard Japanese, the informal personal pronoun achishi is a part of some regional dialects, but has generally begun to fall out of use. In Japanese entertainment, achishi is commonly associated with feminine characters with youthful energy. Other fictional characters who use achishi include:",
+        "raw": "In standard Japanese, the informal personal pronoun achishi is a part\nof some regional dialects, but has generally begun to fall out of use. In\nJapanese entertainment, achishi is commonly associated with feminine\ncharacters with youthful energy. Other fictional characters who use\nachishi include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11613557,
+          0.11914286,
+          0.65649624,
+          0.1997
+        ],
+        "mask_bbox": [
+          0.11409057,
+          0.11842857,
+          0.65854124,
+          0.20077143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "日语中，非正式自称 achishi（我）见于一些地方方言，但总体上已逐渐少用。在日本娱乐作品里，它通常与活力充沛、偏女性的角色相联系。其他使用 achishi 的虚构角色包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 72,
+            "end": 79,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11613557,
+          0.11771429,
+          0.65649624,
+          0.20327143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2092857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11613557,
+          0.11771429,
+          0.65649624,
+          0.20327143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Himiko Shinobibe (Mashin Eiyuden Wataru series)",
+        "raw": "Himiko Shinobibe\n(Mashin Eiyuden Wataru series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15207645,
+          0.39792857,
+          0.34700588,
+          0.42210714
+        ],
+        "mask_bbox": [
+          0.1507472,
+          0.39721429,
+          0.34833513,
+          0.42317857
+        ],
+        "line_ids": [
+          7,
+          9
+        ]
+      },
+      "translation": {
+        "text": "Himiko Shinobibe\n（《魔神英雄传》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11613557,
+          0.3965,
+          0.38620598,
+          0.42567857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.43142857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11613557,
+          0.3965,
+          0.38620598,
+          0.42567857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Ry6ma Sakamoto (Eiyu*Senki series)",
+        "raw": "Ry6ma Sakamoto\n(Eiyu*Senki series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48637266,
+          0.39792857,
+          0.60026895,
+          0.42210714
+        ],
+        "mask_bbox": [
+          0.48504341,
+          0.39721429,
+          0.6015982,
+          0.42317857
+        ],
+        "line_ids": [
+          8,
+          10
+        ]
+      },
+      "translation": {
+        "text": "Ryōma Sakamoto\n（《英雄＊战姬》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40665599,
+          0.3965,
+          0.65649624,
+          0.42567857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.43142857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40665599,
+          0.3965,
+          0.65649624,
+          0.42567857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Moemi Washu (Sakura Kakumei)",
+        "raw": "Moemi Washu\n(Sakura Kakumei)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19551226,
+          0.62,
+          0.30457213,
+          0.6445
+        ],
+        "mask_bbox": [
+          0.19418301,
+          0.61928571,
+          0.30590138,
+          0.64557143
+        ],
+        "line_ids": [
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Moemi Washū\n（《樱花革命》）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11613557,
+          0.61857143,
+          0.38669934,
+          0.64807143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6542857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11613557,
+          0.61857143,
+          0.38669934,
+          0.64807143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Gyaraco (SHOW BY ROCK!! Fes A Live)",
+        "raw": "Gyaraco\n(SHOW BY ROCK!! Fes A Live)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45264038,
+          0.62,
+          0.63497261,
+          0.6445
+        ],
+        "mask_bbox": [
+          0.45131113,
+          0.61928571,
+          0.63630186,
+          0.64557143
+        ],
+        "line_ids": [
+          12,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Gyaraco\n（SHOW BY ROCK!! Fes A Live）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40714935,
+          0.61857143,
+          0.65649624,
+          0.64807143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6542857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40714935,
+          0.61857143,
+          0.65649624,
+          0.64807143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Mr. 2/Bentham (One Piece series)",
+        "raw": "Mr. 2/Bentham\n(One Piece series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19794581,
+          0.84512143,
+          0.30600363,
+          0.87030714
+        ],
+        "mask_bbox": [
+          0.19661656,
+          0.84440714,
+          0.30733288,
+          0.87137857
+        ],
+        "line_ids": [
+          15,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Mr. 2／Bentham\n（《航海王》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11613557,
+          0.84369286,
+          0.38790845,
+          0.87387857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8828571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11613557,
+          0.84369286,
+          0.38790845,
+          0.87387857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Chaton (MAR series)",
+        "raw": "Chaton\n(MAR series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50568769,
+          0.84477857,
+          0.58289667,
+          0.86997143
+        ],
+        "mask_bbox": [
+          0.50435844,
+          0.84406429,
+          0.58422592,
+          0.87104286
+        ],
+        "line_ids": [
+          16,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Chaton\n（MÄR 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40835845,
+          0.84335,
+          0.65649624,
+          0.87354286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8828571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40835845,
+          0.84335,
+          0.65649624,
+          0.87354286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0171-b009",
+      "kind": "footer",
+      "source": {
+        "text": "\\/\\laterfall",
+        "raw": "\\/\\laterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63579061,
+          0.93667143,
+          0.70391979,
+          0.94804286
+        ],
+        "mask_bbox": [
+          0.63446136,
+          0.93595714,
+          0.70524904,
+          0.94911429
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63579061,
+          0.93524286,
+          0.70391979,
+          0.95324286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9532428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63579061,
+          0.93524286,
+          0.70391979,
+          0.95324286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "\\/\\laterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "93510b6fc2da9e98209c3da21a4297bacda04bdfc45b7822d5aafc36c2440e5c"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      113.58,
+      642.05
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,828 @@
+{
+  "schema_version": 3,
+  "pdf_page": 93,
+  "printed_page": "93",
+  "title": "Toriel 的请求",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 8,
+  "updated_at": "2026-10-22T17:06:37.310600+00:00",
+  "reference_size": [
+    979.69251562764,
+    1400
+  ],
+  "physical_size_pt": [
+    497.04,
+    710.28
+  ],
+  "image_url": "/assets/p0093.jpg",
+  "image_sha256": "d1c80647fa5a6509bac1aa40365a17502bab0db56078b824cc51c548b1103040",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0093/page.json",
+  "blocks": [
+    {
+      "id": "p0093-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Toriel Asks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877826,
+          0.0564286,
+          0.7083855,
+          0.075
+        ],
+        "mask_bbox": [
+          0.0877826,
+          0.0564286,
+          0.7083855,
+          0.075
+        ]
+      },
+      "translation": {
+        "text": "Toriel 的请求",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0908448,
+          0.0521429,
+          0.7053233,
+          0.07928574285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0908448,
+          0.0521429,
+          0.7053233,
+          0.07928574285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Without inside access to the localization team’s notes, I probably never would’ve noticed this difference, as it’s such a rarely seen line",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7288001,
+          0.0871429,
+          0.8931374,
+          0.1807143
+        ],
+        "mask_bbox": [
+          0.7288001,
+          0.0871429,
+          0.8931374,
+          0.1807143
+        ]
+      },
+      "translation": {
+        "text": "要不是能看到本地化团队的内部备注，我大概永远不会注意到这处差别，因为这句台词实在太少出现了。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.732883,
+          0.0878571,
+          0.9002825,
+          0.1978571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.732883,
+          0.0878571,
+          0.9002825,
+          0.1978571
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toriel asks the player to stay in the current room until she returns from an errand. If the player stays in the room for ten minutes, Toriel will call and say:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877826,
+          0.2307143,
+          0.7063441,
+          0.2678571
+        ],
+        "mask_bbox": [
+          0.0877826,
+          0.2307143,
+          0.7063441,
+          0.2678571
+        ]
+      },
+      "translation": {
+        "text": "Toriel 请玩家待在当前房间，等她办事回来。如果玩家在房间里等上十分钟，Toriel 就会打来电话说：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0908448299648203,
+          0.2257142857142857,
+          0.704302614334,
+          0.2671428571428571
+        ],
+        "font_size": 19,
+        "line_height": 1.4210526315789473,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0908448299648203,
+          0.2257142857142857,
+          0.704302614334,
+          0.2671428571428571
+        ],
+        "font_size": 19,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b004",
+      "kind": "quote",
+      "source": {
+        "text": "It will take a little longer. Please understand.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1306532,
+          0.2771429,
+          0.7043026,
+          0.2957143
+        ],
+        "mask_bbox": [
+          0.1306532,
+          0.2771429,
+          0.7043026,
+          0.2957143
+        ]
+      },
+      "translation": {
+        "text": "It will take a little longer. Please understand.\n还需要再等一会儿。请理解。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1347361523073739,
+          0.2714285714285714,
+          0.704302614334,
+          0.30857142857142855
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1347361523073739,
+          0.2714285714285714,
+          0.704302614334,
+          0.30857142857142855
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that “please understand” is a reference to Satoru Iwata, the former president of Nintendo. In his many English-language videos for Nintendo fans, Iwata often said “please understand”, a literal translation of a common Japanese apology. He repeated this peculiar English phrase so often that it became his unofficial catchphrase in the West.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0867619,
+          0.305,
+          0.7063441,
+          0.3964286
+        ],
+        "mask_bbox": [
+          0.0867619,
+          0.305,
+          0.7063441,
+          0.3964286
+        ]
+      },
+      "translation": {
+        "text": "Toby 解释说，“please understand”是在致敬任天堂前社长 Satoru Iwata（岩田聪）。在许多面向任天堂粉丝的英语视频中，岩田常说这句话；它直译自一种常见的日语致歉用语。他频繁使用这句特别的英语，使它在西方成了他非官方的标志性口头禅。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0908448299648203,
+          0.3171428571428571,
+          0.704302614334,
+          0.4042857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0908448299648203,
+          0.3171428571428571,
+          0.704302614334,
+          0.4042857142857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This reference would’ve been lost in a literal translation into Japanese, as Iwata was never famous for saying “please understand” in Japan. Undertale’s localizers considered potential replacement references, but eventually agreed that a natural-sounding translation took priority. Thus Toriel now says “I’m sorry” in Japanese instead of “please understand”.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0867619,
+          0.4057143,
+          0.3858353,
+          0.59
+        ],
+        "mask_bbox": [
+          0.0867619,
+          0.4057143,
+          0.3858353,
+          0.59
+        ]
+      },
+      "translation": {
+        "text": "如果直译成日文，这个梗就会消失，因为岩田在日本并不是以说“please understand”而闻名。Undertale 的本地化人员考虑过替换成其他典故，但最终一致认为，译文自然更重要。于是，日版 Toriel 说的是“对不起”，而不是“请理解”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 51,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0908448,
+          0.405,
+          0.3858353,
+          0.5964286
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0908448,
+          0.405,
+          0.3858353,
+          0.5964286
+        ],
+        "font_size": 18,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b007",
+      "kind": "aside",
+      "source": {
+        "text": "RIP Iwata, I wonder what he would’ve thought about Undertale",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7288001,
+          0.4071429,
+          0.8461839,
+          0.4707143
+        ],
+        "mask_bbox": [
+          0.7288001,
+          0.4071429,
+          0.8461839,
+          0.4707143
+        ]
+      },
+      "translation": {
+        "text": "愿岩田安息。不知道他会怎样看待 Undertale。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.732883,
+          0.4071429,
+          0.8890545,
+          0.4785714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.732883,
+          0.4071429,
+          0.8890545,
+          0.4785714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "Localization Notes: “Please Understand”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1847518,
+          0.625,
+          0.6940953,
+          0.645
+        ],
+        "mask_bbox": [
+          0.1847518,
+          0.625,
+          0.6940953,
+          0.645
+        ]
+      },
+      "translation": {
+        "text": "本地化备注：“Please Understand”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.116363,
+          0.6228571,
+          0.6920539,
+          0.6500000428571429
+        ],
+        "font_size": 23,
+        "line_height": 1.3478260869565217,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.116363,
+          0.6228571,
+          0.6920539,
+          0.6500000428571429
+        ],
+        "font_size": 23,
+        "leading": 31.0
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby left a very short note about this line in the localization spreadsheet.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1122801,
+          0.6542857,
+          0.6940953,
+          0.6778571
+        ],
+        "mask_bbox": [
+          0.1122801,
+          0.6542857,
+          0.6940953,
+          0.6778571
+        ]
+      },
+      "translation": {
+        "text": "Toby 在本地化表格里为这句台词留了一条很简短的备注。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.116363,
+          0.6557143,
+          0.6910331,
+          0.6807143
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.116363,
+          0.6557143,
+          0.6910331,
+          0.6807143
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b010",
+      "kind": "quote",
+      "source": {
+        "text": "Iwata’s catch phrase",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1847518,
+          0.6957143,
+          0.6695978,
+          0.7178571
+        ],
+        "mask_bbox": [
+          0.1847518,
+          0.6957143,
+          0.6695978,
+          0.7178571
+        ]
+      },
+      "translation": {
+        "text": "岩田的口头禅。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1908762,
+          0.6971429,
+          0.6695978,
+          0.72
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1908762,
+          0.6971429,
+          0.6695978,
+          0.72
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "After some research and discussion, the translator localized the line into Japanese and left a note for reference.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1122801,
+          0.7478571,
+          0.6920539,
+          0.7814286
+        ],
+        "mask_bbox": [
+          0.1122801,
+          0.7478571,
+          0.6920539,
+          0.7814286
+        ]
+      },
+      "translation": {
+        "text": "经过调查和讨论，译者将这句话本地化为日文，并留下了一条备注供参考。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.116363,
+          0.7478571,
+          0.6900124,
+          0.7857143
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.116363,
+          0.7478571,
+          0.6900124,
+          0.7857143
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b012",
+      "kind": "quote",
+      "source": {
+        "text": "“Please Understand” = It’s a meme in English speaking regions and apparently the typical 「ご理解ください」 [gorikai kudasai] has been translated into this. The Japanese phrase doesn’t have any specific meme-related meaning and Toriel saying 「ごりかいください」 [gorikai kudasai] would break the character, so I’ve prioritized making the translation natural.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1847518,
+          0.8014286,
+          0.6665357,
+          0.8814286
+        ],
+        "mask_bbox": [
+          0.1847518,
+          0.8014286,
+          0.6665357,
+          0.8814286
+        ]
+      },
+      "translation": {
+        "text": "“Please Understand”是英语地区的一个梗，似乎译自常见的「ご理解ください」（gorikai kudasai，请理解）。日语原句没有特定的梗含义；让 Toriel 说「ごりかいください」（gorikai kudasai，请理解）也不符合角色性格，所以我优先让译文自然。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1908762,
+          0.8007143,
+          0.6655149,
+          0.885
+        ],
+        "font_size": 17,
+        "line_height": 1.3823529411764706,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1908762,
+          0.8007143,
+          0.6655149,
+          0.885
+        ],
+        "font_size": 17,
+        "leading": 23.5
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Translator",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1112594,
+          0.8321429,
+          0.1725031,
+          0.8485714
+        ],
+        "mask_bbox": [
+          0.1112594,
+          0.8321429,
+          0.1725031,
+          0.8485714
+        ]
+      },
+      "translation": {
+        "text": "译者",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1122801,
+          0.8321429,
+          0.1725031,
+          0.8485714
+        ],
+        "font_size": 14,
+        "line_height": 1.5,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1122801,
+          0.8321429,
+          0.1725031,
+          0.8485714
+        ],
+        "font_size": 14,
+        "leading": 21.0
+      },
+      "structure": {
+        "type": "callout",
+        "group": "p0093-notes"
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0093-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6625623692258168,
+          0.9356115897955736,
+          0.7080621277965556,
+          0.949127386382835
+        ],
+        "mask_bbox": [
+          0.6625623692258168,
+          0.9356115897955736,
+          0.7080621277965556,
+          0.949127386382835
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6625623692258168,
+          0.9356115897955736,
+          0.7080621277965556,
+          0.949127386382835
+        ],
+        "font_size": 14,
+        "line_height": 1.2857142857142858,
+        "font_weight": 700,
+        "text_align": "right",
+        "color": "#555555",
+        "mask_color": "#ffffff",
+        "background": "transparent",
+        "resize_anchor": "right"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.6625623692258168,
+          0.9356115897955736,
+          0.7080621277965556,
+          0.949127386382835
+        ],
+        "font_size": 14,
+        "leading": 18
+      },
+      "structure": {
+        "role": "running-footer",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.910750+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 13
+    }
+  },
+  "chapter_id": "chapter-80"
+}

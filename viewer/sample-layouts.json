@@ -1,0 +1,1072 @@
+{
+  "60": {
+    "reference_size": [
+      988.567585743107,
+      1400
+    ],
+    "typography": {
+      "calibrated_at": "20261022T124100Z",
+      "pdf_page_pt": [
+        504.0,
+        713.76
+      ],
+      "reference_height": 1400,
+      "body_font": "Noto Serif SC",
+      "caption_font": "Noto Sans SC",
+      "japanese_font": "Noto Serif JP",
+      "body_size": 20,
+      "body_leading": 29,
+      "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+      "body_weight": 450,
+      "body_alignment": "justify",
+      "revised_at": "20261022T130627Z",
+      "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+      "latin_font": "Source Serif 4 Text",
+      "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+      "linebreak_revised_at": "20261022T133957Z"
+    },
+    "blocks": {
+      "p0060-b001": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.039285714285714285,
+            0.8992809523809523,
+            0.08357142857142857
+          ],
+          "font_size": 46,
+          "line_height": 1.2608695652173914,
+          "background": "transparent",
+          "font_weight": 750,
+          "style": "chapter-heading"
+        },
+        "mask_bbox": [
+          0.2882959183673469,
+          0.045,
+          0.7384421768707483,
+          0.08071428571428571
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.039285714285714285,
+            0.8992809523809523,
+            0.08357142857142857
+          ],
+          "font_size": 46,
+          "leading": 58
+        }
+      },
+      "p0060-b002": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.09571428571428571,
+            0.8992809523809523,
+            0.16285714285714287
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.09880714285714287,
+          0.904338775510204,
+          0.17047857142857142
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.09571428571428571,
+            0.8992809523809523,
+            0.16285714285714287
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b003": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.17785714285714285,
+            0.8992809523809523,
+            0.22357142857142856
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.1797642857142857,
+          0.904338775510204,
+          0.2323785714285714
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.17785714285714285,
+            0.8992809523809523,
+            0.22357142857142856
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b004": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.24785714285714286,
+            0.8992809523809523,
+            0.275
+          ],
+          "font_size": 26,
+          "line_height": 1.3076923076923077,
+          "background": "transparent",
+          "font_weight": 700
+        },
+        "mask_bbox": [
+          0.2881644149659864,
+          0.2526214285714286,
+          0.8988864421768707,
+          0.2664285714285714
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.24785714285714286,
+            0.8992809523809523,
+            0.275
+          ],
+          "font_size": 26,
+          "leading": 34
+        }
+      },
+      "p0060-b005": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.2792857142857143,
+            0.8992809523809523,
+            0.325
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.2807142857142857,
+          0.904338775510204,
+          0.33285714285714285
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.2792857142857143,
+            0.8992809523809523,
+            0.325
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b006": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.3492857142857143,
+            0.8992809523809523,
+            0.43642857142857144
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.34405,
+          0.904338775510204,
+          0.45
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.3492857142857143,
+            0.8992809523809523,
+            0.43642857142857144
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b007": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.4607142857142857,
+            0.8992809523809523,
+            0.5478571428571428
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.46214285714285713,
+          0.904338775510204,
+          0.5504785714285714
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.4607142857142857,
+            0.8992809523809523,
+            0.5478571428571428
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b008": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.7,
+            0.5836727891156462,
+            0.7342857142857143
+          ],
+          "font_size": 16,
+          "line_height": 1.4375,
+          "background": "transparent",
+          "font_weight": 400
+        },
+        "mask_bbox": [
+          0.2891759795918367,
+          0.7021428571428572,
+          0.5854430272108844,
+          0.73
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.7,
+            0.5836727891156462,
+            0.7342857142857143
+          ],
+          "font_size": 16,
+          "leading": 23
+        }
+      },
+      "p0060-b009": {
+        "layout": {
+          "bbox": [
+            0.6099734693877551,
+            0.7,
+            0.8992809523809523,
+            0.7342857142857143
+          ],
+          "font_size": 16,
+          "line_height": 1.4375,
+          "background": "transparent",
+          "font_weight": 400,
+          "break_after": "开发者"
+        },
+        "mask_bbox": [
+          0.609710462585034,
+          0.7016642857142857,
+          0.9009095714285714,
+          0.73
+        ],
+        "calibration": {
+          "bbox": [
+            0.6099734693877551,
+            0.7,
+            0.8992809523809523,
+            0.7342857142857143
+          ],
+          "font_size": 16,
+          "leading": 23
+        }
+      },
+      "p0060-b010": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.7442857142857143,
+            0.8992809523809523,
+            0.8285714285714286
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.74595,
+          0.904338775510204,
+          0.8195214285714285
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.7442857142857143,
+            0.8992809523809523,
+            0.8285714285714286
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0060-b011": {
+        "layout": {
+          "bbox": [
+            0.29234217687074826,
+            0.8421428571428572,
+            0.8992809523809523,
+            0.9085714285714286
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2872843537414966,
+          0.8288071428571429,
+          0.904338775510204,
+          0.8995214285714285
+        ],
+        "calibration": {
+          "bbox": [
+            0.29234217687074826,
+            0.8421428571428572,
+            0.8992809523809523,
+            0.9085714285714286
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      }
+    }
+  },
+  "140": {
+    "reference_size": [
+      977.0242914979757,
+      1400
+    ],
+    "typography": {
+      "calibrated_at": "20261022T124100Z",
+      "pdf_page_pt": [
+        496.44,
+        711.36
+      ],
+      "reference_height": 1400,
+      "body_font": "Noto Serif SC",
+      "caption_font": "Noto Sans SC",
+      "japanese_font": "Noto Serif JP",
+      "body_size": 20,
+      "body_leading": 29,
+      "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+      "body_weight": 450,
+      "body_alignment": "justify",
+      "revised_at": "20261022T130627Z",
+      "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+      "latin_font": "Source Serif 4 Text",
+      "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+      "linebreak_revised_at": "20261022T133957Z"
+    },
+    "blocks": {
+      "p0140-b001": {
+        "layout": {
+          "bbox": [
+            0.2937490935460479,
+            0.056428571428571425,
+            0.9099057287889776,
+            0.08214285714285714
+          ],
+          "font_size": 26,
+          "line_height": 1.3076923076923077,
+          "background": "transparent",
+          "font_weight": 700
+        },
+        "mask_bbox": [
+          0.291702061535274,
+          0.062142857142857146,
+          0.5117580026934632,
+          0.07785714285714286
+        ],
+        "calibration": {
+          "bbox": [
+            0.2937490935460479,
+            0.056428571428571425,
+            0.9099057287889776,
+            0.08214285714285714
+          ],
+          "font_size": 26,
+          "leading": 34
+        }
+      },
+      "p0140-b002": {
+        "layout": {
+          "bbox": [
+            0.12282192064643116,
+            0.09,
+            0.27020822542214856,
+            0.17142857142857143
+          ],
+          "font_size": 15.5,
+          "line_height": 1.4838709677419355,
+          "background": "transparent",
+          "font_weight": 400
+        },
+        "mask_bbox": [
+          0.10235160053869263,
+          0.09166428571428573,
+          0.27327877343830936,
+          0.16762142857142856
+        ],
+        "calibration": {
+          "bbox": [
+            0.12282192064643116,
+            0.09,
+            0.27020822542214856,
+            0.17142857142857143
+          ],
+          "font_size": 15.5,
+          "leading": 23
+        }
+      },
+      "p0140-b003": {
+        "layout": {
+          "bbox": [
+            0.2957961255568217,
+            0.23285714285714285,
+            0.9099057287889776,
+            0.33785714285714286
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2906785455298871,
+          0.23690714285714287,
+          0.9150233088159122,
+          0.32809285714285713
+        ],
+        "calibration": {
+          "bbox": [
+            0.2957961255568217,
+            0.23285714285714285,
+            0.9099057287889776,
+            0.33785714285714286
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0140-b004": {
+        "layout": {
+          "bbox": [
+            0.2957961255568217,
+            0.3457142857142857,
+            0.9099057287889776,
+            0.45071428571428573
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2906785455298871,
+          0.3373785714285714,
+          0.9150233088159122,
+          0.44666428571428574
+        ],
+        "calibration": {
+          "bbox": [
+            0.2957961255568217,
+            0.3457142857142857,
+            0.9099057287889776,
+            0.45071428571428573
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0140-b005": {
+        "layout": {
+          "bbox": [
+            0.12282192064643116,
+            0.4114285714285714,
+            0.27020822542214856,
+            0.5478571428571428
+          ],
+          "font_size": 15.5,
+          "line_height": 1.4838709677419355,
+          "background": "transparent",
+          "font_weight": 400,
+          "keep_phrases": [
+            "“COOL DUDE”"
+          ]
+        },
+        "mask_bbox": [
+          0.10235160053869263,
+          0.41214285714285714,
+          0.27327877343830936,
+          0.52
+        ],
+        "calibration": {
+          "bbox": [
+            0.12282192064643116,
+            0.4114285714285714,
+            0.27020822542214856,
+            0.5478571428571428
+          ],
+          "font_size": 15.5,
+          "leading": 23
+        }
+      },
+      "p0140-b006": {
+        "layout": {
+          "bbox": [
+            0.2957961255568217,
+            0.4585714285714286,
+            0.9099057287889776,
+            0.565
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2906785455298871,
+          0.45595,
+          0.9150233088159122,
+          0.5657142857142857
+        ],
+        "calibration": {
+          "bbox": [
+            0.2957961255568217,
+            0.4585714285714286,
+            0.9099057287889776,
+            0.565
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0140-b007": {
+        "layout": {
+          "bbox": [
+            0.12282192064643116,
+            0.5757142857142857,
+            0.27020822542214856,
+            0.6821428571428572
+          ],
+          "font_size": 15.5,
+          "line_height": 1.4838709677419355,
+          "background": "transparent",
+          "font_weight": 400
+        },
+        "mask_bbox": [
+          0.10235160053869263,
+          0.5769071428571428,
+          0.27327877343830936,
+          0.6804785714285714
+        ],
+        "calibration": {
+          "bbox": [
+            0.12282192064643116,
+            0.5757142857142857,
+            0.27020822542214856,
+            0.6821428571428572
+          ],
+          "font_size": 15.5,
+          "leading": 23
+        }
+      },
+      "p0140-b008": {
+        "layout": {
+          "bbox": [
+            0.12077488863565732,
+            0.6957142857142857,
+            0.27020822542214856,
+            0.7778571428571428
+          ],
+          "font_size": 15.5,
+          "line_height": 1.4838709677419355,
+          "background": "transparent",
+          "font_weight": 400
+        },
+        "mask_bbox": [
+          0.10235160053869263,
+          0.6969071428571428,
+          0.27327877343830936,
+          0.7728571428571429
+        ],
+        "calibration": {
+          "bbox": [
+            0.12077488863565732,
+            0.6957142857142857,
+            0.27020822542214856,
+            0.7778571428571428
+          ],
+          "font_size": 15.5,
+          "leading": 23
+        }
+      },
+      "p0140-b009": {
+        "layout": {
+          "bbox": [
+            0.2957961255568217,
+            0.8139285714285714,
+            0.9099057287889776,
+            0.9071428571428571
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.2906785455298871,
+          0.815,
+          0.9150233088159122,
+          0.9042857142857142
+        ],
+        "calibration": {
+          "bbox": [
+            0.2957961255568217,
+            0.8139285714285714,
+            0.9099057287889776,
+            0.9071428571428571
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      }
+    }
+  },
+  "220": {
+    "reference_size": [
+      985.7932652035518,
+      1400
+    ],
+    "typography": {
+      "calibrated_at": "20261022T124100Z",
+      "pdf_page_pt": [
+        504.36,
+        716.28
+      ],
+      "reference_height": 1400,
+      "body_font": "Noto Serif SC",
+      "caption_font": "Noto Sans SC",
+      "japanese_font": "Noto Serif JP",
+      "body_size": 20,
+      "body_leading": 29,
+      "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+      "body_weight": 450,
+      "body_alignment": "justify",
+      "revised_at": "20261022T130627Z",
+      "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+      "latin_font": "Source Serif 4 Text",
+      "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+      "linebreak_revised_at": "20261022T133957Z"
+    },
+    "blocks": {
+      "p0220-b001": {
+        "layout": {
+          "bbox": [
+            0.294179327691105,
+            0.056428571428571425,
+            0.9007973896196594,
+            0.08214285714285714
+          ],
+          "font_size": 26,
+          "line_height": 1.3076923076923077,
+          "background": "transparent",
+          "font_weight": 700
+        },
+        "mask_bbox": [
+          0.29215050474151116,
+          0.06166428571428571,
+          0.45648516365861114,
+          0.07785714285714286
+        ],
+        "calibration": {
+          "bbox": [
+            0.294179327691105,
+            0.056428571428571425,
+            0.9007973896196594,
+            0.08214285714285714
+          ],
+          "font_size": 26,
+          "leading": 34
+        }
+      },
+      "p0220-b002": {
+        "layout": {
+          "bbox": [
+            0.11970055402603581,
+            0.09,
+            0.2678046293463852,
+            0.17285714285714285
+          ],
+          "font_size": 15.5,
+          "line_height": 1.4838709677419355,
+          "background": "transparent",
+          "font_weight": 400
+        },
+        "mask_bbox": [
+          0.10144114747969137,
+          0.09166428571428573,
+          0.27084786377077597,
+          0.16762142857142856
+        ],
+        "calibration": {
+          "bbox": [
+            0.11970055402603581,
+            0.09,
+            0.2678046293463852,
+            0.17285714285714285
+          ],
+          "font_size": 15.5,
+          "leading": 23
+        }
+      },
+      "p0220-b003": {
+        "layout": {
+          "bbox": [
+            0.29519373916590186,
+            0.1957142857142857,
+            0.9018118010944562,
+            0.24
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.1992857142857143,
+          0.9068838584684409,
+          0.23380714285714285
+        ],
+        "calibration": {
+          "bbox": [
+            0.29519373916590186,
+            0.1957142857142857,
+            0.9018118010944562,
+            0.24
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b004": {
+        "layout": {
+          "bbox": [
+            0.33272696373338767,
+            0.24642857142857144,
+            0.9018118010944562,
+            0.2692857142857143
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450
+        },
+        "mask_bbox": [
+          0.32658977431086633,
+          0.24595,
+          0.8988902960470412,
+          0.26095
+        ],
+        "calibration": {
+          "bbox": [
+            0.33272696373338767,
+            0.24642857142857144,
+            0.9018118010944562,
+            0.2692857142857143
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b005": {
+        "layout": {
+          "bbox": [
+            0.29519373916590186,
+            0.27785714285714286,
+            0.9018118010944562,
+            0.38285714285714284
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.27214285714285713,
+          0.9068838584684409,
+          0.38095
+        ],
+        "calibration": {
+          "bbox": [
+            0.29519373916590186,
+            0.27785714285714286,
+            0.9018118010944562,
+            0.38285714285714284
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b006": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.39,
+            0.9018118010944562,
+            0.41571428571428576
+          ],
+          "font_size": 26,
+          "line_height": 1.3076923076923077,
+          "background": "transparent",
+          "font_weight": 700
+        },
+        "mask_bbox": [
+          0.2891782791203562,
+          0.39404999999999996,
+          0.899904707521838,
+          0.4073785714285715
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.39,
+            0.9018118010944562,
+            0.41571428571428576
+          ],
+          "font_size": 26,
+          "leading": 34
+        }
+      },
+      "p0220-b007": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.41714285714285715,
+            0.9018118010944562,
+            0.5021428571428571
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.4169071428571428,
+          0.9068838584684409,
+          0.5080928571428571
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.41714285714285715,
+            0.9018118010944562,
+            0.5021428571428571
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b008": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.5178571428571429,
+            0.9018118010944562,
+            0.5435714285714286
+          ],
+          "font_size": 26,
+          "line_height": 1.3076923076923077,
+          "background": "transparent",
+          "font_weight": 700
+        },
+        "mask_bbox": [
+          0.2891782791203562,
+          0.5221428571428571,
+          0.899904707521838,
+          0.5378571428571428
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.5178571428571429,
+            0.9018118010944562,
+            0.5435714285714286
+          ],
+          "font_size": 26,
+          "leading": 34
+        }
+      },
+      "p0220-b009": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.5464285714285714,
+            0.9018118010944562,
+            0.61
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.5454785714285714,
+          0.9068838584684409,
+          0.6176214285714285
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.5464285714285714,
+            0.9018118010944562,
+            0.61
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b010": {
+        "layout": {
+          "bbox": [
+            0.317510791611434,
+            0.625,
+            0.9018118010944562,
+            0.7064285714285714
+          ],
+          "font_size": 20,
+          "line_height": 1.4,
+          "background": "transparent",
+          "font_weight": 450,
+          "column_gap": 52
+        },
+        "mask_bbox": [
+          0.31142432276265253,
+          0.62595,
+          0.9058694469936439,
+          0.6980928571428572
+        ],
+        "calibration": {
+          "bbox": [
+            0.317510791611434,
+            0.625,
+            0.9018118010944562,
+            0.7064285714285714
+          ],
+          "font_size": 20,
+          "leading": 28
+        }
+      },
+      "p0220-b011": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.7157142857142857,
+            0.9018118010944562,
+            0.7592857142857142
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.7088071428571429,
+          0.9068838584684409,
+          0.7614285714285715
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.7157142857142857,
+            0.9018118010944562,
+            0.7592857142857142
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      },
+      "p0220-b012": {
+        "layout": {
+          "bbox": [
+            0.2962081506406988,
+            0.7714285714285715,
+            0.9018118010944562,
+            0.8785714285714286
+          ],
+          "font_size": 20,
+          "line_height": 1.45,
+          "background": "transparent",
+          "font_weight": 450,
+          "text_align": "justify"
+        },
+        "mask_bbox": [
+          0.29113609326671425,
+          0.7730928571428571,
+          0.9068838584684409,
+          0.9009499999999999
+        ],
+        "calibration": {
+          "bbox": [
+            0.2962081506406988,
+            0.7714285714285715,
+            0.9018118010944562,
+            0.8785714285714286
+          ],
+          "font_size": 20,
+          "leading": 29
+        }
+      }
+    }
+  }
+}

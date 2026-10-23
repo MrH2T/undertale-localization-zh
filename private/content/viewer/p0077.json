@@ -1,0 +1,1524 @@
+{
+  "schema_version": 3,
+  "pdf_page": 77,
+  "printed_page": "77",
+  "title": "文字系统与字体",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.720665+00:00",
+  "reference_size": [
+    981.910056,
+    1400
+  ],
+  "physical_size_pt": [
+    499.68,
+    712.44
+  ],
+  "image_url": "/assets/p0077.jpg",
+  "image_sha256": "6e2c9612add33a50b392d0a1e57b9520c756d6c210e81f262b61de2c88143584",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0077/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0077-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Japanese Language's Many Writing Systems",
+        "raw": "The Japanese Language's Many Writing Systems",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14685663,
+          0.08205714,
+          0.64873559,
+          0.09580714
+        ],
+        "mask_bbox": [
+          0.14553268,
+          0.08134286,
+          0.65005954,
+          0.09687857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语的多套文字系统",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11813709,
+          0.07228571,
+          0.67725144,
+          0.09642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.09642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11813709,
+          0.07228571,
+          0.67725144,
+          0.09642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 139.0
+    },
+    {
+      "id": "p0077-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Japanese language uses three different writing systems: hiragana, katakana, and kanji.",
+        "raw": "The Japanese language uses three different writing systems: hiragana,\nkatakana, and kanji.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11901294,
+          0.11135714,
+          0.65404158,
+          0.13867143
+        ],
+        "mask_bbox": [
+          0.11768899,
+          0.11064286,
+          0.65536553,
+          0.13974286
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "日语使用三套不同的文字系统：平假名、片假名和汉字。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.10992857,
+          0.7007872,
+          0.14224286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35147143285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.10992857,
+          0.7007872,
+          0.14224286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Hiragana and katakana are both syllabaries, which means every character is one syllable. You can write any and every Japanese word with hiragana or katakana alone. Kanji is a more complicated writing system that Japan imported from China long ago. Kanji is complex, follows multiple pronunciation rules, contains thousands of characters, and takes years to master. All three systems are used side-by-side in normal, everyday Japanese writing.",
+        "raw": "Hiragana and katakana are both syllabaries, which means every character\nis one syllable. You can write any and every Japanese word with hiragana\nor katakana alone. Kanji is a more complicated writing system that\nJapan imported from China long ago. Kanji is complex, follows multiple\npronunciation rules, contains thousands of characters, and takes years\nto master. All three systems are used side-by-side in normal, everyday\nJapanese writing.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11948141,
+          0.15077143,
+          0.67778102,
+          0.26533571
+        ],
+        "mask_bbox": [
+          0.11815746,
+          0.15005714,
+          0.67910497,
+          0.26640714
+        ],
+        "line_ids": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "平假名与片假名都属于音节文字，也就是说，每个字符表示一个音节。任何日语词，都可以只用平假名或只用片假名写出来。汉字则是日本很久以前从中国引进的、更复杂的文字系统：读法规则多、字数达数千，需要多年才能掌握。日常书面日语将三套文字并用。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.14934286,
+          0.7007872,
+          0.26890714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35147143285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0077-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.14934286,
+          0.7007872,
+          0.26890714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Early Japanese games could only support hiragana and/or katakana, but kanji became available as game hardware improved. Toby and 8-4 intentionally avoided heavy kanji usage in Undertale's dialogue to retain the game's intended \"retro\" vibe.",
+        "raw": "Early Japanese games could only support hiragana and/or katakana,\nbut kanji became available as game hardware improved. Toby and 8-4\nintentionally avoided heavy kanji usage in Underta/e's dialogue to retain\nthe game's intended \"retro\" vibe.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12095813,
+          0.27876429,
+          0.67335088,
+          0.34145
+        ],
+        "mask_bbox": [
+          0.11963418,
+          0.27805,
+          0.67467483,
+          0.34252143
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "早期日本游戏只能支持平假名或片假名，随着硬件进步，才逐渐用上汉字。Toby 与 8-4 有意避免在 Undertale 对白中大量使用汉字，以保留游戏原本想要的“复古”感。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 50,
+            "end": 59,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12095813,
+          0.27733571,
+          0.7007872,
+          0.34502143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35147143285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0077-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.12095813,
+          0.27733571,
+          0.7007872,
+          0.34502143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Individual Character Examples",
+        "raw": "Individual Character Examples",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26943405,
+          0.35861429,
+          0.52767562,
+          0.37068571
+        ],
+        "mask_bbox": [
+          0.2681101,
+          0.3579,
+          0.52899957,
+          0.37175714
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "单字示例",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11813709,
+          0.34868571,
+          0.67725144,
+          0.37282857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.37282856714285717,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "color": "#c74056"
+      },
+      "calibration": {
+        "bbox": [
+          0.11813709,
+          0.34868571,
+          0.67725144,
+          0.37282857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Hiragana",
+        "raw": "Hiragana",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.16246906,
+          0.38555714,
+          0.23045899,
+          0.39636429
+        ],
+        "mask_bbox": [
+          0.16114511,
+          0.38484286,
+          0.23178294,
+          0.39743571
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "平假名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.16246906,
+          0.38412857,
+          0.33126252,
+          0.40212857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40412143142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#c74056"
+      },
+      "calibration": {
+        "bbox": [
+          0.16246906,
+          0.38412857,
+          0.33126252,
+          0.40212857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Katakana",
+        "raw": "Katakana",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35366783,
+          0.38521429,
+          0.42417327,
+          0.39602143
+        ],
+        "mask_bbox": [
+          0.35234388,
+          0.3845,
+          0.42549722,
+          0.39709286
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "片假名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35366783,
+          0.38378571,
+          0.517359,
+          0.40178571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4043357114285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#c74056"
+      },
+      "calibration": {
+        "bbox": [
+          0.35366783,
+          0.38378571,
+          0.517359,
+          0.40178571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "Kanji",
+        "raw": "Kanji",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.54050776,
+          0.38521429,
+          0.57736449,
+          0.39602143
+        ],
+        "mask_bbox": [
+          0.5391838,
+          0.3845,
+          0.57868844,
+          0.39709286
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "汉字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.54050776,
+          0.38378571,
+          0.69263982,
+          0.40178571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40285714142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#c74056"
+      },
+      "calibration": {
+        "bbox": [
+          0.54050776,
+          0.38378571,
+          0.69263982,
+          0.40178571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "Pronunciation: ro",
+        "raw": "Pronunciation: ro",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.16254035,
+          0.40769286,
+          0.26460672,
+          0.41877857
+        ],
+        "mask_bbox": [
+          0.1612164,
+          0.40697857,
+          0.26593067,
+          0.41985
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "读音：ro",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.16254035,
+          0.40626429,
+          0.33126252,
+          0.42426429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4235714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.16254035,
+          0.40626429,
+          0.33126252,
+          0.42426429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Pronunciation: ro",
+        "raw": "Pronunciation: ro",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35418723,
+          0.40790714,
+          0.45576476,
+          0.41871429
+        ],
+        "mask_bbox": [
+          0.35286328,
+          0.40719286,
+          0.45708871,
+          0.41978571
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "读音：ro",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35418723,
+          0.40647857,
+          0.517359,
+          0.42447857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42304999857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.35418723,
+          0.40647857,
+          0.517359,
+          0.42447857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Pronunciation: ro, rō, ru, tsuyu, akira, arawa",
+        "raw": "~ Pronunciation: ro, r6, ru,\n~ tsuyu, akira, arawa",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.53976431,
+          0.40642857,
+          0.68641725,
+          0.43214286
+        ],
+        "mask_bbox": [
+          0.53844036,
+          0.40571429,
+          0.6877412,
+          0.43321429
+        ],
+        "line_ids": [
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "读音：ro、rō、ru、\ntsuyu、akira、arawa",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 6,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 9,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 13,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 19,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 25,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.53976431,
+          0.405,
+          0.69252779,
+          0.43571429
+        ],
+        "font_size": 14,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.43620714142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.53976431,
+          0.405,
+          0.69252779,
+          0.43571429
+        ],
+        "font_size": 14,
+        "leading": 18.900000000000002
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Meaning: nothing specific",
+        "raw": "Meaning:\nnothing specific",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.16210242,
+          0.42865714,
+          0.24800642,
+          0.44983571
+        ],
+        "mask_bbox": [
+          0.16077847,
+          0.42794286,
+          0.24933037,
+          0.45090714
+        ],
+        "line_ids": [
+          24,
+          26
+        ]
+      },
+      "translation": {
+        "text": "含义：无特定含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.16210242,
+          0.42722857,
+          0.2851585,
+          0.46428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.16210242,
+          0.42722857,
+          0.2851585,
+          0.46428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "hiragana-meaning-cell"
+    },
+    {
+      "id": "p0077-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Meaning: nothing specific",
+        "raw": "Meaning:\nnothing specific",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35327065,
+          0.42833571,
+          0.43917464,
+          0.44983571
+        ],
+        "mask_bbox": [
+          0.3519467,
+          0.42762143,
+          0.44049859,
+          0.45090714
+        ],
+        "line_ids": [
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "含义：无特定含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35327065,
+          0.42690714,
+          0.47865891,
+          0.46428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.35327065,
+          0.42690714,
+          0.47865891,
+          0.46428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "katakana-meaning-cell"
+    },
+    {
+      "id": "p0077-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "Meanings: dew, tears, transience, expose, Russia",
+        "raw": "Meanings: dew, tears,\ntransience, expose, Russia",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.5402837,
+          0.43977857,
+          0.68257779,
+          0.46094286
+        ],
+        "mask_bbox": [
+          0.53895975,
+          0.43906429,
+          0.68390174,
+          0.46201429
+        ],
+        "line_ids": [
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "含义：露水、眼泪、短暂、显露、俄罗斯",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.53976431,
+          0.43835714,
+          0.69252779,
+          0.46785714
+        ],
+        "font_size": 14,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.475,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.53976431,
+          0.43835714,
+          0.69252779,
+          0.46785714
+        ],
+        "font_size": 14,
+        "leading": 18.900000000000002
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b015",
+      "kind": "subheading",
+      "source": {
+        "text": "Just the Right Type",
+        "raw": "Just the Right Type",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09259504,
+          0.50212857,
+          0.29123849,
+          0.51588571
+        ],
+        "mask_bbox": [
+          0.09127109,
+          0.50141429,
+          0.29256244,
+          0.51695714
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "恰到好处的字体",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.49228571,
+          0.7007872,
+          0.51642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5164285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.49228571,
+          0.7007872,
+          0.51642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 727.0
+    },
+    {
+      "id": "p0077-b016",
+      "kind": "paragraph",
+      "source": {
+        "text": "Fonts are a big part of the Undertale experience - the game makes heavy use of multiple fonts, and it even contains font-related jokes. What's more, Toby chose many of the game's English fonts because they're generic, cheesy, and not what a serious, professional game developer would ever use.",
+        "raw": "Fonts are a big part of the Undertale experience - the game makes heavy use\nof multiple fonts, and it even contains font-related jokes. What's more, Toby\nchose many of the game's English fonts because they're generic, cheesy, and\nnot what a serious, professional game developer would ever use.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09443839,
+          0.66798571,
+          0.67840226,
+          0.73506429
+        ],
+        "mask_bbox": [
+          0.09152569,
+          0.66727143,
+          0.70282405,
+          0.73613571
+        ],
+        "line_ids": [
+          54,
+          55,
+          56,
+          57
+        ]
+      },
+      "translation": {
+        "text": "字体是 Undertale 体验的重要部分。游戏大量使用多种字体，甚至有与字体相关的笑话。而且 Toby 选择许多英文字体，正因为它们普通、俗气，正经的专业游戏开发者绝不会用。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.66655714,
+          0.7007872,
+          0.73863571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.66655714,
+          0.7007872,
+          0.73863571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b017",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because fonts are so important in Undertale, Toby and 8-4 searched at length for Japanese fonts that \"feel\" like their English counterparts, even if they aren't visually similar. In other words, cheesy English fonts were replaced with cheesy Japanese fonts, generic English game fonts were replaced with generic Japanese fonts, and so on.",
+        "raw": "Because fonts are so important in Undertale, Toby and 8-4 searched at length\nfor Japanese fonts that \"feel\" like their English counterparts, even if they\naren't visually similar. In other words, cheesy English fonts were replaced with\ncheesy Japanese fonts, generic English game fonts were replaced with generic\nJapanese fonts, and so on.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09356254,
+          0.7502,
+          0.7007872,
+          0.83646429
+        ],
+        "mask_bbox": [
+          0.09152569,
+          0.74948571,
+          0.70282405,
+          0.83753571
+        ],
+        "line_ids": [
+          58,
+          59,
+          60,
+          61,
+          62
+        ]
+      },
+      "translation": {
+        "text": "既然字体如此重要，Toby 与 8-4 就花了很久，寻找与英文字体“感觉”相近的日文字体，外观不必相似。也就是说，俗气的英文字体换成俗气的日文字体，常见的英语游戏字体换成常见的日文字体，诸如此类。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.74877143,
+          0.7007872,
+          0.84003571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0077-b016"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.74877143,
+          0.7007872,
+          0.84003571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b018",
+      "kind": "paragraph",
+      "source": {
+        "text": "There were two reasons for the team's obsession with finding the right Japanese fonts: a poor font choice would inaccurately represent the original game, and a poor font choice would sour the player's experience.",
+        "raw": "There were two reasons for the team's obsession with finding the right\nJapanese fonts: a poor font choice would inaccurately represent the original\ngame, and a poor font choice would sour the player's experience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09356254,
+          0.85159286,
+          0.67653854,
+          0.90114286
+        ],
+        "mask_bbox": [
+          0.09152569,
+          0.85087857,
+          0.70282405,
+          0.90221429
+        ],
+        "line_ids": [
+          63,
+          64,
+          65
+        ]
+      },
+      "translation": {
+        "text": "团队如此执着于找对日文字体，有两个原因：选错会误传原作，也会损害玩家体验。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09443839,
+          0.85016429,
+          0.7007872,
+          0.90471429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0077-b017"
+      },
+      "calibration": {
+        "bbox": [
+          0.09443839,
+          0.85016429,
+          0.7007872,
+          0.90471429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b019",
+      "kind": "caption",
+      "source": {
+        "text": "In text-heavy games, fonts can shape the way a game \"feels\" just as much as its art and sound (note: for display purposes, the Undertale fonts here aren't to scale)",
+        "raw": "In text-heavy games,\nfonts can shape the\nway a game \"feels\"\njust as much as its art\nand sound (note: for\ndisplay purposes, the\nUndertale fonts here\naren't to scale)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73182874,
+          0.53109286,
+          0.86668834,
+          0.65002857
+        ],
+        "mask_bbox": [
+          0.73050479,
+          0.53037857,
+          0.86801229,
+          0.6511
+        ],
+        "line_ids": [
+          31,
+          35,
+          37,
+          42,
+          43,
+          47,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "文字量大的游戏中，字体对“感觉”的影响不亚于美术与声音。（注：为方便展示，这里的 Undertale 字体并非按实际比例呈现。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 41,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72715418,
+          0.52966429,
+          0.89824928,
+          0.6536
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72715418,
+          0.52966429,
+          0.89824928,
+          0.6536
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0077-b020",
+      "kind": "footer",
+      "source": {
+        "text": "Starting the Game",
+        "raw": "Starting the Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56886066,
+          0.93745714,
+          0.70474887,
+          0.94826429
+        ],
+        "mask_bbox": [
+          0.56753671,
+          0.93674286,
+          0.70607282,
+          0.94933571
+        ],
+        "line_ids": [
+          67
+        ]
+      },
+      "translation": {
+        "text": "开始游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56886066,
+          0.93602857,
+          0.70474887,
+          0.95402857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9540285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56886066,
+          0.93602857,
+          0.70474887,
+          0.95402857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Starting the Game",
+        "chapter_id": "chapter-72"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "41bc97411b25d38cb152da05a24a3f98d9d4615f17057dfdd47d8103b2bab757"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          22
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.73,
+      688.11
+    ],
+    "text_runs": [
+      {
+        "id": "p0077-b002",
+        "blocks": [
+          "p0077-b002",
+          "p0077-b003",
+          "p0077-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 492.06
+      },
+      {
+        "id": "p0077-b016",
+        "blocks": [
+          "p0077-b016",
+          "p0077-b017",
+          "p0077-b018"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

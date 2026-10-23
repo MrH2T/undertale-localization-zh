@@ -1,0 +1,874 @@
+{
+  "schema_version": 3,
+  "pdf_page": 158,
+  "printed_page": "158",
+  "title": "瀑布",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.749950+00:00",
+  "reference_size": [
+    982.348993,
+    1400
+  ],
+  "physical_size_pt": [
+    501.84,
+    715.2
+  ],
+  "image_url": "/assets/p0158.jpg",
+  "image_sha256": "9a3aeebf144e67bfdc7c1ab9183b2a7e51b8be5d43b46809b1c6aac2c7b7e3ab",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0158/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0158-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29065027,
+          0.04878571,
+          0.50774216,
+          0.08332143
+        ],
+        "mask_bbox": [
+          0.28932691,
+          0.04807143,
+          0.50906552,
+          0.08439286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29622874,
+          0.04285714,
+          0.88054246,
+          0.08
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29622874,
+          0.04285714,
+          0.88054246,
+          0.08
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Human Traverses Treacherous Trickles",
+        "raw": "Human Traverses Treacherous Trickles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29581137,
+          0.09380714,
+          0.61957614,
+          0.10582857
+        ],
+        "mask_bbox": [
+          0.29448801,
+          0.09309286,
+          0.6208995,
+          0.1069
+        ],
+        "line_ids": [
+          2
+        ]
+      },
+      "translation": {
+        "text": "人类踏过险流",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29551616,
+          0.08382857,
+          0.89969044,
+          0.10797143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10797142714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29551616,
+          0.08382857,
+          0.89969044,
+          0.10797143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character heads for a distant castle to find the Underground's exit. The journey leads through a winding, watery path filled with dangers and delights.",
+        "raw": "The main character heads for a distant castle to find the Underground's exit. The\njourney leads through a winding, watery path filled with dangers and delights.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29497663,
+          0.13072143,
+          0.89969044,
+          0.15691429
+        ],
+        "mask_bbox": [
+          0.2929407,
+          0.13000714,
+          0.90172638,
+          0.15798571
+        ],
+        "line_ids": [
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "主角朝远方的城堡前进，寻找地下世界的出口。旅程穿过蜿蜒的水路，沿途既有危险，也有惊喜。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29497663,
+          0.12,
+          0.90293776,
+          0.16142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16142857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29497663,
+          0.12,
+          0.90293776,
+          0.16142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b004",
+      "kind": "heading",
+      "source": {
+        "text": "Falling Water",
+        "raw": "Falling Water",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29752156,
+          0.17481429,
+          0.43379695,
+          0.18795714
+        ],
+        "mask_bbox": [
+          0.2961982,
+          0.1741,
+          0.43512031,
+          0.18902857
+        ],
+        "line_ids": [
+          5
+        ]
+      },
+      "translation": {
+        "text": "落下的水",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29551616,
+          0.16442857,
+          0.89969044,
+          0.18857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.18857142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29551616,
+          0.16442857,
+          0.89969044,
+          0.18857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 268.0
+    },
+    {
+      "id": "p0158-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Translation and localization are very subjective processes - it's like asking a group of people to draw a clown and then seeing a bunch of different styles of clowns",
+        "raw": "Translation and\nlocalization are very\nsubjective processes -\nit's like asking a group\nof people to draw a\nclown and then seeing\na bunch of different\nstyles of clowns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12992328,
+          0.20421429,
+          0.27092205,
+          0.3227
+        ],
+        "mask_bbox": [
+          0.12859992,
+          0.2035,
+          0.27224541,
+          0.32377143
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          13,
+          16,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "翻译和本地化都很主观——就像让一群人画小丑，最后会看到各种不同风格的小丑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11706634,
+          0.20278571,
+          0.27092205,
+          0.32627143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4057785728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11706634,
+          0.20278571,
+          0.27092205,
+          0.32627143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "After leaving Snowdin, the main character reaches a region named \"Waterfall\" in the English version of Undertale. Note that \"Waterfall\" is the actual name of the place - it isn't simply \"a waterfall\" in the general sense.",
+        "raw": "After leaving Snowdin, the main character reaches a region named \"Waterfall\"\nin the English version of Undertale. Note that \"Waterfall\" is the actual name of\nthe place - it isn't simply \"a waterfall\" in the general sense.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29551616,
+          0.34829286,
+          0.89880481,
+          0.39765
+        ],
+        "mask_bbox": [
+          0.2929407,
+          0.34757857,
+          0.90172638,
+          0.39872143
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "离开 Snowdin 后，主角来到 Waterfall。Undertale 英语版以此为正式地名，并非泛指“一道瀑布”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29551616,
+          0.34686429,
+          0.89969044,
+          0.40122143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40425714285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29551616,
+          0.34686429,
+          0.89969044,
+          0.40122143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because of this intentional ambiguity - and the fact that the English word \"waterfall\" isn't commonly known in Japanese - this location was named ''Waterland\" as a temporary placeholder. The localization tean1 later settled on the name ''Waterfell\", which brought it closer to the original name, while \"sounding\" like the name of a place.",
+        "raw": "Because of this intentional ambiguity\n- and the fact that the English word\n\"waterfall\" isn't commonly known in\nJapanese - this location was named\n''Waterland\" as a temporary placeholder.\nThe localization tean1 later settled on\nthe name ''Waterfell\", which brought\nit closer to the original name, while\n\"sounding\" like the name of a place.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60845993,
+          0.4114,
+          0.90560484,
+          0.56946429
+        ],
+        "mask_bbox": [
+          0.60713657,
+          0.41068571,
+          0.9069282,
+          0.57053571
+        ],
+        "line_ids": [
+          27,
+          30,
+          32,
+          34,
+          36,
+          38,
+          41,
+          43,
+          45
+        ]
+      },
+      "translation": {
+        "text": "由于这种有意为之的歧义，再加上英语 waterfall（瀑布）在日语中并不常见，团队最初暂用“Waterland”（水之地）这个名字。后来，他们确定采用“Waterfell”，既更接近原名，又“听起来”像个地名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60845993,
+          0.40997143,
+          0.90560484,
+          0.57303571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.58,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60845993,
+          0.40997143,
+          0.90560484,
+          0.57303571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b008",
+      "kind": "aside",
+      "source": {
+        "text": "The temporary \"Waterland\" name in Japanese paralleled \"Hotland\", the name of another region in Underta/e",
+        "raw": "The temporary\n\"Waterland\" name in\nJapanese paralleled\n\"Hotland\", the name\nof another region in\nUnderta/e",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13849457,
+          0.41292143,
+          0.27003641,
+          0.50197143
+        ],
+        "mask_bbox": [
+          0.13717121,
+          0.41220714,
+          0.27135977,
+          0.50304286
+        ],
+        "line_ids": [
+          28,
+          29,
+          31,
+          33,
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "日语暂名“Waterland”与 Undertale 另一个区域的名称“Hotland”（热域）相呼应。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11706634,
+          0.41149286,
+          0.27006696,
+          0.50554286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11706634,
+          0.41149286,
+          0.27006696,
+          0.50554286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Subjective Name Changes in Localization",
+        "raw": "Subjective Name Changes in Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.39052313,
+          0.60265,
+          0.81380447,
+          0.61579286
+        ],
+        "mask_bbox": [
+          0.38919977,
+          0.60193571,
+          0.81512783,
+          0.61686429
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "本地化中的主观改名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.324731844,
+          0.592285714,
+          0.880542461,
+          0.616428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.616428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.324731844,
+          0.592285714,
+          0.880542461,
+          0.616428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 867
+    },
+    {
+      "id": "p0158-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's somewhat common for names to change during the localization process if their original names sound \"off\". Some past examples include:",
+        "raw": "It's somewhat common for names to change during the localization\nprocess if their original names sound \"off\". Some past examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32717497,
+          0.63104286,
+          0.86259568,
+          0.65892857
+        ],
+        "mask_bbox": [
+          0.32585161,
+          0.63032857,
+          0.86391904,
+          0.66
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "如果原名听起来“不太对”，本地化时改名是比较常见的事。过去的例子包括：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32717497,
+          0.62961429,
+          0.89969044,
+          0.6625
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6721428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32717497,
+          0.62961429,
+          0.89969044,
+          0.6625
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Princess Peach was renamed \"Princess Toadstool\" in Super Mario Bros.' English localization, presumably because \"Peach\" sounded \"off\" for a princess of the Mushroom Kingdom",
+        "raw": "Princess Peach was renamed \"Princess\nToadstool\" in Super Mario Bros.' English\nlocalization, presumably because \"Peach\"\nsounded \"off\" for a princess of the\nMushroom Kingdom",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33305882,
+          0.81427857,
+          0.59086944,
+          0.88174286
+        ],
+        "mask_bbox": [
+          0.33173547,
+          0.81356429,
+          0.5921928,
+          0.88281429
+        ],
+        "line_ids": [
+          49,
+          51,
+          53,
+          55,
+          57
+        ]
+      },
+      "translation": {
+        "text": "Super Mario Bros. 英译把 Princess Peach 改名为 Princess Toadstool（毒蘑菇公主），大概觉得蘑菇王国公主叫 Peach（桃子）不太对。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33083965,
+          0.81285,
+          0.59086944,
+          0.88531429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.33083965,
+          0.81285,
+          0.59086944,
+          0.88531429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0158-b012",
+      "kind": "caption",
+      "source": {
+        "text": "Tina was renamed \"Terra\" in the English localization of Final Fantasy VJ, supposedly because \"Tina\" doesn't sound \"exotic\" in English",
+        "raw": "Tina was renamed \"Terra\" in the\nEnglish localization of Final Fantasy\nVJ, supposedly because \"Tina\" doesn't\nsound \"exotic\" in English",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62948097,
+          0.81394286,
+          0.86695259,
+          0.86699286
+        ],
+        "mask_bbox": [
+          0.62815761,
+          0.81322857,
+          0.86827594,
+          0.86806429
+        ],
+        "line_ids": [
+          50,
+          52,
+          54,
+          56
+        ]
+      },
+      "translation": {
+        "text": "Final Fantasy VI 英语本地化把 Tina 改成了 Terra，据说是因为“Tina”在英语中不够有异域色彩。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62197855,
+          0.81251429,
+          0.87239872,
+          0.87056429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62197855,
+          0.81251429,
+          0.87239872,
+          0.87056429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0e8bca748e9dcd3bc878157379f04bdf8749e3dee3ce830a0181f826bb3128eb"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          39,
+          40,
+          42,
+          44,
+          58
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.3,
+      883.81
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

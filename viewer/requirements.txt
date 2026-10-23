@@ -1,0 +1,5 @@
+reportlab>=4.4.9,<5
+uharfbuzz>=0.56,<1
+fonttools[woff]>=4.67,<5
+
+pypdf>=5,<7

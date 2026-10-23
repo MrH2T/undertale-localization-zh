@@ -1,0 +1,698 @@
+{
+  "schema_version": 3,
+  "pdf_page": 95,
+  "printed_page": "95",
+  "title": "石头也有脾气 · 蜘蛛的募款活动",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 7,
+  "updated_at": "2026-10-22T16:48:26.249477+00:00",
+  "reference_size": [
+    980.4721753794266,
+    1400
+  ],
+  "physical_size_pt": [
+    498.36,
+    711.6
+  ],
+  "image_url": "/assets/p0095.jpg",
+  "image_sha256": "0209aaeba08a33f30dc75669adb316367dd3620a243b4c6e1782f70f4ac910b1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0095/page.json",
+  "blocks": [
+    {
+      "id": "p0095-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Rock and Roll",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0887328,
+          0.0571429,
+          0.7078222,
+          0.0764286
+        ],
+        "mask_bbox": [
+          0.0887328,
+          0.0571429,
+          0.7078222,
+          0.0764286
+        ]
+      },
+      "translation": {
+        "text": "石头也有脾气",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0917925,
+          0.0528571,
+          0.7047625,
+          0.08000004285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925,
+          0.0528571,
+          0.7047625,
+          0.08000004285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b002",
+      "kind": "aside",
+      "source": {
+        "text": "So, have you been reading these captions first or the main text first? I wonder what most people do first",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7272006,
+          0.0864286,
+          0.882228,
+          0.1657143
+        ],
+        "mask_bbox": [
+          0.7272006,
+          0.0864286,
+          0.882228,
+          0.1657143
+        ]
+      },
+      "translation": {
+        "text": "话说，你是先看这些图注，还是先看正文呢？不知道大多数人会先看哪边。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7312803,
+          0.0871429,
+          0.8985467,
+          0.175
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7312803,
+          0.0871429,
+          0.8985467,
+          0.175
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Indeed, it turns out that one gray rock doesn’t want to be pushed. In English, the rock speaks with an unusual accent and uses words like “pardner” and “pumpkin” that give off a “cowboy” or “person from Texas” vibe.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0805734,
+          0.24,
+          0.7088421,
+          0.2957143
+        ],
+        "mask_bbox": [
+          0.0805734,
+          0.24,
+          0.7088421,
+          0.2957143
+        ]
+      },
+      "translation": {
+        "text": "果然，有一块灰石头不愿意被推。在英文中，它说话带着特别的口音，会用 pardner（伙计）、pumpkin（南瓜，昵称） 这样的词，让人联想到牛仔，或是得克萨斯州的人。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0917925,
+          0.2378571,
+          0.7057824,
+          0.3
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925,
+          0.2378571,
+          0.7057824,
+          0.3
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that it wasn’t important for the Japanese script to retain this rock’s rural speech – the rock just needed to sound unique. Thus the rock now uses a distinctive speaking style associated with Edokko, a class of citizens who lived in Edo (now known as Tokyo) in the late 1700s and early 1800s. This speaking style evokes a special combination of assertive brashness and cheerful straightforwardness.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877128,
+          0.3042857,
+          0.7098621,
+          0.4142857
+        ],
+        "mask_bbox": [
+          0.0877128,
+          0.3042857,
+          0.7098621,
+          0.4142857
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，日文台词不必保留这块石头的乡土口音，只要让它说话与众不同就行。于是，日版采用了与 Edokko（江户子）相关的一种鲜明腔调。江户子是指 18 世纪末、19 世纪初生活在江户（今天的东京）的一类市民。这种说话方式把强势、莽撞与爽朗、直率揉合在一起，别有特色。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 49,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0917925079976609,
+          0.30857142857142855,
+          0.7057823948264593,
+          0.42428571428571427
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925079976609,
+          0.30857142857142855,
+          0.7057823948264593,
+          0.42428571428571427
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b005",
+      "kind": "aside",
+      "source": {
+        "text": "An Edokko man, as depicted in a 1947 Japanese film",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7261807,
+          0.3507143,
+          0.8557102,
+          0.4007143
+        ],
+        "mask_bbox": [
+          0.7261807,
+          0.3507143,
+          0.8557102,
+          0.4007143
+        ]
+      },
+      "translation": {
+        "text": "1947 年一部日本电影中的江户男子。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7312803,
+          0.3514286,
+          0.8975267,
+          0.4035714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7312803,
+          0.3514286,
+          0.8975267,
+          0.4035714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Arachnid Fundraising",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877128,
+          0.4314286,
+          0.7078222,
+          0.4507143
+        ],
+        "mask_bbox": [
+          0.0877128,
+          0.4314286,
+          0.7078222,
+          0.4507143
+        ]
+      },
+      "translation": {
+        "text": "蜘蛛的募款活动",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0917925,
+          0.4271429,
+          0.7047625,
+          0.45428574285714285
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925,
+          0.4271429,
+          0.7047625,
+          0.45428574285714285
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b007",
+      "kind": "aside",
+      "source": {
+        "text": "It’s crazy how even a tiny thing like this shop can have such a big effect on later events in the game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7272006,
+          0.4621429,
+          0.882228,
+          0.5407143
+        ],
+        "mask_bbox": [
+          0.7272006,
+          0.4621429,
+          0.882228,
+          0.5407143
+        ]
+      },
+      "translation": {
+        "text": "连这样一家小店，都能对游戏后面的事件产生那么大的影响，真不可思议。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7312803,
+          0.4621429,
+          0.8995666,
+          0.5521429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7312803,
+          0.4621429,
+          0.8995666,
+          0.5521429
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Spiders are holding a bake sale in the underground ruins, with doughnuts and cider available for purchase. Supporting the spiders here can have an effect on later events in the game, so the bake sale isn’t a simple, unimportant shop.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877128,
+          0.6064286,
+          0.7088421,
+          0.6628571
+        ],
+        "mask_bbox": [
+          0.0877128,
+          0.6064286,
+          0.7088421,
+          0.6628571
+        ]
+      },
+      "translation": {
+        "text": "蜘蛛们在地下遗迹里举办烘焙义卖，出售甜甜圈和苹果酒。在这里支持蜘蛛，会影响游戏后续的事件，因此这场义卖并不是一家无关紧要的普通小店。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0917925,
+          0.6042857,
+          0.7057824,
+          0.6664286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925,
+          0.6042857,
+          0.7057824,
+          0.6664286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "There’s one problem, though: bake sales aren’t very common in Japan. The team eventually decided to localize “bake sale” as sokubaikai (“sales exhibition”), which is roughly equivalent to the “Artist Alley” vendor areas commonly seen at entertainment conventions in the West.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0877128,
+          0.6721429,
+          0.7088421,
+          0.7457143
+        ],
+        "mask_bbox": [
+          0.0877128,
+          0.6721429,
+          0.7088421,
+          0.7457143
+        ]
+      },
+      "translation": {
+        "text": "但有个问题：烘焙义卖在日本并不常见。团队最终决定把 bake sale本地化为 sokubaikai（即卖会），大致相当于西方娱乐展会上常见的 Artist Alley，也就是创作者摆摊售卖作品的区域。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 40,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0917925079976609,
+          0.675,
+          0.7057823948264593,
+          0.7535714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0917925079976609,
+          0.675,
+          0.7057823948264593,
+          0.7535714285714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b010",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Bake sales are generally small fundraising activities for clubs, etc.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7272006,
+          0.7557143,
+          0.8771284,
+          0.82
+        ],
+        "mask_bbox": [
+          0.7272006,
+          0.7557143,
+          0.8771284,
+          0.82
+        ]
+      },
+      "translation": {
+        "text": "左：烘焙义卖通常是社团等组织的小型筹款活动。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7312803,
+          0.7564286,
+          0.8995666,
+          0.8185714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7312803,
+          0.7564286,
+          0.8995666,
+          0.8185714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b011",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Japanese sales exhibitions are kind of like “Artist Alleys” at entertainment conventions",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7261807,
+          0.8242857,
+          0.8781483,
+          0.9042857
+        ],
+        "mask_bbox": [
+          0.7261807,
+          0.8242857,
+          0.8781483,
+          0.9042857
+        ]
+      },
+      "translation": {
+        "text": "右：日本的即卖会，有点像娱乐展会上的 创作者摊位区。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7312803,
+          0.8235714,
+          0.8995666,
+          0.9085714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7312803,
+          0.8235714,
+          0.8995666,
+          0.9085714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0095-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6615097519865157,
+          0.9344234425238899,
+          0.7070862557187576,
+          0.949038535272625
+        ],
+        "mask_bbox": [
+          0.6615097519865157,
+          0.9344234425238899,
+          0.7070862557187576,
+          0.949038535272625
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6615097519865157,
+          0.9344234425238899,
+          0.7070862557187576,
+          0.949038535272625
+        ],
+        "font_size": 14,
+        "line_height": 1.2857142857142858,
+        "font_weight": 700,
+        "text_align": "right",
+        "color": "#555555",
+        "mask_color": "#ffffff",
+        "background": "transparent",
+        "resize_anchor": "right"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.6615097519865157,
+          0.9344234425238899,
+          0.7070862557187576,
+          0.949038535272625
+        ],
+        "font_size": 14,
+        "leading": 18
+      },
+      "structure": {
+        "role": "running-footer",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.933919+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 11
+    }
+  },
+  "chapter_id": "chapter-80"
+}

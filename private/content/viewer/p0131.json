@@ -1,0 +1,1083 @@
+{
+  "schema_version": 3,
+  "pdf_page": 131,
+  "printed_page": "131",
+  "title": "葡萄干的牌子",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.190928+00:00",
+  "reference_size": [
+    979.055649,
+    1400
+  ],
+  "physical_size_pt": [
+    497.64,
+    711.6
+  ],
+  "image_url": "/assets/p0131.jpg",
+  "image_sha256": "69542380f4f845fe4418b8c69e431ac3bb88a54905023bc2d8c9bdc6822b7e3f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0131/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0131-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Raisin Brand",
+        "raw": "Raisin Brand",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09362083,
+          0.06281429,
+          0.22266354,
+          0.0763
+        ],
+        "mask_bbox": [
+          0.09229302,
+          0.0621,
+          0.22399135,
+          0.07737143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "葡萄干的牌子",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.053,
+          0.68889853,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.053,
+          0.68889853,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0131-b002",
+      "kind": "aside",
+      "source": {
+        "text": "They don't train you for raisin puns in translation school, you just have to master it on your own for some raisin",
+        "raw": "They don't train you\nfor raisin puns in\ntranslation school,\nyou just have to master\nit on your own for\nsome raisin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73151102,
+          0.09225,
+          0.87803998,
+          0.1803
+        ],
+        "mask_bbox": [
+          0.73018321,
+          0.09153571,
+          0.87936779,
+          0.18137143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "翻译学校可不教你葡萄干双关。不知出于什么“raisin”（葡萄干，谐音 reason“原因”），你只能靠自己掌握。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71749752,
+          0.09082143,
+          0.87803998,
+          0.18387143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.26,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71749752,
+          0.09082143,
+          0.87803998,
+          0.18387143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A sentry station belonging to a guard dog is empty, except for a strange box of raisins. The English script refers to this box as a \"box of pomeraisins\", a play on the words \"Pomeranian\" and \"raisin\".",
+        "raw": "A sentry station belonging to a guard dog is empty, except for a strange box of\nraisins. The English script refers to this box as a \"box of pomeraisins\", a play\non the words \"Pomeranian\" and \"raisin\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09062815,
+          0.26474286,
+          0.68769329,
+          0.313
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.26402857,
+          0.69094132,
+          0.31407143
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "某只守卫犬的哨所空空荡荡，只留着一盒奇怪的葡萄干。英文剧本把它叫作“a box of pomeraisins”，将 Pomeranian（博美犬）与 raisin（葡萄干）拼在一起。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.26331429,
+          0.68889853,
+          0.31657143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.26331429,
+          0.68889853,
+          0.31657143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although the words \"Pomeranian\" and \"raisin\" exist in Japanese too, the \"ra\" parts are pronounced differently:",
+        "raw": "Although the words \"Pomeranian\" and \"raisin\" exist in Japanese too, the \"ra\"\nparts are pronounced differently:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09062815,
+          0.32880714,
+          0.68664126,
+          0.36055714
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.32809286,
+          0.69094132,
+          0.36162857
+        ],
+        "line_ids": [
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "日语也借用了“Pomeranian”和“raisin”，但两者中“ra”的读音不同：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.32737857,
+          0.68889853,
+          0.36412857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.32737857,
+          0.68889853,
+          0.36412857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b005",
+      "kind": "quote",
+      "source": {
+        "text": "The \"ra\" in \"Pomeranian\" is pronounced like \"rah\" in Japanese",
+        "raw": "The \"ra\" in \"Pomeranian\" is pronounced like \"rah\" in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13728535,
+          0.37536429,
+          0.62274295,
+          0.38787143
+        ],
+        "mask_bbox": [
+          0.10020881,
+          0.37465,
+          0.62407076,
+          0.38894286
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "• “Pomeranian”的“ra”，在日语中读作近似“rah”的音。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13728535,
+          0.37393571,
+          0.68889853,
+          0.394525
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.13728535,
+          0.37393571,
+          0.68889853,
+          0.394525
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0131-b006",
+      "kind": "quote",
+      "source": {
+        "text": "The \"ra\" in \"raisin\" is pronounced like \"reh\" in Japanese",
+        "raw": "The \"ra\" in \"raisin\" is pronounced like \"reh\" in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13728535,
+          0.402,
+          0.5736344,
+          0.41450714
+        ],
+        "mask_bbox": [
+          0.10020881,
+          0.40128571,
+          0.57496221,
+          0.41557857
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "• “raisin”的“ra”，在日语中读作近似“reh”的音。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13728535,
+          0.40057143,
+          0.68889853,
+          0.42116071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.13728535,
+          0.40057143,
+          0.68889853,
+          0.42116071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0131-b007",
+      "kind": "aside",
+      "source": {
+        "text": "This is a non-raisin-related Pomeranian",
+        "raw": "This is a non-raisin-related\nPomeranian",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73201151,
+          0.38567143,
+          0.8987436,
+          0.41132857
+        ],
+        "mask_bbox": [
+          0.7306837,
+          0.38495714,
+          0.90007141,
+          0.4124
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "这是一只与葡萄干无关的博美犬。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73201151,
+          0.38424286,
+          0.8987436,
+          0.4149
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5066928528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73201151,
+          0.38424286,
+          0.8987436,
+          0.4149
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The localization team debated whether or not to keep this slightly broken Japanese wordplay as-is, even with the inconsistent vowel sounds. The team eventually chose the name inu jirushi rēzun (\"dog-labeled raisins\") to ensure that players will know exactly what the item is.",
+        "raw": "The localization team debated whether or not to keep this slightly broken\nJapanese wordplay as-is, even with the inconsistent vowel sounds. The team\neventually chose the name inujirushi rezun (\"dog-labeled raisins\") to ensure\nthat players will know exactly what the item is.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09152697,
+          0.42999286,
+          0.68038012,
+          0.49748571
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.42927857,
+          0.69094132,
+          0.49855714
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "本地化团队讨论过，要不要无视元音差异，原样保留这个在日语里略显不顺的文字游戏。最终，团队选择了 inu jirushi rēzun（狗牌葡萄干），确保玩家清楚这究竟是什么物品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 48,
+            "end": 65,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.42856429,
+          0.68889853,
+          0.50105714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.42856429,
+          0.68889853,
+          0.50105714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b009",
+      "kind": "aside",
+      "source": {
+        "text": "The original \"pomeraisin\" pun probably would've worked pretty well in Japanese, but the localization team went with a different approach",
+        "raw": "The original\n\"pomeraisin\" pun\nprobably would've\nworked pretty well\nin Japanese, but the\nlocalization team\nwent with a different\napproach",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72610786,
+          0.51383571,
+          0.86559942,
+          0.63359286
+        ],
+        "mask_bbox": [
+          0.72478005,
+          0.51312143,
+          0.86692723,
+          0.63466429
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          38,
+          41,
+          44
+        ]
+      },
+      "translation": {
+        "text": "原本的“pomeraisin”双关在日语里大概也能有不错的效果，不过本地化团队选了另一条路。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71749752,
+          0.51240714,
+          0.86559942,
+          0.63716429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71749752,
+          0.51240714,
+          0.86559942,
+          0.63716429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This \"pomeraisin\" issue comes up one other time in the English script, when un-decorating a monster named Gyftrot:",
+        "raw": "This \"pomeraisin\" issue comes up one other time in the English script, when\nun-decorating a monster named Gyftrot:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09243601,
+          0.68666429,
+          0.6841082,
+          0.71703571
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.68595,
+          0.69094132,
+          0.71810714
+        ],
+        "line_ids": [
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "英文剧本还有一处“pomeraisin”相关的台词：为名叫 Gyftrot 的怪物拆掉身上的装饰时，会出现：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.68523571,
+          0.68889853,
+          0.72060714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.68523571,
+          0.68889853,
+          0.72060714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b011",
+      "kind": "quote",
+      "source": {
+        "text": "You remove the box of non-dog-related raisins.",
+        "raw": "You remove the box of non-dog-related raisins.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13698915,
+          0.73285714,
+          0.48610107,
+          0.74536429
+        ],
+        "mask_bbox": [
+          0.13566134,
+          0.73214286,
+          0.48742888,
+          0.74643571
+        ],
+        "line_ids": [
+          56
+        ]
+      },
+      "translation": {
+        "text": "你取下了那盒与狗无关的葡萄干。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13698915,
+          0.73142857,
+          0.68889853,
+          0.75201786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0131-b010",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13698915,
+          0.73142857,
+          0.68889853,
+          0.75201786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this is a box of raisins rather than a box of pomeraisins, the Japanese line became:",
+        "raw": "Because this is a box of raisins rather than a box of pomeraisins, the Japanese\nline became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09299778,
+          0.76051429,
+          0.68889853,
+          0.79123571
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.7598,
+          0.69094132,
+          0.79230714
+        ],
+        "line_ids": [
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "因为这是一盒普通 raisins，而不是 pomeraisins，所以日语台词变成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.75908571,
+          0.68889853,
+          0.79480714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.75908571,
+          0.68889853,
+          0.79480714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b013",
+      "kind": "quote",
+      "source": {
+        "text": "You removed the box of\" non-dog-labeled raisins\".",
+        "raw": "You removed the box of\" non-dog-labeled raisins\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1374692,
+          0.80570714,
+          0.51041021,
+          0.81821429
+        ],
+        "mask_bbox": [
+          0.13614139,
+          0.80499286,
+          0.51173802,
+          0.81928571
+        ],
+        "line_ids": [
+          59
+        ]
+      },
+      "translation": {
+        "text": "你取下了那盒“非狗牌葡萄干”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1374692,
+          0.80427857,
+          0.68889853,
+          0.82486786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.1374692,
+          0.80427857,
+          0.68889853,
+          0.82486786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Understandably, the choice to remove the original Pomeranian/raisin joke surprised some Japanese players, particularly those already familiar with the English script.",
+        "raw": "Understandably, the choice to remove the original Pomeranian/raisin joke\nsurprised some Japanese players, particularly those already familiar with the\nEnglish script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09257901,
+          0.83371429,
+          0.68680468,
+          0.88332143
+        ],
+        "mask_bbox": [
+          0.08858536,
+          0.833,
+          0.69094132,
+          0.88439286
+        ],
+        "line_ids": [
+          60,
+          61,
+          62
+        ]
+      },
+      "translation": {
+        "text": "移除原本博美犬与葡萄干双关的决定，让一些日本玩家感到意外，尤其是那些已经熟悉英文剧本的玩家。这也不难理解。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09198149,
+          0.83228571,
+          0.68889853,
+          0.88689286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0131-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.09198149,
+          0.83228571,
+          0.68889853,
+          0.88689286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0131-b015",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64123015,
+          0.93958571,
+          0.70584343,
+          0.94942143
+        ],
+        "mask_bbox": [
+          0.63990234,
+          0.93887143,
+          0.70717124,
+          0.95049286
+        ],
+        "line_ids": [
+          64
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64123015,
+          0.93815714,
+          0.70584343,
+          0.95615714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9561571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64123015,
+          0.93815714,
+          0.70584343,
+          0.95615714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "dbe2cde3935715ea63fc3c9e83c2039f2bc7ba2f740d6776324437e1dcc17c26"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          31,
+          37,
+          39,
+          40,
+          42,
+          43,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          63
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      90.05,
+      674.47
+    ],
+    "text_runs": [
+      {
+        "id": "p0131-b003",
+        "blocks": [
+          "p0131-b003",
+          "p0131-b004",
+          "p0131-b005",
+          "p0131-b006",
+          "p0131-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 710.0
+      },
+      {
+        "id": "p0131-b010",
+        "blocks": [
+          "p0131-b010",
+          "p0131-b011",
+          "p0131-b012",
+          "p0131-b013",
+          "p0131-b014"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

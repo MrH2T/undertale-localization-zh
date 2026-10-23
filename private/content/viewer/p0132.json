@@ -1,0 +1,948 @@
+{
+  "schema_version": 3,
+  "pdf_page": 132,
+  "printed_page": "132",
+  "title": "雪趣横生",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    977.942915,
+    1400
+  ],
+  "physical_size_pt": [
+    496.32,
+    710.52
+  ],
+  "image_url": "/assets/p0132.jpg",
+  "image_sha256": "90cf78cc661968fc7c2e3a21813da50bb6d59fe5cfe68fe053f675eeb45f5ac6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0132/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0132-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Snow Much Fun",
+        "raw": "Snow Much Fun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29331978,
+          0.06472143,
+          0.45824761,
+          0.07809286
+        ],
+        "mask_bbox": [
+          0.29199046,
+          0.06400714,
+          0.45957693,
+          0.07916429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "雪趣横生",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.05609286,
+          0.91219026,
+          0.08023572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08023571714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.05609286,
+          0.91219026,
+          0.08023572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b002",
+      "kind": "aside",
+      "source": {
+        "text": "\"Snowful\" is an • example of how a single name change can lead to a domino effect that requires a variety of other changes in other places",
+        "raw": "\"Snowful\" is an •\nexample of how a\nsingle name change\ncan lead to a domino\neffect that requires\na variety of other\nchanges in other\nplaces",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13332067,
+          0.09463571,
+          0.28021063,
+          0.21362143
+        ],
+        "mask_bbox": [
+          0.13199134,
+          0.09392143,
+          0.28153995,
+          0.21469286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10
+        ]
+      },
+      "translation": {
+        "text": "“Snowful”说明，改一个名字也可能引发连锁反应，迫使其他地方跟着作出种种调整。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11759378,
+          0.09320714,
+          0.28021063,
+          0.21719286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6374000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11759378,
+          0.09320714,
+          0.28021063,
+          0.21719286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The first town in Undertale is known as \"Snowdin\" in the English script. Toby chose this name for several reasons:",
+        "raw": "The first town in Undertale is known as \"Snowdin\" in the English script. Toby\nchose this name for several reasons:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29288008,
+          0.25780714,
+          0.89281285,
+          0.28878571
+        ],
+        "mask_bbox": [
+          0.29083497,
+          0.25709286,
+          0.91423537,
+          0.28985714
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Undertale 中的第一座小镇，在英文剧本中叫“Snowdin”。Toby 选择这个名字，有几个原因：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.25637857,
+          0.91219026,
+          0.29235714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.25637857,
+          0.91219026,
+          0.29235714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b004",
+      "kind": "quote",
+      "source": {
+        "text": "It's a play on the phrase \"snowed in\"",
+        "raw": "It's a play on the phrase \"snowed in\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33885413,
+          0.30408571,
+          0.62052702,
+          0.31647143
+        ],
+        "mask_bbox": [
+          0.3017354,
+          0.30337143,
+          0.62185634,
+          0.31754286
+        ],
+        "line_ids": [
+          13
+        ]
+      },
+      "translation": {
+        "text": "• 它谐音 snowed in（被雪困住）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33885413,
+          0.30265714,
+          0.91219026,
+          0.32324643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0132-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33885413,
+          0.30265714,
+          0.91219026,
+          0.32324643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0132-b005",
+      "kind": "quote",
+      "source": {
+        "text": "It allows the inn to be called \"Snowed Inn\", another play on \"snowed in\"",
+        "raw": "It allows the inn to be called \"Snowed Inn\", another play on \"snowed in\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33837353,
+          0.33112143,
+          0.89856983,
+          0.34350714
+        ],
+        "mask_bbox": [
+          0.3012548,
+          0.33040714,
+          0.89989915,
+          0.34457857
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "• 旅馆因而可以叫“Snowed Inn”，以 inn（旅馆）再玩一次 snowed in 的双关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33837353,
+          0.32969286,
+          0.91219026,
+          0.35028214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.33837353,
+          0.32969286,
+          0.91219026,
+          0.35028214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0132-b006",
+      "kind": "quote",
+      "source": {
+        "text": "The \"din\" part at the end gives it a town-like feeling",
+        "raw": "The \"din\" part at the end gives it a town-like feeling",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33833263,
+          0.35882143,
+          0.73889793,
+          0.37120714
+        ],
+        "mask_bbox": [
+          0.3012139,
+          0.35810714,
+          0.74022726,
+          0.37227857
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "• 末尾的“din”让它听起来像个镇名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33833263,
+          0.35739286,
+          0.91219026,
+          0.37798214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.33833263,
+          0.35739286,
+          0.91219026,
+          0.37798214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0132-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this \"Snowdin\" name carries extra meanings that would be lost in Japanese, the localization team renamed the town \"Snowful\". This new name seems like an arbitrary change at first, but it offered its own unique wordplay:",
+        "raw": "Because this \"Snowdin\" name carries extra meanings that would be lost in\nJapanese, the localization team renamed the town \"Snowful\". This new name\nseems like an arbitrary change at first, but it offered its own unique wordplay:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29293121,
+          0.38652143,
+          0.89180052,
+          0.43503571
+        ],
+        "mask_bbox": [
+          0.29083497,
+          0.38580714,
+          0.91423537,
+          0.43610714
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "“Snowdin”这些额外含义在日语中会丢失，因此本地化团队把小镇改名为“Snowful”。乍看像是随意改名，却有自己独特的文字游戏：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.38509286,
+          0.91219026,
+          0.43860714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.38509286,
+          0.91219026,
+          0.43860714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Japanese players would recognize the play on the words \"snow\" and \"full\"",
+        "raw": "Japanese players would recognize the play on the words \"snow\" and \"full\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33887459,
+          0.45034286,
+          0.9077626,
+          0.46272857
+        ],
+        "mask_bbox": [
+          0.30175585,
+          0.44962857,
+          0.90909192,
+          0.4638
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "• 日本玩家可以看出 snow（雪）与 full（满）的组合。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33887459,
+          0.44891429,
+          0.91219026,
+          0.46950357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33887459,
+          0.44891429,
+          0.91219026,
+          0.46950357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0132-b009",
+      "kind": "quote",
+      "source": {
+        "text": "In Japanese, \"Snowful\" is written sunofuru, a combination of the English word \"snow\" and the Japanese verb furu (\"to rain/snow/fall from the sky\")",
+        "raw": "In Japanese, \"Snowful\" is written sunofuru, a combination of the English\nword \"snow\" and the Japanese verb furu (\"to rain/snow/fall from the sky\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33847579,
+          0.47837857,
+          0.90494035,
+          0.50935714
+        ],
+        "mask_bbox": [
+          0.30135706,
+          0.47766429,
+          0.90626967,
+          0.51042857
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "• “Snowful”用日语读写为 sunōfuru，由英语 snow 与日语动词 furu（下雨、下雪、从天而降）组合而成。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 42,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33847579,
+          0.47695,
+          0.91219026,
+          0.51292857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.33847579,
+          0.47695,
+          0.91219026,
+          0.51292857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0132-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This small localization change required more work than one might expect, however, as the town's welcome sign exists as part of the game's map data rather than the game's text data. The progTammer had to account for this to ensure that the proper sign is loaded based on the user's language preference.",
+        "raw": "This small localization change required more work than one might expect,\nhowever, as the town's welcome sign exists as part of the game's map data\nrather than the game's text data. The progTammer had to account for this to\nensure that the proper sign is loaded based on the user's language preference.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29386173,
+          0.52364286,
+          0.89478638,
+          0.59108571
+        ],
+        "mask_bbox": [
+          0.29083497,
+          0.52292857,
+          0.91423537,
+          0.59215714
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "不过，这个小小的本地化改动，工作量比想象中更大。小镇的欢迎标牌属于地图数据，而非文字数据。程序员必须处理这一点，才能根据玩家选择的语言加载正确的标牌。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.52221429,
+          0.91219026,
+          0.59465714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6081642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0132-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.52221429,
+          0.91219026,
+          0.59465714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b011",
+      "kind": "heading",
+      "source": {
+        "text": "Get Inn or Get Out",
+        "raw": "Get Inn or Get Out",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29469,
+          0.61530714,
+          0.48772785,
+          0.62867857
+        ],
+        "mask_bbox": [
+          0.29336068,
+          0.61459286,
+          0.48905718,
+          0.62975
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "进店还是出门",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.605142857,
+          0.91219026,
+          0.629285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.629285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.605142857,
+          0.91219026,
+          0.629285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 885
+    },
+    {
+      "id": "p0132-b012",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #4: • Come up with an alternate name for the \"Snowed Inn\" that retains the snowy theme and contains a pun!",
+        "raw": "Reader Challenge #4: •\nCome up with an\nalternate name for the\n\"Snowed Inn\" that\nretains the snowy\ntheme and contains\na pun!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1265309,
+          0.64454286,
+          0.28263408,
+          0.74832857
+        ],
+        "mask_bbox": [
+          0.12520158,
+          0.64382857,
+          0.2839634,
+          0.7494
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          34
+        ]
+      },
+      "translation": {
+        "text": "读者挑战④：给“Snowed Inn”想一个替代名字，既保留雪的主题，又包含双关！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11759378,
+          0.64311429,
+          0.28263408,
+          0.7519
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11759378,
+          0.64311429,
+          0.28263408,
+          0.7519
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0132-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, Snowdin's inn is aptly named the \"Snowed Inn\". Toby knew this pun would likely be lost in translation, so he suggested an alternative name: \"Snowtel\". The translator agreed that this combination of the English words \"snow\" and \"hotel\" would be more recognizable to Japanese players. However, this change also meant that that English-speaking players and Japanese-speaking players would know the same place by a different name.",
+        "raw": "In the English version of Undertale, Snowdin's inn is aptly named the \"Snowed\nInn\". Toby knew this pun would likely be lost in translation, so he suggested\nan alternative name: \"Snowtel\". The translator agreed that this combination of\nthe English words \"snow\" and \"hotel\" would be more recognizable to Japanese\nplayers. However, this change also meant that that English-speaking players\nand Japanese-speaking players would know the same place by a different name.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29533421,
+          0.79995,
+          0.91219026,
+          0.90422143
+        ],
+        "mask_bbox": [
+          0.29083497,
+          0.79923571,
+          0.91423537,
+          0.90529286
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "英语版 Undertale 中，Snowdin 的旅馆恰如其分地叫作“Snowed Inn”。Toby 知道这个双关很可能在翻译中丢失，于是建议替代名称“Snowtel”。译者也认为，把英语 snow（雪）与 hotel（旅馆）组合起来，更容易让日本玩家理解。不过，这一改动也意味着，英语玩家和日语玩家会用不同名字称呼同一个地方。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29339647,
+          0.79852143,
+          0.91219026,
+          0.90779286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29339647,
+          0.79852143,
+          0.91219026,
+          0.90779286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "782d58bd243837a4285f19aa1bbe42112a356496cd93af44da2b4f715a407732"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9,
+          33,
+          35,
+          42
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.92,
+      892.07
+    ],
+    "text_runs": [
+      {
+        "id": "p0132-b003",
+        "blocks": [
+          "p0132-b003",
+          "p0132-b004",
+          "p0132-b005",
+          "p0132-b006",
+          "p0132-b007",
+          "p0132-b008",
+          "p0132-b009",
+          "p0132-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 851.43
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

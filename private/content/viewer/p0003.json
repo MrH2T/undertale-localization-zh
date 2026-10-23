@@ -1,0 +1,45 @@
+{
+  "schema_version": 3,
+  "pdf_page": 3,
+  "printed_page": "3",
+  "title": "插图",
+  "subtitle": "私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.087119+00:00",
+  "reference_size": [
+    994.761744,
+    1400
+  ],
+  "physical_size_pt": [
+    504.6,
+    710.16
+  ],
+  "image_url": "/assets/p0003.jpg",
+  "image_sha256": "ea86778803a180af32d789c1de60cb0cd8c070f2385f7f1342683fa046cc2de7",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0003/page.json",
+  "page_role": "art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6120ef60140e76ea6b9fde93eaee66383a819218835ff9e0a0fe3aa5660837af"
+  },
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

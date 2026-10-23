@@ -1,0 +1,878 @@
+{
+  "schema_version": 3,
+  "pdf_page": 92,
+  "printed_page": "92",
+  "title": "别欺负怪物",
+  "subtitle": "Ruins · 私人学习译稿",
+  "revision": 6,
+  "updated_at": "2026-10-22T16:28:22.428473+00:00",
+  "reference_size": [
+    981.6064799190011,
+    1400
+  ],
+  "physical_size_pt": [
+    498.6,
+    711.12
+  ],
+  "image_url": "/assets/p0092.jpg",
+  "image_sha256": "1d0fc907f91398d88f9a90aa7380fee5de6d2540fe457a4ef2bc522d21955639",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0092/page.json",
+  "blocks": [
+    {
+      "id": "p0092-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Monster Picking",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2913591,
+          0.0592857,
+          0.9107519,
+          0.0785714
+        ],
+        "mask_bbox": [
+          0.2913591,
+          0.0592857,
+          0.9107519,
+          0.0785714
+        ]
+      },
+      "translation": {
+        "text": "别欺负怪物",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2933966,
+          0.055,
+          0.9076957,
+          0.08214284285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2933966,
+          0.055,
+          0.9076957,
+          0.08214284285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b002",
+      "kind": "aside",
+      "source": {
+        "text": "To be fair, I doubt more than a dozen people recognized the Monster Party quote in English, but Toby made the reference intentionally, so it was important to try to localize",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1161362,
+          0.0878571,
+          0.2730218,
+          0.2142857
+        ],
+        "mask_bbox": [
+          0.1161362,
+          0.0878571,
+          0.2730218,
+          0.2142857
+        ]
+      },
+      "translation": {
+        "text": "说真的，能认出这句英文引用自 Monster Party 的人大概连十几个都没有。不过 Toby 是有意引用的，所以仍有必要尝试把它本地化。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1120612,
+          0.0885714,
+          0.2709844,
+          0.2307143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1120612,
+          0.0885714,
+          0.2709844,
+          0.2307143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A bully eyeball monster named Loox appears in the Underground. In the English script, Loox says in battle:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2883029,
+          0.2335714,
+          0.9107519,
+          0.2714286
+        ],
+        "mask_bbox": [
+          0.2883029,
+          0.2335714,
+          0.9107519,
+          0.2714286
+        ]
+      },
+      "translation": {
+        "text": "地下世界中有个爱欺负人的眼球怪物，名叫 Loox。在英文版的战斗中，Loox 会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2923779,
+          0.2328571,
+          0.9076957,
+          0.2742857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2923779,
+          0.2328571,
+          0.9076957,
+          0.2742857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Please don’t pick on me.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3596146,
+          0.2792857,
+          0.9076957,
+          0.2992857
+        ],
+        "mask_bbox": [
+          0.3596146,
+          0.2792857,
+          0.9076957,
+          0.2992857
+        ]
+      },
+      "translation": {
+        "text": "Please don’t pick on me.（请别欺负我。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 6,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 7,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 18,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 21,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3392398,
+          0.2785714,
+          0.9076957,
+          0.3
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3392398,
+          0.2785714,
+          0.9076957,
+          0.3
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This seems like a simple, unimportant message at first, until the player is literally given the menu options “Pick On” and “Don’t Pick On”. Picking on Loox will make him more difficult to defeat, while not picking on him will allow the player to spare him.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2893216,
+          0.3064286,
+          0.9107519,
+          0.3821429
+        ],
+        "mask_bbox": [
+          0.2893216,
+          0.3064286,
+          0.9107519,
+          0.3821429
+        ]
+      },
+      "translation": {
+        "text": "起初，这似乎只是句简单、无关紧要的话，直到菜单真的给出“Pick On”（欺负）和“Don’t Pick On”（不欺负）两个选项。欺负 Loox 会使他更难击败；不欺负他，则能让玩家饶恕他。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2933966,
+          0.3035714,
+          0.9076957,
+          0.385
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2933966,
+          0.3035714,
+          0.9076957,
+          0.385
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby pointed out in his translation notes that Loox’s line is actually a direct quote from the 1989 NES game, Monster Party. In this classic retro game, a pumpkin monster says “please don’t pick on me” when the player enters its lair.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2893216,
+          0.39,
+          0.9107519,
+          0.4442857
+        ],
+        "mask_bbox": [
+          0.2893216,
+          0.39,
+          0.9107519,
+          0.4442857
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译备注中指出，Loox 的这句话直接出自 1989 年的 NES 游戏 Monster Party。在这款经典老游戏中，玩家走进一只南瓜怪物的巢穴时，它就会说“please don’t pick on me”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 43,
+            "end": 56,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2933966,
+          0.3878571,
+          0.9076957,
+          0.45
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2933966,
+          0.3878571,
+          0.9076957,
+          0.45
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b007",
+      "kind": "aside",
+      "source": {
+        "text": "The Japanese version of this enemy, which is a parody of Planet of the Apes, roughly says “Seize him! He’s to become our slave!”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1140987,
+          0.455,
+          0.2740406,
+          0.5492857
+        ],
+        "mask_bbox": [
+          0.1140987,
+          0.455,
+          0.2740406,
+          0.5492857
+        ]
+      },
+      "translation": {
+        "text": "这个敌人的日版形象是在戏仿 Planet of the Apes（《人猿星球》），台词大意是：“抓住他！让他当我们的奴隶！”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1100237,
+          0.4557143,
+          0.2709844,
+          0.5785714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1100237,
+          0.4557143,
+          0.2709844,
+          0.5785714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b008",
+      "kind": "caption",
+      "source": {
+        "text": "A boss enemy in Parody World: Monster Party (Japan)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2954341,
+          0.62,
+          0.5898494,
+          0.6507143
+        ],
+        "mask_bbox": [
+          0.2954341,
+          0.62,
+          0.5898494,
+          0.6507143
+        ]
+      },
+      "translation": {
+        "text": "Parody World: Monster Party\n中的头目（日版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2933966,
+          0.6207143,
+          0.5857745,
+          0.6564286
+        ],
+        "font_size": 15,
+        "line_height": 1.5333333333333334,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2933966,
+          0.6207143,
+          0.5857745,
+          0.6564286
+        ],
+        "font_size": 15,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b009",
+      "kind": "caption",
+      "source": {
+        "text": "The same boss enemy in Monster Party (North America)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6336551,
+          0.62,
+          0.9087145,
+          0.6507143
+        ],
+        "mask_bbox": [
+          0.6336551,
+          0.62,
+          0.9087145,
+          0.6507143
+        ]
+      },
+      "translation": {
+        "text": "Monster Party 中的同一头目\n（北美版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.6153179,
+          0.6207143,
+          0.9076957,
+          0.6564286
+        ],
+        "font_size": 15,
+        "line_height": 1.5333333333333334,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.6153179,
+          0.6207143,
+          0.9076957,
+          0.6564286
+        ],
+        "font_size": 15,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This retro game reference presented three problems for the translator:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2913591,
+          0.6642857,
+          0.9107519,
+          0.6835714
+        ],
+        "mask_bbox": [
+          0.2913591,
+          0.6642857,
+          0.9107519,
+          0.6835714
+        ]
+      },
+      "translation": {
+        "text": "这个老游戏的典故给译者带来了三个问题：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2933966,
+          0.6642857,
+          0.9076957,
+          0.6857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2933966,
+          0.6642857,
+          0.9076957,
+          0.6857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Quoting the original Japanese version of Monster Party wouldn’t work, as it featured very different monsters with completely different text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3351649,
+          0.6928571,
+          0.9107519,
+          0.7292857
+        ],
+        "mask_bbox": [
+          0.3351649,
+          0.6928571,
+          0.9107519,
+          0.7292857
+        ]
+      },
+      "translation": {
+        "text": "引用 Monster Party 日文原版行不通，因为它的怪物大不相同，台词也完全不一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3392398,
+          0.6907143,
+          0.9076957,
+          0.7328571
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3392398,
+          0.6907143,
+          0.9076957,
+          0.7328571
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0092-list1",
+        "index": 0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although a near-complete prototype exists, Monster Party was never officially released in Japan anyway",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3351649,
+          0.7378571,
+          0.9107519,
+          0.7757143
+        ],
+        "mask_bbox": [
+          0.3351649,
+          0.7378571,
+          0.9107519,
+          0.7757143
+        ]
+      },
+      "translation": {
+        "text": "虽然存在一个接近完成的原型版本，但 Monster Party 从来没有在日本正式发行。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3392398,
+          0.7364286,
+          0.9076957,
+          0.7785714
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3392398,
+          0.7364286,
+          0.9076957,
+          0.7785714
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0092-list1",
+        "index": 1
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Changing Loox’s quote would most likely break the original bullying theme",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3351649,
+          0.7842857,
+          0.9107519,
+          0.8035714
+        ],
+        "mask_bbox": [
+          0.3351649,
+          0.7842857,
+          0.9107519,
+          0.8035714
+        ]
+      },
+      "translation": {
+        "text": "改掉 Loox 的这句引用，很可能会破坏原有的欺凌主题。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.3392398,
+          0.7835714,
+          0.9076957,
+          0.805
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3392398,
+          0.7835714,
+          0.9076957,
+          0.805
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0092-list1",
+        "index": 2
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0092-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "The localization team hoped to find a fitting Japanese retro game quote for Loox’s battle message. After some time, though, the team decided to prioritize the line’s functional purpose over its decorative purpose. Thus, Loox still says “please don’t pick on me” in Japanese, but only as a simple, straightforward statement.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2852467,
+          0.8114286,
+          0.9117707,
+          0.905
+        ],
+        "mask_bbox": [
+          0.2852467,
+          0.8114286,
+          0.9117707,
+          0.905
+        ]
+      },
+      "translation": {
+        "text": "本地化团队本想找一句合适的日本老游戏台词，作为 Loox 的战斗发言。但斟酌一番后，团队决定优先保留这句话的实际作用，而不是它作为典故的点缀作用。因此，日版的 Loox 依然会说“请别欺负我”，只是变成了一句平实、直接的话。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2944153,
+          0.81,
+          0.9087145,
+          0.9135714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2944153,
+          0.81,
+          0.9087145,
+          0.9135714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.890946+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 14
+    }
+  }
+}

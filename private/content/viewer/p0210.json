@@ -1,0 +1,1295 @@
+{
+  "schema_version": 3,
+  "pdf_page": 210,
+  "printed_page": "210",
+  "title": "端上一道笑话",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.778751+00:00",
+  "reference_size": [
+    982.311321,
+    1400
+  ],
+  "physical_size_pt": [
+    499.8,
+    712.32
+  ],
+  "image_url": "/assets/p0210.jpg",
+  "image_sha256": "cb8c805b73ff0538fd29ded6e73ad4faa9e36d0ab5fe58ae2e3c8559e4d016d6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0210/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0210-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Dishing Out Comedy",
+        "raw": "Dishing Out Comedy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29777729,
+          0.064,
+          0.51224086,
+          0.07761429
+        ],
+        "mask_bbox": [
+          0.29645388,
+          0.06328571,
+          0.51356427,
+          0.07868571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "端上一道笑话",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29912106,
+          0.05442857,
+          0.90758396,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29912106,
+          0.05442857,
+          0.90758396,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114
+    },
+    {
+      "id": "p0210-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In his translation notes ., for this scene, Toby said, \"I heard there are no knock knock jokes in JP. I can try to think of some alternate takes on this\"",
+        "raw": "In his translation notes .,\nfor this scene, Toby\nsaid, \"I heard there are\nno knock knock jokes\nin JP. I can try to think\nof some alternate takes\non this\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12519453,
+          0.09327143,
+          0.28709839,
+          0.19617857
+        ],
+        "mask_bbox": [
+          0.12387112,
+          0.09255714,
+          0.2884218,
+          0.19725
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          9
+        ]
+      },
+      "translation": {
+        "text": "Toby 为这场戏写的说明是：“听说日本没有敲门笑话。我可以试着想几个替代方案。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11707083,
+          0.09184286,
+          0.28709839,
+          0.19975
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11707083,
+          0.09184286,
+          0.28709839,
+          0.19975
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans reveals important background information during a story scene. At one point in the English script, he retells a knock-knock joke:",
+        "raw": "Sans reveals important background information during a story scene. At one\npoint in the English script, he retells a knock-knock joke:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29787909,
+          0.23819286,
+          0.88185892,
+          0.26922143
+        ],
+        "mask_bbox": [
+          0.29584307,
+          0.23747857,
+          0.90961998,
+          0.27029286
+        ],
+        "line_ids": [
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Sans 在一段剧情中透露重要背景，其中复述了一个英语敲门笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29912106,
+          0.23676429,
+          0.90758396,
+          0.27279286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29912106,
+          0.23676429,
+          0.90758396,
+          0.27279286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31704816,
+          0.29927857,
+          0.41455289,
+          0.31149286
+        ],
+        "mask_bbox": [
+          0.31572475,
+          0.29856429,
+          0.4158763,
+          0.31256429
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "英文版",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31704816,
+          0.29785,
+          0.59589052,
+          0.31585
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.31585,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.31704816,
+          0.29785,
+          0.59589052,
+          0.31585
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62081133,
+          0.29892857,
+          0.88129902,
+          0.31114286
+        ],
+        "mask_bbox": [
+          0.61948792,
+          0.29821429,
+          0.88262242,
+          0.31221429
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "日文版大意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62081133,
+          0.2975,
+          0.8994399,
+          0.3155
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3155,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.62081133,
+          0.2975,
+          0.8994399,
+          0.3155
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "fortunately, deep in the forest... there's this HUGE locked door. and it's perfect for practicing knock knock jokes.",
+        "raw": "fortunately, deep in the forest...\nthere's this HUGE locked door. and\nit's perfect for practicing knock\nknock jokes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31638646,
+          0.33788571,
+          0.56346699,
+          0.39260714
+        ],
+        "mask_bbox": [
+          0.31506305,
+          0.33717143,
+          0.5647904,
+          0.39367857
+        ],
+        "line_ids": [
+          16,
+          18,
+          20,
+          22
+        ]
+      },
+      "translation": {
+        "text": "幸好，森林深处……有扇锁着的巨大门，用来练敲门笑话正合适。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31638646,
+          0.33645714,
+          0.59589052,
+          0.39617857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.39617857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31638646,
+          0.33645714,
+          0.59589052,
+          0.39617857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "but deep in the forest is a huge locked door, perfect for practicing my comedy with.",
+        "raw": "but deep in the forest is a huge\nlocked door, perfect for practicing\nmy comedy with.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62298987,
+          0.33788571,
+          0.86622233,
+          0.37812143
+        ],
+        "mask_bbox": [
+          0.62166646,
+          0.33717143,
+          0.86754574,
+          0.37919286
+        ],
+        "line_ids": [
+          17,
+          19,
+          21
+        ]
+      },
+      "translation": {
+        "text": "不过森林深处有扇锁着的巨大门，正适合练习我的笑话。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62298987,
+          0.33645714,
+          0.8994399,
+          0.38169286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38169285714285717,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.62298987,
+          0.33645714,
+          0.8994399,
+          0.38169286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "so one day, i'm knocking 'em out, like usual. i knock on the door and say \"knock knock.\" and suddenly, from the other side ... i hear a woman's voice.",
+        "raw": "so one day, i'm knocking 'em out, like\nusual. i knock on the door and say\n\"knock knock.\" and suddenly, from\nthe other side ... i hear a woman's\nvoice.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31240605,
+          0.41369286,
+          0.58470262,
+          0.4856
+        ],
+        "mask_bbox": [
+          0.31108264,
+          0.41297857,
+          0.58602603,
+          0.48667143
+        ],
+        "line_ids": [
+          23,
+          25,
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "某天，我像往常一样接连讲笑话。我敲门说“咚咚”。突然，从另一边……传来一个女人的声音。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31240605,
+          0.41226429,
+          0.59589052,
+          0.48917143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4891714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31240605,
+          0.41226429,
+          0.59589052,
+          0.48917143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "one day, i was practicing my latest jokes while pretending the door was the audience. suddenly, from behind the door, a woman's voice butted in with a sharp retort:",
+        "raw": "one day, i was practicing my latest\njokes while pretending the door was\nthe audience. suddenly, from behind\nthe door, a woman's voice butted in\nwith a sharp retort:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62207366,
+          0.41369286,
+          0.88388475,
+          0.48526429
+        ],
+        "mask_bbox": [
+          0.62075025,
+          0.41297857,
+          0.88520816,
+          0.48633571
+        ],
+        "line_ids": [
+          24,
+          26,
+          28,
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "一天，我把门当观众，练习最新的笑话。突然，门后传来一个女人的声音，尖锐地吐槽道：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62207366,
+          0.41226429,
+          0.8994399,
+          0.48883571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48883571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.62207366,
+          0.41226429,
+          0.8994399,
+          0.48883571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"who is there?\" so, naturally, I respond: \"dishes.\"",
+        "raw": "\"who is there?\"\nso, naturally, I respond: \"dishes.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31286415,
+          0.50703571,
+          0.5509964,
+          0.53715
+        ],
+        "mask_bbox": [
+          0.31154074,
+          0.50632143,
+          0.55231981,
+          0.53822143
+        ],
+        "line_ids": [
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "“谁呀？”\n我自然回答：“dishes（盘子）。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31286415,
+          0.50560714,
+          0.59589052,
+          0.54072143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5407214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31286415,
+          0.50560714,
+          0.59589052,
+          0.54072143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"what are ya, an idiot or somethin'?!\" without skipping a beat, i replied: \"if i'm such an idiot, why are you play- ing the straight-man during a solo comedy routine Ji\"",
+        "raw": "\"what are ya, an idiot or somethin'?!\"\nwithout skipping a beat, i replied: \"if\ni'm such an idiot, why are you play-\ning the straight-man during a solo\ncomedy routine Ji\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61828667,
+          0.50668571,
+          0.88613455,
+          0.58229286
+        ],
+        "mask_bbox": [
+          0.61696327,
+          0.50597143,
+          0.88745796,
+          0.58336429
+        ],
+        "line_ids": [
+          34,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "“你是不是傻啊？！”\n我立刻回道：“说我傻？我这单口表演，你跑来当什么吐槽役啊？！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61828667,
+          0.50525714,
+          0.8994399,
+          0.58586429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5858642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61828667,
+          0.50525714,
+          0.8994399,
+          0.58586429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"dishes who?\"",
+        "raw": "\"dishes who?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31336298,
+          0.59293571,
+          0.41350435,
+          0.60318571
+        ],
+        "mask_bbox": [
+          0.31203957,
+          0.59222143,
+          0.41482775,
+          0.60425714
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "“dishes who（哪个盘子）？”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31336298,
+          0.59150714,
+          0.59589052,
+          0.60950714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6095071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31336298,
+          0.59150714,
+          0.59589052,
+          0.60950714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "the voice replied: \"well, if i'm such an idiot, why the heck are you, the fun- ny-man, insulting the straight-man in a duo comedy routine?!\"",
+        "raw": "the voice replied: \"well, if i'm such an\nidiot, why the heck are you, the fun-\nny-man, insulting the straight-man in\na duo comedy routine?!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62272519,
+          0.59293571,
+          0.88903587,
+          0.64665
+        ],
+        "mask_bbox": [
+          0.62140178,
+          0.59222143,
+          0.89035928,
+          0.64772143
+        ],
+        "line_ids": [
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "那声音回答：“说我傻？我们这双人漫才，你这个装傻的干吗骂吐槽的？！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62272519,
+          0.59150714,
+          0.8994399,
+          0.65022143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6502214285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.62272519,
+          0.59150714,
+          0.8994399,
+          0.65022143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"dishes a very bad joke.\"",
+        "raw": "\"dishes a very bad joke.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31384144,
+          0.65695,
+          0.48709609,
+          0.6672
+        ],
+        "mask_bbox": [
+          0.31251803,
+          0.65623571,
+          0.4884195,
+          0.66827143
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "“dishes a very bad joke.”\n“这是个很烂的笑话。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31354622,
+          0.65142857,
+          0.59553421,
+          0.68571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31354622,
+          0.65142857,
+          0.59553421,
+          0.68571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "table-left-third-row-last-joke"
+    },
+    {
+      "id": "p0210-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "then i said: ''i'm not even doing a funny-man act to begin with!\"",
+        "raw": "then i said: ''i'm not even doing a\nfunny-man act to begin with!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62321383,
+          0.65695,
+          0.86128499,
+          0.68204286
+        ],
+        "mask_bbox": [
+          0.62189042,
+          0.65623571,
+          0.8626084,
+          0.68311429
+        ],
+        "line_ids": [
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "我说：“我根本就没在装傻啊！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62321383,
+          0.65552143,
+          0.8994399,
+          0.68561429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6856142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.62321383,
+          0.65552143,
+          0.8994399,
+          0.68561429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "then she just howls with laughter.",
+        "raw": "then she just howls with laughter.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31829013,
+          0.69266429,
+          0.56011774,
+          0.70291429
+        ],
+        "mask_bbox": [
+          0.31696672,
+          0.69195,
+          0.56144115,
+          0.70398571
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "然后她笑得停不下来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31829013,
+          0.69123571,
+          0.59589052,
+          0.70923571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7092357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31829013,
+          0.69123571,
+          0.59589052,
+          0.70923571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "then the woman started to laugh.",
+        "raw": "then the woman started to laugh.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62369229,
+          0.69266429,
+          0.86504144,
+          0.70291429
+        ],
+        "mask_bbox": [
+          0.62236888,
+          0.69195,
+          0.86636485,
+          0.70398571
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "然后那个女人笑了起来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62369229,
+          0.69123571,
+          0.8994399,
+          0.70923571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7092357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.62369229,
+          0.69123571,
+          0.8994399,
+          0.70923571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b018",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because knock-knock jokes don't exist in Japan, and because the English joke in this scene plays with how \"this is\" and \"dishes\" are pronounced, the scene would've made little sense in a literal translation. To get around this problem, the translator replaced the knock-knock joke with a joke related to two common forms of Japanese comedy: solo acts and duo manzai acts.",
+        "raw": "Because knock-knock jokes don't exist in Japan, and because the English joke\nin this scene plays with how \"this is\" and \"dishes\" are pronounced, the scene\nwould've made little sense in a literal translation. To get around this problem,\nthe translator replaced the knock-knock joke with a joke related to two\ncommon forms of Japanese comedy: solo acts and duo manzai acts.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2995588,
+          0.73177857,
+          0.8938714,
+          0.81746429
+        ],
+        "mask_bbox": [
+          0.29584307,
+          0.73106429,
+          0.90961998,
+          0.81853571
+        ],
+        "line_ids": [
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      },
+      "translation": {
+        "text": "日本没有敲门笑话，而这里又利用了 this is（这是）与 dishes（盘子）读音相近的特点，所以直接翻译几乎毫无意义。为解决这一问题，译者改用了围绕日本两种常见喜剧形式——单口表演和双人漫才——的笑话。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29912106,
+          0.73035,
+          0.90758396,
+          0.82103571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29912106,
+          0.73035,
+          0.90758396,
+          0.82103571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0210-b019",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this new Japanese text parallels the humor of the original text, it does carry one minor side effect: it makes some level of sense for a comedian to practice knock-knock jokes while standing in front of a giant door, but it makes less sense to practice generic comedy in the same situation.",
+        "raw": "Although this new Japanese text parallels the humor of the original text, it\ndoes carry one minor side effect: it makes some level of sense for a comedian to\npractice knock-knock jokes while standing in front of a giant door, but it makes\nless sense to practice generic comedy in the same situation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29912106,
+          0.83253571,
+          0.90758396,
+          0.89995
+        ],
+        "mask_bbox": [
+          0.29584307,
+          0.83182143,
+          0.90961998,
+          0.90102143
+        ],
+        "line_ids": [
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "新日文重现了原文的幽默，却也带来一个小副作用：喜剧演员站在大门前练敲门笑话，还算说得通；同样站在那里练一般笑话，就不那么自然了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29912106,
+          0.83110714,
+          0.90758396,
+          0.90352143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0210-b018"
+      },
+      "calibration": {
+        "bbox": [
+          0.29912106,
+          0.83110714,
+          0.90758396,
+          0.90352143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "35a4486b0d60bc8eea5443810a14a141a7f76ed86d8934da1d0e7938f50c815c"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      293.83,
+      891.53
+    ],
+    "text_runs": [
+      {
+        "id": "p0210-b018",
+        "blocks": [
+          "p0210-b018",
+          "p0210-b019"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

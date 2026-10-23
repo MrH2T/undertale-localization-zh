@@ -1,0 +1,840 @@
+{
+  "schema_version": 3,
+  "pdf_page": 74,
+  "printed_page": "74",
+  "title": "开始游戏",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:37:49.124765+00:00",
+  "reference_size": [
+    987.008204,
+    1400
+  ],
+  "physical_size_pt": [
+    505.32,
+    716.76
+  ],
+  "image_url": "/assets/p0074.jpg",
+  "image_sha256": "ce07340334e59d1ae310674620af53f78c8de1b411687d962bab8f69736c9754",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0074/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0074-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Starting the Game",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29077772,
+          0.04428571,
+          0.89563592,
+          0.07928571
+        ],
+        "mask_bbox": [
+          0.28946061,
+          0.04357143,
+          0.89695303,
+          0.08035714
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "开始游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29077772,
+          0.04357143,
+          0.89563592,
+          0.08071429
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29077772,
+          0.04357143,
+          0.89563592,
+          0.08071429
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "BREAKING NEWS: Human Intruder Enters Underground",
+        "raw": "BREAKING NEWS: Human Intruder Enters Underground",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29473919,
+          0.09382143,
+          0.76491765,
+          0.10554286
+        ],
+        "mask_bbox": [
+          0.29342208,
+          0.09310714,
+          0.76623477,
+          0.10661429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "突发新闻：人类闯入地下世界",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.08514286,
+          0.89721645,
+          0.10928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10928571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.08514286,
+          0.89721645,
+          0.10928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 157.0
+    },
+    {
+      "id": "p0074-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale begins with a history lesson: humans and monsters fought in a great war long ago. The humans won, and permanently sealed the monsters beneath a mountain. Much later, a lone human climbs the mountain and accidentally falls into the monsters' underground world ...",
+        "raw": "Underta/e begins with a history lesson: humans and monsters fought in a great\nwar long ago. The humans won, and permanently sealed the monsters beneath\na mountain. Much later, a lone human climbs the mountain and accidentally\nfalls into the monsters' underground world ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29477972,
+          0.13220714,
+          0.89121853,
+          0.18795714
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.13149286,
+          0.89924278,
+          0.18902857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "Undertale 先讲了一段历史：很久以前，人类与怪物爆发大战。人类获胜，将怪物永远封在一座山下。许多年后，一个人类独自上山，不慎掉进了怪物的地下世界……",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.13077857,
+          0.89721645,
+          0.19152857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.20332857285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.13077857,
+          0.89721645,
+          0.19152857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "To Translate or Not to Translate",
+        "raw": "To Translate or Not to Translate",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29434406,
+          0.21047143,
+          0.61667167,
+          0.22414286
+        ],
+        "mask_bbox": [
+          0.29302695,
+          0.20975714,
+          0.61798878,
+          0.22521429
+        ],
+        "line_ids": [
+          6
+        ]
+      },
+      "translation": {
+        "text": "译，还是不译",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.20085714,
+          0.89721645,
+          0.225
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.225,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.20085714,
+          0.89721645,
+          0.225
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 319.0
+    },
+    {
+      "id": "p0074-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's title has two official English spellings, according to Toby: \"Undertale\" and \"UNDERTALE\". But what about in Japanese? Surprisingly, the answer is basically the same: just \"UNDERTALE\".",
+        "raw": "Underta/e's title has two official English spellings, according to Toby:\n\"Undertale\" and \"UNDERTALE\". But what about in Japanese? Surprisingly, the\nanswer is basically the same: just \"UNDERTALE\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28937956,
+          0.39274286,
+          0.89721645,
+          0.44165714
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.39202857,
+          0.89924278,
+          0.44272857
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Toby 说，游戏标题有两种官方英语写法：“Undertale”和“UNDERTALE”。日语呢？出人意料，基本还是一样，就是“UNDERTALE”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 22,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.39131429,
+          0.89721645,
+          0.44522857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7164285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.39131429,
+          0.89721645,
+          0.44522857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first, it might seem odd for a Japanese game translation to leave an English title untranslated - after all, shouldn't a translation actually, you know, translate things? If anything should get translated, it should at least be the title, right?",
+        "raw": "At first, it might seem odd for a Japanese game translation to leave an English\ntitle untranslated - after all, shouldn't a translation actually, you know, translate\nthings? If anything should get translated, it should at least be the title, right?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29442511,
+          0.45803571,
+          0.89578789,
+          0.50629286
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.45732143,
+          0.89924278,
+          0.50736429
+        ],
+        "line_ids": [
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "日语译版竟然保留英语标题，乍看也许有点怪。毕竟，所谓翻译，不就是要……翻译吗？其他地方不说，至少标题该译一下吧？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.45660714,
+          0.89721645,
+          0.50986429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7164285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0074-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.45660714,
+          0.89721645,
+          0.50986429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The choice to leave Undertale's name in English was intentional - it's quite common for English words to remain unchanged in English-to-Japanese video game translations. There are two main reasons for this: English already plays a major role in Japanese culture, and English has been a part of Japanese video games since video games were invented. In other words, Japanese gamers are accustomed to a certain amount of English in games.",
+        "raw": "The choice to leave Underta/e's name in English was intentional - it's quite\ncommon for English words to remain unchanged in English-to-Japanese video\ngame translations. There are two main reasons for this: English already plays a\nmajor role in Japanese culture, and English has been a part of Japanese video\ngames since video games were invented. In other words, Japanese gamers are\naccustomed to a certain amount of English in games.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29620828,
+          0.52031429,
+          0.89433907,
+          0.62380714
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.5196,
+          0.89924278,
+          0.62487857
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "保留英语名称是有意为之。英语游戏译成日语时，留下英语词很常见，主要有两个原因：英语早已在日本文化中占据重要位置，而且电子游戏诞生以来，日本游戏里就一直有英语。换句话说，日本玩家早已习惯游戏中出现一定量的英语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.51888571,
+          0.89721645,
+          0.62737857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7164285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0074-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.51888571,
+          0.89721645,
+          0.62737857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, from an outsider's perspective - and from a paying client's perspective - leaving text untranslated might seem like the mark of a shoddy translator. But when translating a game from English into Japanese, it can actually be the mark of an experienced translator.",
+        "raw": "Naturally, from an outsider's perspective - and from a paying client's\nperspective - leaving text untranslated might seem like the mark of a shoddy\ntranslator. But when translating a game from English into Japanese, it can\nactually be the mark of an experienced translator.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29780907,
+          0.63885,
+          0.88079308,
+          0.70617857
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.63813571,
+          0.89924278,
+          0.70725
+        ],
+        "line_ids": [
+          22,
+          23,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "从圈外人，尤其是付钱的客户看来，不翻译某些文字也许像是译者粗制滥造。但游戏从英语译成日语时，这反而可能说明译者经验丰富。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.63742143,
+          0.89721645,
+          0.70975
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7164285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0074-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.63742143,
+          0.89721645,
+          0.70975
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "When Undertale’s title must be written in Japanese for whatever reason, the official Japanese spelling is アンダーテイル (“andāteiru”). Prior to the official Japanese release, fans used the slightly different spelling of アンダーテール (“andātēru”). The game’s new, official spelling was one of many ways in which the official Japanese release initially seemed “off” to early fans.",
+        "raw": "When Underta/e's title must be written in Japanese for whatever reason, the\nofficial Japanese spelling is 7 YY· '- f-1 Jv (\"andateirn\"). Prior to the official\nJapanese release, fans used the slightly different spelling of 7 /'5'\"- 7-- ;i,\n(\"andateru\"). The game's new, official spelling was one of many ways in which\nthe official Japanese release initially seemed \"off\" to early fans.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29726197,
+          0.81196429,
+          0.89109695,
+          0.89705
+        ],
+        "mask_bbox": [
+          0.28735323,
+          0.81125,
+          0.89924278,
+          0.89812143
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "如果由于某种原因必须用日文写游戏名，官方写法是アンダーテイル（andāteiru，Undertale 的音译）。官方日语版出现以前，玩家用的写法略有不同，是アンダーテール（andātēru，同一游戏名的另一种音译）。新的官方写法，也是早期玩家最初觉得官方译版“不对劲”的诸多地方之一。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 31,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 41,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 86,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.295494,
+          0.81053571,
+          0.89721645,
+          0.90062143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.295494,
+          0.81053571,
+          0.89721645,
+          0.90062143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b010",
+      "kind": "caption",
+      "source": {
+        "text": "\"WTF? ! I paid for ~ a translation, not a leave it-the-same-ation ! \"",
+        "raw": "\"WTF? ! I paid for ~\na translation, not a leave\nit-the-same-ation ! \"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11478121,
+          0.24047857,
+          0.28451638,
+          0.28215
+        ],
+        "mask_bbox": [
+          0.1134641,
+          0.23976429,
+          0.28583349,
+          0.28322143
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "“搞什么？！我花钱请你翻译，可不是请你原样搬运！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11478121,
+          0.23905,
+          0.28451638,
+          0.28572143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7189571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11478121,
+          0.23905,
+          0.28451638,
+          0.28572143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0074-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Interestingly, the unofficial Japanese spelling of \"Undertale\" appears online more often than the official spelling",
+        "raw": "Interestingly, the\nunofficial Japanese\nspelling of \"Undertale\"\nappears online more often\nthan the official spelling",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11289673,
+          0.7261,
+          0.27519528,
+          0.79636429
+        ],
+        "mask_bbox": [
+          0.11157962,
+          0.72538571,
+          0.27651239,
+          0.79743571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "有趣的是，网上 Undertale 的非官方日语写法，比官方写法更常见。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11289673,
+          0.72467143,
+          0.27519528,
+          0.79993571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11289673,
+          0.72467143,
+          0.27519528,
+          0.79993571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "94ad799dd3db28d79b5a7cecb7917691ebd5d279e6be43d6d39f2e61c425affb"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          24
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.66,
+      885.56
+    ],
+    "text_runs": [
+      {
+        "id": "p0074-b005",
+        "blocks": [
+          "p0074-b005",
+          "p0074-b006",
+          "p0074-b007",
+          "p0074-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 1003.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

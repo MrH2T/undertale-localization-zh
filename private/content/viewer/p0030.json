@@ -1,0 +1,784 @@
+{
+  "schema_version": 3,
+  "pdf_page": 30,
+  "printed_page": "30",
+  "title": "避免意外含义",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    987.316083,
+    1400
+  ],
+  "physical_size_pt": [
+    500.4,
+    709.56
+  ],
+  "image_url": "/assets/p0030.jpg",
+  "image_sha256": "dc62213ee7cba80cefe661895b08f70162b65c107d45e8cf7f9e2272eeab23d5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0030/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0030-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Avoiding Side Effects",
+        "raw": "Avoiding Side Effects",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29210504,
+          0.06075,
+          0.5139894,
+          0.07414286
+        ],
+        "mask_bbox": [
+          0.29078834,
+          0.06003571,
+          0.5153061,
+          0.07521429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "避免意外含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.05085714,
+          0.90227437,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.05085714,
+          0.90227437,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 109.0
+    },
+    {
+      "id": "p0030-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sometimes, literal translations simply come across as odd or confusing. Occasionally, they might even carry extra, unintended meanings in the target language. If left as-is, these translations risk conveying something the original creator never intended.",
+        "raw": "Sometimes, literal translations simply come across as odd or confusing.\nOccasionally, they might even carry extra, unintended meanings in the target\nlanguage. If left as-is, these translations risk conveying something the original\ncreator never intended.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29320904,
+          0.08894286,
+          0.88844901,
+          0.15728571
+        ],
+        "mask_bbox": [
+          0.29118335,
+          0.08822857,
+          0.90430007,
+          0.15835714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "有时，直译只是显得古怪或令人困惑；有时却会在目标语言里带出原本没有的意思。若原样保留，就可能传达创作者从未想表达的内容。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.08751429,
+          0.90227437,
+          0.16085714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16837857285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.08751429,
+          0.90227437,
+          0.16085714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b003",
+      "kind": "subheading",
+      "source": {
+        "text": "Redundancy",
+        "raw": "Redundancy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29410034,
+          0.17552143,
+          0.40684033,
+          0.18792143
+        ],
+        "mask_bbox": [
+          0.29278364,
+          0.17480714,
+          0.40815703,
+          0.18899286
+        ],
+        "line_ids": [
+          6
+        ]
+      },
+      "translation": {
+        "text": "重复与多余",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.16592143,
+          0.90227437,
+          0.19006429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.19006428714285717,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.16592143,
+          0.90227437,
+          0.19006429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sometimes a literal translation might sound unintentionally redundant or foolish. This is common in entertainment translation when special terminology is being defined, and said terminology uses words from a foreign language. Redundancy can also occur when a word sounds complicated in the original language but simple in the target language.",
+        "raw": "Sometimes a literal translation might sound unintentionally redundant or\nfoolish. This is common in entertainment translation when special terminology\nis being defined, and said terminology uses words from a foreign language.\nRedundancy can also occur when a word sounds complicated in the original\nlanguage but simple in the target language.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29368508,
+          0.19853571,
+          0.90227437,
+          0.28547143
+        ],
+        "mask_bbox": [
+          0.29118335,
+          0.19782143,
+          0.90430007,
+          0.28654286
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "有时直译会无意间显得重复或可笑。娱乐作品在解释专门术语、而术语又借用了外语词时，这种情况很常见。一个词在原语言里听着复杂，在目标语言里却很简单，也可能造成重复。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.19710714,
+          0.90227437,
+          0.28904286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.295,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.19710714,
+          0.90227437,
+          0.28904286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Sounding Funny or Improper",
+        "raw": "Sounding Funny or Improper",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29622732,
+          0.56143571,
+          0.56446969,
+          0.57383571
+        ],
+        "mask_bbox": [
+          0.29491062,
+          0.56072143,
+          0.56578639,
+          0.57490714
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "滑稽或不雅",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.55183571,
+          0.90227437,
+          0.57597857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5759785671428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.55183571,
+          0.90227437,
+          0.57597857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "A literal translation can leave an unintended impression if it sounds funny or inappropriate in the target language. For example, there's an item in the Pokemon series that restores Power Points. In Japanese, the item is literally called the \"PP Aid\". This name would sound unintentionally funny and inappropriate in English, however, so the item was renamed to something tamer during localization.",
+        "raw": "A literal translation can leave an unintended impression if it sounds funny\nor inappropriate in the target language. For example, there's an item in the\nPokemon series that restores Power Points. In Japanese, the item is literally\ncalled the \"PP Aid\". This name would sound unintentionally funny and\ninappropriate in English, however, so the item was renamed to something\ntamer during localization.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29348251,
+          0.58478571,
+          0.87076471,
+          0.68932857
+        ],
+        "mask_bbox": [
+          0.29118335,
+          0.58407143,
+          0.90430007,
+          0.6904
+        ],
+        "line_ids": [
+          20,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "直译若在目标语言里听着滑稽或不妥，就会留下意外的印象。例如《Pokémon》系列有一种恢复招式点数的道具，日语名称直译是“PP Aid”（PP辅助剂）。但这个名字在英语里听着意外地滑稽、不雅（PP 与 pee-pee“尿尿”同音），所以本地化时改成了更稳妥的名字。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.58335714,
+          0.90227437,
+          0.6929
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7014285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.58335714,
+          0.90227437,
+          0.6929
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Ambiguity",
+        "raw": "Ambiguity",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29546769,
+          0.70857143,
+          0.39342011,
+          0.72097143
+        ],
+        "mask_bbox": [
+          0.29415099,
+          0.70785714,
+          0.39473681,
+          0.72204286
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "歧义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.69897143,
+          0.90227437,
+          0.72311429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7231142871428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.69897143,
+          0.90227437,
+          0.72311429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "A literal translation of an idea that's clearly defined in the source language can become ambiguous in the target language. For example, the Japanese term hikari dameji literally means \"light damage\" in English. But wait, does that mean \"damage that isn't severe\" or does it mean \"damage from light beams\"? In Japanese, it's clearly the latter, but the literal English translation paves the way for confusion.",
+        "raw": "A literal translation of an idea that's clearly defined in the source language can\nbecome ambiguous in the target language. For example, the Japanese term\nhikari dameji literally means \"light damage\" in English. But wait, does that\nmean \"damage that isn't severe\" or does it mean \"damage from light beams\"?\nIn Japanese, it's clearly the latter, but the literal English translation paves the\nway for confusion.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29444471,
+          0.73192143,
+          0.89376646,
+          0.83647857
+        ],
+        "mask_bbox": [
+          0.29118335,
+          0.73120714,
+          0.90430007,
+          0.83755
+        ],
+        "line_ids": [
+          30,
+          32,
+          34,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "原语言里清楚明确的概念，直译后可能产生歧义。例如日语 hikari damēji（光属性伤害），直译成英语是 light damage。但等等：是“轻微伤害”，还是“光束造成的伤害”？日语明确是后者，英语直译却给误解留下了空间。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2935838,
+          0.73049286,
+          0.90227437,
+          0.84005
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8464285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2935838,
+          0.73049286,
+          0.90227437,
+          0.84005
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b009",
+      "kind": "caption",
+      "source": {
+        "text": "A literal translation can cause dialogue to mesh improperly, leading to redundancies and unintentionally silly sentences (Game: Ys VIII: Lacrimosa of Dana)",
+        "raw": "A literal translation can\ncause dialogue to mesh\nimproperly, leading\nto redundancies and\nunintentionally silly\nsentences (Game: Ys\nVIII: Lacrimosa of Dana)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12072122,
+          0.3021,
+          0.26727003,
+          0.40427857
+        ],
+        "mask_bbox": [
+          0.11940452,
+          0.30138571,
+          0.26858673,
+          0.40535
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "直译可能让上下句接不上，造成重复或无意间可笑的句子。（游戏：Ys VIII: Lacrimosa of Dana）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12072122,
+          0.30067143,
+          0.26727003,
+          0.40785
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.58,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12072122,
+          0.30067143,
+          0.26727003,
+          0.40785
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Words and names that sound fine in one language won't necessarily sound fine in another language",
+        "raw": "Words and names\nthat sound fine in\none language won't\nnecessarily sound fine in\nanother language",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11772319,
+          0.70665,
+          0.26840442,
+          0.77827143
+        ],
+        "mask_bbox": [
+          0.11640649,
+          0.70593571,
+          0.26972112,
+          0.77934286
+        ],
+        "line_ids": [
+          27,
+          29,
+          31,
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "在一种语言里听着正常的词语和名字，换一种语言未必仍然正常。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11772319,
+          0.70522143,
+          0.26840442,
+          0.78184286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8464285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11772319,
+          0.70522143,
+          0.26840442,
+          0.78184286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0030-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Japan doesn't embrace fair use doctrine, so please enjoy the many off model illustrations that this book has to offer!",
+        "raw": "Japan doesn't embrace fair use doctrine, so please enjoy the many off\nmodel illustrations that this book has to offer!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31452947,
+          0.86595714,
+          0.84213153,
+          0.8909
+        ],
+        "mask_bbox": [
+          0.31321276,
+          0.86524286,
+          0.84344823,
+          0.89197143
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "日本并不采用合理使用原则，所以请欣赏本书里这些画得不像原作的插图吧！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31452947,
+          0.86452857,
+          0.84213153,
+          0.89447143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.31452947,
+          0.86452857,
+          0.84213153,
+          0.89447143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1035c27c3dc6bd332f206b89460912ea600fd92b37274a06e5359997260eb757"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.86,
+      890.83
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

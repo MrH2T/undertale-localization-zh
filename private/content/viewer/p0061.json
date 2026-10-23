@@ -1,0 +1,983 @@
+{
+  "schema_version": 3,
+  "pdf_page": 61,
+  "printed_page": "61",
+  "title": "专业团队登场",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.717320+00:00",
+  "reference_size": [
+    984.773801,
+    1400
+  ],
+  "physical_size_pt": [
+    500.04,
+    710.88
+  ],
+  "image_url": "/assets/p0061.jpg",
+  "image_sha256": "fdb107d26dbf0b5085d86573cee964e287aa7ce88a8fc19a32e081abb57960b7",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0061/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0061-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Enter the Professionals",
+        "raw": "Enter the Professionals",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.098449,
+          0.06377143,
+          0.34006794,
+          0.077
+        ],
+        "mask_bbox": [
+          0.0971289,
+          0.06305714,
+          0.34138804,
+          0.07807143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "专业团队登场",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09734215,
+          0.05371429,
+          0.69859698,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09734215,
+          0.05371429,
+          0.69859698,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0061-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "For months, choice paralysis left Toby unsure of whom to hire. After considering all of his options and recommendations, he decided to hire 8-4, Ltd., a game localization company based in Japan.",
+        "raw": "For months, choice paralysis left Toby unsure of whom to hire. After\nconsidering all of his options and recommendations, he decided to hire 8-4,\nLtd., a game localization company based in Japan.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.097332,
+          0.09112857,
+          0.67659192,
+          0.14147143
+        ],
+        "mask_bbox": [
+          0.09530107,
+          0.09041429,
+          0.7006279,
+          0.14254286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "选择太多，Toby 几个月都拿不定主意该请谁。考虑过各种选项与推荐后，他决定委托设在日本的游戏本地化公司 8-4, Ltd.。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09734215,
+          0.0897,
+          0.69859698,
+          0.14504286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09734215,
+          0.0897,
+          0.69859698,
+          0.14504286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because I'd previously done small jobs for 8-4, I already knew that everyone there loved Undertale and that they hoped to see it released in Japan someday. So although I wasn't involved with Undertale's localization at first, I watched as Toby and 8-4 got things rolling in early 2016.",
+        "raw": "Because I'd previously done small jobs for 8-4, I already knew that everyone\nthere loved Underta/e and that they hoped to see it released in Japan someday.\nSo although I wasn't involved with Underta/e's localization at first, I watched\nas Toby and 8-4 got things rolling in early 2016.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09735231,
+          0.15527143,
+          0.69859698,
+          0.22317857
+        ],
+        "mask_bbox": [
+          0.09530107,
+          0.15455714,
+          0.7006279,
+          0.22425
+        ],
+        "line_ids": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "我之前为 8-4 做过几项小工作，早已知道他们都喜欢 Undertale，也希望有一天它能在日本发行。所以，虽然最初我没参与本地化，却在一旁看着 Toby 和 8-4 于2016年初开始行动。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09734215,
+          0.15384286,
+          0.69859698,
+          0.22675
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0061-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09734215,
+          0.15384286,
+          0.69859698,
+          0.22675
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b004",
+      "kind": "aside",
+      "source": {
+        "text": "8-4 has a modest little office in the Tokyo area",
+        "raw": "8-4 has a modest\nlittle office in the\nTokyo area",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73330545,
+          0.241,
+          0.84263005,
+          0.28131429
+        ],
+        "mask_bbox": [
+          0.73198535,
+          0.24028571,
+          0.84395015,
+          0.28238571
+        ],
+        "line_ids": [
+          9,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "8-4 在东京有间朴素的小办公室。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73316329,
+          0.23957143,
+          0.89360623,
+          0.465
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.465,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73316329,
+          0.23957143,
+          0.89360623,
+          0.465
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "office-side-note"
+    },
+    {
+      "id": "p0061-b005",
+      "kind": "aside",
+      "source": {
+        "text": "As a freelancer myself, I've worked with 8-4 a couple times, mostly just translating menu text, tutorial info, etc., plus some light programming work and translation checks",
+        "raw": "As a freelancer\nmyself, I've worked\nwith 8-4 a couple\ntimes, mostly just\ntranslating menu\ntext, tutorial info,\netc., plus some light\nprogramming work\nand translation\nchecks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73370148,
+          0.29231429,
+          0.85897898,
+          0.44336429
+        ],
+        "mask_bbox": [
+          0.73238138,
+          0.2916,
+          0.86029909,
+          0.44443571
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "我以自由译者身份与 8-4 合作过几次，主要翻译菜单、教程等，也做少量编程和译文检查。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73316329,
+          0.29085714,
+          0.89360623,
+          0.465
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.465,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0061-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.73316329,
+          0.29085714,
+          0.89360623,
+          0.465
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "office-side-note"
+    },
+    {
+      "id": "p0061-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Bringing English lndie Games to Japan",
+        "raw": "Bringing English lndie Games to Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20164021,
+          0.50300714,
+          0.6024023,
+          0.51622857
+        ],
+        "mask_bbox": [
+          0.20032011,
+          0.50229286,
+          0.6037224,
+          0.5173
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "把英语独立游戏带到日本",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12490178,
+          0.49371429,
+          0.67832836,
+          0.51785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5178571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12490178,
+          0.49371429,
+          0.67832836,
+          0.51785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 729.0
+    },
+    {
+      "id": "p0061-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Tokyo-based 8-4, Ltd. was founded in 2005 to fill the growing need for video game localization specialists. Today, 8-4 is known for localizing entries in popular Japanese series into English, including NieR, Monster Hunter, Dragon Quest, Katamari, and Tales.",
+        "raw": "Tokyo-based 8-4, Ltd. was founded in 2005 to fill the growing need for\nvideo game localization specialists. Today, 8-4 is known for localizing\nentries in popular Japanese series into English, including NieR, Monster\nHunter, Dragon Quest, Katamari, and Tales.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12468853,
+          0.53205714,
+          0.66653885,
+          0.59427857
+        ],
+        "mask_bbox": [
+          0.12336843,
+          0.53134286,
+          0.66785895,
+          0.59535
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "东京的 8-4, Ltd. 成立于2005年，为日益增长的游戏本地化专业需求服务。如今它以将热门日本系列译成英语而闻名，作品包括 NieR、Monster Hunter、Dragon Quest、Katamari 和 Tales 系列。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 65,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 70,
+            "end": 84,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 85,
+            "end": 97,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 98,
+            "end": 106,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 109,
+            "end": 114,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12468853,
+          0.53062857,
+          0.69859698,
+          0.59785
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12468853,
+          0.53062857,
+          0.69859698,
+          0.59785
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "8-4 also specializes in localizing English-language indie games into Japanese. Past works include:",
+        "raw": "8-4 also specializes in localizing English-language indie games into\nJapanese. Past works include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1251658,
+          0.60530714,
+          0.63055089,
+          0.63447143
+        ],
+        "mask_bbox": [
+          0.1238457,
+          0.60459286,
+          0.63187099,
+          0.63554286
+        ],
+        "line_ids": [
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "8-4 也擅长将英语独立游戏本地化为日语，过去的项目包括：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1251658,
+          0.60387857,
+          0.69859698,
+          0.63804286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0061-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.1251658,
+          0.60387857,
+          0.69859698,
+          0.63804286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Aquaria (2011)",
+        "raw": "Aquaria (2011)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.21079968,
+          0.75394286,
+          0.30109453,
+          0.76449286
+        ],
+        "mask_bbox": [
+          0.20947958,
+          0.75322857,
+          0.30241463,
+          0.76556429
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "Aquaria（2011）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13201001,
+          0.75251429,
+          0.38079811,
+          0.77051429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13201001,
+          0.75251429,
+          0.38079811,
+          0.77051429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Shovel Knight (2016)",
+        "raw": "Shovel Knight (2016)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48304494,
+          0.75394286,
+          0.61067831,
+          0.76449286
+        ],
+        "mask_bbox": [
+          0.48172484,
+          0.75322857,
+          0.61199841,
+          0.76556429
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "Shovel Knight（2016）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42243203,
+          0.75251429,
+          0.67223559,
+          0.77051429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.775,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42243203,
+          0.75251429,
+          0.67223559,
+          0.77051429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Into the Breach (2020)",
+        "raw": "Into the Breach (2020)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.18790102,
+          0.88292143,
+          0.32510004,
+          0.89347143
+        ],
+        "mask_bbox": [
+          0.18658092,
+          0.88220714,
+          0.32642014,
+          0.89454286
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "Into the Breach（2020）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13099455,
+          0.88149286,
+          0.38181357,
+          0.89949286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9014285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13099455,
+          0.88149286,
+          0.38181357,
+          0.89949286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b012",
+      "kind": "caption",
+      "source": {
+        "text": "Hades (2021)",
+        "raw": "Hades (2021)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50716215,
+          0.88326429,
+          0.58716022,
+          0.89381429
+        ],
+        "mask_bbox": [
+          0.50584205,
+          0.88255,
+          0.58848032,
+          0.89488571
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "Hades（2021）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.4234475,
+          0.88183571,
+          0.67122013,
+          0.89983571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9014285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.4234475,
+          0.88183571,
+          0.67122013,
+          0.89983571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0061-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Getting it Localized",
+        "raw": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56279929,
+          0.94164286,
+          0.70719794,
+          0.95092857
+        ],
+        "mask_bbox": [
+          0.56147919,
+          0.94092857,
+          0.70851804,
+          0.952
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56279929,
+          0.94021429,
+          0.70719794,
+          0.95821429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9582142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56279929,
+          0.94021429,
+          0.70719794,
+          0.95821429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Getting it Localized",
+        "chapter_id": "chapter-58"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bcf827379a29bc8b1d60d1d593c5ac1a8b884bce7432a132082add86e86b4a58"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          10
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.86,
+      687.96
+    ],
+    "text_runs": [
+      {
+        "id": "p0061-b002",
+        "blocks": [
+          "p0061-b002",
+          "p0061-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 328.0
+      },
+      {
+        "id": "p0061-b007",
+        "blocks": [
+          "p0061-b007",
+          "p0061-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 905.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

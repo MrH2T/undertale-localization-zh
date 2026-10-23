@@ -1,0 +1,630 @@
+{
+  "schema_version": 3,
+  "pdf_page": 136,
+  "printed_page": "136",
+  "title": "独自打牌",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.739483+00:00",
+  "reference_size": [
+    980.094149,
+    1400
+  ],
+  "physical_size_pt": [
+    499.68,
+    713.76
+  ],
+  "image_url": "/assets/p0136.jpg",
+  "image_sha256": "507136f0b52054ad457d541b14c7a0e9accaeb852bbfaa3e47d558c6fd151c94",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0136/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0136-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Playing With a Full Deck",
+        "raw": "Playing With a Full Deck",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29352282,
+          0.06151429,
+          0.54202956,
+          0.07510714
+        ],
+        "mask_bbox": [
+          0.29219642,
+          0.0608,
+          0.54335596,
+          0.07617857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "独自打牌",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29343099,
+          0.051571429,
+          0.89888303,
+          0.075714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29343099,
+          0.051571429,
+          0.89888303,
+          0.075714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110
+    },
+    {
+      "id": "p0136-b002",
+      "kind": "aside",
+      "source": {
+        "text": "This scene is a parody ~ of the famous Dogs Playing Poker painting, which is known in Japan too",
+        "raw": "This scene is a parody ~\nof the famous Dogs\nPlaying Poker painting,\nwhich is known in\nJapan too",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1256614,
+          0.09084286,
+          0.28146276,
+          0.16323571
+        ],
+        "mask_bbox": [
+          0.12433499,
+          0.09012857,
+          0.28278916,
+          0.16430714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "这也在戏仿名画 Dogs Playing Poker（《玩扑克的狗》）；这幅画在日本也有知名度。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11733567,
+          0.08941429,
+          0.28146276,
+          0.16680714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.48508571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11733567,
+          0.08941429,
+          0.28146276,
+          0.16680714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Inside Snowdin's local restaurant, a dog sits at a table all alone. At first, the dog plays poker against itself, but it switches to other card games as Underta/e's story unfolds. Eventually, in the English script, the dog starts to play Go Fish against itself.",
+        "raw": "Inside Snowdin's local restaurant, a dog sits at a table all alone. At first, the dog\nplays poker against itself, but it switches to other card games as Underta/e's\nstory unfolds. Eventually, in the English script, the dog starts to play Go Fish\nagainst itself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29334937,
+          0.26336429,
+          0.89723013,
+          0.32949286
+        ],
+        "mask_bbox": [
+          0.28994153,
+          0.26265,
+          0.90092365,
+          0.33056429
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Snowdin 餐馆里，一只狗独自坐在桌前，跟自己玩扑克。故事推进后，它会换着玩别的纸牌游戏。英语版中，它后来会独自玩 Go Fish（钓鱼）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29343099,
+          0.26193571,
+          0.89888303,
+          0.33306429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29343099,
+          0.26193571,
+          0.89888303,
+          0.33306429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Go Fish is a card game usually played by two to five players, so the idea of playing it alone is slightly comical. And because Go Fish is so simple to play, it's particularly popular as a children's card game.",
+        "raw": "Go Fish is a card game usually played by two to five players, so the idea of\nplaying it alone is slightly comical. And because Go Fish is so simple to play, it's\nparticularly popular as a children's card game.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29351262,
+          0.34540714,
+          0.89888303,
+          0.39406429
+        ],
+        "mask_bbox": [
+          0.28994153,
+          0.34469286,
+          0.90092365,
+          0.39513571
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "Go Fish 通常要两到五个人玩，一只狗独自玩自然有些好笑。这种游戏规则简单，在孩子中很流行。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29343099,
+          0.34397857,
+          0.89888303,
+          0.39763571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0136-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29343099,
+          0.34397857,
+          0.89888303,
+          0.39763571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although card games are popular in Japan, Go Fish isn't as widely known there as it is elsewhere in the world. For that reason, the Undertale translator replaced the Go Fish reference with a different card game that some Japanese children do play: Daihinmin.",
+        "raw": "Although card games are popular in Japan, Go Fish isn't as widely known\nthere as it is elsewhere in the world. For that reason, the Undertale translator\nreplaced the Go Fish reference with a different card game that some Japanese\nchildren do play: Daihinmin.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29198215,
+          0.40727857,
+          0.8892513,
+          0.4761
+        ],
+        "mask_bbox": [
+          0.28994153,
+          0.40656429,
+          0.90092365,
+          0.47717143
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "纸牌游戏在日本也很受欢迎，但 Go Fish 没那么有名。因此，译者把它换成了“大贫民”（Daihinmin）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 54,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29343099,
+          0.40585,
+          0.89888303,
+          0.47967143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0136-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29343099,
+          0.40585,
+          0.89888303,
+          0.47967143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b006",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Go Fish usually ~ uses a standard card deck, but fish-themed Go Fish decks are common",
+        "raw": "LEFT: Go Fish usually ~\nuses a standard card\ndeck, but fish-themed\nGo Fish decks are\ncommon",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13098742,
+          0.49222857,
+          0.28340134,
+          0.56335714
+        ],
+        "mask_bbox": [
+          0.12966101,
+          0.49151429,
+          0.28472775,
+          0.56442857
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "Go Fish 用普通扑克牌就能玩，不过市面上也常见鱼类图案的专用牌。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11733567,
+          0.4908,
+          0.28340134,
+          0.56692857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5675714328571427,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11733567,
+          0.4908,
+          0.28340134,
+          0.56692857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b007",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Daihinmin and Daifugo also usually use a standard card deck, but custom sets exist too - some cities even have their own local rules!",
+        "raw": "RIGHT: Daihinmin and\nDaifugo also usually\nuse a standard card\ndeck, but custom sets\nexist too - some cities\neven have their own\nlocal rules!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12951817,
+          0.57471429,
+          0.26689273,
+          0.67869286
+        ],
+        "mask_bbox": [
+          0.12819177,
+          0.574,
+          0.26821913,
+          0.67976429
+        ],
+        "line_ids": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "“大贫民”或“大富豪”也可以用普通扑克牌玩，同时也有专用牌。各地还流传着不同的地方规则。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11733567,
+          0.57328571,
+          0.26792324,
+          0.68226429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11733567,
+          0.57328571,
+          0.26792324,
+          0.68226429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0136-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Daihinmin (\"Great Pauper\"), more commonly known as Daifugo (\"Great Millionaire\"), is similar to the card games known as \"Tycoon\" and \"President\" in English. The goal of the game is to get rid of all your cards as quickly as possible. The winner of each round is declared the daifugo and the loser is called the daihinmin, so it's somewhat funny to imagine this goofy dog being both things at the same time.",
+        "raw": "Daihinmin (\"Great Pauper\"), more commonly known as Daifugo (\"Great\nMillionaire\"), is similar to the card games known as \"Tycoon\" and \"President\"\nin English. The goal of the game is to get rid of all your cards as quickly as\npossible. The winner of each round is declared the daifugo and the loser is\ncalled the daihinmin, so it's somewhat funny to imagine this goofy dog being\nboth things at the same time.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29458394,
+          0.79228571,
+          0.89541398,
+          0.89642143
+        ],
+        "mask_bbox": [
+          0.28994153,
+          0.79157143,
+          0.90092365,
+          0.89749286
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "Daihinmin 的意思是“大贫民”，不过更常用的名称是“大富豪”（Daifugō），类似英语中的 Tycoon 或 President。玩家要尽快打光手中的牌，赢家成为“大富豪”，输家成为“大贫民”。于是，独自玩牌的狗既是大富豪，又是大贫民，笑点便保留了下来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29343099,
+          0.79085714,
+          0.89888303,
+          0.89999286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29343099,
+          0.79085714,
+          0.89888303,
+          0.89999286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6eaccc0ce1acff7a8f164523d7a7892dc88109c305146e00ff27932457bb7041"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          44
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.59,
+      880.99
+    ],
+    "text_runs": [
+      {
+        "id": "p0136-b003",
+        "blocks": [
+          "p0136-b003",
+          "p0136-b004",
+          "p0136-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 680.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

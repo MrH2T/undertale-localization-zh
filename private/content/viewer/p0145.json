@@ -1,0 +1,812 @@
+{
+  "schema_version": 3,
+  "pdf_page": 145,
+  "printed_page": "145",
+  "title": "单位的分寸",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.216208+00:00",
+  "reference_size": [
+    980.613621,
+    1400
+  ],
+  "physical_size_pt": [
+    498.6,
+    711.84
+  ],
+  "image_url": "/assets/p0145.jpg",
+  "image_sha256": "8a906887614d408cb3f7f6f9543c81399baf1ac959c0678dfe0f981b9a6ca4b8",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0145/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0145-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Absolute Units",
+        "raw": "Absolute Units",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09003546,
+          0.06065714,
+          0.24410226,
+          0.07428571
+        ],
+        "mask_bbox": [
+          0.08870976,
+          0.05994286,
+          0.24542796,
+          0.07535714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "单位的分寸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09040257,
+          0.05085714,
+          0.70493616,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09040257,
+          0.05085714,
+          0.70493616,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 109.0
+    },
+    {
+      "id": "p0145-b002",
+      "kind": "aside",
+      "source": {
+        "text": "I mean, technically, it should be localized as \"YOU MOVED IT 5.08 CENTIMETERS!\" but please don't tell the math police",
+        "raw": "I mean, technically, it\nshould be localized as\n\"YOU MOVED IT 5.08\nCENTIMETERS!\" but\nplease don't tell the\nmath police",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72568847,
+          0.09099286,
+          0.86755882,
+          0.17650714
+        ],
+        "mask_bbox": [
+          0.72436277,
+          0.09027857,
+          0.86888452,
+          0.17757857
+        ],
+        "line_ids": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "严格说，应该译成“你只挪了 5.08 厘米！”不过，请别告诉数学警察。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72568847,
+          0.08956429,
+          0.88033654,
+          0.18007857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4584285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72568847,
+          0.08956429,
+          0.88033654,
+          0.18007857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As part of his tour, Papyrus shows off Sans' sock collection. This collection includes a series of back-and-forth notes between the two brothers:",
+        "raw": "As part of his tour, Papyrus shows off Sans' sock collection. This collection\nincludes a series of back-and-forth notes between the two brothers:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08900549,
+          0.23542857,
+          0.66117784,
+          0.26531429
+        ],
+        "mask_bbox": [
+          0.08281549,
+          0.23471429,
+          0.7069757,
+          0.26638571
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "导览中，Papyrus 展示了 Sans 的袜子收藏，其中还有兄弟俩来来回回写的几张纸条：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09040257,
+          0.234,
+          0.70493616,
+          0.26888571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09040257,
+          0.234,
+          0.70493616,
+          0.26888571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b004",
+      "kind": "quote",
+      "source": {
+        "text": "SANS! PLEASE PICK UP YOUR SOCK! ok. DON'T PUT IT BACK DOWN! MOVE IT! ok. YOU MOVED IT TWO INCHES! MOVE IT TO YOUR ROOM!",
+        "raw": "SANS! PLEASE PICK UP YOUR SOCK!\nok.\nDON'T PUT IT BACK DOWN! MOVE IT!\nok.\nYOU MOVED IT TWO INCHES! MOVE IT TO YOUR ROOM!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13528264,
+          0.2807,
+          0.6113315,
+          0.36633571
+        ],
+        "mask_bbox": [
+          0.13395694,
+          0.27998571,
+          0.6126572,
+          0.36740714
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Sans！请捡起你的袜子！\n好。\n别又放回去！挪走！\n好。\n你只挪了两英寸！挪到你房间去！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13528264,
+          0.27927143,
+          0.70493616,
+          0.36990714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0145-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13528264,
+          0.27927143,
+          0.70493616,
+          0.36990714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Japan uses the metric system, so the translator converted the measurement of \"two inches\" to \"five centimeters\". This is an understandable translation change that hardly seems noteworthy on its own, but it's also a nice example of how math - and not just text - can play a part in the localization process too.",
+        "raw": "Japan uses the metric system, so the translator converted the measurement of\n\"two inches\" to \"five centimeters\". This is an understandable translation change\nthat hardly seems noteworthy on its own, but it's also a nice example of how\nmath - and not just text - can play a part in the localization process too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08485503,
+          0.38140714,
+          0.70251931,
+          0.4494
+        ],
+        "mask_bbox": [
+          0.08281549,
+          0.38069286,
+          0.7069757,
+          0.45047143
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "日本使用公制，因此译者把“两英寸”换算成了“五厘米”。这个改动很容易理解，单独看似乎没什么值得一提，但它也说明：本地化过程中，除了文字，数学也可能派上用场。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09040257,
+          0.37997857,
+          0.70493616,
+          0.45297143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0145-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09040257,
+          0.37997857,
+          0.70493616,
+          0.45297143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #5: Calculate how many millimeters there are in an inch, but without using technology!",
+        "raw": "Reader Challenge #5:\nCalculate how many\nmillimeters there are\nin an inch, but without\nusing technology!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73134819,
+          0.46557143,
+          0.87275965,
+          0.5376
+        ],
+        "mask_bbox": [
+          0.73002249,
+          0.46485714,
+          0.87408535,
+          0.53867143
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 5：不用科技工具，算算一英寸等于多少毫米！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73134819,
+          0.46414286,
+          0.88033654,
+          0.54117143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73134819,
+          0.46414286,
+          0.88033654,
+          0.54117143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Similar measurement changes can be found throughout Undertale's Japanese script. In some cases, when the measurements aren't meant to be taken literally to begin with, the translator chose a suitable replacement. For example, a character in Snowdin shares this remark:",
+        "raw": "Similar measurement changes can be found throughout Undertale's Japanese\nscript. In some cases, when the measurements aren't meant to be taken literally\nto begin with, the translator chose a suitable replacement. For example, a\ncharacter in Snowdin shares this remark:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0920954,
+          0.62001429,
+          0.70493616,
+          0.68744286
+        ],
+        "mask_bbox": [
+          0.08281549,
+          0.6193,
+          0.7069757,
+          0.68851429
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的日文剧本中，这样的单位变更随处可见。有些长度本来就不是实指，译者便选择合适的替代说法。例如，Snowdin 有个角色说：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09040257,
+          0.61858571,
+          0.70493616,
+          0.69101429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09040257,
+          0.61858571,
+          0.70493616,
+          0.69101429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b008",
+      "kind": "quote",
+      "source": {
+        "text": "That lady over there's been going for a walk for a while now. ... but she hasn't moved an inch from where she's standing.",
+        "raw": "That lady over there's been going for a walk for a while now. ... but she\nhasn't moved an inch from where she's standing.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13682249,
+          0.7026,
+          0.65864882,
+          0.73332857
+        ],
+        "mask_bbox": [
+          0.13549679,
+          0.70188571,
+          0.65997452,
+          0.7344
+        ],
+        "line_ids": [
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "那边那位女士已经散步好一会儿了……可她站在原地，连一英寸都没挪过。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13682249,
+          0.70117143,
+          0.70493616,
+          0.7369
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0145-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.13682249,
+          0.70117143,
+          0.70493616,
+          0.7369
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "This reference to \"an inch\" wasn't meant to be taken literally, so the translator replaced it with \"one millimeter\". This is a terribly inaccurate conversion, of course, but by straying from the literal meaning of the source text, the translator was able to retain the intended, functional meaning instead.",
+        "raw": "This reference to \"an inch\" wasn't meant to be taken literally, so the translator\nreplaced it with \"one millimeter\". This is a terribly inaccurate conversion,\nof course, but by straying from the literal meaning of the source text, the\ntranslator was able to retain the intended, functional meaning instead.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09179966,
+          0.74856429,
+          0.69292327,
+          0.81622143
+        ],
+        "mask_bbox": [
+          0.08281549,
+          0.74785,
+          0.7069757,
+          0.81729286
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "这里的“一英寸”并不是精确长度，因此译者将它换成了“一毫米”。这当然不是准确的换算，但偏离原文的字面数值，反而保留了它实际要表达的意思。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09040257,
+          0.74713571,
+          0.70493616,
+          0.81979286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0145-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09040257,
+          0.74713571,
+          0.70493616,
+          0.81979286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Matters that involve length, area, volume, temperature, and money come up all the time during translation, so as a translator/localizer it's helpful to have a basic understanding of mathematics and units of measurement.",
+        "raw": "Matters that involve length, area, volume, temperature, and money come\nup all the time during translation, so as a translator/localizer it's helpful to\nhave a basic understanding of mathematics and units of measurement.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11263356,
+          0.84298571,
+          0.67583193,
+          0.88771429
+        ],
+        "mask_bbox": [
+          0.11130786,
+          0.84227143,
+          0.67715763,
+          0.88878571
+        ],
+        "line_ids": [
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "翻译经常涉及长度、面积、体积、温度和金钱。所以，掌握一些基础数学和计量单位知识，对翻译与本地化工作很有帮助。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11263356,
+          0.84155714,
+          0.67583193,
+          0.89128571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.895,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11263356,
+          0.84155714,
+          0.67583193,
+          0.89128571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0145-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64037454,
+          0.93598571,
+          0.70498715,
+          0.94624286
+        ],
+        "mask_bbox": [
+          0.63904884,
+          0.93527143,
+          0.70631285,
+          0.94731429
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64037454,
+          0.93455714,
+          0.70498715,
+          0.95255714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.952557142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64037454,
+          0.93455714,
+          0.70498715,
+          0.95255714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "eda31279418e0393739ac7716c857a6b35e4cebf4d70ebf6990cd11c8792f3eb"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          9,
+          10,
+          22,
+          28,
+          29,
+          30,
+          31,
+          32,
+          46
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      88.65,
+      691.27
+    ],
+    "text_runs": [
+      {
+        "id": "p0145-b003",
+        "blocks": [
+          "p0145-b003",
+          "p0145-b004",
+          "p0145-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 643.0
+      },
+      {
+        "id": "p0145-b007",
+        "blocks": [
+          "p0145-b007",
+          "p0145-b008",
+          "p0145-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1157.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

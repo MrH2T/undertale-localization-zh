@@ -1,0 +1,407 @@
+{
+  "schema_version": 3,
+  "pdf_page": 21,
+  "printed_page": "21",
+  "title": "惯用语的本地化",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    985.596222,
+    1400
+  ],
+  "physical_size_pt": [
+    500.88,
+    711.48
+  ],
+  "image_url": "/assets/p0021.jpg",
+  "image_sha256": "cb7191a9a8c41dfa95d3a1bd89583cd5aa13b652943c010c780bfdca67350b4a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0021/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0021-b001",
+      "kind": "caption",
+      "source": {
+        "text": "~ The Japanese phrase \"to drink the brewed dirt from under XX's fingernails\" sounds bizarre when translated literally, but functionally means \"to take a lesson from XX\" (Game: Refreshing Sideways Puzzle)",
+        "raw": "~ The Japanese phrase\n\"to drink the brewed\ndirt from under XX's\nfingernails\" sounds\nbizarre when translated\nliterally, but functionally\nmeans \"to take a lesson\nfrom XX\" (Game:\nRefreshing Sideways\nPuzzle)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72498249,
+          0.07417143,
+          0.89346933,
+          0.22412857
+        ],
+        "mask_bbox": [
+          0.72366349,
+          0.07345714,
+          0.89478833,
+          0.2252
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "日语里“把某人指甲缝里的污垢煎来喝”，直译听着很古怪，实际却是“向某人学习”的意思。（游戏：Refreshing Sideways Puzzle）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72498249,
+          0.07274286,
+          0.89346933,
+          0.2277
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3227071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72498249,
+          0.07274286,
+          0.89346933,
+          0.2277
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0021-b002",
+      "kind": "caption",
+      "source": {
+        "text": "This Japanese proverb could be literally translated as \"doing life laundry while the ogre is away\". This doesn't make much sense in English though, so the localized script uses a completely different proverb to say roughly the same thing (Game: Final Fantasy IV)",
+        "raw": "This Japanese proverb\ncould be literally\ntranslated as \"doing life\nlaundry while the ogre\nis away\". This doesn't\nmake much sense in\nEnglish though, so the\nlocalized script uses a\ncompletely different\nproverb to say roughly\nthe same thing (Game:\nFinal Fantasy IV)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7416526,
+          0.32985,
+          0.89061827,
+          0.51119286
+        ],
+        "mask_bbox": [
+          0.7403336,
+          0.32913571,
+          0.89193727,
+          0.51226429
+        ],
+        "line_ids": [
+          12,
+          13,
+          17,
+          20,
+          22,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "这句日语谚语可以直译成“趁鬼不在时洗涤人生”。这在英语里没什么意义，因此本地化采用了一句完全不同的谚语，表达大致相同的意思。（游戏：Final Fantasy IV）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 66,
+            "end": 82,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7416526,
+          0.32842143,
+          0.89061827,
+          0.51476429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5244428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7416526,
+          0.32842143,
+          0.89061827,
+          0.51476429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0021-b003",
+      "kind": "caption",
+      "source": {
+        "text": "This Japanese battle cry was translated literally into English as \"I will turn you into a beehive\", resulting in a bizarre, hilarious, non- threatening threat. In English, we'd probably say something like ''I'll fill you full of holes!\" or \"I'll turn you into Swiss cheese!\" instead (Game: Star Ocean: The Second Story)",
+        "raw": "This Japanese battle\ncry was translated\nliterally into English as\n\"I will turn you into a\nbeehive\", resulting in a\nbizarre, hilarious, non-\nthreatening threat. In\nEnglish, we'd probably\nsay something like ''I'll\nfill you full of holes!\"\nor \"I'll turn you into\nSwiss cheese!\" instead\n(Game: Star Ocean: The\nSecond Story)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.736265,
+          0.53158571,
+          0.88753384,
+          0.74360714
+        ],
+        "mask_bbox": [
+          0.734946,
+          0.53087143,
+          0.88885284,
+          0.74467857
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "这句日语战斗台词被直译成英语“I will turn you into a beehive”（我要把你变成蜂巢），成了古怪又好笑、毫无威慑力的威胁。英语里大概会说“I’ll fill you full of holes!”（我要把你打得满身窟窿），或“I’ll turn you into Swiss cheese!”（我要把你打成瑞士奶酪）。（游戏：Star Ocean: The Second Story）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.736265,
+          0.53015714,
+          0.88753384,
+          0.74717857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.736265,
+          0.53015714,
+          0.88753384,
+          0.74717857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0021-b004",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56061497,
+          0.93916429,
+          0.71562774,
+          0.94886429
+        ],
+        "mask_bbox": [
+          0.55929598,
+          0.93845,
+          0.71694674,
+          0.94993571
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56061497,
+          0.93773571,
+          0.71562774,
+          0.95573571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9557357142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56061497,
+          0.93773571,
+          0.71562774,
+          0.95573571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "564c7c15e6fb9786b1a47f8210a478bafaed4bbb4ea18e31436da4d74c0d8d67"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          11
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

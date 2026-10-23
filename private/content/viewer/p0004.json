@@ -1,0 +1,1308 @@
+{
+  "schema_version": 3,
+  "pdf_page": 4,
+  "printed_page": "",
+  "title": "版权说明与阅读指南",
+  "subtitle": "版权说明与阅读指南",
+  "revision": 2,
+  "updated_at": "2026-10-22T16:52:37.668155+00:00",
+  "reference_size": [
+    995.1664694946764,
+    1400
+  ],
+  "physical_size_pt": [
+    504.72,
+    710.04
+  ],
+  "image_url": "/assets/p0004.jpg",
+  "image_sha256": "18d25a0a1b8d16fb2ad7fa4b4c3b72a3a82278f9ada4fe176b0c0008e6c0925c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0004/page.json",
+  "page_role": "reference",
+  "blocks": [
+    {
+      "id": "p0004-b001",
+      "kind": "legal",
+      "source": {
+        "text": "Fan-produced media contained in this book are utilized with permission, are properly licensed, and/or are commissioned works.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.08,
+          0.8963093145869947,
+          0.1125
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.08,
+          0.8963093145869947,
+          0.1125
+        ]
+      },
+      "translation": {
+        "text": "本书使用的同人作品均已获许可、取得适当授权，或为委托创作。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.08,
+          0.8963093145869947,
+          0.1125
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.08,
+          0.8963093145869947,
+          0.1125
+        ],
+        "font_size": 17,
+        "leading": 25
+      }
+    },
+    {
+      "id": "p0004-b002",
+      "kind": "legal",
+      "source": {
+        "text": "Other externally sourced media contained in this book, including video game screenshots, are utilized under the following criteria for Fair Use: 1. Utilized copyrighted material is fundamentally transformative in nature and used for educational and illustrative purposes; 2. Utilized copyrighted material is from a publicly available published work; 3. Utilized copyrighted material is of minimal amount and minimal substantiality; 4. Utilized copyrighted material does not deprive the copyright owner of income, potential for income, or freedom of controlling ownership.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.126875,
+          0.8963093145869947,
+          0.249375
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.126875,
+          0.8963093145869947,
+          0.249375
+        ]
+      },
+      "translation": {
+        "text": "本书使用的其他外部素材（包括电子游戏截图）符合以下合理使用标准：\n1. 对受版权保护材料的使用具有根本性的转换性质，用于教育和说明。\n2. 材料取自已公开发表的作品。\n3. 使用的数量及其在原作中的重要性均限于最低程度。\n4. 不剥夺版权所有者的收入、潜在收入，或自主行使所有权的自由。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.126875,
+          0.8963093145869947,
+          0.249375
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.126875,
+          0.8963093145869947,
+          0.249375
+        ],
+        "font_size": 17,
+        "leading": 25
+      }
+    },
+    {
+      "id": "p0004-b003",
+      "kind": "legal",
+      "source": {
+        "text": "SEKAI NO OWARI photograph by Space Shower Network., CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.265625,
+          0.8963093145869947,
+          0.299375
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.265625,
+          0.8963093145869947,
+          0.299375
+        ]
+      },
+      "translation": {
+        "text": "SEKAI NO OWARI 照片：Space Shower Network.，CC BY 2.0\nhttps://creativecommons.org/licenses/by/2.0，来自 Wikimedia Commons",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.265625,
+          0.8963093145869947,
+          0.299375
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4193548387096775,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.265625,
+          0.8963093145869947,
+          0.299375
+        ],
+        "font_size": 15.5,
+        "leading": 22
+      }
+    },
+    {
+      "id": "p0004-b004",
+      "kind": "legal",
+      "source": {
+        "text": "Gyaru photograph by MartaJobani, CC BY-SA 3.0 <https://creativecommons.org/licenses/by-sa/3.0>, via Wikimedia Commons",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.310625,
+          0.8963093145869947,
+          0.3425
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.310625,
+          0.8963093145869947,
+          0.3425
+        ]
+      },
+      "translation": {
+        "text": "Gyaru 照片：MartaJobani，CC BY-SA 3.0\nhttps://creativecommons.org/licenses/by-sa/3.0，来自 Wikimedia Commons",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.310625,
+          0.8963093145869947,
+          0.3425
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4193548387096775,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.310625,
+          0.8963093145869947,
+          0.3425
+        ],
+        "font_size": 15.5,
+        "leading": 22
+      }
+    },
+    {
+      "id": "p0004-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Reading Guide",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.3675,
+          0.8963093145869947,
+          0.385625
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.3675,
+          0.8963093145869947,
+          0.385625
+        ]
+      },
+      "translation": {
+        "text": "日语读音指南",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.3675,
+          0.8963093145869947,
+          0.390625
+        ],
+        "font_size": 22,
+        "line_height": 1.2727272727272727,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.3675,
+          0.8963093145869947,
+          0.390625
+        ],
+        "font_size": 22,
+        "leading": 28
+      }
+    },
+    {
+      "id": "p0004-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Letter",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28471001757469244,
+          0.4075,
+          0.4349736379613357,
+          0.42375
+        ],
+        "mask_bbox": [
+          0.28471001757469244,
+          0.4075,
+          0.4349736379613357,
+          0.42375
+        ]
+      },
+      "translation": {
+        "text": "日语罗马字",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.28471001757469244,
+          0.4075,
+          0.4349736379613357,
+          0.42875
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#252427",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.28471001757469244,
+          0.4075,
+          0.4349736379613357,
+          0.42875
+        ],
+        "font_size": 18,
+        "leading": 26
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "p0004-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Rough Pronunciation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46397188049209137,
+          0.4075,
+          0.8840070298769771,
+          0.42375
+        ],
+        "mask_bbox": [
+          0.46397188049209137,
+          0.4075,
+          0.8840070298769771,
+          0.42375
+        ]
+      },
+      "translation": {
+        "text": "近似读音",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46397188049209137,
+          0.4075,
+          0.8840070298769771,
+          0.42875
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#252427",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46397188049209137,
+          0.4075,
+          0.8840070298769771,
+          0.42875
+        ],
+        "font_size": 18,
+        "leading": 26
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "p0004-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “ah”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.44,
+          0.8857644991212654,
+          0.46
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.44,
+          0.8857644991212654,
+          0.46
+        ]
+      },
+      "translation": {
+        "text": "近似英语 ah",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.44,
+          0.8857644991212654,
+          0.46
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.44,
+          0.8857644991212654,
+          0.46
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 1,
+        "column": 1,
+        "example": "a"
+      }
+    },
+    {
+      "id": "p0004-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “eh”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.4734375,
+          0.8857644991212654,
+          0.4934375
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.4734375,
+          0.8857644991212654,
+          0.4934375
+        ]
+      },
+      "translation": {
+        "text": "近似英语 eh",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.4734375,
+          0.8857644991212654,
+          0.4934375
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.4734375,
+          0.8857644991212654,
+          0.4934375
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 2,
+        "column": 1,
+        "example": "e"
+      }
+    },
+    {
+      "id": "p0004-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “ee” in “bee”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.506875,
+          0.8857644991212654,
+          0.526875
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.506875,
+          0.8857644991212654,
+          0.526875
+        ]
+      },
+      "translation": {
+        "text": "近似英语 bee 中的 ee",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.506875,
+          0.8857644991212654,
+          0.526875
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.506875,
+          0.8857644991212654,
+          0.526875
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 3,
+        "column": 1,
+        "example": "i"
+      }
+    },
+    {
+      "id": "p0004-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “oh”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.5403125,
+          0.8857644991212654,
+          0.5603125
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.5403125,
+          0.8857644991212654,
+          0.5603125
+        ]
+      },
+      "translation": {
+        "text": "近似英语 oh",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.5403125,
+          0.8857644991212654,
+          0.5603125
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.5403125,
+          0.8857644991212654,
+          0.5603125
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 4,
+        "column": 1,
+        "example": "o"
+      }
+    },
+    {
+      "id": "p0004-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “ooh”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.57375,
+          0.8857644991212654,
+          0.59375
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.57375,
+          0.8857644991212654,
+          0.59375
+        ]
+      },
+      "translation": {
+        "text": "近似英语 ooh",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.57375,
+          0.8857644991212654,
+          0.59375
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.57375,
+          0.8857644991212654,
+          0.59375
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 5,
+        "column": 1,
+        "example": "u"
+      }
+    },
+    {
+      "id": "p0004-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “g” in “go”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.6071875,
+          0.8857644991212654,
+          0.6271875
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.6071875,
+          0.8857644991212654,
+          0.6271875
+        ]
+      },
+      "translation": {
+        "text": "近似英语 go 中的 g",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.6071875,
+          0.8857644991212654,
+          0.6271875
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.6071875,
+          0.8857644991212654,
+          0.6271875
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 6,
+        "column": 1,
+        "example": "g"
+      }
+    },
+    {
+      "id": "p0004-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "Similar to “ts” in “cats”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.640625,
+          0.8857644991212654,
+          0.660625
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.640625,
+          0.8857644991212654,
+          0.660625
+        ]
+      },
+      "translation": {
+        "text": "近似英语 cats 中的 ts",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.640625,
+          0.8857644991212654,
+          0.660625
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.640625,
+          0.8857644991212654,
+          0.660625
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "pronunciation",
+        "row": 7,
+        "column": 1,
+        "example": "tsu"
+      }
+    },
+    {
+      "id": "p0004-b015",
+      "kind": "legal",
+      "source": {
+        "text": "NOTE: A short line above a vowel indicates that the vowel should be held a bit longer",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.6775,
+          0.8963093145869947,
+          0.69375
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.6775,
+          0.8963093145869947,
+          0.69375
+        ]
+      },
+      "translation": {
+        "text": "注：元音上方的短横线表示发音要延长一些。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.6775,
+          0.8963093145869947,
+          0.69375
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.6775,
+          0.8963093145869947,
+          0.69375
+        ],
+        "font_size": 16,
+        "leading": 23
+      }
+    },
+    {
+      "id": "p0004-b016",
+      "kind": "subheading",
+      "source": {
+        "text": "Understanding First-Person, Second-Person, and Third-Person",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26449912126537783,
+          0.71125,
+          0.8963093145869947,
+          0.73
+        ],
+        "mask_bbox": [
+          0.26449912126537783,
+          0.71125,
+          0.8963093145869947,
+          0.73
+        ]
+      },
+      "translation": {
+        "text": "理解第一、第二和第三人称",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.26449912126537783,
+          0.71125,
+          0.8963093145869947,
+          0.735
+        ],
+        "font_size": 22,
+        "line_height": 1.2727272727272727,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.26449912126537783,
+          0.71125,
+          0.8963093145869947,
+          0.735
+        ],
+        "font_size": 22,
+        "leading": 28
+      }
+    },
+    {
+      "id": "p0004-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "First-person perspective",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28471001757469244,
+          0.75375,
+          0.4349736379613357,
+          0.78875
+        ],
+        "mask_bbox": [
+          0.28471001757469244,
+          0.75375,
+          0.4349736379613357,
+          0.78875
+        ]
+      },
+      "translation": {
+        "text": "第一人称",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.28471001757469244,
+          0.75375,
+          0.4349736379613357,
+          0.78875
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.28471001757469244,
+          0.75375,
+          0.4349736379613357,
+          0.78875
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 0,
+        "column": 0
+      }
+    },
+    {
+      "id": "p0004-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "When talking about yourself\nFirst-person pronoun examples: I, me, us, we",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.75375,
+          0.8857644991212654,
+          0.7925
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.75375,
+          0.8857644991212654,
+          0.7925
+        ]
+      },
+      "translation": {
+        "text": "谈论自己时使用。\n代词例子：I, me, us, we（我、我们）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.75375,
+          0.8857644991212654,
+          0.7925
+        ],
+        "font_size": 17.5,
+        "line_height": 1.4285714285714286,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.75375,
+          0.8857644991212654,
+          0.7925
+        ],
+        "font_size": 17.5,
+        "leading": 25
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 0,
+        "column": 1
+      }
+    },
+    {
+      "id": "p0004-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Second-person perspective",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28471001757469244,
+          0.8075,
+          0.4349736379613357,
+          0.8425
+        ],
+        "mask_bbox": [
+          0.28471001757469244,
+          0.8075,
+          0.4349736379613357,
+          0.8425
+        ]
+      },
+      "translation": {
+        "text": "第二人称",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.28471001757469244,
+          0.8075,
+          0.4349736379613357,
+          0.8425
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.28471001757469244,
+          0.8075,
+          0.4349736379613357,
+          0.8425
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 1,
+        "column": 0
+      }
+    },
+    {
+      "id": "p0004-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "When talking about the listener\nSecond-person pronoun examples: you",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.8075,
+          0.8857644991212654,
+          0.84625
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.8075,
+          0.8857644991212654,
+          0.84625
+        ]
+      },
+      "translation": {
+        "text": "谈论听者时使用。\n代词例子：you（你、你们）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.8075,
+          0.8857644991212654,
+          0.84625
+        ],
+        "font_size": 17.5,
+        "line_height": 1.4285714285714286,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.8075,
+          0.8857644991212654,
+          0.84625
+        ],
+        "font_size": 17.5,
+        "leading": 25
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 1,
+        "column": 1
+      }
+    },
+    {
+      "id": "p0004-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Third-person perspective",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28471001757469244,
+          0.86125,
+          0.4349736379613357,
+          0.89625
+        ],
+        "mask_bbox": [
+          0.28471001757469244,
+          0.86125,
+          0.4349736379613357,
+          0.89625
+        ]
+      },
+      "translation": {
+        "text": "第三人称",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.28471001757469244,
+          0.86125,
+          0.4349736379613357,
+          0.89625
+        ],
+        "font_size": 18,
+        "line_height": 1.5,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.28471001757469244,
+          0.86125,
+          0.4349736379613357,
+          0.89625
+        ],
+        "font_size": 18,
+        "leading": 27
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 2,
+        "column": 0
+      }
+    },
+    {
+      "id": "p0004-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "When talking about someone else\nThird-person pronoun examples: he, she, it, they",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46309314586994726,
+          0.86125,
+          0.8857644991212654,
+          0.9
+        ],
+        "mask_bbox": [
+          0.46309314586994726,
+          0.86125,
+          0.8857644991212654,
+          0.9
+        ]
+      },
+      "translation": {
+        "text": "谈论其他人或事物时使用。\n代词例子：he, she, it, they（他、她、它、他们）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.46309314586994726,
+          0.86125,
+          0.8857644991212654,
+          0.9
+        ],
+        "font_size": 17.5,
+        "line_height": 1.4285714285714286,
+        "font_weight": 400,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.46309314586994726,
+          0.86125,
+          0.8857644991212654,
+          0.9
+        ],
+        "font_size": 17.5,
+        "leading": 25
+      },
+      "structure": {
+        "role": "table-cell",
+        "table": "person",
+        "row": 2,
+        "column": 1
+      }
+    }
+  ]
+}

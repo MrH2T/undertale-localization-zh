@@ -1,0 +1,759 @@
+{
+  "schema_version": 3,
+  "pdf_page": 222,
+  "printed_page": "222",
+  "title": "关键词",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    982.873486,
+    1400
+  ],
+  "physical_size_pt": [
+    500.76,
+    713.28
+  ],
+  "image_url": "/assets/p0222.jpg",
+  "image_sha256": "9ce6013b94c25d4291f62baf67a35d07eb5ff09290e6d10b0199e6691e9b2bdf",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0222/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0222-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Key Words",
+        "raw": "Key Words",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29718983,
+          0.06435,
+          0.4060136,
+          0.07865
+        ],
+        "mask_bbox": [
+          0.29586717,
+          0.06363571,
+          0.40733625,
+          0.07972143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "关键词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29794272,
+          0.05514286,
+          0.90348352,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29794272,
+          0.05514286,
+          0.90348352,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0222-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Video game • homework sounds fun and terrifying at the same time",
+        "raw": "Video game •\nhomework sounds\nfun and terrifying at\nthe same time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14469818,
+          0.09507143,
+          0.28455341,
+          0.15028571
+        ],
+        "mask_bbox": [
+          0.14337552,
+          0.09435714,
+          0.28587606,
+          0.15135714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "电子游戏作业听起来既有趣，又可怕。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11700387,
+          0.09364286,
+          0.28455341,
+          0.15385714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.675,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11700387,
+          0.09364286,
+          0.28455341,
+          0.15385714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0222-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, the game's programming searches for 69 keywords in the player's essay. In the Japanese version, there are 81 keywords. There are several reasons for this mismatch:",
+        "raw": "In the English version of Undertale, the game's programming searches for 69\nkeywords in the player's essay. In the Japanese version, there are 81 keywords.\nThere are several reasons for this mismatch:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29700669,
+          0.22888571,
+          0.89692113,
+          0.27858571
+        ],
+        "mask_bbox": [
+          0.29497184,
+          0.22817143,
+          0.90551837,
+          0.27965714
+        ],
+        "line_ids": [
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "英文版《Undertale》的程序会在玩家作文中搜索 69 个关键词；日文版则有 81 个。数量不同有几个原因：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29794272,
+          0.22745714,
+          0.90348352,
+          0.28215714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29794272,
+          0.22745714,
+          0.90348352,
+          0.28215714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0222-b004",
+      "kind": "quote",
+      "source": {
+        "text": "The English language separates words with spaces, but spaces aren't required in Japanese - this complicates the keyword searching process and can result in false positives unless extra precautions are taken",
+        "raw": "The English language separates words with spaces, but spaces aren't\nrequired in Japanese - this complicates the keyword searching process\nand can result in false positives unless extra precautions are taken",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34155973,
+          0.29383571,
+          0.88542423,
+          0.34184286
+        ],
+        "mask_bbox": [
+          0.3046272,
+          0.29312143,
+          0.88674688,
+          0.34291429
+        ],
+        "line_ids": [
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "英语用空格分词，日语却不必。这使关键词搜索更复杂，不采取额外措施就可能误判。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34155973,
+          0.29240714,
+          0.90348352,
+          0.34541429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34155973,
+          0.29240714,
+          0.90348352,
+          0.34541429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0222-b005",
+      "kind": "quote",
+      "source": {
+        "text": "The Japanese language includes a dizzying number of homophones (words with the same pronunciation but different meanings), and the lack of kanji support makes it difficult to differentiate them",
+        "raw": "The Japanese language includes a dizzying number of homophones\n(words with the same pronunciation but different meanings), and the\nlack of kanji support makes it difficult to differentiate them",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34203792,
+          0.35742143,
+          0.87278781,
+          0.40642857
+        ],
+        "mask_bbox": [
+          0.30510539,
+          0.35670714,
+          0.87411047,
+          0.4075
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "日语有数量惊人的同音词，即读音相同、意思不同的词；这里不支持汉字，因而很难区分。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34203792,
+          0.35599286,
+          0.90348352,
+          0.41
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.34203792,
+          0.35599286,
+          0.90348352,
+          0.41
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0222-b006",
+      "kind": "quote",
+      "source": {
+        "text": "The Japanese language has its own words for things, but it's also absorbed countless English words - this combination results in a slightly larger pool of available keywords",
+        "raw": "The Japanese language has its own words for things, but it's also\nabsorbed countless English words - this combination results in a slightly\nlarger pool of available keywords",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34253646,
+          0.42033571,
+          0.90020741,
+          0.46968571
+        ],
+        "mask_bbox": [
+          0.30560393,
+          0.41962143,
+          0.90153007,
+          0.47075714
+        ],
+        "line_ids": [
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "日语既有自己的词汇，又吸收了大量英语词，两者结合使可用的关键词稍多。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34253646,
+          0.41890714,
+          0.90348352,
+          0.47325714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.34253646,
+          0.41890714,
+          0.90348352,
+          0.47325714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0222-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Japanese version of Undertale also includes a new set of 14 keywords that result in all-new Mettaton EX responses. For example, if a Japanese player includes the word nihongo (\"Japanese language\") in the essay, Mettaton EX will respond with:",
+        "raw": "The Japanese version of Undertale also includes a new set of 14 keywords that\nresult in all-new Mettaton EX responses. For example, if a Japanese player\nincludes the word nihongo (\"Japanese language\") in the essay, Mettaton EX\nwill respond with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29794272,
+          0.48595,
+          0.89388921,
+          0.55112857
+        ],
+        "mask_bbox": [
+          0.29497184,
+          0.48523571,
+          0.90551837,
+          0.5522
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "日版《Undertale》还加入了 14 个新关键词，触发 Mettaton EX 全新的回应。例如，作文写到 nihongo（日语）时，他会回答：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 56,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29794272,
+          0.48452143,
+          0.90348352,
+          0.5547
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29794272,
+          0.48452143,
+          0.90348352,
+          0.5547
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0222-b008",
+      "kind": "quote",
+      "source": {
+        "text": "But ofc ourse! Any true star is well-versed in the language arts!",
+        "raw": "But ofc ourse! Any true star is well-versed in the language arts!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34282133,
+          0.56605,
+          0.81086733,
+          0.57922857
+        ],
+        "mask_bbox": [
+          0.34149868,
+          0.56533571,
+          0.81218998,
+          0.5803
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "那当然！真正的明星都精通语言艺术！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34282133,
+          0.56462143,
+          0.90348352,
+          0.58521071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.34282133,
+          0.56462143,
+          0.90348352,
+          0.58521071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0222-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "When Toby originally designed this essay scene, he put a lot of thought into how it should work and how Mettaton EX should react as ifhe were an actual, living character. As we can see, the localization team put just as much care into how the Japanese scene should work technically and linguistically.",
+        "raw": "When Toby originally designed this essay scene, he put a lot of thought into\nhow it should work and how Mettaton EX should react as ifhe were an actual,\nliving character. As we can see, the localization team put just as much care into\nhow the Japanese scene should work technically and linguistically.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29804446,
+          0.59498571,
+          0.90348352,
+          0.66114286
+        ],
+        "mask_bbox": [
+          0.29497184,
+          0.59427143,
+          0.90551837,
+          0.66221429
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Toby 最初设计作文场景时，仔细考虑了它的运作方式，以及如何让 Mettaton EX 像真实、鲜活的角色一样回应。可以看出，本地化团队也同样用心，兼顾了日语场景的技术与语言表现。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29794272,
+          0.59355714,
+          0.90348352,
+          0.66471429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0222-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29794272,
+          0.59355714,
+          0.90348352,
+          0.66471429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0222-b010",
+      "kind": "aside",
+      "source": {
+        "text": "And for no real reason, here is what Japanese computer keyboards look like if you've never seen one before",
+        "raw": "And for no real\nreason, here is what\nJapanese computer\nkeyboards look like\nif you've never seen\none before",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14735365,
+          0.68525,
+          0.27325999,
+          0.76567857
+        ],
+        "mask_bbox": [
+          0.146031,
+          0.68453571,
+          0.27458264,
+          0.76675
+        ],
+        "line_ids": [
+          28,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "没什么特别原因，给没见过的人看看日本电脑键盘长什么样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11700387,
+          0.68382143,
+          0.27325999,
+          0.76925
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11700387,
+          0.68382143,
+          0.27325999,
+          0.76925
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b512d8e8bad22112a76c16ba415ce2195438fdec2bac9932c81490310bd917a4"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292.84,
+      888.01
+    ],
+    "text_runs": [
+      {
+        "id": "p0222-b003",
+        "blocks": [
+          "p0222-b003",
+          "p0222-b004",
+          "p0222-b005",
+          "p0222-b006",
+          "p0222-b007",
+          "p0222-b008",
+          "p0222-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 940.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

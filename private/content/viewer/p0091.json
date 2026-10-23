@@ -1,0 +1,790 @@
+{
+  "schema_version": 3,
+  "pdf_page": 91,
+  "printed_page": "91",
+  "title": "胜利的传承 · 怪物的口味",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 9,
+  "updated_at": "2026-10-22T16:48:26.236517+00:00",
+  "reference_size": [
+    981.6064799190011,
+    1400
+  ],
+  "physical_size_pt": [
+    498.6,
+    711.12
+  ],
+  "image_url": "/assets/p0091.jpg",
+  "image_sha256": "5dc64295ddef37cc5fcf4ba058c69dc9d9a05e0765c96abbc5cbfd7a50318dc9",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0091/page.json",
+  "blocks": [
+    {
+      "id": "p0091-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Victory Bound",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.089649,
+          0.0585714,
+          0.7049668,
+          0.0764286
+        ],
+        "mask_bbox": [
+          0.089649,
+          0.0585714,
+          0.7049668,
+          0.0764286
+        ]
+      },
+      "translation": {
+        "text": "胜利的传承",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0916864,
+          0.0542857,
+          0.7029293,
+          0.08142854285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0916864,
+          0.0542857,
+          0.7029293,
+          0.08142854285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The 1990s JRPG references never stop in the world of Undertale!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7273791,
+          0.0878571,
+          0.8964896,
+          0.1357143
+        ],
+        "mask_bbox": [
+          0.7273791,
+          0.0878571,
+          0.8964896,
+          0.1357143
+        ]
+      },
+      "translation": {
+        "text": "在 Undertale 的世界里，1990 年代日式角色扮演游戏的梗真是无处不在！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.731454,
+          0.0885714,
+          0.8985271,
+          0.1642857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.731454,
+          0.0885714,
+          0.8985271,
+          0.1642857
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, the message “YOU WON!” appears after a successful battle. At Toby’s direction, this was changed to “YOU WIN!” in the Japanese game. This minor rewording is actually an intentional reference to a change made during MOTHER 2’s English localization into EarthBound:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0886302,
+          0.215,
+          0.708023,
+          0.2885714
+        ],
+        "mask_bbox": [
+          0.0886302,
+          0.215,
+          0.708023,
+          0.2885714
+        ]
+      },
+      "translation": {
+        "text": "英文版 Undertale 在战斗获胜后会显示“YOU WON!”（你赢了！）。按 Toby 的要求，日版将它改成了“YOU WIN!”。这点小小的措辞变化，其实是在有意致敬 MOTHER 2 本地化为英文版 EarthBound 时的一处改动：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 88,
+            "end": 96,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 105,
+            "end": 115,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0916864,
+          0.2135714,
+          0.7039481,
+          0.2971428285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0916864,
+          0.2135714,
+          0.7039481,
+          0.2928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b004",
+      "kind": "aside",
+      "source": {
+        "text": "I’ve seen long discussions on Japanese message boards about why some things say “you win” in English and other things say “you won”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7283978,
+          0.2978571,
+          0.8975083,
+          0.3928571
+        ],
+        "mask_bbox": [
+          0.7283978,
+          0.2978571,
+          0.8975083,
+          0.3928571
+        ]
+      },
+      "translation": {
+        "text": "我见过日本论坛长篇讨论：为什么有些作品的英文写“you win”，另一些却写“you won”？",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.731454,
+          0.2985714,
+          0.9036207526216263,
+          0.4035714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.731454,
+          0.2985714,
+          0.9036207526216263,
+          0.4035714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Original victory message (MOTHER 2)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1151174,
+          0.455,
+          0.3881392,
+          0.4721429
+        ],
+        "mask_bbox": [
+          0.1151174,
+          0.455,
+          0.3881392,
+          0.4721429
+        ]
+      },
+      "translation": {
+        "text": "原版胜利提示（MOTHER 2）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0916864,
+          0.4557143,
+          0.3840643,
+          0.475
+        ],
+        "font_size": 15,
+        "line_height": 1.5333333333333334,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0916864,
+          0.4557143,
+          0.3840643,
+          0.475
+        ],
+        "font_size": 15,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Localized victory message (EarthBound)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.431945,
+          0.455,
+          0.7039481,
+          0.4721429
+        ],
+        "mask_bbox": [
+          0.431945,
+          0.455,
+          0.7039481,
+          0.4721429
+        ]
+      },
+      "translation": {
+        "text": "本地化后的提示（EarthBound）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.4136077,
+          0.4557143,
+          0.7049668,
+          0.475
+        ],
+        "font_size": 15,
+        "line_height": 1.5333333333333334,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.4136077,
+          0.4557143,
+          0.7049668,
+          0.475
+        ],
+        "font_size": 15,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the original Japanese version of EarthBound displayed “YOU WIN!” after each battle, but this was changed to “YOU WON!” for its English release. Toby was eager to keep this tradition alive with Undertale’s localization, just in the opposite direction.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0886302,
+          0.4814286,
+          0.708023,
+          0.5557143
+        ],
+        "mask_bbox": [
+          0.0886302,
+          0.4814286,
+          0.708023,
+          0.5557143
+        ]
+      },
+      "translation": {
+        "text": "可以看到，EarthBound 的日文原版在每场战斗后显示“YOU WIN!”，英文发行版却改成了“YOU WON!”。Toby 很想让 Undertale 的本地化延续这项传统，只不过方向恰好反了过来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 69,
+            "end": 78,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0916864,
+          0.4785714,
+          0.7039481,
+          0.5621429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0916864,
+          0.4785714,
+          0.7039481,
+          0.5621429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "Monstrous Flavors",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0906677,
+          0.5714286,
+          0.708023,
+          0.5907143
+        ],
+        "mask_bbox": [
+          0.0906677,
+          0.5714286,
+          0.708023,
+          0.5907143
+        ]
+      },
+      "translation": {
+        "text": "怪物的口味",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0937239,
+          0.5671429,
+          0.7049668,
+          0.5942857428571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0937239,
+          0.5671429,
+          0.7049668,
+          0.5942857428571429
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b009",
+      "kind": "aside",
+      "source": {
+        "text": "You know how people avoid the licorice ones when eating jelly beans? The same thing happens in Japan, but with peppermint drops",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7283978,
+          0.6014286,
+          0.8975083,
+          0.6964286
+        ],
+        "mask_bbox": [
+          0.7283978,
+          0.6014286,
+          0.8975083,
+          0.6964286
+        ]
+      },
+      "translation": {
+        "text": "你知道有人吃糖豆时会挑开甘草味的吗？日本也有类似的情况，只不过被挑开的是薄荷糖。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7334915,
+          0.6014286,
+          0.8995458,
+          0.7078571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7334915,
+          0.6014286,
+          0.8995458,
+          0.7078571
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "“Monster Candy” is available for free in the ruins. In English, this candy is described as having a “distinct, non-licorice” flavor. Licorice candy is popular in Western countries, but its striking flavor is also quite polarizing – some people love it, and some people despise it with a burning passion.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0835365,
+          0.7478571,
+          0.7090418,
+          0.8221429
+        ],
+        "mask_bbox": [
+          0.0835365,
+          0.7478571,
+          0.7090418,
+          0.8221429
+        ]
+      },
+      "translation": {
+        "text": "在遗迹里可以免费拿到 Monster Candy（怪物糖果）。英文说明写它有一种“distinct, non-licorice”（独特、并非甘草味）风味。甘草糖在西方国家很受欢迎，但那强烈的味道也让人爱憎分明：有人爱不释口，有人则深恶痛绝。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.09372391266976103,
+          0.745,
+          0.7059855595667869,
+          0.8292857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.09372391266976103,
+          0.745,
+          0.7059855595667869,
+          0.8292857142857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Licorice candy isn’t as common in Japan, however, so the translator changed the candy to a different flavor: peppermint. Just like with licorice in the West, the peppermint flavor is highly divisive in Japan – some like it, and some would rather eat trash.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0906677,
+          0.8307143,
+          0.7090418,
+          0.9057143
+        ],
+        "mask_bbox": [
+          0.0906677,
+          0.8307143,
+          0.7090418,
+          0.9057143
+        ]
+      },
+      "translation": {
+        "text": "不过，甘草糖在日本没那么常见，所以译者把说明中用来对比的口味换成了薄荷。就像西方的甘草味一样，日本人对薄荷味也很两极分化：有人喜欢，有人宁可去吃垃圾。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.09372391266976103,
+          0.8385714285714285,
+          0.7059855595667869,
+          0.9142857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.09372391266976103,
+          0.8385714285714285,
+          0.7059855595667869,
+          0.9142857142857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b012",
+      "kind": "aside",
+      "source": {
+        "text": "American licorice candies and Japanese peppermint candies. Will you eat?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7294165,
+          0.8314286,
+          0.8975083,
+          0.8964286
+        ],
+        "mask_bbox": [
+          0.7294165,
+          0.8314286,
+          0.8975083,
+          0.8964286
+        ]
+      },
+      "translation": {
+        "text": "美国的甘草糖与日本的薄荷糖。要吃吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7334915,
+          0.8321429,
+          0.8985271,
+          0.9035714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7334915,
+          0.8321429,
+          0.8985271,
+          0.9035714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0091-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.664340152426795,
+          0.9375298121273483,
+          0.7101813289209787,
+          0.9510296433794577
+        ],
+        "mask_bbox": [
+          0.664340152426795,
+          0.9375298121273483,
+          0.7101813289209787,
+          0.9510296433794577
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.664340152426795,
+          0.9375298121273483,
+          0.7101813289209787,
+          0.9510296433794577
+        ],
+        "font_size": 14,
+        "line_height": 1.2857142857142858,
+        "font_weight": 700,
+        "text_align": "right",
+        "color": "#555555",
+        "mask_color": "#ffffff",
+        "background": "transparent",
+        "resize_anchor": "right"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.664340152426795,
+          0.9375298121273483,
+          0.7101813289209787,
+          0.9510296433794577
+        ],
+        "font_size": 14,
+        "leading": 18
+      },
+      "structure": {
+        "role": "running-footer",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.879046+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 12
+    }
+  },
+  "chapter_id": "chapter-80"
+}

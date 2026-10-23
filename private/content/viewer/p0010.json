@@ -1,0 +1,1172 @@
+{
+  "schema_version": 3,
+  "pdf_page": 10,
+  "printed_page": "10",
+  "title": "引言",
+  "subtitle": "引言 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.088114+00:00",
+  "reference_size": [
+    991.972904,
+    1400
+  ],
+  "physical_size_pt": [
+    502.08,
+    708.6
+  ],
+  "image_url": "/assets/p0010.jpg",
+  "image_sha256": "b0cc85708235c0ff7f9c430f7a5043def70f8f175d9a3a0fd3a85eaddb9f8161",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0010/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0010-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Introduction",
+        "raw": "Introduction",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28604612,
+          0.04062143,
+          0.57123536,
+          0.07350714
+        ],
+        "mask_bbox": [
+          0.28453398,
+          0.03990714,
+          0.5727475,
+          0.07457857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "引言",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.03389284285714286,
+          0.89720193,
+          0.07532142857142857
+        ],
+        "font_size": 46,
+        "line_height": 1.26087,
+        "font_weight": 750,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07532142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.03389284285714286,
+          0.89720193,
+          0.07532142857142857
+        ],
+        "font_size": 46,
+        "leading": 58.00002
+      },
+      "review_issues": [],
+      "rule_y": 109.45,
+      "region_id": "heading-1"
+    },
+    {
+      "id": "p0010-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Have you ever played a video game, watched a movie, or read a book and wondered what it was like in its original language? Or have you ever wondered how your favorite game, movie, or book sounds in a different language? Welcome to the world of Legends of Localization!",
+        "raw": "Have you ever played a video game, watched a movie, or read a book and\nwondered what it was like in its original language? Or have you ever wondered\nhow your favorite game, movie, or book sounds in a different language?\nWelcome to the world of Legends ofLocalization!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28483641,
+          0.09662857,
+          0.88670769,
+          0.16391429
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.09591429,
+          0.89720193,
+          0.16534286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "你有没有在玩游戏、看电影或读书时，好奇过作品在原文里是什么样的？有没有想过，自己喜欢的游戏、电影或书换一种语言，会是什么感觉？欢迎来到《Legends of Localization》的世界！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 68,
+            "end": 91,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.09428571,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.09428571,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "intro"
+    },
+    {
+      "id": "p0010-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In this book, we'll take a detailed look at the popular American video game known as Undertale. We'll compare the original English version of the game with its official Japanese release. We'll also look at some of the translation challenges involved, and the solutions that were used to overcome them.",
+        "raw": "In this book, we'll take a detailed look at the popular American video game\nnown as Undertale. We'll compare the original English version of the game\nith its official Japanese release. We'll also look at some of the translation\nhallenges involved, and the solutions that were used to overcome them.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28620741,
+          0.17859286,
+          0.86585026,
+          0.24722143
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.17787857,
+          0.89720193,
+          0.24865
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "本书将详细介绍广受欢迎的美国游戏 Undertale，比较它的英语原版与官方日语版，看看翻译中遇到了哪些难题，又是怎样解决的。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.17716429,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.17716429,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "intro"
+    },
+    {
+      "id": "p0010-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Along the way, we'll examine other related topics, such as:",
+        "raw": "long the way, we'll examine other related topics, such as:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29765934,
+          0.26123571,
+          0.73100787,
+          0.27365
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.26052143,
+          0.89720193,
+          0.27507857
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "我们还会讨论一些相关话题，例如：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.25980714,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.25980714,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "intro"
+    },
+    {
+      "id": "p0010-b005",
+      "kind": "quote",
+      "source": {
+        "text": "What \"localization\" is and how it differs from translation Undertale's history and the inspirations behind the game Undertale's localization process as seen from the inside Common problems and mistakes in entertainment localization How culture and language shape a game's localization and vice-versa How unofficial, volunteer-made localizations and official localizations interact, how they differ, and what they mean to fans",
+        "raw": "What \"localization\" is and how it differs from translation\nUnderta/e's history and the inspirations behind the game\nUnderta/e's localization process as seen from the inside\nCommon problems and mistakes in entertainment localization\nHow culture and language shape a game's localization and vice-versa\nHow unofficial, volunteer-made localizations and official localizations\ninteract, how they differ, and what they mean to fans",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33025096,
+          0.28865,
+          0.86632407,
+          0.41115
+        ],
+        "mask_bbox": [
+          0.30242762,
+          0.28714286,
+          0.8881291,
+          0.41285714
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "• 什么是“本地化”，它与翻译有什么不同\n• Undertale 的历史与创作灵感\n• Undertale 本地化的幕后过程\n• 娱乐作品本地化中常见的问题与错误\n• 文化、语言与游戏本地化之间的相互影响\n• 志愿者制作的非官方译版与官方译版如何互动、有何不同，又对爱好者意味着什么",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 44,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3044438,
+          0.28722143,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.3044438,
+          0.28722143,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "intro"
+    },
+    {
+      "id": "p0010-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Some of this might sound like dry, boring academic material, but don't worry - it'll be a genuinely fun and enlightening journey. After all, how do bad knock knock jokes and skeleton puns even work in Japanese? Do they just get lost in translation? Let's find out!",
+        "raw": "Some of this might sound like dry, boring academic material, but don't worry -\nit'll be a genuinely fun and enlightening journey. After all, how do bad knock\nknock jokes and skeleton puns even work in Japanese? Do they just get lost in\ntranslation? Let's find out!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28744737,
+          0.42685714,
+          0.88517539,
+          0.49414286
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.42614286,
+          0.89720193,
+          0.49557143
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "有些话题听起来或许像枯燥的学术材料，不过别担心，读起来其实既有趣，又能让人长见识。那些蹩脚的敲门笑话和骷髅双关，到了日语里还能成立吗？还是会在翻译中丢失笑点？一起看看吧！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.42542857,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.42542857,
+          0.89720193,
+          0.50285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "intro"
+    },
+    {
+      "id": "p0010-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Newcomers Welcome",
+        "raw": "Newcomers Welcome",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28875789,
+          0.51738571,
+          0.50868325,
+          0.53121429
+        ],
+        "mask_bbox": [
+          0.28724575,
+          0.51667143,
+          0.51019539,
+          0.53228571
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "欢迎新读者",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.5078571485714286,
+          0.89720193,
+          0.5321428571428571
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5321428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.5078571485714286,
+          0.89720193,
+          0.5321428571428571
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 749.0,
+      "region_id": "heading-7"
+    },
+    {
+      "id": "p0010-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this book analyzes the English and Japanese versions of Undertale and touches on topics that will surely delight Undertale fans, it's also been designed with general audiences in mind. Everything in this book is explained in clear, simple English for readers who know nothing about Undertale, video games, the Japanese language, or translation.",
+        "raw": "Although this book analyzes the English and Japanese versions of Undertale\nand touches on topics that will surely delight Undertale fans, it's also been\ndesigned with general audiences in mind. Everything in this book is explained\nin clear, simple English for readers who know nothing about Undertale, video\ngames, the Japanese language, or translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28581426,
+          0.54674286,
+          0.88457053,
+          0.63265714
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.54602857,
+          0.89720193,
+          0.63408571
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "本书分析 Undertale 的英日版本，也会谈到爱好者感兴趣的话题，但写作时同样考虑了普通读者。书中所有内容都用清楚易懂的英语讲解，即使不了解 Undertale、电子游戏、日语或翻译，也能读懂。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 73,
+            "end": 82,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.545,
+          0.89720193,
+          0.68857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6885714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.545,
+          0.89720193,
+          0.68857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "new-readers"
+    },
+    {
+      "id": "p0010-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Basically, whatever your background is, you'll come away from this book with a deeper understanding of language, culture, and translation.",
+        "raw": "Basically, whatever your background is, you'll come away from this book with a\ndeeper understanding of language, culture, and translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28816311,
+          0.64768571,
+          0.8938349,
+          0.67837857
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.64697143,
+          0.89720193,
+          0.67980714
+        ],
+        "line_ids": [
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "无论你有怎样的背景，读完后都能对语言、文化和翻译有更深的了解。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.64625714,
+          0.89720193,
+          0.68857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6885714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.64625714,
+          0.89720193,
+          0.68857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "new-readers"
+    },
+    {
+      "id": "p0010-b010",
+      "kind": "aside",
+      "source": {
+        "text": "If you don't know the first thing about games, translation, Japanese, or Undertale, no worries!",
+        "raw": "If you don't know the\nfirst thing about games,\ntranslation, Japanese, or\nUndertale, no worries!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11081956,
+          0.70398571,
+          0.26362615,
+          0.76260714
+        ],
+        "mask_bbox": [
+          0.10950904,
+          0.70327143,
+          0.26493667,
+          0.76367857
+        ],
+        "line_ids": [
+          33,
+          34,
+          36,
+          38
+        ]
+      },
+      "translation": {
+        "text": "就算你对游戏、翻译、日语或 Undertale 一窍不通，也不用担心！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10584967,
+          0.70214286,
+          0.2661363,
+          0.775
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.775,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.10584967,
+          0.70214286,
+          0.2661363,
+          0.775
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "left-note"
+    },
+    {
+      "id": "p0010-b011",
+      "kind": "subheading",
+      "source": {
+        "text": "Concerning Spoilers",
+        "raw": "Concerning Spoilers",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28893934,
+          0.70163571,
+          0.49609218,
+          0.71546429
+        ],
+        "mask_bbox": [
+          0.28742721,
+          0.70092143,
+          0.49760432,
+          0.71653571
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "关于剧透",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.6921785771428571,
+          0.89720193,
+          0.7164642857142857
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7164642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.6921785771428571,
+          0.89720193,
+          0.7164642857142857
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 1007.05,
+      "region_id": "heading-11"
+    },
+    {
+      "id": "p0010-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale is full of surprises, branching story routes, and endings. Every playthrough feels unique and memorable - especially your first one. For this reason, spoilers can greatly affect the gameplay experience.",
+        "raw": "Undertale is full of surprises, branching story routes, and endings. Every\nplaythrough feels unique and memorable - especially your first one. For this\nreason, spoilers can greatly affect the gameplay experience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28865708,
+          0.73099286,
+          0.87049757,
+          0.77998571
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.73027857,
+          0.89720193,
+          0.78141429
+        ],
+        "line_ids": [
+          35,
+          37,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Undertale 充满惊喜、故事分支和不同结局。每次游玩都有独特而难忘的体验，第一次尤其如此。因此，剧透会大大影响游玩体验。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.72928571,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.72928571,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "spoilers"
+    },
+    {
+      "id": "p0010-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "If you're already an Undertale fan, then you're probably familiar with the story's many twists. But if you've never played it before and plan to someday, keep in mind that portions of this book will naturally contain spoilers.",
+        "raw": "If you're already an Under tale fan, then you're probably familiar with the\nstory's many twists. But if you've never played it before and plan to someday,\nkeep in mind that portions of this book will naturally contain spoilers.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28853611,
+          0.79476429,
+          0.87334039,
+          0.84469286
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.79405,
+          0.89720193,
+          0.84612143
+        ],
+        "line_ids": [
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "如果你已经是 Undertale 的爱好者，想必熟悉故事的种种转折。但如果你还没玩过，打算今后体验，就要注意：本书有些内容难免涉及剧透。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.79333571,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.79333571,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "spoilers"
+    },
+    {
+      "id": "p0010-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this book wasn't designed as a gameplay supplement, you probably could read through it as you play the game. Who knows, it could even add a new perspective to the gameplay experience!",
+        "raw": "Although this book wasn't designed as a gameplay supplement, you probably\ncould read through it as you play the game. Who knows, it could even add a\nnew perspective to the gameplay experience!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28724575,
+          0.85970714,
+          0.87402589,
+          0.90904286
+        ],
+        "mask_bbox": [
+          0.28327387,
+          0.85899286,
+          0.89720193,
+          0.91047143
+        ],
+        "line_ids": [
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "本书原本并不是供游玩时配合阅读的，不过你也可以试着边玩边读。说不定，还会让你从新的角度体验游戏！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28831433,
+          0.85827857,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0010-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.28831433,
+          0.85827857,
+          0.89720193,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "spoilers"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "8ae5d336d9f75665ab07e15f5b25eeb658eb1acd60e80c06fafe1d610346cb41"
+  },
+  "chapter_id": "chapter-8",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      285.04,
+      886.66
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "regions": [
+    {
+      "id": "intro",
+      "kind": "continuous-text",
+      "frame": [
+        286,
+        132,
+        890,
+        704
+      ],
+      "block_indexes": [
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    },
+    {
+      "id": "new-readers",
+      "kind": "continuous-text",
+      "frame": [
+        286,
+        763,
+        890,
+        964
+      ],
+      "block_indexes": [
+        8,
+        9
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    },
+    {
+      "id": "spoilers",
+      "kind": "continuous-text",
+      "frame": [
+        286,
+        1021,
+        890,
+        1280
+      ],
+      "block_indexes": [
+        12,
+        13,
+        14
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    }
+  ],
+  "protected_regions": [
+    {
+      "kind": "image",
+      "bbox": [
+        94,
+        766,
+        261,
+        961
+      ],
+      "description": "Newcomer illustration; no main-text or note mask may enter."
+    },
+    {
+      "kind": "decoration",
+      "bbox": [
+        248,
+        967,
+        263,
+        977
+      ],
+      "description": "Red pointer above side note."
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        256,
+        108.8,
+        890,
+        110.2
+      ]
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        284,
+        748.3,
+        891,
+        749.7
+      ]
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        284,
+        1006.4,
+        891,
+        1007.8
+      ]
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        242,
+        1308,
+        891,
+        1328
+      ]
+    }
+  ],
+  "layout_review": {
+    "status": "region-reviewed",
+    "reference": "layout-review-010-089.json",
+    "scope": "p10 original scan + calibrated pilot rules"
+  }
+}

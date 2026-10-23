@@ -1,0 +1,1141 @@
+{
+  "schema_version": 3,
+  "pdf_page": 53,
+  "printed_page": "53",
+  "title": "不同译版之间的争论",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.716364+00:00",
+  "reference_size": [
+    981.677071,
+    1400
+  ],
+  "physical_size_pt": [
+    498.72,
+    711.24
+  ],
+  "image_url": "/assets/p0053.jpg",
+  "image_sha256": "17b59fde410d79da4e59780af68a7b0d8413c50e00d16df0380897c647557256",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0053/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0053-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Criticism of Competing Translations",
+        "raw": "Criticism of Competing Translations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09357456,
+          0.06374286,
+          0.46800523,
+          0.07695714
+        ],
+        "mask_bbox": [
+          0.0922503,
+          0.06302857,
+          0.46932949,
+          0.07802857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "不同译版之间的争论",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.05371429,
+          0.70313346,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.05371429,
+          0.70313346,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0053-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Whenever something receives multiple translations, an interesting psychological phenomenon takes shape: people tend to unconsciously cling to the very first translation they encounter, and compare all other translations against it. I call this phenomenon \"imprinting\", based on a psychological term that refers to bow newborn animals naturally bond to the first things they learn to recognize.",
+        "raw": "Whenever something receives multiple translations, an interesting\npsychological phenomenon takes shape: people tend to unconsciously\ncling to the very first translation they encounter, and compare all other\ntranslations against it. I call this phenomenon \"imprinting\", based on a\npsychological term that refers to bow newborn animals naturally bond to the\nfirst things they learn to recognize.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09233179,
+          0.09298571,
+          0.68583653,
+          0.19522857
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.09227143,
+          0.70517079,
+          0.1963
+        ],
+        "line_ids": [
+          2,
+          6,
+          9,
+          10,
+          11,
+          14
+        ]
+      },
+      "translation": {
+        "text": "只要同一作品有多个译版，就会出现一种有趣的心理现象：人们往往不自觉地依恋最先接触的译版，并拿它衡量其他版本。我借用心理学术语，将这种现象称为“印随”，这个词原指新生动物自然依附于最先学会辨认的对象。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.09155714,
+          0.70313346,
+          0.1988
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.09155714,
+          0.70313346,
+          0.1988
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In translation, this imprinting phenomenon often leads to an excessive, irrational attachment to the first translation you encounter, regardless of the translation's quality or genuine flaws. Imprinting isn't limited to translation, of course, and can potentially occur with any sort of first experience.",
+        "raw": "In translation, this imprinting phenomenon often leads to an excessive,\nirrational attachment to the first translation you encounter, regardless of the\ntranslation's quality or genuine flaws. Imprinting isn't limited to translation, of\ncourse, and can potentially occur with any sort of first experience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0932384,
+          0.21211429,
+          0.70081091,
+          0.27825
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.2114,
+          0.70517079,
+          0.27932143
+        ],
+        "line_ids": [
+          16,
+          18,
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "翻译中的印随现象，常让人不顾译文质量和实际缺点，过度、非理性地依恋最先见到的版本。当然，印随不局限于翻译，任何首次体验都有可能如此。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.21068571,
+          0.70313346,
+          0.28182143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.21068571,
+          0.70313346,
+          0.28182143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's official Japanese release caused two general groups to form: fans who first experienced the fan translations, and fans who first experienced the official translation.",
+        "raw": "Underta/e's official Japanese release caused two general groups to form: fans\nwho first experienced the fan translations, and fans who first experienced the\nofficial translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09331989,
+          0.29343571,
+          0.69016586,
+          0.34268571
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.29272143,
+          0.70517079,
+          0.34375714
+        ],
+        "line_ids": [
+          25,
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "Undertale 官方日语版问世后，大致形成两群玩家：先接触民间译版的人，以及先接触官方译版的人。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.29200714,
+          0.70313346,
+          0.34625714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.29200714,
+          0.70313346,
+          0.34625714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, some imprinted fan-translation players were quick to criticize the new translation. Just the announcement of an official Japanese release prompted these fans to use phrases like \"war criminals\", \"unfaithful\", and \"pointless\".",
+        "raw": "Naturally, some imprinted fan-translation players were quick to criticize the new\ntranslation. Just the announcement of an official Japanese release prompted\nthese fans to use phrases like \"war criminals\", \"unfaithful\", and \"pointless\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09379867,
+          0.3589,
+          0.70313346,
+          0.4068
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.35818571,
+          0.70517079,
+          0.40787143
+        ],
+        "line_ids": [
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "一些受印随影响的民间译版玩家，自然很快就开始批评新译版。甚至只公布官方日语版的消息，就有人用上“战犯”“不忠于原作”“毫无意义”这样的字眼。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.35747143,
+          0.70313346,
+          0.41037143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.35747143,
+          0.70313346,
+          0.41037143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Conversely, some fans who played the official translation first were quick to criticize the unofficial fan translations. These newer fans described the unofficial translations with phrases like \"brain damage\", \"cheesy\", and \"trying too hard\".",
+        "raw": "Conversely, some fans who played the official translation first were quick to\ncriticize the unofficial fan translations. These newer fans described the unofficial\ntranslations with phrases like \"brain damage\", \"cheesy\", and \"trying too hard\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09317728,
+          0.42265714,
+          0.70217592,
+          0.47158571
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.42194286,
+          0.70517079,
+          0.47265714
+        ],
+        "line_ids": [
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "反过来，一些先玩官方译版的人，也很快开始批评民间译版。他们用“脑残”“俗气”“用力过猛”等词来形容非官方翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.42122857,
+          0.70313346,
+          0.47515714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.42122857,
+          0.70313346,
+          0.47515714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Interestingly, a third group of fans responded to the official release with comments like \"a true fan will play both then interpret stuff however they want\" and \"the official and unofficial translation factions are already waging war, I think I'm gonna get some popcorn and beer and laugh my ass off\".",
+        "raw": "Interestingly, a third group of fans responded to the official release with\ncomments like \"a true fan will play both then interpret stuff however they\nwant\" and \"the official and unofficial translation factions are already waging\nwar, I think I'm gonna get some popcorn and beer and laugh my ass off\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0932384,
+          0.48677143,
+          0.68007089,
+          0.55393571
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.48605714,
+          0.70517079,
+          0.55500714
+        ],
+        "line_ids": [
+          37,
+          39,
+          42,
+          44
+        ]
+      },
+      "translation": {
+        "text": "有趣的是，第三群玩家这样回应官方版：“真粉丝会两版都玩，再按自己的意思理解”，或“官方派和民间派已经打起来了，我要拿点爆米花和啤酒，笑个痛快”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.48534286,
+          0.70313346,
+          0.55750714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.48534286,
+          0.70313346,
+          0.55750714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's important to note that this fiery translation debate only took place within a small, loud segment of the fandom. Over time, these arguments cooled down as the official translation took hold. Today, the fan-made translations remain well regarded and serve as examples of the Japanese community's spirit.",
+        "raw": "It's important to note that this fiery translation debate only took place within a\nsmall, loud segment of the fandom. Over time, these arguments cooled down as\nthe official translation took hold. Today, the fan-made translations remain well\nregarded and serve as examples of the Japanese community's spirit.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0932384,
+          0.56944286,
+          0.68819984,
+          0.63627143
+        ],
+        "mask_bbox": [
+          0.09029446,
+          0.56872857,
+          0.70517079,
+          0.63734286
+        ],
+        "line_ids": [
+          46,
+          48,
+          51,
+          53
+        ]
+      },
+      "translation": {
+        "text": "不过，这场火热的翻译争论只发生在人数不多、嗓门却很大的玩家群体中。随着官方译版站稳脚跟，争论逐渐冷却。如今民间译版仍受到尊重，体现着日本玩家社区的热情。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.56801429,
+          0.70313346,
+          0.63984286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6464285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0053-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.56801429,
+          0.70313346,
+          0.63984286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Dachi, a 10th-century translator said: \"I am apprehensive [. .. ] Translating /a book} again is a great sin, because the second translation will appear to be a hostile act against the first\"",
+        "raw": "Dachi, a 10th-century\ntranslator said: \"I\nam apprehensive [. .. ]\nTranslating /a book}\nagain is a great sin,\nbecause the second\ntranslation will appear\nto be a hostile act\nagainst the first\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73184963,
+          0.20265,
+          0.87156971,
+          0.33839286
+        ],
+        "mask_bbox": [
+          0.73052536,
+          0.20193571,
+          0.87289397,
+          0.33946429
+        ],
+        "line_ids": [
+          15,
+          17,
+          19,
+          20,
+          22,
+          24,
+          26,
+          27,
+          29
+        ]
+      },
+      "translation": {
+        "text": "10世纪译者 Dachi 说：“我很担忧 […] 重新翻译〔一本书〕是大罪，因为第二次翻译会被看成对第一次的敌对行为。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73184963,
+          0.20122143,
+          0.87156971,
+          0.34196429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41714285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73184963,
+          0.20122143,
+          0.87156971,
+          0.34196429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Final Fantasy Vi's multiple English translations have produced intense imprinting reactions in fans over the years",
+        "raw": "Final Fantasy Vi's\nmultiple English\ntranslations have\nproduced intense\nimprinting reactions in\nfans over the years",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73287848,
+          0.5418,
+          0.87307733,
+          0.6312
+        ],
+        "mask_bbox": [
+          0.73155422,
+          0.54108571,
+          0.8744016,
+          0.63227143
+        ],
+        "line_ids": [
+          43,
+          45,
+          47,
+          49,
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "多年来，《Final Fantasy VI》的多个英语译版，在玩家中引发过强烈的印随反应。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73287848,
+          0.54037143,
+          0.87307733,
+          0.63477143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73287848,
+          0.54037143,
+          0.87307733,
+          0.63477143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b011",
+      "kind": "subheading",
+      "source": {
+        "text": "The Significance of \"Competing Translations\"",
+        "raw": "The Significance of \"Competing Translations\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.16349572,
+          0.66944286,
+          0.63835656,
+          0.68266429
+        ],
+        "mask_bbox": [
+          0.16217146,
+          0.66872857,
+          0.63968083,
+          0.68373571
+        ],
+        "line_ids": [
+          54
+        ]
+      },
+      "translation": {
+        "text": "“竞争译版”的意义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11816513,
+          0.65942857,
+          0.67843084,
+          0.68357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11816513,
+          0.65942857,
+          0.67843084,
+          0.68357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 961.0
+    },
+    {
+      "id": "p0053-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "The practice of retranslation has probably existed as long as language has. Although it's easy to view retranslations in a competitive light, the total number of \"competing translations\" can also be seen as a rough indicator of the source material's cultural significance.",
+        "raw": "The practice of retranslation has probably existed as long as language\nhas. Although it's easy to view retranslations in a competitive light, the\ntotal number of \"competing translations\" can also be seen as a rough\nindicator of the source material's cultural significance.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11775767,
+          0.69800714,
+          0.66032916,
+          0.76213571
+        ],
+        "mask_bbox": [
+          0.1164334,
+          0.69729286,
+          0.66165343,
+          0.76320714
+        ],
+        "line_ids": [
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "重新翻译的实践，或许与语言本身一样古老。虽然很容易把重译看作竞争，“竞争译版”的数量也能粗略反映原作的文化分量。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0932384,
+          0.69657857,
+          0.70313346,
+          0.76570714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7698357128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0932384,
+          0.69657857,
+          0.70313346,
+          0.76570714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b013",
+      "kind": "caption",
+      "source": {
+        "text": "~ The Holy Bible has been retranslated into English hundreds of times over the centuries",
+        "raw": "~ The Holy Bible\nhas been\nretranslated\ninto English\nhundreds of\ntimes over the\ncenturies",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.27768806,
+          0.77698571,
+          0.38308932,
+          0.8826
+        ],
+        "mask_bbox": [
+          0.27636379,
+          0.77627143,
+          0.38441358,
+          0.88367143
+        ],
+        "line_ids": [
+          59,
+          62,
+          64,
+          66,
+          68,
+          70,
+          72
+        ]
+      },
+      "translation": {
+        "text": "数百年来，《圣经》被重新译成英语数百次。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.27768806,
+          0.77555714,
+          0.38308932,
+          0.88617143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9014285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.27768806,
+          0.77555714,
+          0.38308932,
+          0.88617143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b014",
+      "kind": "caption",
+      "source": {
+        "text": "Don Quixote has been retranslated into English about a dozen times over the past 400 years",
+        "raw": "Don Quixote\nhas been\nretranslated\ninto English\nabout a dozen\ntimes over the\npast 400 years",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.58886982,
+          0.77697857,
+          0.67908279,
+          0.8826
+        ],
+        "mask_bbox": [
+          0.58754556,
+          0.77626429,
+          0.68040705,
+          0.88367143
+        ],
+        "line_ids": [
+          60,
+          63,
+          65,
+          67,
+          69,
+          71,
+          73
+        ]
+      },
+      "translation": {
+        "text": "过去400年里，《堂吉诃德》被重新译成英语约十几次。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.58886982,
+          0.77555,
+          0.67908279,
+          0.88617143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.58886982,
+          0.77555,
+          0.67908279,
+          0.88617143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0053-b015",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65272992,
+          0.94150714,
+          0.7058533,
+          0.95078571
+        ],
+        "mask_bbox": [
+          0.65140566,
+          0.94079286,
+          0.70717756,
+          0.95185714
+        ],
+        "line_ids": [
+          75
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65272992,
+          0.94007857,
+          0.7058533,
+          0.95807857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9580785714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65272992,
+          0.94007857,
+          0.7058533,
+          0.95807857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "2105a1c18223819e6162022acd37c9e42d16bf876a568908d162f60acd24a1b2"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      91.53,
+      690.25
+    ],
+    "text_runs": [
+      {
+        "id": "p0053-b002",
+        "blocks": [
+          "p0053-b002",
+          "p0053-b003",
+          "p0053-b004",
+          "p0053-b005",
+          "p0053-b006",
+          "p0053-b007",
+          "p0053-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 905.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

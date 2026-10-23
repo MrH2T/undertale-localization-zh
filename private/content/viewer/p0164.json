@@ -1,0 +1,877 @@
+{
+  "schema_version": 3,
+  "pdf_page": 164,
+  "printed_page": "164",
+  "title": "金钱的方向",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.225704+00:00",
+  "reference_size": [
+    978.654527,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    711.72
+  ],
+  "image_url": "/assets/p0164.jpg",
+  "image_sha256": "e7ee668305ba616f68beda6ce22ce36a0a711a3c521c2be1a808b474c797626e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0164/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0164-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Money Minded",
+        "raw": "Money Minded",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29526252,
+          0.06246429,
+          0.45157917,
+          0.07637857
+        ],
+        "mask_bbox": [
+          0.29393416,
+          0.06175,
+          0.45290753,
+          0.07745
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "金钱的方向",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.053,
+          0.91100585,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.053,
+          0.91100585,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0164-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Translation spreadsheets are usually enormous walls of text without context, which makes lines like this very easy to get wrong in translation",
+        "raw": "Translation\nspreadsheets are\nusually enormous walls\nof text without context,\nwhich makes lines like\nthis very easy to get\nwrong in translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.121759,
+          0.09245714,
+          0.26879761,
+          0.19607857
+        ],
+        "mask_bbox": [
+          0.12043065,
+          0.09174286,
+          0.27012597,
+          0.19715
+        ],
+        "line_ids": [
+          2,
+          6,
+          7,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "翻译表格通常堆满海量文字，却缺乏情境信息，因此这种台词很容易译错。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750827,
+          0.09102857,
+          0.27008509,
+          0.19965
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.49705000285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750827,
+          0.09102857,
+          0.27008509,
+          0.19965
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A purple monster offers to give the main character a ferry ride. In English, it says:",
+        "raw": "A purple monster offers to give the main character a ferry ride. In English, it says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2927693,
+          0.22781429,
+          0.90569243,
+          0.24003571
+        ],
+        "mask_bbox": [
+          0.29072568,
+          0.2271,
+          0.91304947,
+          0.24110714
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "一个紫色怪物愿意载主角渡河。英语里，它说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.22638571,
+          0.91100585,
+          0.24852857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46740000285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.22638571,
+          0.91100585,
+          0.24852857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Three gold for the ferry.",
+        "raw": "Three gold for the ferry.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33974195,
+          0.25637143,
+          0.51378703,
+          0.26831429
+        ],
+        "mask_bbox": [
+          0.3384136,
+          0.25565714,
+          0.51511538,
+          0.26938571
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "渡河，三个金币。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33974195,
+          0.25494286,
+          0.91100585,
+          0.27553214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46740000285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0164-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33974195,
+          0.25494286,
+          0.91100585,
+          0.27553214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby worded this line to fool players into thinking that the purple monster charges three gold pieces per ferry ride. In actuality, the purple monster gives the player three gold pieces after the ferry ride. It's a small, unexpected gag that pokes fun at veteran gamers' expectations.",
+        "raw": "Toby worded this line to fool players into thinking that the purple monster\ncharges three gold pieces per ferry ride. In actuality, the purple monster gives\nthe player three gold pieces after the ferry ride. It's a small, unexpected gag\nthat pokes fun at veteran gamers' expectations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29459834,
+          0.28414286,
+          0.89237824,
+          0.34997857
+        ],
+        "mask_bbox": [
+          0.29072568,
+          0.28342857,
+          0.91304947,
+          0.35105
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "Toby 故意这样写，让玩家以为紫色怪物每次渡河收三个金币。实际上，渡河后它反而会给玩家三个金币。这个小小的意外笑话，戏弄了老玩家的惯性预期。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.28271429,
+          0.91100585,
+          0.35355
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46740000285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0164-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.28271429,
+          0.91100585,
+          0.35355
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this line plays with vagueness and expectations, and because Toby didn't mention this line in his translation notes, a rushed translator or an automated translator would've almost certainly mistranslated it as \"it costs three gold to ride the ferry\". Fortunately, Underta/e's localization team did recognize the joke and was able to properly preserve it in the Japanese script.",
+        "raw": "Because this line plays with vagueness and expectations, and because Toby\ndidn't mention this line in his translation notes, a rushed translator or an\nautomated translator would've almost certainly mistranslated it as \"it costs\nthree gold to ride the ferry\". Fortunately, Underta/e's localization team did\nrecognize the joke and was able to properly preserve it in the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29563037,
+          0.36640714,
+          0.89308329,
+          0.45012857
+        ],
+        "mask_bbox": [
+          0.29072568,
+          0.36569286,
+          0.91304947,
+          0.4512
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "这句话靠含糊措辞与预期落差制造笑点，Toby 又没有专门作注释，因此匆忙赶工的译者或自动翻译几乎一定会误译成“渡河要花三个金币”。幸运的是，Undertale 的本地化团队看出了笑话，并在日文剧本中妥善保留。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 70,
+            "end": 79,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.36497857,
+          0.91100585,
+          0.4537
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46740000285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0164-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.36497857,
+          0.91100585,
+          0.4537
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b007",
+      "kind": "heading",
+      "source": {
+        "text": "Music Ghost Z",
+        "raw": "Music Ghost Z",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29721418,
+          0.47454286,
+          0.44384406,
+          0.48845
+        ],
+        "mask_bbox": [
+          0.29588582,
+          0.47382857,
+          0.44517242,
+          0.48952143
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "音乐幽灵 Z",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.46514286,
+          0.91100585,
+          0.48928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48928571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.46514286,
+          0.91100585,
+          0.48928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 689.0
+    },
+    {
+      "id": "p0164-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus continually messes up Napstablook’s name and accidentally hits upon the name ナッパブー (nappa bū).",
+        "raw": "Papyrus continually ~\nmesses up Napstablook's\nname and accidentally\nhits upon the name\n-r 1.-7'-\nbu)\n\"JI\n(nappa",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.1111526,
+          0.50419286,
+          0.28463568,
+          0.57677857
+        ],
+        "mask_bbox": [
+          0.10982425,
+          0.50347857,
+          0.28596404,
+          0.57785
+        ],
+        "line_ids": [
+          29,
+          31,
+          32,
+          33,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 总叫错 Napstablook 的名字，无意间叫出了“ナッパブー”（nappa bū，那巴布欧）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 42,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1111526,
+          0.50276429,
+          0.28463568,
+          0.58035
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7078071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1111526,
+          0.50276429,
+          0.28463568,
+          0.58035
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus struggles with Napstablook's name and calls the character \"Napper Hog\". He corrupts Napstablook's name in a similar way in Japanese, resulting in the name Nappa Buu. The translator noted that this wasn't intentional at first, but both \"Nappa\" and \"Buu\" are characters from the Dragon Ball Z series.",
+        "raw": "Papyrus struggles with Napstablook's name and calls the character \"Napper\nHog\". He corrupts Napstablook's name in a similar way in Japanese, resulting\nin the name Nappa Buu. The translator noted that this wasn't intentional at\nfirst, but both \"Nappa\" and \"Buu\" are characters from the Dragon Ball Z series.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29646826,
+          0.63145,
+          0.90366925,
+          0.69864286
+        ],
+        "mask_bbox": [
+          0.29072568,
+          0.63073571,
+          0.91304947,
+          0.69971429
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 记不住 Napstablook 的名字，管这个角色叫“Napper Hog”（打盹猪）。日语里也有类似的叫错，结果变成了 Nappa Buu。译者指出，最初并不是有意为之，但“Nappa”（那巴）与“Buu”（布欧）恰好都是《龙珠 Z》的角色。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2927693,
+          0.62428571,
+          0.91145545,
+          0.70714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7085714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2927693,
+          0.62428571,
+          0.91145545,
+          0.70714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b010",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Nappa is an early foe in Dragon Ball l",
+        "raw": "LEFT: Nappa is an early\nfoe in Dragon Ball l",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12614257,
+          0.71495,
+          0.26900197,
+          0.74072143
+        ],
+        "mask_bbox": [
+          0.12481422,
+          0.71423571,
+          0.27033033,
+          0.74179286
+        ],
+        "line_ids": [
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "左：Nappa 是《龙珠 Z》早期的敌人。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750827,
+          0.71352143,
+          0.27008509,
+          0.74429286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7445714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750827,
+          0.71352143,
+          0.27008509,
+          0.74429286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b011",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Buu is a major enemy much later in Dragon Ball I",
+        "raw": "RIGHT: Buu is a major\nenemy much later in\nDragon Ball I",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13575781,
+          0.75171429,
+          0.26947201,
+          0.79369286
+        ],
+        "mask_bbox": [
+          0.13442946,
+          0.751,
+          0.27080036,
+          0.79476429
+        ],
+        "line_ids": [
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "右：Buu 是《龙珠 Z》后期的重要敌人。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750827,
+          0.75028571,
+          0.27008509,
+          0.79726429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750827,
+          0.75028571,
+          0.27008509,
+          0.79726429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0164-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "When Napstablook was still named \"Winnybore\" in early drafts of the Japanese script, Papyrus corrupted \"Winnybore\" into ウィンナーボー (winnābō), which can be humorously interpreted as \"Weiner Stick\", among other things.",
+        "raw": "When Napstablook was still named \"Winnybore\" in early drafts of the\nJapanese script, Papyrus corrupted \"Winnybore\" into 7-1 / ·j--;:J-;'- (winnabo),\nwhich can be humorously interpreted as \"Weiner Stick\", among other things.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29657044,
+          0.85099286,
+          0.91100585,
+          0.90030714
+        ],
+        "mask_bbox": [
+          0.29072568,
+          0.85027857,
+          0.91304947,
+          0.90137857
+        ],
+        "line_ids": [
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "早期日文译稿中，Napstablook 还叫“Winnybore”时，Papyrus 会把它叫成“ウィンナーボー”（winnābō），可以让人联想到“香肠棒”等好笑的意思。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 58,
+            "end": 65,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29563037,
+          0.84956429,
+          0.91100585,
+          0.90387857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29563037,
+          0.84956429,
+          0.91100585,
+          0.90387857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0a0b60eb37f5fe1535b7cd84a48c42573e4c51d7752b8525e100b504d93112b8"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          8,
+          9,
+          10,
+          11,
+          28,
+          30,
+          34,
+          51
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.32,
+      891.56
+    ],
+    "text_runs": [
+      {
+        "id": "p0164-b003",
+        "blocks": [
+          "p0164-b003",
+          "p0164-b004",
+          "p0164-b005",
+          "p0164-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 654.36
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

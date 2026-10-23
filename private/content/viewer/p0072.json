@@ -1,0 +1,2213 @@
+{
+  "schema_version": 3,
+  "pdf_page": 72,
+  "printed_page": "72",
+  "title": "开始游戏",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.149891+00:00",
+  "reference_size": [
+    975.586866,
+    1400
+  ],
+  "physical_size_pt": [
+    498.720001,
+    715.679993
+  ],
+  "image_url": "/assets/p0072.jpg",
+  "image_sha256": "422c728e925fa5c2d12bd2bea510921bf21a68dcdddfb5c8b461b4d3bfa5645d",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0072/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "311dff25c213a16515f623f4d80e89548e0aaabbff64a67cd9528a36ae3d9b98"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          69
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          73
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          75
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          76
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          77
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          78
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          79
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          80
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          81
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          82
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          83
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          84
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          85
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          86
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          87
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          88
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          89
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          90
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          91
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          92
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          93
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          94
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          95
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          96
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          97
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          98
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          99
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          100
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          101
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          102
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          103
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          104
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          105
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          106
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          107
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          108
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          109
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          110
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          111
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          112
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          113
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          114
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          115
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          116
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          117
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          118
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          119
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          120
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          121
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          122
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          123
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          124
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          125
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          126
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          127
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          128
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          129
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          130
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          131
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          132
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          133
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          134
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          135
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          136
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          137
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          138
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          139
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          140
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          141
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          142
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          143
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          144
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          145
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          146
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          147
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          148
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          149
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          150
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          151
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          152
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          153
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          154
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          155
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          156
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          157
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          158
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          159
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          160
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          161
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          162
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          163
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          164
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          165
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          166
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          167
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          168
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          169
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          170
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          171
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          172
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          173
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          174
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          175
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          176
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          177
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          178
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          179
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          180
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          181
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          182
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          183
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          184
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          185
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          186
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          187
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          188
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          189
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          190
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          191
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          192
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          193
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          194
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          195
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          196
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          197
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          198
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          199
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          200
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          201
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          202
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          203
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          204
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          205
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          206
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          207
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          208
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          209
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          210
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          211
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          212
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          213
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          214
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          215
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          216
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          217
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          218
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          219
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          220
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          221
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          222
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          223
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          224
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          225
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          226
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          227
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          228
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          229
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          230
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          231
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          232
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          233
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          234
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          235
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          236
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          237
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          238
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          239
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          240
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          241
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          242
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          243
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          244
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          245
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          246
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          247
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          248
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          249
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          250
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          251
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          252
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          253
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          254
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          255
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          256
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          257
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          258
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          259
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          260
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          261
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          262
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          263
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          264
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          265
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          266
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          267
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          268
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          269
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          270
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          271
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          272
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          273
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          274
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          275
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          276
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          277
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          278
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          279
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          280
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          281
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          282
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          283
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          284
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          285
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          286
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          287
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          288
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          289
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          290
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          291
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          292
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          293
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          294
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          295
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          296
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          297
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          298
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          299
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          300
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          301
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          302
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          303
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          304
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          305
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          306
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          307
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          308
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          309
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          310
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          311
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          312
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          313
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          314
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          315
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          316
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          317
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          318
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          319
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          320
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          321
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          322
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          323
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          324
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          325
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          326
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          327
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          328
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          329
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          330
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          331
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          332
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          333
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          334
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          335
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          336
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          337
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          338
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          339
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          340
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          341
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          342
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          343
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          344
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          345
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          346
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          347
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          348
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          349
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          350
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          351
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          352
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          353
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          354
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          355
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          356
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          357
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          358
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          359
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          360
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          361
+        ],
+        "reason": "image-text"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

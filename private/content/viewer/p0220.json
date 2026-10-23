@@ -1,0 +1,703 @@
+{
+  "schema_version": 3,
+  "pdf_page": 220,
+  "printed_page": "220",
+  "title": "Word Problems",
+  "subtitle": "英日对照 · 日文列表",
+  "revision": 16,
+  "updated_at": "2026-10-22T16:28:22.436950+00:00",
+  "reference_size": [
+    985.7932652035518,
+    1400
+  ],
+  "image_url": "/assets/p0220.jpg",
+  "blocks": [
+    {
+      "id": "p0220-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Word Problems",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.061429,
+          0.898888,
+          0.079286
+        ],
+        "mask_bbox": [
+          0.29215050474151116,
+          0.06166428571428571,
+          0.45648516365861114,
+          0.07785714285714286
+        ]
+      },
+      "translation": {
+        "text": "文字难题",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.294179327691105,
+          0.056428571428571425,
+          0.9007973896196594,
+          0.08214285714285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "background": "transparent",
+        "font_weight": 700
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.294179327691105,
+          0.056428571428571425,
+          0.9007973896196594,
+          0.08214285714285714
+        ],
+        "font_size": 26,
+        "leading": 34
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b002",
+      "kind": "aside",
+      "source": {
+        "text": "What DO you like most about Mettaton? Write your answer below for future generations to read:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.124368,
+          0.091429,
+          0.270981,
+          0.167143
+        ],
+        "mask_bbox": [
+          0.10144114747969137,
+          0.09166428571428573,
+          0.27084786377077597,
+          0.16762142857142856
+        ]
+      },
+      "translation": {
+        "text": "你究竟最喜欢 Mettaton 的哪一点？请把答案写在下面，留给后人阅读：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.11970055402603581,
+          0.09,
+          0.2678046293463852,
+          0.17285714285714285
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "background": "transparent",
+        "font_weight": 400
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.11970055402603581,
+          0.09,
+          0.2678046293463852,
+          0.17285714285714285
+        ],
+        "font_size": 15.5,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "During battle, Mettaton gains a humanoid body and becomes Mettaton EX. He then stops and asks the player a question:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.197857,
+          0.898888,
+          0.234286
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.1992857142857143,
+          0.9068838584684409,
+          0.23380714285714285
+        ]
+      },
+      "translation": {
+        "text": "战斗中，Mettaton 获得了人形身体，变成 Mettaton EX。随后，他停下来问玩家一个问题：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29519373916590186,
+          0.1957142857142857,
+          0.9018118010944562,
+          0.24
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29519373916590186,
+          0.1957142857142857,
+          0.9018118010944562,
+          0.24
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b004",
+      "kind": "quote",
+      "source": {
+        "text": "“What do you love most about Mettaton?”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.327604,
+          0.245,
+          0.897877,
+          0.264286
+        ],
+        "mask_bbox": [
+          0.32658977431086633,
+          0.24595,
+          0.8988902960470412,
+          0.26095
+        ]
+      },
+      "translation": {
+        "text": "“你最喜欢 Mettaton 的哪一点？”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.33272696373338767,
+          0.24642857142857144,
+          0.9018118010944562,
+          0.2692857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.33272696373338767,
+          0.24642857142857144,
+          0.9018118010944562,
+          0.2692857142857143
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The player is then asked to type an essay on their computer keyboard that answers this question. Once the essay is finished – or if time runs out – Mettaton EX will scan the player’s essay for specific keywords and respond with appropriate dialogue. Toby originally designed this system to recognize English answers, so getting it to work properly in Japanese required all-new programming code and technical adjustments.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.271429,
+          0.898888,
+          0.381429
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.27214285714285713,
+          0.9068838584684409,
+          0.38095
+        ]
+      },
+      "translation": {
+        "text": "接下来，玩家需要用电脑键盘输入一篇短文来回答这个问题。写完之后，或者时间一到，Mettaton EX 就会扫描玩家的文章，寻找特定关键词，并给出对应的回应。Toby 最初把这套系统设计为识别英文答案，因此，要让它正常处理日文，就需要编写全新的代码并作出技术调整。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29519373916590186,
+          0.27785714285714286,
+          0.9018118010944562,
+          0.38285714285714284
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29519373916590186,
+          0.27785714285714286,
+          0.9018118010944562,
+          0.38285714285714284
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Keyboards",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.392857,
+          0.898888,
+          0.412143
+        ],
+        "mask_bbox": [
+          0.2891782791203562,
+          0.39404999999999996,
+          0.899904707521838,
+          0.4073785714285715
+        ]
+      },
+      "translation": {
+        "text": "键盘",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.39,
+          0.9018118010944562,
+          0.41571428571428576
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "background": "transparent",
+        "font_weight": 700
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.39,
+          0.9018118010944562,
+          0.41571428571428576
+        ],
+        "font_size": 26,
+        "leading": 34
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "First, because Undertale was originally designed for home computers, players could simply use their computer keyboard to type an essay answer. Unfortunately, home consoles rarely come with keyboards. To get around this hardware issue, the localization team added new code to Undertale’s programming to display on-screen keyboards compatible with game controllers.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.415,
+          0.898888,
+          0.507143
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.4169071428571428,
+          0.9068838584684409,
+          0.5080928571428571
+        ]
+      },
+      "translation": {
+        "text": "首先，Undertale 最初是为家用电脑设计的，玩家可以直接用电脑键盘输入答案。然而，家用游戏机很少配备键盘。为了解决这一硬件问题，本地化团队为 Undertale 添加了新代码，显示可以用游戏手柄操作的屏幕键盘。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 74,
+            "end": 83,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.41714285714285715,
+          0.9018118010944562,
+          0.5021428571428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.41714285714285715,
+          0.9018118010944562,
+          0.5021428571428571
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Input",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.520714,
+          0.898888,
+          0.54
+        ],
+        "mask_bbox": [
+          0.2891782791203562,
+          0.5221428571428571,
+          0.899904707521838,
+          0.5378571428571428
+        ]
+      },
+      "translation": {
+        "text": "日文输入",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.5178571428571429,
+          0.9018118010944562,
+          0.5435714285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "background": "transparent",
+        "font_weight": 700
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.5178571428571429,
+          0.9018118010944562,
+          0.5435714285714286
+        ],
+        "font_size": 26,
+        "leading": 34
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Japanese language includes three separate writing systems, which complicates the process of searching for keywords in the player’s essay. For example, the word bibō (“good looks”) can be written with a combination of all three systems, leading to multiple possible spellings:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.543571,
+          0.898888,
+          0.615714
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.5454785714285714,
+          0.9068838584684409,
+          0.6176214285714285
+        ]
+      },
+      "translation": {
+        "text": "日语包含三种书写系统，这使得在玩家文章中搜索关键词变得复杂。例如，bibō（“美貌”）可以用这三种书写系统组合写出，因而有多种可能的写法：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.5464285714285714,
+          0.9018118010944562,
+          0.61
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.5464285714285714,
+          0.9018118010944562,
+          0.61
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b010",
+      "kind": "list",
+      "source": {
+        "text": "びぼう (all hiragana)\nビボウ (all katakana)\n美貌 (all kanji)\n美ぼう (kanji + hiragana)\n美ボウ (kanji + katakana)\nび貌 (hiragana + kanji)\nビ貌 (katakana + kanji)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.309403,
+          0.625,
+          0.879676,
+          0.700714
+        ],
+        "mask_bbox": [
+          0.31142432276265253,
+          0.62595,
+          0.9058694469936439,
+          0.6980928571428572
+        ]
+      },
+      "translation": {
+        "text": "びぼう（全平假名）\nビボウ（全片假名）\n美貌（全汉字）\n美ぼう（汉字＋平假名）\n美ボウ（汉字＋片假名）\nび貌（平假名＋汉字）\nビ貌（片假名＋汉字）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.317510791611434,
+          0.625,
+          0.9018118010944562,
+          0.7064285714285714
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "background": "transparent",
+        "font_weight": 450,
+        "column_gap": 52
+      },
+      "notes": "保留日文拼写；原位预览采用两栏列表。",
+      "calibration": {
+        "bbox": [
+          0.317510791611434,
+          0.625,
+          0.9018118010944562,
+          0.7064285714285714
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "To simplify this technical problem, the localization team disabled kanji support. The team then added new programming that internally converts every katakana character to hiragana.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.707857,
+          0.898888,
+          0.760714
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.7088071428571429,
+          0.9068838584684409,
+          0.7614285714285715
+        ]
+      },
+      "translation": {
+        "text": "为简化这一技术问题，本地化团队禁用了汉字支持，随后加入新程序，在内部把每个片假名字符转换成平假名。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.7157142857142857,
+          0.9018118010944562,
+          0.7592857142857142
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.7157142857142857,
+          0.9018118010944562,
+          0.7592857142857142
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0220-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "This technical solution simplified matters greatly, but it had an unexpected flaw: the game’s core programming already uses the “Z” and “X” keys for other in-game functions. To get around this, the localization team made sure that no Japanese keywords required the “Z” or “X” keys. The team then added an on-screen message stating that “Z” and “X” are unavailable. Fortunately, these keys aren’t 100% vital for Japanese input to begin with – there are often multiple ways to type a single word in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.771429,
+          0.898888,
+          0.899286
+        ],
+        "mask_bbox": [
+          0.29113609326671425,
+          0.7730928571428571,
+          0.9068838584684409,
+          0.9009499999999999
+        ]
+      },
+      "translation": {
+        "text": "这项技术方案大大简化了问题，但也带来了一个意料之外的缺陷：游戏的核心程序已经把“Z”和“X”键用于其他游戏功能。为此，本地化团队确保所有日文关键词都不必用到“Z”或“X”键，并增加了提示，说明这两个键不可用。幸好，日文输入并非一定需要它们——同一个日语词往往有多种输入方式。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2962081506406988,
+          0.7714285714285715,
+          0.9018118010944562,
+          0.8785714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2962081506406988,
+          0.7714285714285715,
+          0.9018118010944562,
+          0.8785714285714286
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "calibrated_at": "20261022T124100Z",
+    "pdf_page_pt": [
+      504.36,
+      716.28
+    ],
+    "reference_height": 1400,
+    "body_font": "Noto Serif SC",
+    "caption_font": "Noto Sans SC",
+    "japanese_font": "Noto Serif JP",
+    "body_size": 20,
+    "body_leading": 29,
+    "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+    "body_weight": 450,
+    "body_alignment": "justify",
+    "revised_at": "20261022T130627Z",
+    "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+    "latin_font": "Source Serif 4 Text",
+    "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+    "linebreak_revised_at": "20261022T133957Z"
+  },
+  "physical_size_pt": [
+    504.36,
+    716.28
+  ],
+  "image_sha256": "788e78542c7ed9967dc9fc1192de8a8cd79de9f34c41b1b0a585e387b8a0a008",
+  "review": {
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 12
+    }
+  }
+}

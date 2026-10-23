@@ -1,0 +1,963 @@
+{
+  "schema_version": 3,
+  "pdf_page": 42,
+  "printed_page": "42",
+  "title": "改造 EarthBound",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.121402+00:00",
+  "reference_size": [
+    985.028533,
+    1400
+  ],
+  "physical_size_pt": [
+    503.04,
+    714.96
+  ],
+  "image_url": "/assets/p0042.jpg",
+  "image_sha256": "7c1d40e2b33f14f04ec13bb08853cf5ee937589e40b6095e784c676788e82cde",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0042/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0042-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Mid 2000s:",
+        "raw": "Mid 2000s:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29345343,
+          0.07001429,
+          0.40431316,
+          0.08372143
+        ],
+        "mask_bbox": [
+          0.29213367,
+          0.0693,
+          0.40563292,
+          0.08479286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "2000年代中期：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29184941,
+          0.06172143,
+          0.88138564,
+          0.08586429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08586428714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29184941,
+          0.06172143,
+          0.88138564,
+          0.08586429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby joins Starmen.Net, an online community for fans of EarthBound, an obscure Japanese RPG known as MOTHER 2 in Japan. There, he finds that other fans have created tools to modify EarthBound to create completely new games. Toby helps improve these tools and uses them to create short games that are more impressive than his RPG Maker creations.",
+        "raw": "Toby joins Starmen.Net, an online community for fans of EarthBound, an\nobscure Japanese RPG known as MOTHER 2 in Japan. There, he finds that\nother fans have created tools to modify EarthBound to create completely new\ngames. Toby helps improve these tools and uses them to create short games\nthat are more impressive than his RPG Maker creations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29184941,
+          0.09408571,
+          0.88138564,
+          0.17924286
+        ],
+        "mask_bbox": [
+          0.28981902,
+          0.09337143,
+          0.88341603,
+          0.18031429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "Toby 加入了 Starmen.Net。这是 EarthBound 的爱好者网络社区；这款冷门日式角色扮演游戏在日本叫 MOTHER 2。其他玩家自制了修改工具，能把它变成全新游戏。他帮忙改进工具，做出的短篇游戏比自己的 RPG Maker 作品更出色。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 61,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 112,
+            "end": 121,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29184941,
+          0.09265714,
+          0.88138564,
+          0.18281429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.18857142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29184941,
+          0.09265714,
+          0.88138564,
+          0.18281429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Toby’s experience with the simple RPG Maker tools helped him quickly master the more complicated tools for modifying EarthBound",
+        "raw": "Toby's experience •\nw ith t h e s im p le R P G\nM ak e r t o o ls h e l p e d\nhim quickly master\nthe more complicated\ntools for modifying\nEarth Bound",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13162055,
+          0.19520714,
+          0.28136241,
+          0.29929286
+        ],
+        "mask_bbox": [
+          0.13030079,
+          0.19449286,
+          0.28268217,
+          0.30036429
+        ],
+        "line_ids": [
+          7,
+          10,
+          13,
+          18,
+          20,
+          24,
+          27
+        ]
+      },
+      "translation": {
+        "text": "使用简单的 RPG Maker 工具积累的经验，帮助 Toby 很快掌握了更复杂的 EarthBound 修改工具。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 42,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13162055,
+          0.19377857,
+          0.28136241,
+          0.30286429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.45225714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13162055,
+          0.19377857,
+          0.28136241,
+          0.30286429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b004",
+      "kind": "caption",
+      "source": {
+        "text": "In the mid 2000s, Toby started modifying Earth Bound to create all-new game experiences, such as this short and unsettling Halloween themed RPG",
+        "raw": "In the mid 2000s, Toby\nstarted modifying\nEarth Bound to\ncreate all-new game\nexperiences, such\nas this short and\nunsettling Halloween\nthemed RPG",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12703185,
+          0.4594,
+          0.2665202,
+          0.57724286
+        ],
+        "mask_bbox": [
+          0.12571209,
+          0.45868571,
+          0.26783996,
+          0.57831429
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "2000年代中期，Toby 开始修改 EarthBound，创造全新的游玩体验，例如这款短小、令人不安的万圣节主题角色扮演游戏。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12703185,
+          0.45797143,
+          0.2665202,
+          0.58081429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6526500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12703185,
+          0.45797143,
+          0.2665202,
+          0.58081429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b005",
+      "kind": "caption",
+      "source": {
+        "text": "The sense of humor • found in Toby's writing today was present even when he was a teenager",
+        "raw": "The sense of humor •\nfound in Toby's writing\ntoday was present\neven when he was a\nteenager",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12639228,
+          0.65979286,
+          0.28327098,
+          0.73232857
+        ],
+        "mask_bbox": [
+          0.12507252,
+          0.65907857,
+          0.28459074,
+          0.7334
+        ],
+        "line_ids": [
+          57,
+          59,
+          61,
+          63,
+          65
+        ]
+      },
+      "translation": {
+        "text": "如今 Toby 文字中的幽默感，在他十几岁时就已存在。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12639228,
+          0.65836429,
+          0.28327098,
+          0.7359
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12639228,
+          0.65836429,
+          0.28327098,
+          0.7359
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b006",
+      "kind": "quote",
+      "source": {
+        "text": "How very disappointing ... you missed out on the secret ending because you are one secret ending point shy. Such a shame ... I saw potential. Next time you play the game, talk to all the people in the village before fighting that wretched squirrel-monger. Well, you're not that far in anyway.",
+        "raw": "How very disappointing ... you missed out on the secret ending because you are one\nsecret ending point shy. Such a shame ... I saw potential. Next time you play the game,\ntalk to all the people in the village before fighting that wretched squirrel-monger. Well,\nyou're not that far in anyway.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31667103,
+          0.67063571,
+          0.86899006,
+          0.71735
+        ],
+        "mask_bbox": [
+          0.31535127,
+          0.66992143,
+          0.87030981,
+          0.71842143
+        ],
+        "line_ids": [
+          58,
+          60,
+          62,
+          64
+        ]
+      },
+      "translation": {
+        "text": "真叫人失望……你就差一个秘密结局点数，错过了秘密结局。太可惜了……我本来看好你。下次玩时，在对付那个可恶的松鼠贩子之前，先和村里每个人说话吧。反正你也没玩到多后面。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31674209,
+          0.67064286,
+          0.88119275,
+          0.88428571
+        ],
+        "font_size": 16,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7235714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31674209,
+          0.67064286,
+          0.88119275,
+          0.88428571
+        ],
+        "font_size": 16,
+        "leading": 21.6
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0042-b007",
+      "kind": "quote",
+      "source": {
+        "text": "MR.ACCIDENT: Ha ha, so you finally got here, losers.",
+        "raw": "MR.ACCIDENT: Ha ha, so you finally got here, losers.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31745273,
+          0.74181429,
+          0.66188946,
+          0.75160714
+        ],
+        "mask_bbox": [
+          0.31613297,
+          0.7411,
+          0.66320921,
+          0.75267857
+        ],
+        "line_ids": [
+          66
+        ]
+      },
+      "translation": {
+        "text": "MR. ACCIDENT：哈哈，你们这些废物终于到了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31674209,
+          0.735,
+          0.88119275,
+          0.75042857
+        ],
+        "font_size": 16,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8842857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31674209,
+          0.735,
+          0.88119275,
+          0.75042857
+        ],
+        "font_size": 16,
+        "leading": 21.6
+      },
+      "review_issues": [],
+      "region_id": "game-dialogue-inset"
+    },
+    {
+      "id": "p0042-b008",
+      "kind": "quote",
+      "source": {
+        "text": "NESS: Mr. Accident, why are you doing any of this? We've known you to be a good person ...",
+        "raw": "NESS: Mr. Accident, why are you doing any of this? We've known you to be a good\nperson ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3170162,
+          0.75959286,
+          0.84666583,
+          0.78214286
+        ],
+        "mask_bbox": [
+          0.31569644,
+          0.75887857,
+          0.84798559,
+          0.78321429
+        ],
+        "line_ids": [
+          67,
+          68
+        ]
+      },
+      "translation": {
+        "text": "NESS：Mr. Accident，你为什么要做这些事？我们一直觉得你是个好人……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31674209,
+          0.75328571,
+          0.88119275,
+          0.76871429
+        ],
+        "font_size": 16,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8842857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 4,
+        "flow_after": "p0042-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.31674209,
+          0.75328571,
+          0.88119275,
+          0.76871429
+        ],
+        "font_size": 16,
+        "leading": 21.6
+      },
+      "review_issues": [],
+      "region_id": "game-dialogue-inset"
+    },
+    {
+      "id": "p0042-b009",
+      "kind": "quote",
+      "source": {
+        "text": "MR.ACCIDENT: Do you honestly think so? I created a monster, Map Editor 4, that at first appeared to be delightful and useful. As time wore on, however, people have discovered that my Map Editor is a little bit. .. well, CORRUPTIVE.",
+        "raw": "MR.ACCIDENT: Do you honestly think so? I created a monster, Map Editor 4, that at\nfirst appeared to be delightful and useful. As time wore on, however, people have\ndiscovered that my Map Editor is a little bit. .. well, CORRUPTIVE.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31712787,
+          0.79047857,
+          0.85516305,
+          0.82478571
+        ],
+        "mask_bbox": [
+          0.31580811,
+          0.78976429,
+          0.8564828,
+          0.82585714
+        ],
+        "line_ids": [
+          69,
+          70,
+          71
+        ]
+      },
+      "translation": {
+        "text": "MR. ACCIDENT：你真这么想？我造了一个怪物，Map Editor 4，刚开始看起来好玩又好用。可是日子久了，大家发现我的地图编辑器有点……嗯，具有“破坏性”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31674209,
+          0.77157143,
+          0.88119275,
+          0.81785714
+        ],
+        "font_size": 16,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8842857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 4,
+        "flow_after": "p0042-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.31674209,
+          0.77157143,
+          0.88119275,
+          0.81785714
+        ],
+        "font_size": 16,
+        "leading": 21.6
+      },
+      "review_issues": [],
+      "region_id": "game-dialogue-inset"
+    },
+    {
+      "id": "p0042-b010",
+      "kind": "quote",
+      "source": {
+        "text": "I love pain and misery. I believe that the only way to be fulfilled is to be with the one you love, and therefore I must cause as much pain and suffering as I can! Anyone that used my <Map Editor> was never seen again ... and yet it consistently received praise from people too lazy to use it. I'll have a lot of fun destroying you foolish buttzors!",
+        "raw": "I love pain and misery. I believe that the only way to be fulfilled is to be with the one you\nlove, and therefore I must cause as much pain and suffering as I can! Anyone that used\nmy <Map Editor> was never seen again ... and yet it consistently received praise from\npeople too lazy to use it. I'll have a lot of fun destroying you foolish buttzors!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31749334,
+          0.83177857,
+          0.87504064,
+          0.87849286
+        ],
+        "mask_bbox": [
+          0.31617358,
+          0.83106429,
+          0.8763604,
+          0.87956429
+        ],
+        "line_ids": [
+          72,
+          73,
+          74,
+          75
+        ]
+      },
+      "translation": {
+        "text": "我爱痛苦与不幸。我相信，只有和所爱之物在一起，才能得到满足，所以我必须制造尽可能多的痛苦！凡是用过我的〈地图编辑器〉的人，后来都不见了……可那些懒得用它的人，却一直赞不绝口。收拾你们这些蠢货，一定好玩极了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31674209,
+          0.82071429,
+          0.88119275,
+          0.88242857
+        ],
+        "font_size": 16,
+        "line_height": 1.35,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8842857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 4,
+        "flow_after": "p0042-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.31674209,
+          0.82071429,
+          0.88119275,
+          0.88242857
+        ],
+        "font_size": 16,
+        "leading": 21.6
+      },
+      "review_issues": [],
+      "region_id": "game-dialogue-inset"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "208e4af7c9e94d21d7ff1349bfc3294cb8516b5311f0d2c518abe8bd3ca86ab7"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          76
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.48,
+      868.19
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

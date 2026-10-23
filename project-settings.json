@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "intended_visibility": "private",
+  "current_storage": "local_git_only",
+  "public_deployment_allowed": false,
+  "remote_creation_performed": false,
+  "tracked_study_content": "private/content/**/*.json and **/*.md",
+  "source_assets": "local ignored files with separate backups",
+  "ai_processing": "remote AI calls are separate from local storage; record provider and sent scope",
+  "note": "Declarative project policy; no access-control or deployment enforcement implemented."
+}

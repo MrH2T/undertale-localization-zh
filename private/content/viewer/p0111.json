@@ -1,0 +1,513 @@
+{
+  "schema_version": 3,
+  "pdf_page": 111,
+  "printed_page": "111",
+  "title": "Oira 冲击的回响",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.176783+00:00",
+  "reference_size": [
+    979.882056,
+    1400
+  ],
+  "physical_size_pt": [
+    498.48,
+    712.2
+  ],
+  "image_url": "/assets/p0111.jpg",
+  "image_sha256": "2ba312685e52cc0680107a1fe4810e14d7cccfc84f5978151b2c3b7e29715cda",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0111/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0111-b001",
+      "kind": "aside",
+      "source": {
+        "text": "Reactions to Sans' use of oira made waves online almost immediately - here we see \"oira\" and \"sans' pronoun\" trending across all of Japan (left), in Tokyo (middle), and in Osaka (right)",
+        "raw": "Reactions to Sans'\nuse of oira made\nwaves online almost\nimmediately - here\nwe see \"oira\" and\n\"sans' pronoun\"\ntrending across all\nof Japan (left), in\nTokyo (middle), and\nin Osaka (right)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72490357,
+          0.07172857,
+          0.85769506,
+          0.2209
+        ],
+        "mask_bbox": [
+          0.72357688,
+          0.07101429,
+          0.85902175,
+          0.22197143
+        ],
+        "line_ids": [
+          1,
+          7,
+          12,
+          16,
+          20,
+          27,
+          31,
+          35,
+          39,
+          43
+        ]
+      },
+      "translation": {
+        "text": "Sans 用 oira（我）自称的消息几乎立刻在网上掀起波澜。这里的“oira”和“Sans 的自称”同时登上日本全国（左）、东京（中）和大阪（右）的热门话题榜。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72490357,
+          0.0703,
+          0.87357452,
+          0.22447143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.22465000285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72490357,
+          0.0703,
+          0.87357452,
+          0.22447143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0111-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The phrase \"Oira Shock\" was mostly a joke name that went viral - genuine \"shock\" events in Japanese include the \"Lehman Shock\" (the 2008 global financial crisis) and the \"Corona Shock\" (the rise of the 2020 coronavirus pandemic)",
+        "raw": "The phrase \"Oira\nShock\" was mostly\na joke name that\nwent viral - genuine\n\"shock\" events in\nJapanese include\nthe \"Lehman Shock\"\n(the 2008 global\nfinancial crisis) and\nthe \"Corona Shock\"\n(the rise of the\n2020 coronavirus\npandemic)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72488316,
+          0.23179286,
+          0.85927688,
+          0.42915714
+        ],
+        "mask_bbox": [
+          0.72355647,
+          0.23107857,
+          0.86060357,
+          0.43022857
+        ],
+        "line_ids": [
+          47,
+          51,
+          55,
+          59,
+          63,
+          67,
+          71,
+          75,
+          79,
+          81,
+          86,
+          94,
+          98
+        ]
+      },
+      "translation": {
+        "text": "“Oira 冲击”主要是个广为传播的戏称。日语里真正被称为“冲击”的事件包括“雷曼冲击”（2008年全球金融危机）和“新冠冲击”（2020年新冠疫情暴发）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72488316,
+          0.23036429,
+          0.87357452,
+          0.43272857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4389714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72488316,
+          0.23036429,
+          0.87357452,
+          0.43272857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0111-b003",
+      "kind": "aside",
+      "source": {
+        "text": "The news of Sans' oira pronoun led to a deluge of fan art depicting Sans as a country bumpkin or farmer",
+        "raw": "The news of Sans'\noira pronoun led to\na deluge of fan art\ndepicting Sans as a\ncountry bumpkin or\nfarmer",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73078183,
+          0.44611429,
+          0.85283733,
+          0.53464286
+        ],
+        "mask_bbox": [
+          0.72945514,
+          0.4454,
+          0.85416402,
+          0.53571429
+        ],
+        "line_ids": [
+          99,
+          101,
+          102,
+          103,
+          104,
+          105
+        ]
+      },
+      "translation": {
+        "text": "Sans 使用 oira 的消息，催生了大量把他画成乡巴佬或农民的同人画。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72661806,
+          0.44468571,
+          0.87357452,
+          0.53821429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6593571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72661806,
+          0.44468571,
+          0.87357452,
+          0.53821429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0111-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Reports of Japanese fan reactions even hit English-language video game news sites",
+        "raw": "Reports of Japanese\nfan reactions even\nhit English-language\nvideo game news sites",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73178195,
+          0.6665,
+          0.87115586,
+          0.72401429
+        ],
+        "mask_bbox": [
+          0.73045526,
+          0.66578571,
+          0.87248256,
+          0.72508571
+        ],
+        "line_ids": [
+          106,
+          108,
+          110,
+          111
+        ]
+      },
+      "translation": {
+        "text": "日本粉丝的反应甚至登上了英语游戏新闻网站。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72661806,
+          0.66507143,
+          0.87357452,
+          0.72758571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72661806,
+          0.66507143,
+          0.87357452,
+          0.72758571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0111-b005",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64004642,
+          0.93497143,
+          0.70418679,
+          0.9455
+        ],
+        "mask_bbox": [
+          0.63871973,
+          0.93425714,
+          0.70551348,
+          0.94657143
+        ],
+        "line_ids": [
+          124
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64004642,
+          0.93354286,
+          0.70418679,
+          0.95154286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9515428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64004642,
+          0.93354286,
+          0.70418679,
+          0.95154286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "212b838f984037c36f3467c8afc9518fdd1de77775b49f6faa9145cafdb8efba"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          17,
+          18,
+          19,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          29,
+          30,
+          32,
+          33,
+          34,
+          36,
+          37,
+          38,
+          40,
+          41,
+          42,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50,
+          52,
+          53,
+          54,
+          56,
+          57,
+          58,
+          60,
+          61,
+          62,
+          64,
+          65,
+          66,
+          68,
+          69,
+          70,
+          72,
+          73,
+          74,
+          76,
+          77,
+          78,
+          80,
+          82,
+          83,
+          84,
+          85,
+          87,
+          88,
+          89,
+          90,
+          91,
+          92,
+          93,
+          95,
+          96,
+          97,
+          100,
+          107,
+          109,
+          112,
+          113,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          122,
+          123,
+          125
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

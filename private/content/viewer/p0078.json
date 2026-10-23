@@ -1,0 +1,687 @@
+{
+  "schema_version": 3,
+  "pdf_page": 78,
+  "printed_page": "78",
+  "title": "山的名字",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    984.279476,
+    1400
+  ],
+  "physical_size_pt": [
+    502.32,
+    714.48
+  ],
+  "image_url": "/assets/p0078.jpg",
+  "image_sha256": "008ff8c78714438e6045ee9d6073b8dd0268146cb84bd8eab033b0406547cd27",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0078/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0078-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Sound of the Mountain",
+        "raw": "Sound of the Mountain",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29650115,
+          0.06570714,
+          0.53759122,
+          0.07900714
+        ],
+        "mask_bbox": [
+          0.29518039,
+          0.06499286,
+          0.53891198,
+          0.08007857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "山的名字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296237,
+          0.05514286,
+          0.90352387,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.296237,
+          0.05514286,
+          0.90352387,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0078-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale begins when the main character visits a mountain known as \"Mt. Ebott\". It's not obvious at first glance, but this isn't some random name - it's simply \"Toby\" backwards, spelled in a roundabout way.",
+        "raw": "Undertale begins when the main character visits a mountain known as \"Mt.\nEbott\". It's not obvious at first glance, but this isn't some random name - it's\nsimply \"Toby\" backwards, spelled in a roundabout way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29660275,
+          0.27586429,
+          0.87738292,
+          0.32514286
+        ],
+        "mask_bbox": [
+          0.29050692,
+          0.27515,
+          0.90555581,
+          0.32621429
+        ],
+        "line_ids": [
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Undertale 开始时，主角来到一座叫 Mt. Ebott 的山。乍看不明显，但这并非随手起的名字：它只是将 Toby 倒过来，再绕点弯子拼出来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296237,
+          0.27443571,
+          0.90352387,
+          0.32871429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.296237,
+          0.27443571,
+          0.90352387,
+          0.32871429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0078-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "This naming choice was inspired by a similar mountain in Earth.Bound Beginnings known as \"Mt. Itoi\", which is a reference to Shigesato Itoi, the game's creator. In the original Japanese version of Earth.Bound Beginnings, however, this mountain was known as \"Holy Loly Mountain\". This difference meant that Toby's homage to the Earth.Bound series was destined to be lost in translation.",
+        "raw": "This naming choice was inspired by a similar mountain in Earth.Bound\nBeginnings known as \"Mt. Itoi\", which is a reference to Shigesato Itoi, the game's\ncreator. In the original Japanese version of Earth.Bound Beginnings, however,\nthis mountain was known as \"Holy Loly Mountain\". This difference meant that\nToby's homage to the Earth.Bound series was destined to be lost in translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29587125,
+          0.34102857,
+          0.89744836,
+          0.42422143
+        ],
+        "mask_bbox": [
+          0.29050692,
+          0.34031429,
+          0.90555581,
+          0.42529286
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "这个命名方式来自 EarthBound Beginnings 中类似的一座山——Mt. Itoi，指的是游戏创作者 Shigesato Itoi。不过，在该作日语原版中，这座山名叫 Holy Loly Mountain。因此，Toby 对 EarthBound 系列的这份致敬，注定会在翻译中丢失。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 120,
+            "end": 130,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296237,
+          0.3396,
+          0.90352387,
+          0.42779286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0078-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.296237,
+          0.3396,
+          0.90352387,
+          0.42779286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0078-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Even though Toby’s reference to Mt. Itoi would be lost on Japanese players, the reference to Toby’s name could still be conveyed in translation. To make the reference work, the translator took the name トビイ (to bi i, “Toby”), reversed the characters, and called the mountain “Mt. Ibito”.",
+        "raw": "Even though Toby's reference to Mt. Itoi would be lost on Japanese players, the\nreference to Toby's name could still be conveyed in translation. To make the\nreference work, the translator took the name I-1::''1 (to bi i, \"Toby\"), reversed\nthe characters, and called the mountain \"Mt. Ibito\".",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29851278,
+          0.7505,
+          0.90352387,
+          0.8169
+        ],
+        "mask_bbox": [
+          0.29050692,
+          0.74978571,
+          0.90555581,
+          0.81797143
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "日本玩家虽然看不出对 Mt. Itoi 的致敬，但对 Toby 名字的指涉仍能译出来。译者采用トビイ（to bi i，即 Toby 的日文写法），将字符倒过来，把山命名为“Mt. Ibito”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 51,
+            "end": 58,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296237,
+          0.74907143,
+          0.90352387,
+          0.82047143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.296237,
+          0.74907143,
+          0.90352387,
+          0.82047143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0078-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "By changing the mountain's name, the translator was able to preserve Toby's original intent as closely as possible. However, the change from \"Ebott\" to \"Ibito\" also meant that most Japanese players would know the mountain by a different name than the rest of the world.",
+        "raw": "By changing the mountain's name, the translator was able to preserve Toby's\noriginal intent as closely as possible. However, the change from \"Ebott\" to\n\"Ibito\" also meant that most Japanese players would know the mountain by a\ndifferent name than the rest of the world.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29253886,
+          0.83246429,
+          0.88242214,
+          0.89955
+        ],
+        "mask_bbox": [
+          0.29050692,
+          0.83175,
+          0.90555581,
+          0.90062143
+        ],
+        "line_ids": [
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "通过改名，译者尽可能保住了 Toby 原本的用意。不过，从 Ebott 改成 Ibito，也意味着多数日本玩家熟悉的山名，会与世界其他地方不同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296237,
+          0.83103571,
+          0.90352387,
+          0.90312143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0078-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.296237,
+          0.83103571,
+          0.90352387,
+          0.90312143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0078-b006",
+      "kind": "caption",
+      "source": {
+        "text": "It was interesting - and frustrating - to see the official localization criticized for \"mistranslating\" this mountain's name",
+        "raw": "It was interesting -\nand frustrating - to\nsee the official\nlocalization criticized\nfor \"mistranslating\"\nthis mountain's name",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13610972,
+          0.09424286,
+          0.27213815,
+          0.18295
+        ],
+        "mask_bbox": [
+          0.13478895,
+          0.09352857,
+          0.27345892,
+          0.18402143
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "看到官方译版因“译错”这座山的名字受到批评，既有趣，又让人无奈。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13610972,
+          0.09281429,
+          0.27213815,
+          0.18652143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4330714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13610972,
+          0.09281429,
+          0.27213815,
+          0.18652143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0078-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Mt. ltoi - known as Holy Loly Mountain in Japanese - is a frightful, deadly place full of monsters and darkness, so it's no wonder it served as inspiration for Mt. Ebott",
+        "raw": "Mt. ltoi - known as\nHoly Loly Mountain in\nJapanese - is a frightful,\ndeadly place full of\nmonsters and darkness,\nso it's no wonder it\nserved as inspiration\nfor Mt. Ebott",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12268873,
+          0.44021429,
+          0.27266646,
+          0.55948571
+        ],
+        "mask_bbox": [
+          0.12136797,
+          0.4395,
+          0.27398722,
+          0.56055714
+        ],
+        "line_ids": [
+          17,
+          19,
+          20,
+          21,
+          22,
+          26,
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "Mt. Itoi——日版叫 Holy Loly Mountain——是个怪物遍布、黑暗又致命的可怕地方，难怪会成为 Mt. Ebott 的灵感。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12268873,
+          0.43878571,
+          0.27266646,
+          0.56305714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12268873,
+          0.43878571,
+          0.27266646,
+          0.56305714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b4b511dfbfb7782913a97d0fa188873f0c5e79a7516ee992b1f5eecdd8eb59b7"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.58,
+      889.32
+    ],
+    "text_runs": [
+      {
+        "id": "p0078-b002",
+        "blocks": [
+          "p0078-b002",
+          "p0078-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 608.0
+      },
+      {
+        "id": "p0078-b004",
+        "blocks": [
+          "p0078-b004",
+          "p0078-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

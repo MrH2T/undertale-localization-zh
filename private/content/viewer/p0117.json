@@ -1,0 +1,835 @@
+{
+  "schema_version": 3,
+  "pdf_page": 117,
+  "printed_page": "117",
+  "title": "日语人称代词：ore",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    977.2827,
+    1400
+  ],
+  "physical_size_pt": [
+    496.32,
+    711.0
+  ],
+  "image_url": "/assets/p0117.jpg",
+  "image_sha256": "27c86578ca0d3849be99f6ca3b422d1de4ca4936d3447e79aeb113831416574e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0117/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0117-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Personal Pronouns: ore",
+        "raw": "Japanese Personal Pronouns: ore",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.22671024,
+          0.07816429,
+          0.57119603,
+          0.09152857
+        ],
+        "mask_bbox": [
+          0.22538003,
+          0.07745,
+          0.57252625,
+          0.0926
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：ore",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.118696463,
+          0.068,
+          0.679434927,
+          0.092142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.092142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.118696463,
+          0.068,
+          0.679434927,
+          0.092142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 133
+    },
+    {
+      "id": "p0117-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Ore is another common masculine pronoun in Japanese. It projects a sense of manliness, strength, confidence, being in charge, and/or vulgarity. As such, it's considered a bit crude, and isn't fit for formal situations or when trying to be polite. Among close friends and family, ore can instead indicate familiarity. Examples of fictional characters who use ore include:",
+        "raw": "Ore is another common masculine pronoun in Japanese. It projects a sense\nof manliness, strength, confidence, being in charge, and/or vulgarity.\nAs such, it's considered a bit crude, and isn't fit for formal situations or\nwhen trying to be polite. Among close friends and family, ore can instead\nindicate familiarity. Examples of fictional characters who use ore include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1197811,
+          0.10819286,
+          0.67666193,
+          0.18722143
+        ],
+        "mask_bbox": [
+          0.11536068,
+          0.10747857,
+          0.67870842,
+          0.18829286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "ore（我）是日语中另一个常见的男性自称。它给人阳刚、强势、自信、掌控局面或粗俗的感觉，因此被认为略显粗鲁，不适合正式场合或需要礼貌的时候。但在亲朋好友之间，ore 也可以表示亲近。使用 ore 的虚构角色包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 3,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 79,
+            "end": 82,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 94,
+            "end": 97,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11859414,
+          0.10676429,
+          0.67666193,
+          0.19079286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.19857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11859414,
+          0.10676429,
+          0.67666193,
+          0.19079286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Snake (Metal Gear Solid series)",
+        "raw": "Snake\n(Metal Gear Solid series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17708284,
+          0.35697857,
+          0.32802177,
+          0.38165
+        ],
+        "mask_bbox": [
+          0.17575263,
+          0.35626429,
+          0.32935199,
+          0.38272143
+        ],
+        "line_ids": [
+          7,
+          9
+        ]
+      },
+      "translation": {
+        "text": "Snake\n（Metal Gear Solid 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12483594,
+          0.35555,
+          0.37860079,
+          0.38522143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.39167857285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12483594,
+          0.35555,
+          0.37860079,
+          0.38522143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Vegeta (Dragon Ball series)",
+        "raw": "Veg eta\n(Dragon Ball series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48658387,
+          0.35730714,
+          0.60703008,
+          0.38165
+        ],
+        "mask_bbox": [
+          0.48525365,
+          0.35659286,
+          0.6083603,
+          0.38272143
+        ],
+        "line_ids": [
+          8,
+          10
+        ]
+      },
+      "translation": {
+        "text": "Vegeta\n（Dragon Ball 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.4195306,
+          0.35587857,
+          0.67329545,
+          0.38522143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.39167857285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.4195306,
+          0.35587857,
+          0.67329545,
+          0.38522143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Ore is primarily a masculine pronoun, but female characters use it on occasion too. This makes them sound tough, manly, and intimidating.",
+        "raw": "Ore is primarily a masculine pronoun, but female characters use it on\noccasion too. This makes them sound tough, manly, and intimidating.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12143876,
+          0.39882143,
+          0.65072266,
+          0.42720714
+        ],
+        "mask_bbox": [
+          0.11536068,
+          0.39810714,
+          0.67870842,
+          0.42827857
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "ore 主要是男性自称，但女性角色偶尔也会使用，让她们听起来强硬、男性化而有威慑力。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 3,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11740717,
+          0.39428571,
+          0.68045817,
+          0.43571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11740717,
+          0.39428571,
+          0.68045817,
+          0.43571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b006",
+      "kind": "caption",
+      "source": {
+        "text": "13-Amp (WarioWare series)",
+        "raw": "13-Amp\n(WarioWare series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19450871,
+          0.59562857,
+          0.31060613,
+          0.62097857
+        ],
+        "mask_bbox": [
+          0.19317849,
+          0.59491429,
+          0.31193635,
+          0.62205
+        ],
+        "line_ids": [
+          13,
+          15
+        ]
+      },
+      "translation": {
+        "text": "13-Amp\n（WarioWare 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11971971,
+          0.59428571,
+          0.38781,
+          0.63071429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6307142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11971971,
+          0.59428571,
+          0.38781,
+          0.63071429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Kumatora (MOTHER 3)",
+        "raw": "Kumatora\n(MOTHER 3)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50987294,
+          0.59562857,
+          0.58434473,
+          0.6213
+        ],
+        "mask_bbox": [
+          0.50854272,
+          0.59491429,
+          0.58567495,
+          0.62237143
+        ],
+        "line_ids": [
+          14,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Kumatora\n（MOTHER 3）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41543762,
+          0.59428571,
+          0.68352791,
+          0.63071429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6307142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41543762,
+          0.59428571,
+          0.68352791,
+          0.63071429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Japanese name suffix -sama normally indicates high respect for someone, so ore-sama is often used by fictional characters with big, over-the-top egos. Examples include:",
+        "raw": "The Japanese name suffix -sama normally indicates high respect for\nsomeone, so ore-sama is often used by fictional characters with big,\nover-the-top egos. Examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11740717,
+          0.63747143,
+          0.63657118,
+          0.68172143
+        ],
+        "mask_bbox": [
+          0.11536068,
+          0.63675714,
+          0.67870842,
+          0.68279286
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "日语称呼后缀 -sama 通常表示对某人的高度尊敬，因此 ore-sama（本大爷）常用于极度自负的虚构角色。例如：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 29,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11859414,
+          0.63604286,
+          0.67666193,
+          0.68529286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6942857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11859414,
+          0.63604286,
+          0.67666193,
+          0.68529286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Wario (Various Nintendo series)",
+        "raw": "Wario\n(Various Nintendo series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17481124,
+          0.8569,
+          0.33227847,
+          0.88190714
+        ],
+        "mask_bbox": [
+          0.17348102,
+          0.85618571,
+          0.33360869,
+          0.88297857
+        ],
+        "line_ids": [
+          20,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Wario\n（任天堂多个系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12585918,
+          0.85547143,
+          0.37757754,
+          0.88547857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12585918,
+          0.85547143,
+          0.37757754,
+          0.88547857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Laharl (Disgaea series)",
+        "raw": "Laharl\n(Disgaea series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49868886,
+          0.8569,
+          0.59543671,
+          0.88224286
+        ],
+        "mask_bbox": [
+          0.49735865,
+          0.85618571,
+          0.59676693,
+          0.88331429
+        ],
+        "line_ids": [
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "Laharl\n（Disgaea 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42055385,
+          0.85547143,
+          0.67227221,
+          0.88581429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42055385,
+          0.85547143,
+          0.67227221,
+          0.88581429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0117-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64347808,
+          0.93811429,
+          0.70792208,
+          0.94781429
+        ],
+        "mask_bbox": [
+          0.64214787,
+          0.9374,
+          0.7092523,
+          0.94888571
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64347808,
+          0.93668571,
+          0.70792208,
+          0.95468571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9546857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64347808,
+          0.93668571,
+          0.70792208,
+          0.95468571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6ec375ba799574896ca4539100bc24ad893bf08b78def20a7521e7b347745524"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      115.9,
+      661.29
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

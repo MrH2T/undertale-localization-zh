@@ -1,0 +1,28 @@
+DRAFT ONLY - NOT SENT
+
+Subject: Permission inquiry: noncommercial Chinese translation and digital edition of Legends of Localization Book 3: UNDERTALE
+
+Dear Clyde Mandelin and Fangamer team,
+
+I am planning a volunteer Chinese translation project for Legends of Localization Book 3: UNDERTALE. Before digitizing or publishing the book, I would like to confirm the relevant rights holders and request written permission.
+
+The proposed project would make a Chinese translation available free of charge through GitHub Pages, with source content hosted in a public GitHub repository. It would have no advertising, sales, or donations. Please let me know whether you would consider this proposal and on what terms.
+
+Could you clarify permission for the following, including any parts you cannot license?
+
+- Digitization/OCR and reformatting of the book;
+- Simplified Chinese translation, and whether Traditional Chinese may also be included;
+- Whether publication may include the English original alongside the translation, or Chinese text only;
+- Reuse of illustrations, screenshots, photographs, tables, and layout elements;
+- Worldwide online access, downloadable copies, and the copying/forking inherent in a public GitHub repository;
+- Volunteer collaboration and any restrictions on external translation tools;
+- Required credits, review and approval, duration, and termination conditions.
+
+Please identify any third-party material that requires separate permission or must be omitted. If full publication is not possible, would you consider a limited translated sample or commentary project?
+
+I understand that noncommercial intent does not itself provide permission, and that permission from one rights holder may not cover all included material. I would appreciate confirmation of who can authorize each part of the project.
+
+Thank you for considering this inquiry.
+
+[Your name]
+[Contact details]

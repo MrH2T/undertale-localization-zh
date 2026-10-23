@@ -1,0 +1,1140 @@
+{
+  "schema_version": 3,
+  "pdf_page": 135,
+  "printed_page": "135",
+  "title": "肉桂挑战",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.738647+00:00",
+  "reference_size": [
+    977.710336,
+    1400
+  ],
+  "physical_size_pt": [
+    497.04,
+    711.72
+  ],
+  "image_url": "/assets/p0135.jpg",
+  "image_sha256": "160a7cbb0dfcb7a2d3f9402359ffa8f8b69f60a6ba18d3509111f89bd4a3190e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0135/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0135-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Cinnamon Challenge",
+        "raw": "Cinnamon Challenge",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09291095,
+          0.05697143,
+          0.30991797,
+          0.0706
+        ],
+        "mask_bbox": [
+          0.09158132,
+          0.05625714,
+          0.3112476,
+          0.07167143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "肉桂挑战",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.047285714,
+          0.7006881,
+          0.071428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.071428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.047285714,
+          0.7006881,
+          0.071428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 104
+    },
+    {
+      "id": "p0135-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Under normal circumstances, the CinnaBun's new Japanese name would've resulted in different fan art from Japanese fans, but the new item description nullifies this side effect",
+        "raw": "Under normal\ncircumstances, the\nCinnaBun's new\nJapanese name\nwould've resulted in\ndifferent fan art from\nJapanese fans, but the\nnew item description\nnullifies this side effect",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73426655,
+          0.08685,
+          0.8785731,
+          0.21669286
+        ],
+        "mask_bbox": [
+          0.73293692,
+          0.08613571,
+          0.87990274,
+          0.21776429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          12,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "通常，CinnaBun 的这个新日文名称可能让日本玩家画出不同的同人图；不过，道具说明消除了这种副作用。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72932644,
+          0.08542143,
+          0.8785731,
+          0.22026429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6010214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72932644,
+          0.08542143,
+          0.8785731,
+          0.22026429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A \"CinnaBun\" item is available in Snowdin, but it turns out its name isn't an abbreviation for \"Cinnamon Bun\":",
+        "raw": "A \"CinnaBun\" item is available in Snowdin, but it turns out its name isn't an\nabbreviation for \"Cinnamon Bun\":",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09122334,
+          0.23242143,
+          0.67361464,
+          0.26233571
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.23170714,
+          0.7027337,
+          0.26340714
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Snowdin 出售一种叫“CinnaBun”的食物，乍看像 cinnamon bun（肉桂卷）的缩写，实际却是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.23099286,
+          0.7006881,
+          0.26590714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.23099286,
+          0.7006881,
+          0.26590714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b004",
+      "kind": "quote",
+      "source": {
+        "text": "\"Cinnamon Bunny\" Heals 22 HP. A cinnamon roll in the shape of a bunny.",
+        "raw": "\"Cinnamon Bunny\"\nHeals 22 HP. A cinnamon roll in the shape of a bunny.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13156248,
+          0.27661429,
+          0.5389224,
+          0.30785714
+        ],
+        "mask_bbox": [
+          0.13023285,
+          0.2759,
+          0.54025204,
+          0.30892857
+        ],
+        "line_ids": [
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "“Cinnamon Bunny”（肉桂兔兔）\n回复 22 HP。做成兔子模样的肉桂卷。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13156248,
+          0.27518571,
+          0.7006881,
+          0.31142857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13156248,
+          0.27518571,
+          0.7006881,
+          0.31142857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Basically, the item's name and description form a multi-layered joke:",
+        "raw": "Basically, the item's name and description form a multi-layered joke:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09359623,
+          0.32382143,
+          0.62301684,
+          0.33618571
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.32310714,
+          0.7027337,
+          0.33725714
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "名称与说明构成了几层笑点：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.32239286,
+          0.7006881,
+          0.34453571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.32239286,
+          0.7006881,
+          0.34453571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b006",
+      "kind": "quote",
+      "source": {
+        "text": "1. Most players will assume \"CinnaBun\" stands for \"Cinnamon Bun\" at first 2. But it turns out that \"Bun\" actually stands for \"bunny\" 3. Even though \"Bun\" means \"bunny\", the item is a cinnamon bun after all",
+        "raw": "1. Most players will assume \"CinnaBun\" stands for \"Cinnamon Bun\" at first\n2. But it turns out that \"Bun\" actually stands for \"bunny\"\n3. Even though \"Bun\" means \"bunny\", the item is a cinnamon bun after all",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11095311,
+          0.35078571,
+          0.70205865,
+          0.39922857
+        ],
+        "mask_bbox": [
+          0.07382555,
+          0.35007143,
+          0.70338829,
+          0.4003
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "• 大多数人会以为 CinnaBun 是 cinnamon bun（肉桂卷）的缩写。\n• 但这里的 Bun 其实是 bunny（兔子）。\n• 尽管 Bun 指的是兔子，它又确实是个肉桂卷。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11095311,
+          0.34935714,
+          0.70205865,
+          0.4028
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.11095311,
+          0.34935714,
+          0.70205865,
+          0.4028
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0135-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translator localized this joke by changing the item's name and description:",
+        "raw": "The translator localized this joke by changing the item's name and description:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09303369,
+          0.41554286,
+          0.7006881,
+          0.42790714
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.41482857,
+          0.7027337,
+          0.42897857
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "译者修改了名称与说明：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.41411429,
+          0.7006881,
+          0.43625714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.41411429,
+          0.7006881,
+          0.43625714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b008",
+      "kind": "quote",
+      "source": {
+        "text": "\"Cinnamonkey\" Heals 22 HP. Despite the \"monkey\" in its name, it's a bun that clearly looks like a bunny.",
+        "raw": "\"Cinnamonkey\"\nHeals 22 HP. Despite the \"monkey\" in its name, it's a bun that clearly looks\nlike a bunny.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1320432,
+          0.44250714,
+          0.69764016,
+          0.49095
+        ],
+        "mask_bbox": [
+          0.13071356,
+          0.44179286,
+          0.6989698,
+          0.49202143
+        ],
+        "line_ids": [
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "“Cinnamonkey”（肉桂猴）\n回复 22 HP。名字里虽然有猴子，却明显是兔子形状的面包。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1320432,
+          0.44107857,
+          0.7006881,
+          0.49452143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.1320432,
+          0.44107857,
+          0.7006881,
+          0.49452143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, this \"Cinnamonkey\" name parallels the English \"CinnaBun\" name by tricking the player into assuming something about the item, then using the item's description to throw that assumption out the window.",
+        "raw": "As we can see, this \"Cinnamonkey\" name parallels the English \"CinnaBun\"\nname by tricking the player into assuming something about the item, then\nusing the item's description to throw that assumption out the window.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09170405,
+          0.50691429,
+          0.67081218,
+          0.55569286
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.5062,
+          0.7027337,
+          0.55676429
+        ],
+        "line_ids": [
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "“Cinnamonkey”把 cinnamon（肉桂）与 monkey（猴子）连在一起，和“CinnaBun”一样，先让玩家产生一种猜想，再用说明推翻它。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.50548571,
+          0.7006881,
+          0.55926429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5711428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.50548571,
+          0.7006881,
+          0.55926429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b010",
+      "kind": "heading",
+      "source": {
+        "text": "Smiling Carefully",
+        "raw": "Smiling Carefully",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09443492,
+          0.57828571,
+          0.27415073,
+          0.59191429
+        ],
+        "mask_bbox": [
+          0.09310529,
+          0.57757143,
+          0.27548036,
+          0.59298571
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "微笑也要留心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.56871429,
+          0.7006881,
+          0.59285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5928571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.56871429,
+          0.7006881,
+          0.59285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 834.0
+    },
+    {
+      "id": "p0135-b011",
+      "kind": "aside",
+      "source": {
+        "text": "As a translator, I find that the shorter a reference is, the harder it becomes to recognize it",
+        "raw": "As a translator, I find that\nthe shorter a reference is,\nthe harder it becomes to\nrecognize it",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73493137,
+          0.60816429,
+          0.88998752,
+          0.66619286
+        ],
+        "mask_bbox": [
+          0.73360174,
+          0.60745,
+          0.89131716,
+          0.66726429
+        ],
+        "line_ids": [
+          35,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "典故越短，译者越难认出来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72932644,
+          0.60673571,
+          0.88998752,
+          0.66976429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.675,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72932644,
+          0.60673571,
+          0.88998752,
+          0.66976429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "A character in Snowdin discusses why smiling is important. Talking to this character a second time in the English version results in the text:",
+        "raw": "A character in Snowdin discusses why smiling is important. Talking to this\ncharacter a second time in the English version results in the text:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09218477,
+          0.75476429,
+          0.66831655,
+          0.78535
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.75405,
+          0.7027337,
+          0.78642143
+        ],
+        "line_ids": [
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Snowdin 有个角色谈到微笑的重要性。第二次与其交谈，英文台词是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.75333571,
+          0.7006881,
+          0.78892143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.75333571,
+          0.7006881,
+          0.78892143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b013",
+      "kind": "quote",
+      "source": {
+        "text": "Smile smile.",
+        "raw": "Smile smile.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13903914,
+          0.8013,
+          0.2281146,
+          0.81366429
+        ],
+        "mask_bbox": [
+          0.1377095,
+          0.80058571,
+          0.22944423,
+          0.81473571
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "“Smile smile.”（笑一笑，笑一笑。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13903914,
+          0.79987143,
+          0.7006881,
+          0.82046071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0135-b012",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13903914,
+          0.79987143,
+          0.7006881,
+          0.82046071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b014",
+      "kind": "aside",
+      "source": {
+        "text": "Preserving obscure references is always a tough call in localization - after all, when does \"obscure\" become \"unrecognizable\"?",
+        "raw": "Preserving obscure\nreferences is always a\ntough call in localization\n- after all, when does\n\"obscure\" become\n\"unrecognizable\"?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72939804,
+          0.81152143,
+          0.88784988,
+          0.89989286
+        ],
+        "mask_bbox": [
+          0.7280684,
+          0.81080714,
+          0.88917951,
+          0.90096429
+        ],
+        "line_ids": [
+          44,
+          45,
+          47,
+          49,
+          51,
+          53
+        ]
+      },
+      "translation": {
+        "text": "要不要保留冷门典故很难抉择。冷门到什么程度，才算已经无人认得出来？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72932644,
+          0.81009286,
+          0.88784988,
+          0.90346429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72932644,
+          0.81009286,
+          0.88784988,
+          0.90346429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this short line is actually a quote from EarthBound. The translator used this information to preserve the EarthBound reference in the Japanese script, but noted that because the Earth.Bound quote is even more unremarkable in Japanese, the reference would be lost in translation.",
+        "raw": "Toby noted that this short line is actually a quote from EarthBound. The\ntranslator used this information to preserve the EarthBound reference in the\nJapanese script, but noted that because the Earth.Bound quote is even more\nunremarkable in Japanese, the reference would be lost in translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09309506,
+          0.82896429,
+          0.68513135,
+          0.89629286
+        ],
+        "mask_bbox": [
+          0.08917774,
+          0.82825,
+          0.7027337,
+          0.89736429
+        ],
+        "line_ids": [
+          46,
+          48,
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "Toby 的注释说，这短短一句引用了 EarthBound。译者保留了这个典故，采用 EarthBound 日语版对应的台词。不过，那句日语更不起眼，典故也就更容易在翻译中失落。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09260923,
+          0.82753571,
+          0.7006881,
+          0.89986429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0135-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.09260923,
+          0.82753571,
+          0.7006881,
+          0.89986429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0135-b016",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64431149,
+          0.93367857,
+          0.70815453,
+          0.94407143
+        ],
+        "mask_bbox": [
+          0.64298185,
+          0.93296429,
+          0.70948416,
+          0.94514286
+        ],
+        "line_ids": [
+          55
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64431149,
+          0.93225,
+          0.70815453,
+          0.95025
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9502500000000002,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64431149,
+          0.93225,
+          0.70815453,
+          0.95025
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4d41a1e49b968b3a7a6e1f4115f55129f7f296d0ec93bb04b2e3e625689ff0cb"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          36,
+          40,
+          54
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      90.55,
+      685.07
+    ],
+    "text_runs": [
+      {
+        "id": "p0135-b003",
+        "blocks": [
+          "p0135-b003",
+          "p0135-b004",
+          "p0135-b005",
+          "p0135-b006",
+          "p0135-b007",
+          "p0135-b008",
+          "p0135-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 799.6
+      },
+      {
+        "id": "p0135-b012",
+        "blocks": [
+          "p0135-b012",
+          "p0135-b013",
+          "p0135-b015"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

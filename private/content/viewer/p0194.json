@@ -1,0 +1,1003 @@
+{
+  "schema_version": 3,
+  "pdf_page": 194,
+  "printed_page": "194",
+  "title": "热狗的缩写",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    982.248521,
+    1400
+  ],
+  "physical_size_pt": [
+    498.0,
+    709.8
+  ],
+  "image_url": "/assets/p0194.jpg",
+  "image_sha256": "99a2fc8b1e7a6ba85dff1dd6745a6f3a7bc0f244a320b752a5c3bd0ef3b72db3",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0194/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0194-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Frankly Speaking",
+        "raw": "Frankly Speaking",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29451813,
+          0.05823571,
+          0.47224301,
+          0.07176429
+        ],
+        "mask_bbox": [
+          0.29319464,
+          0.05752143,
+          0.47356651,
+          0.07283571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "热狗的缩写",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29370367,
+          0.048,
+          0.89525205,
+          0.07214286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29370367,
+          0.048,
+          0.89525205,
+          0.07214286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 105.0
+    },
+    {
+      "id": "p0194-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Should've replaced ~ the hot dogs with jelly doughnuts",
+        "raw": "Should've replaced ~\nthe hot dogs with\njelly doughnuts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14825169,
+          0.08740714,
+          0.28146645,
+          0.13037857
+        ],
+        "mask_bbox": [
+          0.14692819,
+          0.08669286,
+          0.28278994,
+          0.13145
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "真该把热狗换成果酱甜甜圈。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11707831,
+          0.08597857,
+          0.28146645,
+          0.13395
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6415500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11707831,
+          0.08597857,
+          0.28146645,
+          0.13395
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans runs a hot dog stand in Hotland. If the player buys enough hot dogs, Sans invents new replacements for the word \"hot dog\". Because these silly name variations play with English punctuation and spelling, the translator tweaked them to work smoothly in Japanese:",
+        "raw": "Sans runs a hot dog stand in Hotland. If the player buys enough hot dogs, Sans\ninvents new replacements for the word \"hot dog\". Because these silly name\nvariations play with English punctuation and spelling, the translator tweaked\nthem to work smoothly in Japanese:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29344916,
+          0.26134286,
+          0.89525205,
+          0.33000714
+        ],
+        "mask_bbox": [
+          0.29141301,
+          0.26062857,
+          0.89728819,
+          0.33107857
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Sans 在热域经营热狗摊。玩家买得够多，他就会不断为“hot dog”（热狗）发明新叫法。这些傻乎乎的名字玩的是英语标点和拼写，所以译者做了调整，让它们在日语里也说得通：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29370367,
+          0.25991429,
+          0.89525205,
+          0.33357857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.34,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29370367,
+          0.25991429,
+          0.89525205,
+          0.33357857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "Original English Joke",
+        "raw": "Original English Joke",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31303687,
+          0.35837143,
+          0.48235247,
+          0.37077143
+        ],
+        "mask_bbox": [
+          0.31171337,
+          0.35765714,
+          0.48367596,
+          0.37184286
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "英语原梗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31303687,
+          0.35694286,
+          0.59641729,
+          0.37494286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.37351428857142854,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.31303687,
+          0.35694286,
+          0.59641729,
+          0.37494286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Approximate Japanese Localization",
+        "raw": "Approximate Japanese Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61881488,
+          0.35837143,
+          0.88702602,
+          0.37077143
+        ],
+        "mask_bbox": [
+          0.61749139,
+          0.35765714,
+          0.88834952,
+          0.37184286
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "日版本地化大意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61881488,
+          0.35694286,
+          0.88710747,
+          0.37494286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.37351428857142854,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.61881488,
+          0.35694286,
+          0.88710747,
+          0.37494286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "here's your 'dog. yeah, 'dog. apostrophe-dog. it's short for hot-dog.",
+        "raw": "here's your 'dog. yeah, 'dog.\napostrophe-dog. it's short for hot-dog.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31359681,
+          0.39205714,
+          0.58088151,
+          0.41659286
+        ],
+        "mask_bbox": [
+          0.31227331,
+          0.39134286,
+          0.582205,
+          0.41766429
+        ],
+        "line_ids": [
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "给，你的 ’dog。没错，’dog。撇号加 dog。这是 hot-dog的缩写。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31356626,
+          0.38642857,
+          0.59251807,
+          0.42571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31356626,
+          0.38642857,
+          0.59251807,
+          0.42571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "hotdog-table-left-row-1"
+    },
+    {
+      "id": "p0194-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "here's your dog. that's right, \"dog\". it's my abbreviation for \"hot dog\".",
+        "raw": "here's your dog. that's right, \"dog\".\nit's my abbreviation for \"hot dog\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62042343,
+          0.39205714,
+          0.87449355,
+          0.41659286
+        ],
+        "mask_bbox": [
+          0.61909994,
+          0.39134286,
+          0.87581705,
+          0.41766429
+        ],
+        "line_ids": [
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "给，你的 dog。没错，“dog”，这是我给“hot dog”起的缩写。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61898795,
+          0.38642857,
+          0.89692169,
+          0.42571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.61898795,
+          0.38642857,
+          0.89692169,
+          0.42571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "hotdog-table-right-row-1"
+    },
+    {
+      "id": "p0194-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "another h'dog? here you go ...",
+        "raw": "another h'dog? here you go ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31359681,
+          0.44142143,
+          0.52572235,
+          0.45142143
+        ],
+        "mask_bbox": [
+          0.31227331,
+          0.44070714,
+          0.52704584,
+          0.45249286
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "还要个 h’dog？给你……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31359681,
+          0.43999286,
+          0.59641729,
+          0.45799286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31359681,
+          0.43999286,
+          0.59641729,
+          0.45799286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "another hodog? you got it.",
+        "raw": "another hodog? you got it.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61959879,
+          0.44142143,
+          0.81370446,
+          0.45142143
+        ],
+        "mask_bbox": [
+          0.6182753,
+          0.44070714,
+          0.81502795,
+          0.45249286
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "还要个 hodog？没问题。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61959879,
+          0.43999286,
+          0.88710747,
+          0.45799286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61959879,
+          0.43999286,
+          0.88710747,
+          0.45799286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "cool. here's that \"dog. apostrophe- apostrophe dog. it's short for apostrophe-dog.",
+        "raw": "cool. here's that \"dog. apostrophe-\napostrophe dog. it's short for\napostrophe-dog.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31357645,
+          0.47490714,
+          0.56751422,
+          0.51365
+        ],
+        "mask_bbox": [
+          0.31225295,
+          0.47419286,
+          0.56883771,
+          0.51472143
+        ],
+        "line_ids": [
+          23,
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "好，给你的 ’’dog。撇号—撇号 dog。是“撇号 dog”的缩写。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31357645,
+          0.47347857,
+          0.59641729,
+          0.51722143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31357645,
+          0.47347857,
+          0.59641729,
+          0.51722143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "want another D.O.G.? you got it. that's right. D.O.G. they're initials. they stand for \"dog\".",
+        "raw": "want another D.O.G.? you got it.\nthat's right. D.O.G. they're initials.\nthey stand for \"dog\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61920175,
+          0.47490714,
+          0.8627959,
+          0.51365
+        ],
+        "mask_bbox": [
+          0.61787825,
+          0.47419286,
+          0.8641194,
+          0.51472143
+        ],
+        "line_ids": [
+          24,
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "还要个 D.O.G.？没问题。对，D.O.G.，首字母缩写。全称是“dog”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61920175,
+          0.47347857,
+          0.88710747,
+          0.51722143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61920175,
+          0.47347857,
+          0.88710747,
+          0.51722143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "During the game’s localization process, Toby often wrote notes to himself to later share with the localization team. In one such note, Toby came up with an idea for a comical \"hot dog\" abbreviation in Japanese: ットdog (tto dog). Essentially, the \"ho\" part of \"hot dog\" would be dropped, and the word \"dog\" would be left in English.",
+        "raw": "During the game's localization process, Toby often wrote notes to himself to\nlater share with the localization team. In one such note, Toby came up with\nrd\nan idea for a comical \"hot dog\" abbreviation in Japanese: \"/\n0 g (tto dog).\nEssentially, the \"ho\" part of\"hot dog\" would be dropped, and the word \"dog\"\nwould be left in English.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29395819,
+          0.54672143,
+          0.8878303,
+          0.63195714
+        ],
+        "mask_bbox": [
+          0.29141301,
+          0.54600714,
+          0.89728819,
+          0.63302857
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "本地化期间，Toby 经常给自己写笔记，准备之后分享给团队。其中一条设想了日语里一个滑稽的“热狗”缩写：「ットdog」（tto dog）。也就是删掉 hot dog 开头的“ho”，而 dog 仍保留英语。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 60,
+            "end": 67,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29370367,
+          0.54529286,
+          0.89525205,
+          0.63552857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6403357128571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29370367,
+          0.54529286,
+          0.89525205,
+          0.63552857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b013",
+      "kind": "aside",
+      "source": {
+        "text": "Toby's private notes ~ included a handful of localization ideas he had considered but never shared with anyone",
+        "raw": "Toby's private notes ~\nincluded a handful of\nlocalization ideas he had\nconsidered but never\nshared with anyone",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11347434,
+          0.64869286,
+          0.28387928,
+          0.72142143
+        ],
+        "mask_bbox": [
+          0.11215084,
+          0.64797857,
+          0.28520277,
+          0.72249286
+        ],
+        "line_ids": [
+          37,
+          38,
+          40,
+          42,
+          44
+        ]
+      },
+      "translation": {
+        "text": "Toby 的私人笔记里，有几条他考虑过却从未向别人提起的本地化点子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11347434,
+          0.64726429,
+          0.28387928,
+          0.72499286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11347434,
+          0.64726429,
+          0.28387928,
+          0.72499286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0194-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "The idea behind Toby's new \"hot dog\" word was quite clever - the consonant extending character \"/ almost never appears at the beginning of a Japanese word, and the decision to keep \"dog\" in English makes the Japanese abbreviation even sillier. Although he never pitched this suggestion to the localization team, it's another clear sign that Toby was actively involved in the localization process of his own game.",
+        "raw": "The idea behind Toby's new \"hot\ndog\" word was quite clever - the\nconsonant extending character \"/\nalmost never appears at the beginning\nof a Japanese word, and the decision\nto keep \"dog\" in English makes the\nJapanese abbreviation even sillier.\nAlthough he never pitched this\nsuggestion to the localization team,\nit's another clear sign that Toby was\nactively involved in the localization\nprocess of his own game.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61249265,
+          0.64747857,
+          0.90820193,
+          0.86222857
+        ],
+        "mask_bbox": [
+          0.61116916,
+          0.64676429,
+          0.90952542,
+          0.8633
+        ],
+        "line_ids": [
+          36,
+          39,
+          41,
+          43,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "Toby 这个新“热狗”词的想法很巧妙：表示辅音延长的「ッ」几乎不会出现在日语词开头，而 dog 保留英语又让这个缩写更傻气。虽然他从未向本地化团队提出这个建议，但它再次清楚表明，他一直在积极参与自己游戏的本地化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61249265,
+          0.64605,
+          0.90820193,
+          0.8658
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61249265,
+          0.64605,
+          0.90820193,
+          0.8658
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c79850b88cb5516cc9e0381204ceca0eb63990dceb7149ffbf8f340a52ee29b3"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.49,
+      879.36
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

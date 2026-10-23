@@ -1,0 +1,1158 @@
+{
+  "schema_version": 3,
+  "pdf_page": 206,
+  "printed_page": "206",
+  "title": "黄色的机关",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.281095+00:00",
+  "reference_size": [
+    985.668304,
+    1400
+  ],
+  "physical_size_pt": [
+    498.72,
+    708.36
+  ],
+  "image_url": "/assets/p0206.jpg",
+  "image_sha256": "77cca2d5f3a755d56f72eaa0ecdae2a17bbc08217b08d4b9ca0e77e2b143c69f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0206/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0206-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Yellow Front",
+        "raw": "Yellow Front",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28828156,
+          0.06085714,
+          0.41996887,
+          0.07469286
+        ],
+        "mask_bbox": [
+          0.28696266,
+          0.06014286,
+          0.42128777,
+          0.07576429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "黄色的机关",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.05269286,
+          0.90112464,
+          0.07683572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07683571714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.05269286,
+          0.90112464,
+          0.07683572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "During another encounter with Mettaton, the unique battle option \"Yell\" doesn't seem to do anything. Eventually, though, a yellow button appears on the main character's cell phone. The useless \"Yell\" option then quietly becomes the \"Yellow\" option.",
+        "raw": "During another encounter with Mettaton, the unique battle option \"Yell\"\ndoesn't seem to do anything. Eventually, though, a yellow button appears on\nthe main character's cell phone. The useless \"Yell\" option then quietly becomes\nthe \"Yellow\" option.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29009759,
+          0.08988571,
+          0.90112464,
+          0.1565
+        ],
+        "mask_bbox": [
+          0.28541042,
+          0.08917143,
+          0.90315372,
+          0.15757143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "再一次遭遇 Mettaton 时，特殊战斗指令“Yell”（大喊）似乎毫无作用。后来，主角手机上出现黄色按钮，原本无用的“Yell”便悄悄变成了“Yellow”（黄色）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.08845714,
+          0.90112464,
+          0.16007143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.08845714,
+          0.90112464,
+          0.16007143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b003",
+      "kind": "aside",
+      "source": {
+        "text": "One of the toughest • ch a ll e ng e s i n localization i s h a n d lin g important wordplay that must adhere to specific, scene-based restrictions",
+        "raw": "One of the toughest •\nch a ll e ng e s i n\nlocalization i s h a n d lin g\nimportant wordplay\nthat must adhere to\nspecific, scene-based\nrestrictions",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12099405,
+          0.17411429,
+          0.27891736,
+          0.27767143
+        ],
+        "mask_bbox": [
+          0.11967515,
+          0.1734,
+          0.28023626,
+          0.27874286
+        ],
+        "line_ids": [
+          7,
+          11,
+          16,
+          24,
+          27,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "重要的文字游戏又必须符合场景的特定限制，是本地化最难应付的挑战之一。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11667211,
+          0.17268571,
+          0.27891736,
+          0.28124286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3868571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11667211,
+          0.17268571,
+          0.27891736,
+          0.28124286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this scene plays with how \"yell\" and \"yellow\" are spelled in English, the wordplay would be lost a straightforward translation into Japanese. What's more, this scene requires the mention of a yellow button, so any new wordplay would need to revolve around \"yellow\" or \"button\" in some way.",
+        "raw": "Because this scene plays with how \"yell\" and \"yellow\" are spelled in English,\nthe wordplay would be lost a straightforward translation into Japanese. What's\nmore, this scene requires the mention of a yellow button, so any new wordplay\nwould need to revolve around \"yellow\" or \"button\" in some way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2910614,
+          0.31010714,
+          0.89905498,
+          0.37842143
+        ],
+        "mask_bbox": [
+          0.28541042,
+          0.30939286,
+          0.90315372,
+          0.37949286
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "这场戏利用了英语 yell 与 yellow 拼写相近的特点，直接译成日语就会失去趣味。而场景又必须提到黄色按钮，因此新文字游戏必须围绕“黄色”或“按钮”来做。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.30867857,
+          0.90112464,
+          0.38199286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.38785714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.30867857,
+          0.90112464,
+          0.38199286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Getting the \"yell\" • and \"yellow\" joke to work in Japanese took creativity to figure out",
+        "raw": "Getting the \"yell\" •\nand \"yellow\" joke\nto work in Japanese\ntook creativity to\nfigure out",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14093991,
+          0.394,
+          0.28035801,
+          0.46707143
+        ],
+        "mask_bbox": [
+          0.13962101,
+          0.39328571,
+          0.28167691,
+          0.46814286
+        ],
+        "line_ids": [
+          40,
+          43,
+          45,
+          46,
+          48
+        ]
+      },
+      "translation": {
+        "text": "要让 yell／yellow 的笑话在日语里成立，需要发挥创意。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11667211,
+          0.39257143,
+          0.28035801,
+          0.47064286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5897928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11667211,
+          0.39257143,
+          0.28035801,
+          0.47064286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "To preserve this scene's logic, the translator localized \"Yell\" as ki iroi koe o ageru, which literally means \"to let out a yellow voice\" but functionally means \"to cry out in a shrill voice\". The translator then localized \"Yellow\" as ki iroi botan (\"yellow button\"). So although it uses slightly different wording, the Japanese scene closely parallels the English script in tone and intent.",
+        "raw": "To preserve this scene's logic, the translator localized \"Yell\" as ki iroi koe o\nageru, which literally means \"to let out a yellow voice\" but functionally means\n\"to cry out in a shrill voice\". The translator then localized \"Yellow\" as ki iroi\nbotan (\"yellow button\"). So although it uses slightly different wording, the\nJapanese scene closely parallels the English script in tone and intent.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2874395,
+          0.45613571,
+          0.89208509,
+          0.54207143
+        ],
+        "mask_bbox": [
+          0.28541042,
+          0.45542143,
+          0.90315372,
+          0.54314286
+        ],
+        "line_ids": [
+          47,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "为了保住场景逻辑，译者把“Yell”译成 ki iroi koe o ageru，字面是“发出黄色的声音”，实际指“尖声喊叫”；再把“Yellow”译成 ki iroi botan（黄色按钮）。虽然措辞略有变化，日版的语气和用意却与英文十分接近。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 21,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 90,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.45470714,
+          0.90112464,
+          0.54564286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5588642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.45470714,
+          0.90112464,
+          0.54564286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Getting Meta",
+        "raw": "Getting Meta",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29278612,
+          0.56600714,
+          0.43117953,
+          0.57984286
+        ],
+        "mask_bbox": [
+          0.29146722,
+          0.56529286,
+          0.43249844,
+          0.58091429
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "从 MTT 到 META",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.55657143,
+          0.90112464,
+          0.58071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5807142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.55657143,
+          0.90112464,
+          0.58071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 817.0
+    },
+    {
+      "id": "p0206-b008",
+      "kind": "aside",
+      "source": {
+        "text": "As we've seen, it's not • too rare for different languages to use different abbreviations for the same thing",
+        "raw": "As we've seen, it's not •\ntoo rare for different\nlanguages to use\ndifferent abbreviations\nfor the same thing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12498119,
+          0.59693571,
+          0.28132182,
+          0.669
+        ],
+        "mask_bbox": [
+          0.12366229,
+          0.59622143,
+          0.28264072,
+          0.67007143
+        ],
+        "line_ids": [
+          54,
+          55,
+          56,
+          57,
+          63
+        ]
+      },
+      "translation": {
+        "text": "正如前面所见，不同语言为同一事物采用不同缩写，并不罕见。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12498119,
+          0.59550714,
+          0.28132182,
+          0.67257143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.12498119,
+          0.59550714,
+          0.28132182,
+          0.67257143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Throughout the English version of Undertale, the name \"Mettaton\" is abbreviated as \"MTT\". The localizers were concerned that this abbreviation's meaning might be lost in translation, so the team used a different abbreviation in the Japanese script: \"META\". Some examples include:",
+        "raw": "Throughout the English version of Undertale, the name \"Mettaton\" is\nabbreviated as \"MTT\". The localizers were concerned that this abbreviation's\nmeaning might be lost in translation, so the team used a different abbreviation\nin the Japanese script: \"META\". Some examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29243103,
+          0.72345714,
+          0.89296774,
+          0.79143571
+        ],
+        "mask_bbox": [
+          0.28541042,
+          0.72274286,
+          0.90315372,
+          0.79250714
+        ],
+        "line_ids": [
+          71,
+          72,
+          73,
+          74
+        ]
+      },
+      "translation": {
+        "text": "英文版《Undertale》常把“Mettaton”缩写为“MTT”。本地化团队担心日本玩家看不懂这个缩写，因此改用了“META”。例如：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.72202857,
+          0.90112464,
+          0.79500714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.72202857,
+          0.90112464,
+          0.79500714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0206-b010",
+      "kind": "quote",
+      "source": {
+        "text": "\"MTT News\" became \"META News\"",
+        "raw": "\"MTT News\" became \"META News\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33845057,
+          0.80679286,
+          0.62427695,
+          0.81921429
+        ],
+        "mask_bbox": [
+          0.30162277,
+          0.80607857,
+          0.62559585,
+          0.82028571
+        ],
+        "line_ids": [
+          75
+        ]
+      },
+      "translation": {
+        "text": "“MTT News”变成“META News”（新闻）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33845057,
+          0.80536429,
+          0.90112464,
+          0.82595357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0206-b009",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33845057,
+          0.80536429,
+          0.90112464,
+          0.82595357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0206-b011",
+      "kind": "quote",
+      "source": {
+        "text": "\"MTT-Brand\" became \"META-Brand\"",
+        "raw": "\"MTT-Brand\" became \"META-Brand\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33845057,
+          0.8251,
+          0.63543689,
+          0.83752857
+        ],
+        "mask_bbox": [
+          0.30162277,
+          0.82438571,
+          0.63675579,
+          0.8386
+        ],
+        "line_ids": [
+          76
+        ]
+      },
+      "translation": {
+        "text": "“MTT-Brand”变成“META-Brand”（品牌）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33845057,
+          0.82367143,
+          0.90112464,
+          0.84426071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0206-b010",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33845057,
+          0.82367143,
+          0.90112464,
+          0.84426071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0206-b012",
+      "kind": "quote",
+      "source": {
+        "text": "\"MTT Resort\" became \"META Hotel\"",
+        "raw": "\"MTT Resort\" became \"META Hotel\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33845057,
+          0.8434,
+          0.63246429,
+          0.85582143
+        ],
+        "mask_bbox": [
+          0.30162277,
+          0.84268571,
+          0.63378319,
+          0.85689286
+        ],
+        "line_ids": [
+          77
+        ]
+      },
+      "translation": {
+        "text": "“MTT Resort”（MTT 度假村）变成“META Hotel”（META 酒店）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33845057,
+          0.84197143,
+          0.90112464,
+          0.86256071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0206-b011",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33845057,
+          0.84197143,
+          0.90112464,
+          0.86256071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0206-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "This change from \"MTT\" to \"META\" wasn't applied everywhere, however - \"MTT\" still appears in several graphical assets in the Japanese version.",
+        "raw": "This change from \"MTT\" to \"META\" wasn't applied everywhere, however -\n\"MTT\" still appears in several graphical assets in the Japanese version.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28935698,
+          0.87117857,
+          0.87526402,
+          0.90257857
+        ],
+        "mask_bbox": [
+          0.28541042,
+          0.87046429,
+          0.90315372,
+          0.90365
+        ],
+        "line_ids": [
+          78,
+          79
+        ]
+      },
+      "translation": {
+        "text": "不过，MTT 并没有处处改成 META；日版的一些图像素材仍保留着“MTT”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29009759,
+          0.86975,
+          0.90112464,
+          0.90615
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0206-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29009759,
+          0.86975,
+          0.90112464,
+          0.90615
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4f739f8440968039d3f02992ddde43db3d4e03fb16c1588ba935c972e8756dea"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          69
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          80
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      285.94,
+      888.21
+    ],
+    "text_runs": [
+      {
+        "id": "p0206-b009",
+        "blocks": [
+          "p0206-b009",
+          "p0206-b010",
+          "p0206-b011",
+          "p0206-b012",
+          "p0206-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

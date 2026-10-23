@@ -1,0 +1,1481 @@
+{
+  "schema_version": 3,
+  "pdf_page": 211,
+  "printed_page": "211",
+  "title": "另解敲门笑话",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.779904+00:00",
+  "reference_size": [
+    980.51817,
+    1400
+  ],
+  "physical_size_pt": [
+    499.56,
+    713.28
+  ],
+  "image_url": "/assets/p0211.jpg",
+  "image_sha256": "e4e948cc3f44e7623c9e5538c8e4167b2674140e19202f226e9eecb1a5febb2f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0211/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0211-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Knockabout Solution",
+        "raw": "Knockabout Solution",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09083972,
+          0.06312857,
+          0.30935684,
+          0.07687143
+        ],
+        "mask_bbox": [
+          0.08951389,
+          0.06241429,
+          0.31068267,
+          0.07794286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "另解敲门笑话",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09111509,
+          0.053,
+          0.69772292,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09111509,
+          0.053,
+          0.69772292,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112
+    },
+    {
+      "id": "p0211-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In my experience, pronunciation-based jokes are almost always too slippery to be translatable between languages",
+        "raw": "In my experience,\npronunciation-based\njokes are almost\nalways too slippery\nto be translatable\nbetween languages",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72769687,
+          0.09303571,
+          0.85676128,
+          0.17904286
+        ],
+        "mask_bbox": [
+          0.72637104,
+          0.09232143,
+          0.85808711,
+          0.18011429
+        ],
+        "line_ids": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "以我的经验，靠发音构成的笑话几乎总是太难捉摸，无法直接跨语言翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72627925,
+          0.09160714,
+          0.87314037,
+          0.18261429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6151642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72627925,
+          0.09160714,
+          0.87314037,
+          0.18261429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans continues to discuss his unusual experience at the giant door. This time, the person behind the door makes a knock-knock joke. Naturally, the translator had to rephrase this scene in Japanese too:",
+        "raw": "Sans continues to discuss his unusual experience at the giant door. This time,\nthe person behind the door makes a knock-knock joke. Naturally, the translator\nhad to rephrase this scene in Japanese too:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09077853,
+          0.25468571,
+          0.69772292,
+          0.3035
+        ],
+        "mask_bbox": [
+          0.08873879,
+          0.25397143,
+          0.69976266,
+          0.30457143
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Sans 继续讲述在大门前的奇遇。这回，门后的人讲了个敲门笑话，译者自然也必须改写：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09111509,
+          0.25325714,
+          0.69772292,
+          0.30707143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.31285714285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09111509,
+          0.25325714,
+          0.69772292,
+          0.30707143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11013564,
+          0.33397143,
+          0.20720677,
+          0.34687143
+        ],
+        "mask_bbox": [
+          0.10880981,
+          0.33325714,
+          0.2085326,
+          0.34794286
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "英文版",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11013564,
+          0.33254286,
+          0.38812131,
+          0.35054286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.34911428857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.11013564,
+          0.33254286,
+          0.38812131,
+          0.35054286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41404638,
+          0.33397143,
+          0.67511243,
+          0.34687143
+        ],
+        "mask_bbox": [
+          0.41272055,
+          0.33325714,
+          0.67643826,
+          0.34794286
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "日文版大意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41404638,
+          0.33254286,
+          0.68956397,
+          0.35054286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.34911428857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.41404638,
+          0.33254286,
+          0.68956397,
+          0.35054286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "then, after a dozen of 'em, SHE knocks and says ..",
+        "raw": "then, after a dozen of 'em, SHE\nknocks and says ..",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10945233,
+          0.37264286,
+          0.33440482,
+          0.3974
+        ],
+        "mask_bbox": [
+          0.1081265,
+          0.37192857,
+          0.33573065,
+          0.39847143
+        ],
+        "line_ids": [
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "讲了十几个后，换她敲门说……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10945233,
+          0.37121429,
+          0.38812131,
+          0.40097143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40406428142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10945233,
+          0.37121429,
+          0.38812131,
+          0.40097143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "then, the woman says",
+        "raw": "then, the woman says",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41452572,
+          0.37264286,
+          0.5703005,
+          0.3826
+        ],
+        "mask_bbox": [
+          0.41319989,
+          0.37192857,
+          0.57162633,
+          0.38367143
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "然后，那女人说……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41452572,
+          0.37121429,
+          0.68956397,
+          0.38921429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40372857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41452572,
+          0.37121429,
+          0.68956397,
+          0.38921429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"knock knock!\"",
+        "raw": "\"knock knock!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10549524,
+          0.40763571,
+          0.21384611,
+          0.41759286
+        ],
+        "mask_bbox": [
+          0.10416941,
+          0.40692143,
+          0.21517194,
+          0.41866429
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "“咚咚！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10549524,
+          0.40620714,
+          0.38812131,
+          0.42420714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42425714142857146,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10549524,
+          0.40620714,
+          0.38812131,
+          0.42420714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"can I tell a joke too?\"",
+        "raw": "\"can I tell a joke too?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41055843,
+          0.4073,
+          0.56599665,
+          0.41725714
+        ],
+        "mask_bbox": [
+          0.4092326,
+          0.40658571,
+          0.56732248,
+          0.41832857
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "“我也能讲个笑话吗？”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41055843,
+          0.40587143,
+          0.68956397,
+          0.42387143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4239214314285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41055843,
+          0.40587143,
+          0.68956397,
+          0.42387143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "i say \"whos there?\"",
+        "raw": "i say \"whos there?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11069657,
+          0.42782857,
+          0.2466655,
+          0.43777857
+        ],
+        "mask_bbox": [
+          0.10937074,
+          0.42711429,
+          0.24799132,
+          0.43885
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "我问：“谁呀？”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11069657,
+          0.4264,
+          0.38812131,
+          0.4444
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.44477857142857147,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11069657,
+          0.4264,
+          0.38812131,
+          0.4444
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"sure!\" i say.",
+        "raw": "\"sure!\" i say.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41055843,
+          0.42749286,
+          0.49984795,
+          0.43744286
+        ],
+        "mask_bbox": [
+          0.4092326,
+          0.42677857,
+          0.50117378,
+          0.43851429
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "“当然！”我说。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41055843,
+          0.42606429,
+          0.68956397,
+          0.44406429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.44445714142857146,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41055843,
+          0.42606429,
+          0.68956397,
+          0.44406429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"old lady!\"",
+        "raw": "\"old lady!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10551564,
+          0.44835,
+          0.18086355,
+          0.45830714
+        ],
+        "mask_bbox": [
+          0.10418981,
+          0.44763571,
+          0.18218938,
+          0.45937857
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "“old lady（老太太）！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10551564,
+          0.44692143,
+          0.38812131,
+          0.46492143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47977143142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10551564,
+          0.44692143,
+          0.38812131,
+          0.46492143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"say, doesn't it seem strange?\" she asks.",
+        "raw": "\"say, doesn't it seem strange?\" she\nasks.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41057883,
+          0.44802857,
+          0.6573871,
+          0.47278571
+        ],
+        "mask_bbox": [
+          0.409253,
+          0.44731429,
+          0.65871293,
+          0.47385714
+        ],
+        "line_ids": [
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "“你说，奇不奇怪？”她问。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41057883,
+          0.4466,
+          0.68956397,
+          0.47635714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47943571142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41057883,
+          0.4466,
+          0.68956397,
+          0.47635714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"old lady who?\"",
+        "raw": "\"old lady who?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10599498,
+          0.48334286,
+          0.21885367,
+          0.4933
+        ],
+        "mask_bbox": [
+          0.10466915,
+          0.48262857,
+          0.2201795,
+          0.49437143
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "“old lady who（哪位老太太）？”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10599498,
+          0.48191429,
+          0.38812131,
+          0.49991429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4993000014285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10599498,
+          0.48191429,
+          0.38812131,
+          0.49991429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"what do you mean?\" i reply.",
+        "raw": "\"what do you mean?\" i reply.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41105817,
+          0.48300714,
+          0.61815275,
+          0.49296429
+        ],
+        "mask_bbox": [
+          0.40973234,
+          0.48229286,
+          0.61947858,
+          0.49403571
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "“怎么说？”我问。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41105817,
+          0.48157857,
+          0.68956397,
+          0.49957857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4993000014285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41105817,
+          0.48157857,
+          0.68956397,
+          0.49957857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"oh! I did not know you could yodel!\"",
+        "raw": "\"oh! I did not know you could yodel!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10599498,
+          0.50287143,
+          0.37238474,
+          0.51282857
+        ],
+        "mask_bbox": [
+          0.10466915,
+          0.50215714,
+          0.37371057,
+          0.5139
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "“噢！没想到你会唱约德尔！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10599498,
+          0.50144286,
+          0.38812131,
+          0.51944286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10599498,
+          0.50144286,
+          0.38812131,
+          0.51944286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"we're talking so close to each other, but we're so 'toku' away.\"",
+        "raw": "\"we're talking so close to each other,\nbut we're so 'toku' away.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41099697,
+          0.50287143,
+          0.67379679,
+          0.52775
+        ],
+        "mask_bbox": [
+          0.40967114,
+          0.50215714,
+          0.67512262,
+          0.52882143
+        ],
+        "line_ids": [
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "“我们靠这么近说话，却还是这么 tōku（远／聊天）。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41099697,
+          0.50142857,
+          0.68956397,
+          0.53714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5371428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.41099697,
+          0.50142857,
+          0.68956397,
+          0.53714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "toku-table-right-last-line"
+    },
+    {
+      "id": "p0211-b018",
+      "kind": "paragraph",
+      "source": {
+        "text": "This dialogue contains two main points of interest. First, astute players will realize that the \"old lady\" in Sans' story is actually Torie!, although the two have yet to meet in person.",
+        "raw": "This dialogue contains two main points of interest. First, astute players will\nrealize that the \"old lady\" in Sans' story is actually Torie!, although the two\nhave yet to meet in person.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09111509,
+          0.55717143,
+          0.66943176,
+          0.60565714
+        ],
+        "mask_bbox": [
+          0.08873879,
+          0.55645714,
+          0.69976266,
+          0.60672857
+        ],
+        "line_ids": [
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "这段对话有两个看点。首先，细心的玩家会意识到，Sans 故事里的“老太太”其实是 Toriel，尽管两人还没真正见过面。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09111509,
+          0.55574286,
+          0.69772292,
+          0.60922857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6132857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09111509,
+          0.55574286,
+          0.69772292,
+          0.60922857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b019",
+      "kind": "paragraph",
+      "source": {
+        "text": "Second, and more importantly, Toriel's knock-knock joke plays with how the phrase \"old lady who\" sounds like the shout that yodelers make, \"yodel-ay-ee-oo\". But again, because knock-knock jokes don't exist in Japanese, and because this joke plays with English pronunciation, a literal translation of the scene would lose all meaning.",
+        "raw": "Second, and more importantly,\nToriel's knock-knock joke plays\nwith how the phrase \"old lady who\"\nsounds like the shout that yodelers\nmake, \"yodel-ay-ee-oo\". But again,\nbecause knock-knock jokes don't exist\nin Japanese, and because this joke\nplays with English pronunciation, a\nliteral translation of the scene would\nlose all meaning.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09160463,
+          0.62042857,
+          0.38492912,
+          0.79879286
+        ],
+        "mask_bbox": [
+          0.08873879,
+          0.61971429,
+          0.38625495,
+          0.79986429
+        ],
+        "line_ids": [
+          35,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "其次，更重要的是，Toriel 的敲门笑话利用了“old lady who”听起来像约德尔唱法中的“yodel-ay-ee-oo”。但日本没有敲门笑话，笑点又依赖英语发音，因此直译会完全失去意义。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09077853,
+          0.619,
+          0.38492912,
+          0.80236429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8061000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09077853,
+          0.619,
+          0.38492912,
+          0.80236429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b020",
+      "kind": "aside",
+      "source": {
+        "text": "Yodeling is a traditional form of singing that originated in rural regions of Europe. It involves quickly switching back and forth between super-high and super-low notes",
+        "raw": "Yodeling is a traditional\nform of singing that\noriginated in rural\nregions of Europe.\nIt involves quickly\nswitching back and forth\nbetween super-high and\nsuper-low notes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72927766,
+          0.62230714,
+          0.88291072,
+          0.74094286
+        ],
+        "mask_bbox": [
+          0.72795183,
+          0.62159286,
+          0.88423655,
+          0.74201429
+        ],
+        "line_ids": [
+          36,
+          37,
+          39,
+          41,
+          43,
+          45,
+          47,
+          49
+        ]
+      },
+      "translation": {
+        "text": "约德尔是源自欧洲乡村的传统唱法，需要在极高与极低的音之间快速切换。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72627925,
+          0.62087857,
+          0.88291072,
+          0.74451429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72627925,
+          0.62087857,
+          0.88291072,
+          0.74451429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b021",
+      "kind": "paragraph",
+      "source": {
+        "text": "To get around these linguistic and cultural barriers, the translator replaced the English knock-knock joke with a pun on the Japanese word toku, which can mean both \"far away\" and \"talk\". The result is a cheesy joke in Japanese that perfectly matches Toriel's character.",
+        "raw": "To get around these linguistic and cultural barriers, the translator replaced the\nEnglish knock-knock joke with a pun on the Japanese word toku, which can\nmean both \"far away\" and \"talk\". The result is a cheesy joke in Japanese that\nperfectly matches Toriel's character.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09208396,
+          0.81324286,
+          0.69569338,
+          0.88157857
+        ],
+        "mask_bbox": [
+          0.08873879,
+          0.81252857,
+          0.69976266,
+          0.88265
+        ],
+        "line_ids": [
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "为了绕过语言和文化障碍，译者把英语敲门笑话换成日语 tōku 的双关：它既可指“远”，也可指“聊天”（英语 talk 的借词）。这个日语冷笑话与 Toriel 的性格非常贴合。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09111509,
+          0.81181429,
+          0.69772292,
+          0.88515
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09111509,
+          0.81181429,
+          0.69772292,
+          0.88515
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0211-b022",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64587278,
+          0.93735714,
+          0.70463763,
+          0.94717143
+        ],
+        "mask_bbox": [
+          0.64454695,
+          0.93664286,
+          0.70596346,
+          0.94824286
+        ],
+        "line_ids": [
+          57
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64587278,
+          0.93592857,
+          0.70463763,
+          0.95392857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9539285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64587278,
+          0.93592857,
+          0.70463763,
+          0.95392857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f1967e3b402b02b26dcded8a818e1f48c828840899d53607ca7614b0f384d613"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      89.34,
+      684.13
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

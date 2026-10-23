@@ -1,0 +1,917 @@
+{
+  "schema_version": 3,
+  "pdf_page": 146,
+  "printed_page": "146",
+  "title": "蓝色爪印之谜",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.217207+00:00",
+  "reference_size": [
+    977.988166,
+    1400
+  ],
+  "physical_size_pt": [
+    495.84,
+    709.8
+  ],
+  "image_url": "/assets/p0146.jpg",
+  "image_sha256": "37cd13ef6c3bf7790e0f487fc68a4c37a746106473f1d4a79374807fc25af268",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0146/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0146-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Blue Collar Crime",
+        "raw": "Blue Collar Crime",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29482974,
+          0.06117857,
+          0.47515912,
+          0.07442143
+        ],
+        "mask_bbox": [
+          0.29350048,
+          0.06046429,
+          0.47648838,
+          0.07549286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "蓝色爪印之谜",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.05157143,
+          0.9114732,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.05157143,
+          0.9114732,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110.0
+    },
+    {
+      "id": "p0146-b002",
+      "kind": "aside",
+      "source": {
+        "text": "There's some argument ~ that \"pawprint\" should be a legitimate spelling given that \"fingerprint\" is okay. It looks like Toby is part of Team Pawprint and not Team Paw Print",
+        "raw": "There's some argument ~\nthat \"pawprint\"\nshould be a legitimate\nspelling given that\n\"fingerprint\" is okay. It\nlooks like Toby is part\nof Team Pawprint and\nnot Team Paw Print",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12044113,
+          0.09046429,
+          0.28269258,
+          0.20544286
+        ],
+        "mask_bbox": [
+          0.11911187,
+          0.08975,
+          0.28402184,
+          0.20651429
+        ],
+        "line_ids": [
+          2,
+          5,
+          12,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "有人认为，既然 fingerprint（指纹）可以连写，pawprint（爪印）也该是合法拼法。看来 Toby 属于“pawprint 派”，而不是“paw print 派”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11758833,
+          0.08903571,
+          0.28269258,
+          0.20901429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3849285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11758833,
+          0.08903571,
+          0.28269258,
+          0.20901429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The PlayStation 4 and PlayStation Vita versions of Undertale include a secret dog shrine. Donating money at the shrine will unlock various unusual decorations. One such decoration is a piece of white paper covered in blue pawprints.",
+        "raw": "The PlayStation 4 and PlayStation Vita versions of Undertale include a secret dog\nshrine. Donating money at the shrine will unlock various unusual decorations.\nOne such decoration is a piece of white paper covered in blue pawprints.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29364363,
+          0.23677143,
+          0.90660606,
+          0.28568571
+        ],
+        "mask_bbox": [
+          0.29159862,
+          0.23605714,
+          0.91351821,
+          0.28675714
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的 PlayStation 4 和 PlayStation Vita 版藏有狗神社，捐款可解锁各种古怪装饰，包括一张印满蓝色爪印的白纸。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.23534286,
+          0.9114732,
+          0.28925714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3841500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.23534286,
+          0.9114732,
+          0.28925714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, checking this piece of paper produces the message:",
+        "raw": "In English, checking this piece of paper produces the message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29465592,
+          0.30033571,
+          0.78134892,
+          0.31273571
+        ],
+        "mask_bbox": [
+          0.29159862,
+          0.29962143,
+          0.91351821,
+          0.31380714
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "英语版中，调查这张纸会显示：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.29890714,
+          0.9114732,
+          0.32105
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3841500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0146-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.29890714,
+          0.9114732,
+          0.32105
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b005",
+      "kind": "quote",
+      "source": {
+        "text": "(Huh!? Blueprints ... !?) (Literally. It's white paper, but covered in little blue pawprints ... ) (Wait ... Blue pawprints ... Could it be a clue!?)",
+        "raw": "(Huh!? Blueprints ... !?)\n(Literally. It's white paper, but covered in little blue pawprints ... )\n(Wait ... Blue pawprints ... Could it be a clue!?)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33991209,
+          0.32806429,
+          0.82111423,
+          0.37731429
+        ],
+        "mask_bbox": [
+          0.33858283,
+          0.32735,
+          0.82244349,
+          0.37838571
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "（咦！？Blueprints，蓝图……！？）\n（字面意思。这是张白纸，不过印满了蓝色小爪印……）\n（等等……蓝色爪印……难道是条线索！？）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33991209,
+          0.32663571,
+          0.9114732,
+          0.38088571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3841500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0146-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.33991209,
+          0.32663571,
+          0.9114732,
+          0.38088571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This line is a simple pun on the English word \"blueprints\", but it also contains a reference to Blue's Clues, an American educational television series intended for children. Each episode features a puzzle, and a dog named Blue marks clues with a blue pawprint. The viewer is then asked to locate these clues and use them to solve the puzzle.",
+        "raw": "This line is a simple pun on the\nEnglish word \"blueprints\", but it also\ncontains a reference to Blue's Clues,\nan American educational television\nseries intended for children. Each\nepisode features a puzzle, and a dog\nnamed Blue marks clues with a blue\npawprint. The viewer is then asked\nto locate these clues and use them to\nsolve the puzzle.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61505857,
+          0.39129286,
+          0.90324201,
+          0.56970714
+        ],
+        "mask_bbox": [
+          0.61372931,
+          0.39057857,
+          0.90457127,
+          0.57077857
+        ],
+        "line_ids": [
+          28,
+          31,
+          33,
+          35,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "这里既用 blueprints（蓝图／蓝色印记）开了个简单的玩笑，也引用了美国儿童教育节目 Blue’s Clues。每集节目都有一道谜题，名叫 Blue 的狗会用蓝色爪印标出线索，再请观众找出这些线索，解开谜题。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 46,
+            "end": 58,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61505857,
+          0.38986429,
+          0.90324201,
+          0.57327857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5782500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61505857,
+          0.38986429,
+          0.90324201,
+          0.57327857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b007",
+      "kind": "aside",
+      "source": {
+        "text": "The long-running Blue's ~ Clues series has an insanely popular TV show, books, computer games, and more",
+        "raw": "The long-running Blue's ~\nClues series has an\ninsanely popular TV\nshow, books, computer\ngames, and more",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11850859,
+          0.39207143,
+          0.28412409,
+          0.46647143
+        ],
+        "mask_bbox": [
+          0.11717933,
+          0.39135714,
+          0.28545335,
+          0.46754286
+        ],
+        "line_ids": [
+          29,
+          30,
+          32,
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "长寿系列 Blue’s Clues 不仅有极受欢迎的电视节目，还有图书、电脑游戏等作品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11758833,
+          0.39064286,
+          0.28412409,
+          0.47004286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11758833,
+          0.39064286,
+          0.28412409,
+          0.47004286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Both the \"blueprints\" joke and the Blue's Clues reference would be lost in a literal translation, so the translator adjusted things in the Japanese script:",
+        "raw": "Both the \"blueprints\" joke and the Blue's Clues reference would be lost in a\nliteral translation, so the translator adjusted things in the Japanese script:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29565797,
+          0.58539286,
+          0.87411078,
+          0.61602857
+        ],
+        "mask_bbox": [
+          0.29159862,
+          0.58467857,
+          0.91351821,
+          0.6171
+        ],
+        "line_ids": [
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "无论“蓝图”的玩笑还是 Blue’s Clues 的典故，直译都会丢失，所以译者调整了日文剧本：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.58396429,
+          0.9114732,
+          0.6196
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.58396429,
+          0.9114732,
+          0.6196
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b009",
+      "kind": "quote",
+      "source": {
+        "text": "(An important document...!?) (No, it's just ordinary piece ofp aper. It's covered with tiny paw prints.) ( ...P aw prints? Then, could they be ... dog thumbprints? Which would mean ... it's an important document after all!?) (. .. No. It really is just an ordinary piece ofp aper.)",
+        "raw": "(An important document...!?)\n(No, it's just ordinary piece ofp aper. It's covered with tiny paw prints.)\n( ...P aw prints? Then, could they be ... dog thumbprints? Which would mean ...\nit's an important document after all!?)\n(. .. No. It really is just an ordinary piece ofp aper.)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34087325,
+          0.63034286,
+          0.91004169,
+          0.71714286
+        ],
+        "mask_bbox": [
+          0.33954399,
+          0.62962857,
+          0.91137095,
+          0.71821429
+        ],
+        "line_ids": [
+          45,
+          46,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "（重要文件……！？）\n（不，只是普通的纸。上面印满了小爪印。）\n（……爪印？难道是……狗的手印？那岂不是……果然是重要文件！？）\n（……不，真的只是普通的纸。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34087325,
+          0.62891429,
+          0.9114732,
+          0.72071429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0146-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.34087325,
+          0.62891429,
+          0.9114732,
+          0.72071429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translator explained the idea behind this localization change in the translation spreadsheet. Basically, in Japan, it's more common to stamp an important document with a hanko (a personalized ink seal) than with a signature. But if a hanlw isn't available when filling out an important document, a thumbprint is usually an acceptable alternative.",
+        "raw": "The translator explained the idea behind this localization change in the\ntranslation spreadsheet. Basically, in Japan, it's more common to stamp\nan important document with a hanko (a personalized ink seal) than with a\nsignature. But if a hanlw isn't available when filling out an important document,\na thumbprint is usually an acceptable alternative.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29557617,
+          0.73178571,
+          0.9114732,
+          0.81789286
+        ],
+        "mask_bbox": [
+          0.29159862,
+          0.73107143,
+          0.91351821,
+          0.81896429
+        ],
+        "line_ids": [
+          51,
+          54,
+          56,
+          58,
+          60
+        ]
+      },
+      "translation": {
+        "text": "译者在翻译表格中解释了改动的思路：日本的重要文件通常盖 hanko（个人印章），而不只是签名。如果填写重要文件时手头没有印章，一般也可以用拇指印代替。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.73035714,
+          0.9114732,
+          0.82146429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0146-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.73035714,
+          0.9114732,
+          0.82146429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Personalized ink seals are commonly used to sign documents in Japan, although that trend seems to be changing lately",
+        "raw": "Personalized ink seals\nare commonly used\nto sign documents in\nJapan, although that\ntrend seems to be\nchanging lately",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13278279,
+          0.73288571,
+          0.26850018,
+          0.82185714
+        ],
+        "mask_bbox": [
+          0.13145353,
+          0.73217143,
+          0.26982944,
+          0.82292857
+        ],
+        "line_ids": [
+          52,
+          53,
+          55,
+          57,
+          59,
+          61
+        ]
+      },
+      "translation": {
+        "text": "日本签署文件时，常用个人印章。不过，近来这种习惯似乎正在改变。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11758833,
+          0.73145714,
+          0.26916481,
+          0.82542857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11758833,
+          0.73145714,
+          0.26916481,
+          0.82542857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0146-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the translator prioritized the core purpose of this text over the need to include a cultural reference. As a result, this scene probably won't hold as much meaning for Jap:rnese players as it holds for English-speaking players, but the scene will still make sense in Japanese.",
+        "raw": "As we can see, the translator prioritized the core purpose of this text over the\nneed to include a cultural reference. As a result, this scene probably won't hold\nas much meaning for Jap:rnese players as it holds for English-speaking players,\nbut the scene will still make sense in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29472749,
+          0.83357143,
+          0.90783307,
+          0.90074286
+        ],
+        "mask_bbox": [
+          0.29159862,
+          0.83285714,
+          0.91351821,
+          0.90181429
+        ],
+        "line_ids": [
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "translation": {
+        "text": "可以看出，译者优先保留了这段文字的核心作用，而没有执着于文化典故。因此，日本玩家从这幕中读到的意味，可能不如英语玩家那么丰富，但场景在日语中依然说得通。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29472749,
+          0.83214286,
+          0.9114732,
+          0.90431429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0146-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29472749,
+          0.83214286,
+          0.9114732,
+          0.90431429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5367827580a04cbc48fe31649a8ab19bcb24d8460225adee109a546c4839cc8a"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          47,
+          66
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.24,
+      891.41
+    ],
+    "text_runs": [
+      {
+        "id": "p0146-b003",
+        "blocks": [
+          "p0146-b003",
+          "p0146-b004",
+          "p0146-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 537.81
+      },
+      {
+        "id": "p0146-b008",
+        "blocks": [
+          "p0146-b008",
+          "p0146-b009",
+          "p0146-b010",
+          "p0146-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

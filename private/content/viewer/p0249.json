@@ -1,0 +1,1179 @@
+{
+  "schema_version": 3,
+  "pdf_page": 249,
+  "printed_page": "249",
+  "title": "拒绝与重新融合",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.321316+00:00",
+  "reference_size": [
+    993.601616,
+    1400
+  ],
+  "physical_size_pt": [
+    505.8,
+    712.68
+  ],
+  "image_url": "/assets/p0249.jpg",
+  "image_sha256": "9370010491cbf847462752e48c8a8d75f9d28f13574d140180c9cef0f12fc415",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0249/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0249-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Double Refusion",
+        "raw": "Double Refusion",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10492133,
+          0.06217143,
+          0.27437556,
+          0.07592143
+        ],
+        "mask_bbox": [
+          0.10361296,
+          0.06145714,
+          0.27568393,
+          0.07699286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "拒绝与重新融合",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.053,
+          0.7110697,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.053,
+          0.7110697,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0249-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Again, we see Toby's fondness for phrases with extra meanings that are difficult to retain in translation",
+        "raw": "Again, we see Toby's\nfondness for phrases\nwith extra meanings\nthat are difficult to\nretain in translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73355356,
+          0.09190714,
+          0.86135126,
+          0.16348571
+        ],
+        "mask_bbox": [
+          0.73224519,
+          0.09119286,
+          0.86265963,
+          0.16455714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "又一次看出 Toby 喜欢给短语藏上额外含义，而这些含义往往很难在翻译中保留。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73355356,
+          0.09047857,
+          0.88417731,
+          0.16705714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73355356,
+          0.09047857,
+          0.88417731,
+          0.16705714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Normally, if the player is defeated during battle, the character's soul - represented as a red heart - shatters into pieces. This is then followed by a standard game over screen:",
+        "raw": "Normally, if the player is defeated during battle, the character's soul -\nrepresented as a red heart - shatters into pieces. This is then followed by a\nstandard game over screen:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10462946,
+          0.21932857,
+          0.66994658,
+          0.26737143
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.21861429,
+          0.71308258,
+          0.26844286
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "通常，玩家在战斗中落败后，角色的灵魂——一颗红心——会碎成许多片，接着出现普通的游戏结束画面：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.2179,
+          0.7110697,
+          0.27094286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2807142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.2179,
+          0.7110697,
+          0.27094286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Upon defeat, the main character's soul is surrounded by darkness",
+        "raw": "Upon defeat, the main\ncharacter's soul is\nsurrounded by darkness",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11650545,
+          0.35961429,
+          0.26194603,
+          0.39922857
+        ],
+        "mask_bbox": [
+          0.11519708,
+          0.3589,
+          0.2632544,
+          0.4003
+        ],
+        "line_ids": [
+          11,
+          14,
+          17
+        ]
+      },
+      "translation": {
+        "text": "落败后，主角的灵魂被黑暗包围。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.35818571,
+          0.2763356,
+          0.4028
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41253571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.35818571,
+          0.2763356,
+          0.4028
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b005",
+      "kind": "caption",
+      "source": {
+        "text": "The soul breaks apart and shatters",
+        "raw": "The soul breaks apart\nand shatters",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31732034,
+          0.35961429,
+          0.44982817,
+          0.38507143
+        ],
+        "mask_bbox": [
+          0.31601197,
+          0.3589,
+          0.45113654,
+          0.38614286
+        ],
+        "line_ids": [
+          12,
+          15
+        ]
+      },
+      "translation": {
+        "text": "灵魂裂开，碎散。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29646439,
+          0.35818571,
+          0.48934099,
+          0.38864286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41253571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29646439,
+          0.35818571,
+          0.48934099,
+          0.38864286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b006",
+      "kind": "caption",
+      "source": {
+        "text": "The game over screen appears",
+        "raw": "The game over screen\nappears",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.54887189,
+          0.35961429,
+          0.68160115,
+          0.38507143
+        ],
+        "mask_bbox": [
+          0.54756352,
+          0.3589,
+          0.68290952,
+          0.38614286
+        ],
+        "line_ids": [
+          13,
+          16
+        ]
+      },
+      "translation": {
+        "text": "出现游戏结束画面。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50946978,
+          0.35818571,
+          0.7110697,
+          0.38864286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41253571285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.50946978,
+          0.35818571,
+          0.7110697,
+          0.38864286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "If Asriel defeats the main character in battle, this same heart-shattering scene plays out again. But instead of going to the usual game over screen, the heart pieces recombine and a new message appears:",
+        "raw": "If Asriel defeats the main character in battle, this same heart-shattering scene\nplays out again. But instead of going to the usual game over screen, the heart\npieces recombine and a new message appears:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10417656,
+          0.41967857,
+          0.69461441,
+          0.46976429
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.41896429,
+          0.71308258,
+          0.47083571
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "主角被 Asriel 击败时，同样会出现心碎的画面。但接下来没有进入通常的游戏结束界面，红心碎片反而重新聚合，并出现一条新消息：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.41825,
+          0.7110697,
+          0.47333571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.41825,
+          0.7110697,
+          0.47333571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b008",
+      "kind": "quote",
+      "source": {
+        "text": "But it refused.",
+        "raw": "But it refused.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1481781,
+          0.48469286,
+          0.25052294,
+          0.49703571
+        ],
+        "mask_bbox": [
+          0.14686973,
+          0.48397857,
+          0.25183131,
+          0.49810714
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "But it refused.（但它拒绝了。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1481781,
+          0.48326429,
+          0.7110697,
+          0.50385357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0249-b007",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.1481781,
+          0.48326429,
+          0.7110697,
+          0.50385357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby explained that this short sentence carries two separate meanings:",
+        "raw": "Toby explained that this short sentence carries two separate meanings:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1047301,
+          0.51161429,
+          0.64307464,
+          0.52396429
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.5109,
+          0.71308258,
+          0.52503571
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "Toby 解释，这句短话包含两层意思：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.51018571,
+          0.7110697,
+          0.53232857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0249-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.51018571,
+          0.7110697,
+          0.53232857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b010",
+      "kind": "quote",
+      "source": {
+        "text": "1. \"Refused\" can mean \"refused to die\"",
+        "raw": "1. \"Refused\" can mean \"refused to die\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12285608,
+          0.53922857,
+          0.41963499,
+          0.55157857
+        ],
+        "mask_bbox": [
+          0.08632232,
+          0.53851429,
+          0.42094336,
+          0.55265
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "1. refused 意为“拒绝”，这里即“拒绝死亡”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12285608,
+          0.5378,
+          0.7110697,
+          0.55838929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0249-b009",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.12285608,
+          0.5378,
+          0.7110697,
+          0.55838929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0249-b011",
+      "kind": "quote",
+      "source": {
+        "text": "2. \"Refused\" can mean \"re-fused\", referring to how the heart fragments fuse back together again",
+        "raw": "2. \"Refused\" can mean \"re-fused\", referring to how the heart fragments fuse\nback together again",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12279569,
+          0.56685714,
+          0.70268606,
+          0.59771429
+        ],
+        "mask_bbox": [
+          0.08626194,
+          0.56614286,
+          0.70399443,
+          0.59878571
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "2. refused 也可拆成 re-fused（重新融合），呼应红心碎片再次聚合。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12279569,
+          0.56542857,
+          0.7110697,
+          0.60128571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0249-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.12279569,
+          0.56542857,
+          0.7110697,
+          0.60128571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0249-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby understood that this pun would probably be difficult to retain in Japanese, so he noted that Meaning #l was more important to preserve. As a result, this line was given a straightforward to translation in early versions of the Japanese script:",
+        "raw": "Toby understood that this pun would probably be difficult to retain in Japanese,\nso he noted that Meaning #l was more important to preserve. As a result, this\nline was given a straightforward to translation in early versions of the Japanese\nscript:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10520313,
+          0.61264286,
+          0.7110697,
+          0.6799
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.61192857,
+          0.71308258,
+          0.68097143
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "Toby 知道这个双关在日语中大概很难保留，因此说明第一层意思更重要。早期日文剧本便采用了直接的译法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.61121429,
+          0.7110697,
+          0.68347143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0249-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.61121429,
+          0.7110697,
+          0.68347143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b013",
+      "kind": "quote",
+      "source": {
+        "text": "But the SOUL couldn't be broken.",
+        "raw": "But the SOUL couldn't be broken.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14865113,
+          0.69515,
+          0.39496715,
+          0.7075
+        ],
+        "mask_bbox": [
+          0.14734276,
+          0.69443571,
+          0.39627552,
+          0.70857143
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "但灵魂无法被击碎。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14865113,
+          0.69372143,
+          0.7110697,
+          0.71431071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0249-b012",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.14865113,
+          0.69372143,
+          0.7110697,
+          0.71431071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "After some more internal discussion, the localization team switched the line from an outside narrator's explanation to a first-person exclamation:",
+        "raw": "After some more internal discussion, the localization team switched the line\nfrom an outside narrator's explanation to a first-person exclamation:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10387463,
+          0.72277857,
+          0.68275855,
+          0.75295714
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.72206429,
+          0.71308258,
+          0.75402857
+        ],
+        "line_ids": [
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "经过进一步内部讨论，团队把旁观叙述者的解释，改成了第一人称的呼喊：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.72135,
+          0.7110697,
+          0.75652857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0249-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.72135,
+          0.7110697,
+          0.75652857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b015",
+      "kind": "quote",
+      "source": {
+        "text": "No! I won't be broken!",
+        "raw": "No! I won't be broken!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14962737,
+          0.76822857,
+          0.31383806,
+          0.78057143
+        ],
+        "mask_bbox": [
+          0.148319,
+          0.76751429,
+          0.31514643,
+          0.78164286
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "不！我才不会被击碎！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14962737,
+          0.7668,
+          0.7110697,
+          0.78738929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0249-b014",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.14962737,
+          0.7668,
+          0.7110697,
+          0.78738929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b016",
+      "kind": "paragraph",
+      "source": {
+        "text": "This Japanese wording - combined with the first-person perspective - evokes the sense of holding on to strong resolve against all odds, which is a common \"final battle\" theme in classic Japanese RPGs. Thus, the final Japanese line uses very different grammar and wording to parallel the meaning and intent of the original English line.",
+        "raw": "This Japanese wording - combined with the first-person perspective - evokes\nthe sense of holding on to strong resolve against all odds, which is a common\n\"final battle\" theme in classic Japanese RPGs. Thus, the final Japanese line uses\nvery different grammar and wording to parallel the meaning and intent of the\noriginal English line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09977842,
+          0.79617857,
+          0.70275651,
+          0.88227143
+        ],
+        "mask_bbox": [
+          0.09776554,
+          0.79546429,
+          0.71308258,
+          0.88334286
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "这套日语措辞配合第一人称视角，唤起了一种不论多大逆境也要坚持到底的决心，正是经典日式角色扮演游戏最终战中常见的主题。最终日文虽然采用了很不一样的语法与措辞，却对应了英文原句的含义和意图。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10440301,
+          0.79475,
+          0.7110697,
+          0.88584286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0249-b015"
+      },
+      "calibration": {
+        "bbox": [
+          0.10440301,
+          0.79475,
+          0.7110697,
+          0.88584286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0249-b017",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61939311,
+          0.93770714,
+          0.70992236,
+          0.94725
+        ],
+        "mask_bbox": [
+          0.61808474,
+          0.93699286,
+          0.71123073,
+          0.94832143
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61939311,
+          0.93627857,
+          0.70992236,
+          0.95427857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9542785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61939311,
+          0.93627857,
+          0.70992236,
+          0.95427857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f9a3cca0bacf7dee8ff31dc6540effae8a12effbdb1f131001dd2f5ef8ab2d99"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      103.73,
+      706.52
+    ],
+    "text_runs": [
+      {
+        "id": "p0249-b007",
+        "blocks": [
+          "p0249-b007",
+          "p0249-b008",
+          "p0249-b009",
+          "p0249-b010",
+          "p0249-b011",
+          "p0249-b012",
+          "p0249-b013",
+          "p0249-b014",
+          "p0249-b015",
+          "p0249-b016"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,725 @@
+{
+  "schema_version": 3,
+  "pdf_page": 116,
+  "printed_page": "116",
+  "title": "Papyrus 的说话方式",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.185351+00:00",
+  "reference_size": [
+    977.407407,
+    1400
+  ],
+  "physical_size_pt": [
+    497.64,
+    712.8
+  ],
+  "image_url": "/assets/p0116.jpg",
+  "image_sha256": "1fb50e250c35c557e82579f60c4ac036a34800c6d966c5ec99000ada679b7a4a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0116/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0116-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Papyrus Speaks",
+        "raw": "Papyrus Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29376696,
+          0.06158571,
+          0.4551224,
+          0.07519286
+        ],
+        "mask_bbox": [
+          0.29243691,
+          0.06087143,
+          0.45645244,
+          0.07626429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29410459,
+          0.05157143,
+          0.90543615,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29410459,
+          0.05157143,
+          0.90543615,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110.0
+    },
+    {
+      "id": "p0116-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus almost always uses the egotistical personal pronoun オレさま (ore-sama) in Japanese.",
+        "raw": "Papyrus almost •\nalways uses the\negotistical personal\n* pronoun\n;;t t...-<! (ore-sama)\nin Japanese",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.1404839,
+          0.09210714,
+          0.28152027,
+          0.17900714
+        ],
+        "mask_bbox": [
+          0.13915385,
+          0.09139286,
+          0.28285032,
+          0.18007857
+        ],
+        "line_ids": [
+          2,
+          4,
+          8,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "日语中，Papyrus 几乎总用自负的“オレさま”（ore-sama，本大爷）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1176582,
+          0.09067857,
+          0.28152027,
+          0.18257857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3499357128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1176582,
+          0.09067857,
+          0.28152027,
+          0.18257857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus is loud, delusional, and thinks very highly of himself. He even refers to himself as \"the great Papyrus\" in the English script on occasion. The translator replicated this character trait in Japanese by having Papyrus use similar speech patterns. This includes the use of the Japanese pronoun ore-sama, which is used by overly pompous characters with \"I'm so great!\" personalities.",
+        "raw": "Papyrus is loud, delusional, and thinks very highly of himself. He even refers to\nhimself as \"the great Papyrus\" in the English script on occasion. The translator\nreplicated this character trait in Japanese by having Papyrus use similar speech\npatterns. This includes the use of the Japanese pronoun ore-sama, which is\nused by overly pompous characters with \"I'm so great!\" personalities.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29410459,
+          0.25418571,
+          0.90543615,
+          0.34042143
+        ],
+        "mask_bbox": [
+          0.28807844,
+          0.25347143,
+          0.90748238,
+          0.34149286
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 嗓门大、爱幻想，又特别自命不凡。英文剧本中，他有时甚至称自己为“伟大的 Papyrus”。译者让他在日语中使用类似的说话方式，重现这一性格，包括使用 ore-sama 这个自称：过分自大的、“我真了不起！”型角色就会这么说。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 83,
+            "end": 91,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29410459,
+          0.25275714,
+          0.90543615,
+          0.34399286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3477142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29410459,
+          0.25275714,
+          0.90543615,
+          0.34399286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus uses the pronoun ボク (boku) in this rare scene in the Japanese script.",
+        "raw": "Papyrus uses the •\npronoun 1K7 (boku)\nin this rare scene in\nthe Japanese script",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.1386116,
+          0.35707857,
+          0.28152027,
+          0.41232143
+        ],
+        "mask_bbox": [
+          0.13728155,
+          0.35636429,
+          0.28285032,
+          0.41339286
+        ],
+        "line_ids": [
+          19,
+          20,
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "在这个少见的日文场景中，Papyrus 用“ボク”（boku，我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1176582,
+          0.35565,
+          0.28152027,
+          0.41589286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5593642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1176582,
+          0.35565,
+          0.28152027,
+          0.41589286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus always uses the pronoun ore-sama - except in one scene. If the player enters Sans' room, Papyrus will barge in to ask Sans about an action figure. In this one scene, when Papyrus thinks it's safe to be his true self, he refers to himself as boku. This detail adds charm to Papyrus' personality not present in the English line.",
+        "raw": "Papyrus always uses the pronoun\nore-sama - except in one scene. If the\nplayer enters Sans' room, Papyrus will\nbarge in to ask Sans about an action\nfigure. In this one scene, when Papyrus\nthinks it's safe to be his true self, he\nrefers to himself as boku. This detail\nadds charm to Papyrus' personality not\npresent in the English line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61421675,
+          0.35485714,
+          0.90582493,
+          0.5128
+        ],
+        "mask_bbox": [
+          0.6128867,
+          0.35414286,
+          0.90715498,
+          0.51387143
+        ],
+        "line_ids": [
+          18,
+          21,
+          23,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 总是自称 ore-sama，唯独一个场景例外。如果玩家进入 Sans 的房间，Papyrus 会闯进来，向 Sans 问起一个可动人偶。在这个场景里，Papyrus 觉得可以放心做真实的自己，便用 boku 自称。这个细节给他增添了英语台词中没有的可爱之处。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 107,
+            "end": 111,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61421675,
+          0.35342857,
+          0.90582493,
+          0.51637143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5485714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61421675,
+          0.35342857,
+          0.90582493,
+          0.51637143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Papyrus Laughs",
+        "raw": "Papyrus Laughs",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29618151,
+          0.53667143,
+          0.45890792,
+          0.55027857
+        ],
+        "mask_bbox": [
+          0.29485146,
+          0.53595714,
+          0.46023797,
+          0.55135
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 的笑声",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29410459,
+          0.52728571,
+          0.90543615,
+          0.55142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5514285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29410459,
+          0.52728571,
+          0.90543615,
+          0.55142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 776.0
+    },
+    {
+      "id": "p0116-b007",
+      "kind": "aside",
+      "source": {
+        "text": "I would’ve transcribed Papyrus’ laugh as ニェヘヘヘ (roughly \"nieheheheh\") but that’s just how localization works - everyone makes different decisions.",
+        "raw": "I would've transcribed •\nPapyrus' laugh as\n=I\"'-\"'-\" (roughly\n\"nieheheheh\") but\nthat's just how\nlocalization works\n- everyone makes\ndifferent decisions",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.13027321,
+          0.56650714,
+          0.28393482,
+          0.68538571
+        ],
+        "mask_bbox": [
+          0.12894316,
+          0.56579286,
+          0.28526487,
+          0.68645714
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          39,
+          43
+        ]
+      },
+      "translation": {
+        "text": "我会把 Papyrus 的笑声写成“ニェヘヘヘ”（大致读作“nieheheheh”）。不过本地化就是这样，每个人都会作出不同选择。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1176582,
+          0.56507857,
+          0.28393482,
+          0.68895714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1176582,
+          0.56507857,
+          0.28393482,
+          0.68895714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus also has a unique laugh in English: \"nyehehe\". For reasons that are long forgotten, this was finalized as nyahaha in Japanese. It's possible that this was done because \"nyehehe\" can't be transcribed 100% perfectly into Japanese - any transcription would be an approximation at best. Whatever the case may be, Toby approved the choice of Papyrus' Japanese laugh.",
+        "raw": "Papyrus also has a unique laugh in English: \"nyehehe\". For reasons that are\nlong forgotten, this was finalized as nyahaha in Japanese. It's possible that this\nwas done because \"nyehehe\" can't be transcribed 100% perfectly into Japanese\n- any transcription would be an approximation at best. Whatever the case may\nbe, Toby approved the choice of Papyrus' Japanese laugh.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29012467,
+          0.72994286,
+          0.90486321,
+          0.81516429
+        ],
+        "mask_bbox": [
+          0.28807844,
+          0.72922857,
+          0.90748238,
+          0.81623571
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 在英语中的笑声也很特别：“nyehehe”。日语最终定成了 nyahaha，当时的理由已经没人记得了。也许是因为“nyehehe”无法用日语百分之百准确地转写，再怎么写也只能近似。不论原因如何，Toby 认可了 Papyrus 日语笑声的这个选择。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29410459,
+          0.72851429,
+          0.90543615,
+          0.81873571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29410459,
+          0.72851429,
+          0.90543615,
+          0.81873571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0116-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Incidentally, because nya also happens to be the sound that cats make in Japanese, some Japanese fans have noted that Papyrus has a cat-like laugh that makes him sound cute.",
+        "raw": "Incidentally, because nya also happens to be the sound that cats make in\nJapanese, some Japanese fans have noted that Papyrus has a cat-like laugh that\nmakes him sound cute.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29553695,
+          0.8313,
+          0.90196779,
+          0.88015
+        ],
+        "mask_bbox": [
+          0.28807844,
+          0.83058571,
+          0.90748238,
+          0.88122143
+        ],
+        "line_ids": [
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "顺带一提，日语里的 nya 正好也是猫叫声，因此有些日本粉丝觉得，Papyrus 的笑声像猫叫，听起来很可爱。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29410459,
+          0.82987143,
+          0.90543615,
+          0.88372143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0116-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29410459,
+          0.82987143,
+          0.90543615,
+          0.88372143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "03f5a50e772116c16b1c0f05b3a68a86eafc9f8efdacb00a7801b13024d7b47d"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          6,
+          7,
+          9,
+          38,
+          40,
+          41,
+          42,
+          44,
+          45,
+          46,
+          47,
+          48,
+          57
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.46,
+      884.98
+    ],
+    "text_runs": [
+      {
+        "id": "p0116-b008",
+        "blocks": [
+          "p0116-b008",
+          "p0116-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,430 @@
+{
+  "schema_version": 3,
+  "pdf_page": 227,
+  "printed_page": "227",
+  "title": "“你依然是你”的影响",
+  "subtitle": "新家 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    981.367925,
+    1400
+  ],
+  "physical_size_pt": [
+    499.32,
+    712.32
+  ],
+  "image_url": "/assets/p0227.jpg",
+  "image_sha256": "80887f08b7b515a290230cadfe8a79c11d87d0e0afcd8bbb7e51adf39f87124f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0227/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0227-b001",
+      "kind": "caption",
+      "source": {
+        "text": "English-speaking Underta/e fans often draw art related to this single line of text",
+        "raw": "English-speaking\nUnderta/e fans often\ndraw art related to this\nsingle line of text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72901303,
+          0.07094286,
+          0.87197674,
+          0.13025714
+        ],
+        "mask_bbox": [
+          0.72768834,
+          0.07022857,
+          0.87330142,
+          0.13132857
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "英语圈的《Undertale》粉丝经常以这句台词为题作画。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72901303,
+          0.06714286,
+          0.87197674,
+          0.13428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.13428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.72901303,
+          0.06714286,
+          0.87197674,
+          0.13428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "sidebar-first-caption"
+    },
+    {
+      "id": "p0227-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #8: Consider who you are as a person right now - would you want to be your own friend if you somehow met yourself?",
+        "raw": "Reader Challenge #8:\nConsider who you are\nas a person right now -\nwould you want to be\nyour own friend if you\nsomehow met yourself?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72901303,
+          0.14100714,
+          0.87677616,
+          0.22931429
+        ],
+        "mask_bbox": [
+          0.72768834,
+          0.14029286,
+          0.87810084,
+          0.23038571
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 #8：想想现在的你是怎样的人。假如你遇见另一个自己，你会愿意和自己交朋友吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7255179,
+          0.13957857,
+          0.87677616,
+          0.23288571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3498357128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7255179,
+          0.13957857,
+          0.87677616,
+          0.23288571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0227-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Tattoos of this scene are a common sight among English speaking Undertale fan communities",
+        "raw": "Tattoos of this scene\nare a common sight\namong English\nspeaking Undertale fan\ncommunities",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72947157,
+          0.35697857,
+          0.8737192,
+          0.42912143
+        ],
+        "mask_bbox": [
+          0.72814689,
+          0.35626429,
+          0.87504388,
+          0.43019286
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "在英语圈《Undertale》粉丝群体里，这个场景的文身并不少见。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72947157,
+          0.35555,
+          0.8737192,
+          0.43269286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6338642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72947157,
+          0.35555,
+          0.8737192,
+          0.43269286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0227-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Some English speaking fans even celebrate this memorable line with food",
+        "raw": "Some English\nspeaking fans\neven celebrate this\nmemorable line\nwith food",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73047018,
+          0.64100714,
+          0.84743956,
+          0.71349286
+        ],
+        "mask_bbox": [
+          0.72914549,
+          0.64029286,
+          0.84876424,
+          0.71456429
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "有些英语圈粉丝甚至用食物来纪念这句难忘的台词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73047018,
+          0.63957857,
+          0.84743956,
+          0.71706429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73047018,
+          0.63957857,
+          0.84743956,
+          0.71706429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0227-b005",
+      "kind": "footer",
+      "source": {
+        "text": "New Home",
+        "raw": "New Home",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62499495,
+          0.93817143,
+          0.70500572,
+          0.94771429
+        ],
+        "mask_bbox": [
+          0.62367027,
+          0.93745714,
+          0.7063304,
+          0.94878571
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "新家",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62499495,
+          0.93674286,
+          0.70500572,
+          0.95474286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9547428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.62499495,
+          0.93674286,
+          0.70500572,
+          0.95474286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "New Home",
+        "chapter_id": "chapter-224"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "cda375b2729fa5b46c2500752c2635335f82a9363bfb841754f6155cd4eb29bb"
+  },
+  "chapter_id": "chapter-224",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

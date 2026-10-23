@@ -1,0 +1,32 @@
+# Book material and permission correspondence stay local by default.
+/private/*
+!/private/content/
+/private/content/**
+!/private/content/**/
+!/private/content/**/*.json
+!/private/content/**/*.md
+*.pdf
+*.epub
+*.zip
+*.7z
+.env
+.env.*
+__pycache__/
+node_modules/
+dist/
+.DS_Store
+Thumbs.db
+
+/viewer/.deps/
+/viewer/pdf-fonts/
+
+# This directory contains handwritten viewer sources, not a build cache.
+!/viewer/dist/
+!/viewer/dist/**
+
+.venv/
+venv/
+.pytest_cache/
+*.log
+*.key
+*.pem

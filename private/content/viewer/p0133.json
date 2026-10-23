@@ -1,0 +1,976 @@
+{
+  "schema_version": 3,
+  "pdf_page": 133,
+  "printed_page": "133",
+  "title": "图书馆的错字",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    983.018868,
+    1400
+  ],
+  "physical_size_pt": [
+    500.16,
+    712.32
+  ],
+  "image_url": "/assets/p0133.jpg",
+  "image_sha256": "255bab96d3b1c930f7321d38a6356da5350eaea13ef39a5a49641619e5f29995",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0133/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0133-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Overdue-ing It",
+        "raw": "Overdue-ing It",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09284664,
+          0.06231429,
+          0.24277255,
+          0.07550714
+        ],
+        "mask_bbox": [
+          0.09152418,
+          0.0616,
+          0.24409501,
+          0.07657857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "图书馆的错字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.052285714,
+          0.70070883,
+          0.076428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.076428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.052285714,
+          0.70070883,
+          0.076428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "原题 Overdue-ing It 同时涉及 overdue（图书逾期）与 overdoing it（做过头）；标题暂以内容直译。"
+      ],
+      "rule_y": 111
+    },
+    {
+      "id": "p0133-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Similar to the \"Snowdin\" town sign, the localization team had to add extra programming to make this sign switch between English and Japanese based on the player's language setting",
+        "raw": "Similar to the\n\"Snowdin\" town sign,\nthe localization team\nhad to add extra\nprogramming to\nmake this sign switch\nbetween English and\nJapanese based on\nthe player's language\nsetting",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72331267,
+          0.09083571,
+          0.86246564,
+          0.23704286
+        ],
+        "mask_bbox": [
+          0.72199021,
+          0.09012143,
+          0.8637881,
+          0.23811429
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "和“Snowdin”的镇名标牌一样，本地化团队需要增加程序代码，让这个招牌按照玩家的语言设置切换英日文。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72331267,
+          0.08940714,
+          0.87568004,
+          0.24061429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.34985000285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72331267,
+          0.08940714,
+          0.87568004,
+          0.24061429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Snowdin’s library is denoted by a large sign that says \"LIBRARBY\". This is a simple, childish misspelling of the English word \"library\" that some hasty players might not notice immediately. To achieve the same effect in Japanese, the localizers replaced the misspelled English sign with a similarly misspelled Japanese sign. Instead of としょかん (toshokan, \"library\"), the new sign says としょんか (toshonka), a hilariously bad misspelling that means nothing.",
+        "raw": "Snowdin's library is denoted by a large sign that says \"LIBRARBY\". This is\na simple, childish misspelling of the English word \"library\" that some hasty\nplayers might not notice immediately. To achieve the same effect in Japanese,\nthe localizers replaced the misspelled English sign with a similarly misspelled\nJapanese sign. Instead of C. L J: -/plv (toshokan, \"library\"), the new sign says\nC. L J: lvtP (toshonka), a hilariously bad misspelling that means nothing.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.09000845,
+          0.23727857,
+          0.69111593,
+          0.34135
+        ],
+        "mask_bbox": [
+          0.0879739,
+          0.23656429,
+          0.70274338,
+          0.34242143
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Snowdin 图书馆的大招牌写着“LIBRARBY”，把英语 library（图书馆）拼错了。这是个简单、幼稚的拼写错误，匆匆经过的玩家可能一时都注意不到。为了在日语中产生相同效果，本地化人员换上了同样写错的日文招牌：不写“としょかん”（toshokan，图书馆），而写“としょんか”（toshonka），一个毫无意义、错得很好笑的词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 120,
+            "end": 128,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 144,
+            "end": 152,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.23585,
+          0.70070883,
+          0.34492143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3494071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.23585,
+          0.70070883,
+          0.34492143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Originally, the Japanese version of this sign said としよかん (toshiyokan), which isn’t a real word either. The misspelling was less blatant than \"LIBRARBY\" though, so it was changed a few months before Undertale’s Japanese release.",
+        "raw": "Originally, the Japanese version of\nthis sign said C. L J: 7'.Plv (toshiyokan),\nwhich isn't a real word either.\nThe misspelling was less blatant\nthan \"LIBRARBY\" though, so it\nwas changed a few months before\nUndertale's Japanese release.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.0924499,
+          0.35655,
+          0.37524203,
+          0.47874286
+        ],
+        "mask_bbox": [
+          0.0879739,
+          0.35583571,
+          0.37656449,
+          0.47981429
+        ],
+        "line_ids": [
+          19,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "最初，日文招牌写的是“としよかん”（toshiyokan），同样不是个真正的词。但这个错误不如“LIBRARBY”明显，因此在 Undertale 日语版发行前几个月又作了修改。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 73,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09000845,
+          0.35512143,
+          0.37524203,
+          0.48231429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4945214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09000845,
+          0.35512143,
+          0.37524203,
+          0.48231429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b005",
+      "kind": "aside",
+      "source": {
+        "text": "The library sign used to say としよかん (toshiyokan) instead of としょんか (toshonka), both are nonsense words though.",
+        "raw": "The library sign used\nto say <::. GJ:.fJ'fu\n(toshiyokan) instead of\n<::. L., J; fufJ'\n(toshonka), both\nare nonsense words\nthough",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.72965029,
+          0.35699286,
+          0.87061401,
+          0.46177857
+        ],
+        "mask_bbox": [
+          0.72832783,
+          0.35627857,
+          0.87193647,
+          0.46285
+        ],
+        "line_ids": [
+          20,
+          21,
+          23,
+          25,
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "图书馆招牌过去写的是“としよかん”（toshiyokan），后来改为“としょんか”（toshonka）；不过两者都没有实际含义。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 42,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72919252,
+          0.35556429,
+          0.87568004,
+          0.46535
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5230428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72919252,
+          0.35556429,
+          0.87568004,
+          0.46535
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Making History",
+        "raw": "Making History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09458618,
+          0.50166429,
+          0.2533929,
+          0.51486429
+        ],
+        "mask_bbox": [
+          0.09326372,
+          0.50095,
+          0.25471536,
+          0.51593571
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "书写历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.49286429,
+          0.70070883,
+          0.51700715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5170071471428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.49286429,
+          0.70070883,
+          0.51700715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b007",
+      "kind": "aside",
+      "source": {
+        "text": "This Japanese line is a good example of an external influence changing a translation, just as we saw back in the \"What is Localization?\" chapter",
+        "raw": "This Japanese line is\na good example of\nan external influence\nchanging a translation,\njust as we saw back\nin the \"What is\nLocalization?\" chapter",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73020979,
+          0.53018571,
+          0.87197716,
+          0.63529286
+        ],
+        "mask_bbox": [
+          0.72888733,
+          0.52947143,
+          0.87329962,
+          0.63636429
+        ],
+        "line_ids": [
+          34,
+          36,
+          37,
+          38,
+          39,
+          40,
+          44
+        ]
+      },
+      "translation": {
+        "text": "这句日文很好地说明，外部因素也会改变翻译，正如“什么是本地化？”一章中的例子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72919252,
+          0.52875714,
+          0.87568004,
+          0.63886429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72919252,
+          0.52875714,
+          0.87568004,
+          0.63886429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Several books in the library reveal the Underground's dark history. One book begins to discuss death and murder, then suddenly ends with:",
+        "raw": "Several books in the library reveal the Underground's dark history. One book\nbegins to discuss death and murder, then suddenly ends with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09420979,
+          0.68572857,
+          0.6810856,
+          0.71629286
+        ],
+        "mask_bbox": [
+          0.0879739,
+          0.68501429,
+          0.70274338,
+          0.71736429
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "图书馆里的几本书揭示了地下世界的黑暗历史。其中一本刚谈到死亡和谋杀，便突然以这句话结尾：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.6843,
+          0.70070883,
+          0.71986429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.6843,
+          0.70070883,
+          0.71986429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Um, let's end the chapter here ...",
+        "raw": "Um, let's end the chapter here ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13909194,
+          0.73177143,
+          0.37051171,
+          0.74384286
+        ],
+        "mask_bbox": [
+          0.13776948,
+          0.73105714,
+          0.37183417,
+          0.74491429
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "呃，这一章就到这里吧……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13909194,
+          0.73034286,
+          0.70070883,
+          0.75093214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0133-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13909194,
+          0.73034286,
+          0.70070883,
+          0.75093214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this is the author avoiding the subject of \"gruesome death\". He then suggested that it might be funnier in Japanese if the author changed the subject by sharing a recipe instead. Thus the same line in Japanese says:",
+        "raw": "Toby noted that this is the author avoiding the subject of \"gruesome death\". He\nthen suggested that it might be funnier in Japanese if the author changed the\nsubject by sharing a recipe instead. Thus the same line in Japanese says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09342649,
+          0.75917857,
+          0.69975259,
+          0.80758571
+        ],
+        "mask_bbox": [
+          0.0879739,
+          0.75846429,
+          0.70274338,
+          0.80865714
+        ],
+        "line_ids": [
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这是书中作者在回避“惨死”这个话题。他又建议，日语中让作者改谈食谱来岔开话题，可能更好笑。因此日版相应的台词成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.75775,
+          0.70070883,
+          0.81115714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0133-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.75775,
+          0.70070883,
+          0.81115714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b011",
+      "kind": "quote",
+      "source": {
+        "text": "... Perhaps I should set this depressing topic aside and share a cake recipe instead ...",
+        "raw": "... Perhaps I should set this depressing topic aside and share a cake recipe\ninstead ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13310019,
+          0.82342857,
+          0.68214357,
+          0.85403571
+        ],
+        "mask_bbox": [
+          0.13177774,
+          0.82271429,
+          0.68346603,
+          0.85510714
+        ],
+        "line_ids": [
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "……或许该把这个沉重的话题放一放，改写个蛋糕食谱……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13310019,
+          0.822,
+          0.70070883,
+          0.85760714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0133-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.13310019,
+          0.822,
+          0.70070883,
+          0.85760714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, the Japanese version of this line differs from the original English line. Not because anything would be lost in translation, but because of Toby himself.",
+        "raw": "In short, the Japanese version of this line differs from the original English line.\nNot because anything would be lost in translation, but because of Toby himself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09489136,
+          0.86903571,
+          0.70070883,
+          0.89957857
+        ],
+        "mask_bbox": [
+          0.0879739,
+          0.86832143,
+          0.70274338,
+          0.90065
+        ],
+        "line_ids": [
+          59,
+          60
+        ]
+      },
+      "translation": {
+        "text": "这句日文与英文原文不同，并不是因为直译会丢失什么，而是 Toby 本人提出了改动。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09381814,
+          0.86760714,
+          0.70070883,
+          0.90315
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0133-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09381814,
+          0.86760714,
+          0.70070883,
+          0.90315
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0133-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64087274,
+          0.93738571,
+          0.70419808,
+          0.94707143
+        ],
+        "mask_bbox": [
+          0.63955029,
+          0.93667143,
+          0.70552054,
+          0.94814286
+        ],
+        "line_ids": [
+          62
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64087274,
+          0.93595714,
+          0.70419808,
+          0.95395714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9539571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64087274,
+          0.93595714,
+          0.70419808,
+          0.95395714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c00afd8102c6b67a38ae2065279cf2cb53db4bf9c116cc37e664f615b745e0bc"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          35,
+          41,
+          42,
+          43,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          61
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.23,
+      688.81
+    ],
+    "text_runs": [
+      {
+        "id": "p0133-b008",
+        "blocks": [
+          "p0133-b008",
+          "p0133-b009",
+          "p0133-b010",
+          "p0133-b011",
+          "p0133-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,823 @@
+{
+  "schema_version": 3,
+  "pdf_page": 128,
+  "printed_page": "128",
+  "title": "连接过去",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.190928+00:00",
+  "reference_size": [
+    977.59434,
+    1400
+  ],
+  "physical_size_pt": [
+    497.4,
+    712.32
+  ],
+  "image_url": "/assets/p0128.jpg",
+  "image_sha256": "61c3807ec7040595b6348aa4c05d1e8eef51cce3b1d23d8eac9866e3040339a3",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0128/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0128-b001",
+      "kind": "heading",
+      "source": {
+        "text": "A Link to the Past",
+        "raw": "A Link to the Past",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29386422,
+          0.06186429,
+          0.47847045,
+          0.07562143
+        ],
+        "mask_bbox": [
+          0.29253443,
+          0.06115,
+          0.47980024,
+          0.07669286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "连接过去",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.05228571,
+          0.90485385,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.05228571,
+          0.90485385,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0128-b002",
+      "kind": "aside",
+      "source": {
+        "text": "This is an interesting ~ example of how the solution to a localization problem is sometimes to change nothing at all!",
+        "raw": "This is an interesting ~\nexample of how\nthe solution to a\nlocalization problem is\nsometimes to change\nnothing at all!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12759894,
+          0.09149286,
+          0.28421809,
+          0.17945
+        ],
+        "mask_bbox": [
+          0.12626914,
+          0.09077857,
+          0.28554789,
+          0.18052143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "这是个有趣的例子：有时解决本地化问题的办法，就是什么都不改！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11763571,
+          0.09006429,
+          0.28421809,
+          0.18302143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3852142828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11763571,
+          0.09006429,
+          0.28421809,
+          0.18302143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A monster named Jerry is so annoying in battle that the player can team up with other enemies to \"ditch\" him. After several turns, however, Jerry will show up and annoy everyone again.",
+        "raw": "A monster named Jerry is so annoying in battle that the player can team up\nwith other enemies to \"ditch\" him. After several turns, however, Jerry will\nshow up and annoy everyone again.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2928413,
+          0.24559286,
+          0.87142485,
+          0.29482857
+        ],
+        "mask_bbox": [
+          0.29079546,
+          0.24487857,
+          0.90689969,
+          0.2959
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Jerry 在战斗中太烦人，玩家甚至能和其他敌人联手“甩掉”他；可几回合后，他又会回来烦大家。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.24416429,
+          0.90485385,
+          0.2984
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3871428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.24416429,
+          0.90485385,
+          0.2984
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, Jerry's arrival is accompanied by the text \"Return of Jerry\". Toby noted that this is a reference to the classic 1988 game, Zelda II: The Adventure ofL ink. Specifically, it's a reference to the game over screen, which includes the text \"RETURN OF GANON\".",
+        "raw": "In the English script, Jerry's arrival is accompanied by the text \"Return of\nJerry\". Toby noted that this is a reference to the classic 1988 game, Zelda II:\nThe Adventure ofL ink. Specifically, it's a reference to the game over screen,\nwhich includes the text \"RETURN OF GANON\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29423247,
+          0.30893571,
+          0.87587455,
+          0.3777
+        ],
+        "mask_bbox": [
+          0.29079546,
+          0.30822143,
+          0.90689969,
+          0.37877143
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Jerry 回来时，英文显示“Return of Jerry”（Jerry 归来）。Toby 说，这引用了1988年经典游戏 Zelda II: The Adventure of Link 的游戏结束提示：“RETURN OF GANON”（Ganon 归来）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 63,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.30750714,
+          0.90485385,
+          0.38127143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3871428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0128-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.30750714,
+          0.90485385,
+          0.38127143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b005",
+      "kind": "aside",
+      "source": {
+        "text": "You know what, the ~ \"Gannon\" name should make a return someday, like maybe he'd be a copycat Ganon and the main villain in a spinoff game, but with everything slightly off about him",
+        "raw": "You know what, the ~\n\"Gannon\" name should\nmake a return someday,\nlike maybe he'd be a\ncopycat Ganon and\nthe main villain in a\nspinoff game, but with\neverything slightly off\nabout him",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12138982,
+          0.39235714,
+          0.28566041,
+          0.52614286
+        ],
+        "mask_bbox": [
+          0.12006002,
+          0.39164286,
+          0.2869902,
+          0.52721429
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "说真的，“Gannon”这个名字也该有一天重返舞台。比如做成一个山寨 Ganon，当外传游戏的大反派，不过浑身上下都微妙地不太对劲。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11763571,
+          0.39092857,
+          0.28566041,
+          0.52971429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6598071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11763571,
+          0.39092857,
+          0.28566041,
+          0.52971429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Zelda II game over screen (Japanese)",
+        "raw": "Zelda fl game over screen (Japanese)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32716024,
+          0.53725,
+          0.55603841,
+          0.54904286
+        ],
+        "mask_bbox": [
+          0.32583045,
+          0.53653571,
+          0.5573682,
+          0.55011429
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "Zelda II 游戏结束画面（日语版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30278408,
+          0.53582143,
+          0.58101809,
+          0.55382143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5585428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30278408,
+          0.53582143,
+          0.58101809,
+          0.55382143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Zelda II game over screen (English)",
+        "raw": "Zelda fl game over screen (English)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65381925,
+          0.53725,
+          0.86918466,
+          0.54904286
+        ],
+        "mask_bbox": [
+          0.65248946,
+          0.53653571,
+          0.87051445,
+          0.55011429
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "Zelda II 游戏结束画面（英语版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62295778,
+          0.53582143,
+          0.90323764,
+          0.55382143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5585428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62295778,
+          0.53582143,
+          0.90323764,
+          0.55382143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The original Japanese version of Zelda II had a similar, English-language game over message: \"RETURN OF GANNON\". To retain this reference, the translator left \"RETURN OF JERRY\" entirely in English in the Japanese Underta/e script.",
+        "raw": "The original Japanese version of Zelda II had a similar, English-language game\nover message: \"RETURN OF GANNON\". To retain this reference, the translator\nleft \"RETURN OF JERRY\" entirely in English in the Japanese Underta/e script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29561341,
+          0.56568571,
+          0.90485385,
+          0.61455714
+        ],
+        "mask_bbox": [
+          0.29079546,
+          0.56497143,
+          0.90689969,
+          0.61562857
+        ],
+        "line_ids": [
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Zelda II 的日文原版也有类似的英语游戏结束文字：“RETURN OF GANNON”。为保留这个梗，译者在 Undertale 日文剧本中完整保留了英语“RETURN OF JERRY”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 58,
+            "end": 67,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.56425714,
+          0.90485385,
+          0.61812857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6295214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.56425714,
+          0.90485385,
+          0.61812857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Jerry Speaks",
+        "raw": "Jerry Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29519402,
+          0.63666429,
+          0.4273654,
+          0.65042143
+        ],
+        "mask_bbox": [
+          0.29386422,
+          0.63595,
+          0.4286952,
+          0.65149286
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "Jerry 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.62728571,
+          0.90485385,
+          0.65142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6514285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.62728571,
+          0.90485385,
+          0.65142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 916.0
+    },
+    {
+      "id": "p0128-b010",
+      "kind": "aside",
+      "source": {
+        "text": "The translator also had ~ to account for Jerry's unique text balloon, which appears above him and can't hold as much text as the standard text balloon",
+        "raw": "The translator also had ~\nto account for Jerry's\nunique text balloon,\nwhich appears above\nhim and can't hold\nas much text as the\nstandard text balloon",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12584975,
+          0.66695,
+          0.28615141,
+          0.77041429
+        ],
+        "mask_bbox": [
+          0.12451995,
+          0.66623571,
+          0.28748121,
+          0.77148571
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "译者还得考虑 Jerry 特殊的对话气泡：它出现在头顶上，能容纳的文字比标准气泡少。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12584975,
+          0.66552143,
+          0.28615141,
+          0.77398571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.12584975,
+          0.66552143,
+          0.28615141,
+          0.77398571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0128-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby designed Jerry to speak in an outdated and \"irritating meme-y\" way in English. To preserve this character trait in Japanese, the translator dropped all of the original English text and replaced it with roughly similar Japanese Internet slang that feels outdated and annoying. Jerry also tends to use the assertive and masculine Japanese pronoun ore.",
+        "raw": "Toby designed Jerry to speak in an outdated and \"irritating meme-y\" way in\nEnglish. To preserve this character trait in Japanese, the translator dropped\nall of the original English text and replaced it with roughly similar Japanese\nInternet slang that feels outdated and annoying. Jerry also tends to use the\nassertive and masculine Japanese pronoun ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29658519,
+          0.81232143,
+          0.88175633,
+          0.89858571
+        ],
+        "mask_bbox": [
+          0.29079546,
+          0.81160714,
+          0.90689969,
+          0.89965714
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "Toby 给 Jerry 设计的英语说话方式过时，而且“满嘴烦人的网络梗”。为了在日语中保留这种性格，译者放弃了原本的英文措辞，换成意思大致相近、同样过时又烦人的日语网络用语。Jerry 也常用强势、男性化的 ore（我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 105,
+            "end": 108,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29492294,
+          0.81089286,
+          0.90485385,
+          0.90215714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29492294,
+          0.81089286,
+          0.90485385,
+          0.90215714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f722ec876e6374ac6abd75919730f7bd1d970261bce826615f343d80d0e552ef"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          45
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.31,
+      884.58
+    ],
+    "text_runs": [
+      {
+        "id": "p0128-b003",
+        "blocks": [
+          "p0128-b003",
+          "p0128-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 542.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "schema_version": 3,
+  "pdf_page": 67,
+  "printed_page": "67",
+  "title": "反复调整",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.138280+00:00",
+  "reference_size": [
+    988.068756,
+    1400
+  ],
+  "physical_size_pt": [
+    502.56,
+    712.08
+  ],
+  "image_url": "/assets/p0067.jpg",
+  "image_sha256": "597a287d834e0a47e46db75575ee9b40bc45c6eeccb1a54402d91fd8dd9f8491",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0067/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0067-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Documenting the translation process for this book was exhausting - I had to wade through hundreds of spreadsheets by the end!",
+        "raw": "Documenting the\ntranslation process\nfor this book was\nexhausting - I had\nto wade through\nhundreds of\nspreadsheets by\nthe end!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73193287,
+          0.07735714,
+          0.84832153,
+          0.19535
+        ],
+        "mask_bbox": [
+          0.73061717,
+          0.07664286,
+          0.84963723,
+          0.19642143
+        ],
+        "line_ids": [
+          1,
+          6,
+          9,
+          14,
+          16,
+          21,
+          24,
+          29
+        ]
+      },
+      "translation": {
+        "text": "为了这本书记录翻译过程，真是累人：到最后，我得翻查数百份电子表格！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73193287,
+          0.07592857,
+          0.84832153,
+          0.19892143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3536642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73193287,
+          0.07592857,
+          0.84832153,
+          0.19892143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0067-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Because Undertale wasn't originally designed with Japanese fonts, font styles, and text directions in mind, text-formatting issues had to be hunted down and fixed",
+        "raw": "Because Undertale\nwasn't originally\ndesigned with\nJapanese fonts, font\nstyles, and text\ndirections in mind,\ntext-formatting issues\nhad to be hunted\ndown and fixed",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73242879,
+          0.36080714,
+          0.86799628,
+          0.49532857
+        ],
+        "mask_bbox": [
+          0.73111309,
+          0.36009286,
+          0.86931197,
+          0.4964
+        ],
+        "line_ids": [
+          60,
+          62,
+          63,
+          64,
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      "translation": {
+        "text": "Undertale 原先没有考虑日语字体、字形样式和文字方向，因此团队必须逐一找出并修正文字排版问题。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73242879,
+          0.35937857,
+          0.86799628,
+          0.4989
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6384642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73242879,
+          0.35937857,
+          0.86799628,
+          0.4989
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0067-b003",
+      "kind": "caption",
+      "source": {
+        "text": "8-4 developed its own debug tools that let the localization team jump to any point in the game and immediately see new text changes in action",
+        "raw": "8-4 developed its\nown debug tools that\nlet the localization\nteam jump to any\npoint in the game and\nimmediately see new\ntext changes in action",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73290446,
+          0.64560714,
+          0.86936258,
+          0.74945714
+        ],
+        "mask_bbox": [
+          0.73158876,
+          0.64489286,
+          0.87067827,
+          0.75052857
+        ],
+        "line_ids": [
+          70,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77
+        ]
+      },
+      "translation": {
+        "text": "8-4 自行开发了调试工具，让本地化人员能跳到游戏任意位置，立即看到文字改动后的实际效果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73290446,
+          0.64417857,
+          0.86936258,
+          0.75302857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73290446,
+          0.64417857,
+          0.86936258,
+          0.75302857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0067-b004",
+      "kind": "footer",
+      "source": {
+        "text": "Getting it Localized",
+        "raw": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56335148,
+          0.94185714,
+          0.70651966,
+          0.95239286
+        ],
+        "mask_bbox": [
+          0.56203579,
+          0.94114286,
+          0.70783536,
+          0.95346429
+        ],
+        "line_ids": [
+          78
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56335148,
+          0.94042857,
+          0.70651966,
+          0.95842857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9584285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56335148,
+          0.94042857,
+          0.70651966,
+          0.95842857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Getting it Localized",
+        "chapter_id": "chapter-58"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "85ed64c16e4c8dfa4c66f929426ef7db196fc43027a77c46bb17dc6fc9114b41"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          79
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

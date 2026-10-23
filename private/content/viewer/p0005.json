@@ -1,0 +1,977 @@
+{
+  "schema_version": 3,
+  "pdf_page": 5,
+  "printed_page": "",
+  "title": "目录",
+  "subtitle": "目录",
+  "revision": 2,
+  "updated_at": "2026-10-22T16:52:37.668155+00:00",
+  "reference_size": [
+    990.2036694159234,
+    1400
+  ],
+  "physical_size_pt": [
+    504.24,
+    712.92
+  ],
+  "image_url": "/assets/p0005.jpg",
+  "image_sha256": "4145d803e82616440c57947c927bf00962506764cbd33a20b904009cb463bb13",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0005/page.json",
+  "page_role": "contents",
+  "blocks": [
+    {
+      "id": "p0005-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Contents",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.105,
+          0.092,
+          0.29,
+          0.121
+        ],
+        "mask_bbox": [
+          0.105,
+          0.092,
+          0.29,
+          0.121
+        ]
+      },
+      "translation": {
+        "text": "目录",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.105,
+          0.092,
+          0.29,
+          0.121
+        ],
+        "font_size": 32,
+        "line_height": 1.1875,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.105,
+          0.092,
+          0.29,
+          0.121
+        ],
+        "font_size": 32,
+        "leading": 38
+      }
+    },
+    {
+      "id": "p0005-b002",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Introduction",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.19857142857142857,
+          0.712,
+          0.22071428571428572
+        ],
+        "mask_bbox": [
+          0.424,
+          0.19857142857142857,
+          0.712,
+          0.22071428571428572
+        ]
+      },
+      "translation": {
+        "text": "引言",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.19857142857142857,
+          0.712,
+          0.22071428571428572
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.19857142857142857,
+          0.712,
+          0.22071428571428572
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-8",
+        "target_pdf_page": 8,
+        "printed_page": "8"
+      }
+    },
+    {
+      "id": "p0005-b003",
+      "kind": "toc-entry",
+      "source": {
+        "text": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.2392857142857143,
+          0.712,
+          0.26142857142857145
+        ],
+        "mask_bbox": [
+          0.424,
+          0.2392857142857143,
+          0.712,
+          0.26142857142857145
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.2392857142857143,
+          0.712,
+          0.26142857142857145
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.2392857142857143,
+          0.712,
+          0.26142857142857145
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-14",
+        "target_pdf_page": 14,
+        "printed_page": "14"
+      }
+    },
+    {
+      "id": "p0005-b004",
+      "kind": "toc-entry",
+      "source": {
+        "text": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.2792857142857143,
+          0.712,
+          0.30142857142857143
+        ],
+        "mask_bbox": [
+          0.424,
+          0.2792857142857143,
+          0.712,
+          0.30142857142857143
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.2792857142857143,
+          0.712,
+          0.30142857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.2792857142857143,
+          0.712,
+          0.30142857142857143
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-36",
+        "target_pdf_page": 36,
+        "printed_page": "36"
+      }
+    },
+    {
+      "id": "p0005-b005",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.32071428571428573,
+          0.712,
+          0.34285714285714286
+        ],
+        "mask_bbox": [
+          0.424,
+          0.32071428571428573,
+          0.712,
+          0.34285714285714286
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.32071428571428573,
+          0.712,
+          0.34285714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.32071428571428573,
+          0.712,
+          0.34285714285714286
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-58",
+        "target_pdf_page": 58,
+        "printed_page": "58"
+      }
+    },
+    {
+      "id": "p0005-b006",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Starting the Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.36142857142857143,
+          0.712,
+          0.38357142857142856
+        ],
+        "mask_bbox": [
+          0.424,
+          0.36142857142857143,
+          0.712,
+          0.38357142857142856
+        ]
+      },
+      "translation": {
+        "text": "开始游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.36142857142857143,
+          0.712,
+          0.38357142857142856
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.36142857142857143,
+          0.712,
+          0.38357142857142856
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-72",
+        "target_pdf_page": 72,
+        "printed_page": "72"
+      }
+    },
+    {
+      "id": "p0005-b007",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.40285714285714286,
+          0.712,
+          0.425
+        ],
+        "mask_bbox": [
+          0.424,
+          0.40285714285714286,
+          0.712,
+          0.425
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.40285714285714286,
+          0.712,
+          0.425
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.40285714285714286,
+          0.712,
+          0.425
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-80",
+        "target_pdf_page": 80,
+        "printed_page": "80"
+      }
+    },
+    {
+      "id": "p0005-b008",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.44357142857142856,
+          0.712,
+          0.4657142857142857
+        ],
+        "mask_bbox": [
+          0.424,
+          0.44357142857142856,
+          0.712,
+          0.4657142857142857
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.44357142857142856,
+          0.712,
+          0.4657142857142857
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.44357142857142856,
+          0.712,
+          0.4657142857142857
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-106",
+        "target_pdf_page": 106,
+        "printed_page": "106"
+      }
+    },
+    {
+      "id": "p0005-b009",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.48428571428571426,
+          0.712,
+          0.5064285714285715
+        ],
+        "mask_bbox": [
+          0.424,
+          0.48428571428571426,
+          0.712,
+          0.5064285714285715
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.48428571428571426,
+          0.712,
+          0.5064285714285715
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.48428571428571426,
+          0.712,
+          0.5064285714285715
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-156",
+        "target_pdf_page": 156,
+        "printed_page": "156"
+      }
+    },
+    {
+      "id": "p0005-b010",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.525,
+          0.712,
+          0.5471428571428572
+        ],
+        "mask_bbox": [
+          0.424,
+          0.525,
+          0.712,
+          0.5471428571428572
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.525,
+          0.712,
+          0.5471428571428572
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.525,
+          0.712,
+          0.5471428571428572
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-184",
+        "target_pdf_page": 184,
+        "printed_page": "184"
+      }
+    },
+    {
+      "id": "p0005-b011",
+      "kind": "toc-entry",
+      "source": {
+        "text": "The Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.5657142857142857,
+          0.712,
+          0.5878571428571429
+        ],
+        "mask_bbox": [
+          0.424,
+          0.5657142857142857,
+          0.712,
+          0.5878571428571429
+        ]
+      },
+      "translation": {
+        "text": "核心",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.5657142857142857,
+          0.712,
+          0.5878571428571429
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.5657142857142857,
+          0.712,
+          0.5878571428571429
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-214",
+        "target_pdf_page": 214,
+        "printed_page": "214"
+      }
+    },
+    {
+      "id": "p0005-b012",
+      "kind": "toc-entry",
+      "source": {
+        "text": "New Home",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.6071428571428571,
+          0.712,
+          0.6292857142857143
+        ],
+        "mask_bbox": [
+          0.424,
+          0.6071428571428571,
+          0.712,
+          0.6292857142857143
+        ]
+      },
+      "translation": {
+        "text": "新家",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.6071428571428571,
+          0.712,
+          0.6292857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.6071428571428571,
+          0.712,
+          0.6292857142857143
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-224",
+        "target_pdf_page": 224,
+        "printed_page": "224"
+      }
+    },
+    {
+      "id": "p0005-b013",
+      "kind": "toc-entry",
+      "source": {
+        "text": "True Lab",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.6485714285714286,
+          0.712,
+          0.6707142857142857
+        ],
+        "mask_bbox": [
+          0.424,
+          0.6485714285714286,
+          0.712,
+          0.6707142857142857
+        ]
+      },
+      "translation": {
+        "text": "真正的实验室",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.6485714285714286,
+          0.712,
+          0.6707142857142857
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.6485714285714286,
+          0.712,
+          0.6707142857142857
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-230",
+        "target_pdf_page": 230,
+        "printed_page": "230"
+      }
+    },
+    {
+      "id": "p0005-b014",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.6892857142857143,
+          0.712,
+          0.7114285714285714
+        ],
+        "mask_bbox": [
+          0.424,
+          0.6892857142857143,
+          0.712,
+          0.7114285714285714
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.6892857142857143,
+          0.712,
+          0.7114285714285714
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.6892857142857143,
+          0.712,
+          0.7114285714285714
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-236",
+        "target_pdf_page": 236,
+        "printed_page": "236"
+      }
+    },
+    {
+      "id": "p0005-b015",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Ending",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.73,
+          0.712,
+          0.7521428571428571
+        ],
+        "mask_bbox": [
+          0.424,
+          0.73,
+          0.712,
+          0.7521428571428571
+        ]
+      },
+      "translation": {
+        "text": "结局",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.73,
+          0.712,
+          0.7521428571428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.73,
+          0.712,
+          0.7521428571428571
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-252",
+        "target_pdf_page": 252,
+        "printed_page": "252"
+      }
+    },
+    {
+      "id": "p0005-b016",
+      "kind": "toc-entry",
+      "source": {
+        "text": "Final Thoughts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.424,
+          0.7707142857142857,
+          0.712,
+          0.7928571428571428
+        ],
+        "mask_bbox": [
+          0.424,
+          0.7707142857142857,
+          0.712,
+          0.7928571428571428
+        ]
+      },
+      "translation": {
+        "text": "结语",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.424,
+          0.7707142857142857,
+          0.712,
+          0.7928571428571428
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#eeeeee",
+        "mask_color": "#000000",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.424,
+          0.7707142857142857,
+          0.712,
+          0.7928571428571428
+        ],
+        "font_size": 20,
+        "leading": 28
+      },
+      "structure": {
+        "role": "toc-entry",
+        "chapter_id": "chapter-260",
+        "target_pdf_page": 260,
+        "printed_page": "260"
+      }
+    }
+  ]
+}

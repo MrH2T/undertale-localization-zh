@@ -1,0 +1,826 @@
+{
+  "schema_version": 3,
+  "pdf_page": 108,
+  "printed_page": "108",
+  "title": "雪镇：Sans 登场",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:37:49.126766+00:00",
+  "reference_size": [
+    978.67969,
+    1400
+  ],
+  "physical_size_pt": [
+    498.12,
+    712.56
+  ],
+  "image_url": "/assets/p0108.jpg",
+  "image_sha256": "aed779cc14f42f5da74e8653a0633deb3d8c7018d88cfdb7927f8e69e5b4b352",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0108/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0108-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Snowdin",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29733937,
+          0.04857143,
+          0.87362598,
+          0.07785714
+        ],
+        "mask_bbox": [
+          0.29601105,
+          0.04785714,
+          0.8749543,
+          0.07892857
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29733937,
+          0.04285714,
+          0.88384382,
+          0.08
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29733937,
+          0.04285714,
+          0.88384382,
+          0.08
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Screwball Skeletons Puzzle Wandering Human",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29733937,
+          0.09142857,
+          0.87362598,
+          0.105
+        ],
+        "mask_bbox": [
+          0.29601105,
+          0.09071429,
+          0.8749543,
+          0.10607143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "古怪骷髅，难住游荡的人类",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2979269,
+          0.083,
+          0.90867319,
+          0.10714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2979269,
+          0.083,
+          0.90867319,
+          0.10714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Beyond the underground ruins lies a vast land of snow filled with outlandish monsters and tricky traps. The lights of a small town twinkle in the distance.",
+        "raw": "Beyond the underground ruins lies a vast land of snow filled with outlandish\nmonsters and tricky traps. The lights of a small town twinkle in the distance.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29819767,
+          0.12997143,
+          0.87887795,
+          0.15677143
+        ],
+        "mask_bbox": [
+          0.29473382,
+          0.12925714,
+          0.91071676,
+          0.15784286
+        ],
+        "line_ids": [
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "text": "地下遗迹之外，是一片辽阔的雪地，古怪的怪物和刁钻的陷阱遍布其中。远方闪烁着一座小镇的灯火。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29677739,
+          0.11714286,
+          0.90867319,
+          0.15857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29677739,
+          0.11714286,
+          0.90867319,
+          0.15857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b004",
+      "kind": "heading",
+      "source": {
+        "text": "Presenting Sans",
+        "raw": "Presenting Sans",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29829985,
+          0.17331429,
+          0.46430922,
+          0.18664286
+        ],
+        "mask_bbox": [
+          0.29697152,
+          0.1726,
+          0.46563754,
+          0.18771429
+        ],
+        "line_ids": [
+          3
+        ]
+      },
+      "translation": {
+        "text": "Sans 登场",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29836115,
+          0.16299999999999998,
+          0.90836666,
+          0.18714285714285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.18714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29836115,
+          0.16299999999999998,
+          0.90836666,
+          0.18714285714285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 266
+    },
+    {
+      "id": "p0108-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Random trivia: A web comic about a skeleton named \"Helvetica\" inspired Toby to name Undertale's skeletons after fonts too",
+        "raw": "Random trivia: A web\ncomic about a skeleton\nnamed \"Helvetica\"\ninspired Toby to name\nUndertale's skeletons\nafter fonts too",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12705894,
+          0.20205,
+          0.27581036,
+          0.2915
+        ],
+        "mask_bbox": [
+          0.12573062,
+          0.20133571,
+          0.27713868,
+          0.29257143
+        ],
+        "line_ids": [
+          4,
+          6,
+          10,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "冷知识：一部以名为“Helvetica”的骷髅为主角的网络漫画，启发 Toby 也用字体给 Undertale 的骷髅命名。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 46,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750525,
+          0.20062143,
+          0.27581036,
+          0.29507143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5418214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750525,
+          0.20062143,
+          0.27581036,
+          0.29507143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "A goofy skeleton named Sans plays a major role in Undertale. His name comes from a popular - and notorious - English computer font known as \"Comic Sans\". Unsurprisingly, Sans' English dialogue text uses the Comic Sans font.",
+        "raw": "A goofy skeleton named Sans plays a major role in Undertale. His name comes\nfrom a popular - and notorious - English computer font known as \"Comic\nSans\". Unsurprisingly, Sans' English dialogue text uses the Comic Sans font.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29677739,
+          0.36652857,
+          0.89518564,
+          0.4141
+        ],
+        "mask_bbox": [
+          0.29473382,
+          0.36581429,
+          0.91071676,
+          0.41517143
+        ],
+        "line_ids": [
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "名叫 Sans 的滑稽骷髅在 Undertale 中扮演着重要角色。他的名字来自一种很流行、也臭名昭著的英文电脑字体“Comic Sans”。不出所料，Sans 的英语台词用的正是 Comic Sans 字体。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2979269,
+          0.3651,
+          0.90867319,
+          0.41767143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5435714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2979269,
+          0.3651,
+          0.90867319,
+          0.41767143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before he released Undertale in English, Toby already hoped to release a Japanese version of the game someday. But he was concerned that the connection between the name \"Sans\" and the English \"Comic Sans\" font might be lost on Japanese players. For this reason, 8-4’s localization team initially suggested naming Sans \"Pop\", in reference to a similarly popular-but-notorious Japanese font known as \"Sōeikaku Pop-tai\".",
+        "raw": "Before he released Undertale in English, Toby already hoped to release\na Japanese version of the game someday. But he was concerned that the\nconnection between the name \"Sans\" and the English \"Comic Sans\" font might\nbe Jost on Japanese players. For this reason, 8-4's localization team initially\nsuggested naming Sans \"Pop\", in reference to a similarly popular-but-notorious\nJapanese font known as \"Siieikaku Pop-tai\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29765612,
+          0.43052143,
+          0.90867319,
+          0.53332857
+        ],
+        "mask_bbox": [
+          0.29473382,
+          0.42980714,
+          0.91071676,
+          0.5344
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "在 Undertale 英语版发行之前，Toby 就希望有朝一日推出日语版。但他担心日本玩家无法理解“Sans”这个名字与英文字体“Comic Sans”之间的联系。因此，8-4 的本地化团队最初建议把 Sans 改名为“Pop”，对应同样流行、同样恶名在外的日文字体“Sōeikaku Pop-tai”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2979269,
+          0.42909286,
+          0.90867319,
+          0.5369
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5435714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0108-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.2979269,
+          0.42909286,
+          0.90867319,
+          0.5369
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b008",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Toby asks me about bad Japanese fonts in 2015, before Undertale's English release",
+        "raw": "LEFT: Toby asks me\nabout bad Japanese\nfonts in 2015, before\nUndertale's English\nrelease",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1424368,
+          0.54896429,
+          0.27143712,
+          0.62226429
+        ],
+        "mask_bbox": [
+          0.14110848,
+          0.54825,
+          0.27276544,
+          0.62333571
+        ],
+        "line_ids": [
+          24,
+          27,
+          30,
+          32,
+          34
+        ]
+      },
+      "translation": {
+        "text": "左：2015年，Undertale 英语版发行前，Toby 向我打听难看的日文字体。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750525,
+          0.54753571,
+          0.27238228,
+          0.62583571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6256928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750525,
+          0.54753571,
+          0.27238228,
+          0.62583571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b009",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Sans is referred to as \"Pop\" in an early draft of the Japanese localization",
+        "raw": "RIGHT: Sans is referred\nto as \"Pop\" in an early\ndraft of the Japanese\nlocalization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13049213,
+          0.63283571,
+          0.27184584,
+          0.69131429
+        ],
+        "mask_bbox": [
+          0.12916381,
+          0.63212143,
+          0.27317416,
+          0.69238571
+        ],
+        "line_ids": [
+          37,
+          38,
+          41,
+          43
+        ]
+      },
+      "translation": {
+        "text": "右：日语本地化早期稿件中的 Sans 被叫作“Pop”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11750525,
+          0.63140714,
+          0.27238228,
+          0.69488571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11750525,
+          0.63140714,
+          0.27238228,
+          0.69488571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "The name \"Pop\" had drawbacks, however: early fans were already attached to Sans' name, the Siieikaku Pop-tai font was a slightly more professional font than Comic Sans, and the name had a very different ring to it. So it wasn't too surprising when the team decided to revert \"Pop\" back to \"Sans\" a few months before the Japanese game's release.",
+        "raw": "The name \"Pop\" had drawbacks, however: early fans were already attached\nto Sans' name, the Siieikaku Pop-tai font was a slightly more professional font\nthan Comic Sans, and the name had a very different ring to it. So it wasn't too\nsurprising when the team decided to revert \"Pop\" back to \"Sans\" a few months\nbefore the Japanese game's release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29906618,
+          0.70458571,
+          0.90482107,
+          0.78930714
+        ],
+        "mask_bbox": [
+          0.29473382,
+          0.70387143,
+          0.91071676,
+          0.79037857
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "不过，“Pop”也有缺点：早期粉丝已经对 Sans 的名字产生了感情，Sōeikaku Pop-tai 比 Comic Sans 略显专业，而且新名字听起来很不一样。因此，团队在日语版发行前几个月决定把“Pop”改回“Sans”，也就并不令人意外了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2979269,
+          0.70315714,
+          0.90867319,
+          0.79287857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2979269,
+          0.70315714,
+          0.90867319,
+          0.79287857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0108-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Because Undertale relies so much on different fonts and font-related jokes, Japanese fans have had a lot to say about the official localization's font choices. This is good example of how the localization process, by its very nature, can produce new, significant debate over matters that never concerned the original audience.",
+        "raw": "Because Undertale relies so much on different fonts and font-related\njokes, Japanese fans have had a lot to say about the official localization's\nfont choices. This is good example of how the localization process, by its\nvery nature, can produce new, significant debate over matters that never\nconcerned the original audience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31781593,
+          0.81807857,
+          0.87503604,
+          0.89171429
+        ],
+        "mask_bbox": [
+          0.31648761,
+          0.81736429,
+          0.87636436,
+          0.89278571
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "Undertale 大量运用不同字体及字体相关的笑话，因此日本粉丝对官方本地化的字体选择有许多意见。这很好地说明，本地化过程本身就可能让原版受众从未在意的问题，变成新的重大争论。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31781593,
+          0.81665,
+          0.90867319,
+          0.89528571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8992857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31781593,
+          0.81665,
+          0.90867319,
+          0.89528571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "ad87917c145c1294ad3ec13a9abfc0be494030423144f9b4b0a5c81f032a5890"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5,
+          7,
+          8,
+          9,
+          11,
+          25,
+          26,
+          28,
+          29,
+          31,
+          33,
+          35,
+          36,
+          39,
+          40,
+          42,
+          54
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.58,
+      889.3
+    ],
+    "text_runs": [
+      {
+        "id": "p0108-b006",
+        "blocks": [
+          "p0108-b006",
+          "p0108-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 761.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,213 @@
+{
+  "schema_version": 3,
+  "pdf_page": 56,
+  "printed_page": "56",
+  "title": "业界的认可",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    982.311321,
+    1400
+  ],
+  "physical_size_pt": [
+    499.8,
+    712.32
+  ],
+  "image_url": "/assets/p0056.jpg",
+  "image_sha256": "83adfd3f1052354ac8c83ddb9ce2de06fa146b245ef7df29f6ce5f5e7587c1db",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0056/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0056-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale is highly regarded by famous video game celebrities and experts in Japan",
+        "raw": "Undertale is\nhighly regarded by\nfamous video game\ncelebrities and\nexperts in Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14113652,
+          0.43909286,
+          0.2633381,
+          0.51267143
+        ],
+        "mask_bbox": [
+          0.13981311,
+          0.43837857,
+          0.26466151,
+          0.51374286
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "日本的知名游戏人物与专家，对 Undertale 评价很高。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14113652,
+          0.43766429,
+          0.2633381,
+          0.51624286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5240285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.14113652,
+          0.43766429,
+          0.2633381,
+          0.51624286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0056-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Toby meets Shigesato ~ ltoi, the legendary creator of the MOTHER! EarthBound series",
+        "raw": "Toby meets Shigesato ~\nltoi, the legendary\ncreator of the MOTHER!\nEarthBound series",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11748821,
+          0.53117143,
+          0.27997234,
+          0.58850714
+        ],
+        "mask_bbox": [
+          0.1161648,
+          0.53045714,
+          0.28129575,
+          0.58957857
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "Toby 与 MOTHER／EarthBound 系列的传奇创作者 Shigesato Itoi（糸井重里）会面。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 14,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11748821,
+          0.52974286,
+          0.27997234,
+          0.59207857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11748821,
+          0.52974286,
+          0.27997234,
+          0.59207857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "11edbeb014aa925059998d0149ace2fb2e8d006c809557d4c7aea2b4b94201ae"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          10
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292,
+      893
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

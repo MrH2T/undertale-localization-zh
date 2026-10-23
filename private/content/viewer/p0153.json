@@ -1,0 +1,2245 @@
+{
+  "schema_version": 3,
+  "pdf_page": 153,
+  "printed_page": "153",
+  "title": "打错电话歌",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.747626+00:00",
+  "reference_size": [
+    982.096584,
+    1400
+  ],
+  "physical_size_pt": [
+    500.28,
+    713.16
+  ],
+  "image_url": "/assets/p0153.jpg",
+  "image_sha256": "62c0ee6abe5b4da8129e79e2e8043faea60397c3ac1e6793a5c5b7f11ebafdc3",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0153/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0153-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Wrong Number Song",
+        "raw": "Wrong Number Song",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09400297,
+          0.05762857,
+          0.3112423,
+          0.07108571
+        ],
+        "mask_bbox": [
+          0.09267928,
+          0.05691429,
+          0.312566,
+          0.07215714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "打错电话歌",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09254691,
+          0.048,
+          0.70340332,
+          0.072142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.072142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09254691,
+          0.048,
+          0.70340332,
+          0.072142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 105
+    },
+    {
+      "id": "p0153-b002",
+      "kind": "aside",
+      "source": {
+        "text": "PROTIP: It's bad manners to sing a song if you dial the wrong number",
+        "raw": "PROTIP: It's bad\nmanners to sing a\nsong if you dial the\nwrong number",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7305086,
+          0.08777857,
+          0.84822615,
+          0.14378571
+        ],
+        "mask_bbox": [
+          0.7291849,
+          0.08706429,
+          0.84954984,
+          0.14485714
+        ],
+        "line_ids": [
+          2,
+          9,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "高手提示：打错电话后给对方唱歌，可不礼貌。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7305086,
+          0.08635,
+          0.87853884,
+          0.14735714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8221428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7305086,
+          0.08635,
+          0.87853884,
+          0.14735714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "After asking to speak to \"G\", the mystery caller apologizes for dialing the wrong number. The apology is in the form of a song accompanied by a short musical melody. The inclusion of this music allows English-speaking players to sing along during this scene.",
+        "raw": "After asking to speak to \"G\", the mystery caller apologizes for dialing the wrong\nnumber. The apology is in the form of a song accompanied by a short musical\nmelody. The inclusion of this music allows English-speaking players to sing\nalong during this scene.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09158977,
+          0.25876429,
+          0.70340332,
+          0.32712143
+        ],
+        "mask_bbox": [
+          0.08955331,
+          0.25805,
+          0.70543978,
+          0.32819286
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "神秘来电者想找“G”，随后为打错电话道歉。不过，这份歉意是一首伴有短小旋律的歌。有了音乐，英语玩家也能跟着唱。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09254691,
+          0.25733571,
+          0.70340332,
+          0.33069286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4014285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09254691,
+          0.25733571,
+          0.70340332,
+          0.33069286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "To ensure that Japanese players could enjoy and sing along to the same tune, the translator rewrote the song lyrics to use Japanese words that match the original music:",
+        "raw": "To ensure that Japanese players could enjoy and sing along to the same tune,\nthe translator rewrote the song lyrics to use Japanese words that match the\noriginal music:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09339204,
+          0.3419,
+          0.68203068,
+          0.3914
+        ],
+        "mask_bbox": [
+          0.08955331,
+          0.34118571,
+          0.70543978,
+          0.39247143
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "为了让日本玩家也能欣赏并跟唱同一首曲子，译者重新填词，让日语配合原来的旋律：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09254691,
+          0.34047143,
+          0.70340332,
+          0.39497143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4014285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0153-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09254691,
+          0.34047143,
+          0.70340332,
+          0.39497143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Original English lyrics",
+        "raw": "Original English lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11253476,
+          0.4194,
+          0.27575699,
+          0.43117857
+        ],
+        "mask_bbox": [
+          0.11121106,
+          0.41868571,
+          0.27708069,
+          0.43225
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "英语歌词大意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11253476,
+          0.41797143,
+          0.29315854,
+          0.43597143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.43597142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#505050"
+      },
+      "calibration": {
+        "bbox": [
+          0.11253476,
+          0.41797143,
+          0.29315854,
+          0.43597143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese lyrics",
+        "raw": "Japanese lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31557996,
+          0.4194,
+          0.43119995,
+          0.43117857
+        ],
+        "mask_bbox": [
+          0.31425626,
+          0.41868571,
+          0.43252365,
+          0.43225
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "日语歌词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31557996,
+          0.41797143,
+          0.4961121,
+          0.43597143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.43597142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#505050"
+      },
+      "calibration": {
+        "bbox": [
+          0.31557996,
+          0.41797143,
+          0.4961121,
+          0.43597143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese meaning",
+        "raw": "Japanese meaning",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51851316,
+          0.4194,
+          0.66003692,
+          0.43117857
+        ],
+        "mask_bbox": [
+          0.51718946,
+          0.41868571,
+          0.66136061,
+          0.43225
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "日语歌词含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51851316,
+          0.41797143,
+          0.69525748,
+          0.43597143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.43597142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#505050"
+      },
+      "calibration": {
+        "bbox": [
+          0.51851316,
+          0.41797143,
+          0.69525748,
+          0.43597143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "Oh it's the wrong number!",
+        "raw": "Oh it's the wrong\nnumber!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11301332,
+          0.45055714,
+          0.23683007,
+          0.47595714
+        ],
+        "mask_bbox": [
+          0.11168963,
+          0.44984286,
+          0.23815377,
+          0.47702857
+        ],
+        "line_ids": [
+          25,
+          28
+        ]
+      },
+      "translation": {
+        "text": "哦，电话打错啦！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11301332,
+          0.44912857,
+          0.29315854,
+          0.47952857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47952857142857147,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11301332,
+          0.44912857,
+          0.29315854,
+          0.47952857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "machigae-ta yo!",
+        "raw": "machigae-ta yo!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31600762,
+          0.45055714,
+          0.43344006,
+          0.46079286
+        ],
+        "mask_bbox": [
+          0.31468392,
+          0.44984286,
+          0.43476376,
+          0.46186429
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "machigae~ta yo!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31600762,
+          0.44912857,
+          0.4961121,
+          0.46712857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46712857142857145,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31600762,
+          0.44912857,
+          0.4961121,
+          0.46712857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "I/we got it wrong!",
+        "raw": "I/we got it wrong!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51961284,
+          0.45055714,
+          0.64770615,
+          0.46079286
+        ],
+        "mask_bbox": [
+          0.51828915,
+          0.44984286,
+          0.64902985,
+          0.46186429
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "我／我们弄错啦！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51961284,
+          0.44912857,
+          0.69525748,
+          0.46712857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46712857142857145,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51961284,
+          0.44912857,
+          0.69525748,
+          0.46712857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "The wrong number song!",
+        "raw": "The wrong number\nsong!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11167944,
+          0.48658571,
+          0.24979213,
+          0.51195
+        ],
+        "mask_bbox": [
+          0.11035574,
+          0.48587143,
+          0.25111583,
+          0.51302143
+        ],
+        "line_ids": [
+          29,
+          32
+        ]
+      },
+      "translation": {
+        "text": "这首打错电话歌！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11167944,
+          0.48515714,
+          0.29315854,
+          0.51552143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5155214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11167944,
+          0.48515714,
+          0.29315854,
+          0.51552143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "gomen nachai!",
+        "raw": "gomen nachai!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31555959,
+          0.48658571,
+          0.42138422,
+          0.49682143
+        ],
+        "mask_bbox": [
+          0.3142359,
+          0.48587143,
+          0.42270792,
+          0.49789286
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "gomen nachai!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31555959,
+          0.48515714,
+          0.4961121,
+          0.50315714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5031571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31555959,
+          0.48515714,
+          0.4961121,
+          0.50315714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "So sowwy!",
+        "raw": "So sowwy!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51936847,
+          0.48658571,
+          0.59472766,
+          0.49682143
+        ],
+        "mask_bbox": [
+          0.51804477,
+          0.48587143,
+          0.59605136,
+          0.49789286
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "对不起嘛！（幼儿口吻）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51936847,
+          0.48515714,
+          0.69525748,
+          0.50315714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5031571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51936847,
+          0.48515714,
+          0.69525748,
+          0.50315714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "We're very very sorry",
+        "raw": "We're very very sorry",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11317624,
+          0.52964286,
+          0.26293748,
+          0.53987857
+        ],
+        "mask_bbox": [
+          0.11185254,
+          0.52892857,
+          0.26426118,
+          0.54095
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "我们真的非常抱歉",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11317624,
+          0.52821429,
+          0.29315854,
+          0.54621429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5462142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11317624,
+          0.52821429,
+          0.29315854,
+          0.54621429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "kake machigaeta yo",
+        "raw": "kake machigaeta yo",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31648618,
+          0.52964286,
+          0.45693062,
+          0.53987857
+        ],
+        "mask_bbox": [
+          0.31516249,
+          0.52892857,
+          0.45825432,
+          0.54095
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "kake machigaeta yo",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31648618,
+          0.52821429,
+          0.4961121,
+          0.54621429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5462142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31648618,
+          0.52821429,
+          0.4961121,
+          0.54621429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "I/we dialed the wrong number",
+        "raw": "I/we dialed the wrong\nnumber",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51972485,
+          0.52964286,
+          0.67589075,
+          0.55435
+        ],
+        "mask_bbox": [
+          0.51840115,
+          0.52892857,
+          0.67721445,
+          0.55542143
+        ],
+        "line_ids": [
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "我／我们拨错号码了",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51972485,
+          0.52821429,
+          0.69525748,
+          0.55792143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5579214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51972485,
+          0.52821429,
+          0.69525748,
+          0.55792143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "that we got it wrong",
+        "raw": "that we got it wrong",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11265694,
+          0.56430714,
+          0.26044282,
+          0.57454286
+        ],
+        "mask_bbox": [
+          0.11133325,
+          0.56359286,
+          0.26176651,
+          0.57561429
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "竟然打错了电话",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11265694,
+          0.56287857,
+          0.29315854,
+          0.58087857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5808785714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11265694,
+          0.56287857,
+          0.29315854,
+          0.58087857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "kimazui yo!",
+        "raw": "kimazui yo!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31646582,
+          0.56430714,
+          0.39876933,
+          0.57454286
+        ],
+        "mask_bbox": [
+          0.31514212,
+          0.56359286,
+          0.40009303,
+          0.57561429
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "kimazui yo!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31646582,
+          0.56287857,
+          0.4961121,
+          0.58087857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5808785714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31646582,
+          0.56287857,
+          0.4961121,
+          0.58087857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "How awkward of me/ us!",
+        "raw": "How awkward of me/\nus!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51974521,
+          0.56397143,
+          0.67234731,
+          0.58936429
+        ],
+        "mask_bbox": [
+          0.51842152,
+          0.56325714,
+          0.67367101,
+          0.59043571
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "真尴尬呀！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51974521,
+          0.56254286,
+          0.69525748,
+          0.59293571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5929357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51974521,
+          0.56254286,
+          0.69525748,
+          0.59293571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "Oh it's the wrong number!",
+        "raw": "Oh it's the wrong\nnumber!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11301332,
+          0.60738571,
+          0.23655515,
+          0.63242857
+        ],
+        "mask_bbox": [
+          0.11168963,
+          0.60667143,
+          0.23787884,
+          0.6335
+        ],
+        "line_ids": [
+          41,
+          44
+        ]
+      },
+      "translation": {
+        "text": "哦，电话打错啦！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11301332,
+          0.60595714,
+          0.29315854,
+          0.636
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.636,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11301332,
+          0.60595714,
+          0.29315854,
+          0.636
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "machigae-ta yo!",
+        "raw": "machigae-ta yo!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31600762,
+          0.60738571,
+          0.43391863,
+          0.61762143
+        ],
+        "mask_bbox": [
+          0.31468392,
+          0.60667143,
+          0.43524232,
+          0.61869286
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "machigae~ta yo!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31600762,
+          0.60595714,
+          0.4961121,
+          0.62395714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6239571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31600762,
+          0.60595714,
+          0.4961121,
+          0.62395714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "I/we got it wrong!",
+        "raw": "I/we got it wrong!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.52011178,
+          0.60738571,
+          0.64941678,
+          0.61762143
+        ],
+        "mask_bbox": [
+          0.51878808,
+          0.60667143,
+          0.65074048,
+          0.61869286
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "我／我们弄错啦！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.52011178,
+          0.60595714,
+          0.69525748,
+          0.62395714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6239571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.52011178,
+          0.60595714,
+          0.69525748,
+          0.62395714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "The wrong number song!",
+        "raw": "The wrong number\nsong!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11167944,
+          0.64237857,
+          0.24917101,
+          0.66744286
+        ],
+        "mask_bbox": [
+          0.11035574,
+          0.64166429,
+          0.25049471,
+          0.66851429
+        ],
+        "line_ids": [
+          45,
+          48
+        ]
+      },
+      "translation": {
+        "text": "这首打错电话歌！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11167944,
+          0.64095,
+          0.29315854,
+          0.67101429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6710142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11167944,
+          0.64095,
+          0.29315854,
+          0.67101429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "gomen nachai!",
+        "raw": "gomen nachai!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31555959,
+          0.64204286,
+          0.42118057,
+          0.65227857
+        ],
+        "mask_bbox": [
+          0.3142359,
+          0.64132857,
+          0.42250427,
+          0.65335
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "gomen nachai!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31555959,
+          0.64061429,
+          0.4961121,
+          0.65861429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6586142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31555959,
+          0.64061429,
+          0.4961121,
+          0.65861429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "So sowwy!",
+        "raw": "So sowwy!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51936847,
+          0.64237857,
+          0.59472766,
+          0.65262143
+        ],
+        "mask_bbox": [
+          0.51804477,
+          0.64166429,
+          0.59605136,
+          0.65369286
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "对不起嘛！（幼儿口吻）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51936847,
+          0.64095,
+          0.69525748,
+          0.65895
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.65895,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51936847,
+          0.64095,
+          0.69525748,
+          0.65895
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "We're very very sorry",
+        "raw": "We're very very sorry",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11317624,
+          0.68579286,
+          0.26306985,
+          0.69602857
+        ],
+        "mask_bbox": [
+          0.11185254,
+          0.68507857,
+          0.26439355,
+          0.6971
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "我们真的非常抱歉",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11317624,
+          0.68436429,
+          0.29315854,
+          0.70236429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7023642857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11317624,
+          0.68436429,
+          0.29315854,
+          0.70236429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b027",
+      "kind": "table-cell",
+      "source": {
+        "text": "kake machigaeta yo",
+        "raw": "kake machigaeta yo",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31648618,
+          0.68579286,
+          0.45740919,
+          0.69602857
+        ],
+        "mask_bbox": [
+          0.31516249,
+          0.68507857,
+          0.45873289,
+          0.6971
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "kake machigaeta yo",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31648618,
+          0.68436429,
+          0.4961121,
+          0.70236429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7023642857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31648618,
+          0.68436429,
+          0.4961121,
+          0.70236429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b028",
+      "kind": "table-cell",
+      "source": {
+        "text": "I/we dialed the wrong number",
+        "raw": "I/we dialed the wrong\nnumber",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51974521,
+          0.68579286,
+          0.67599258,
+          0.7105
+        ],
+        "mask_bbox": [
+          0.51842152,
+          0.68507857,
+          0.67731628,
+          0.71157143
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "我／我们拨错号码了",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51974521,
+          0.68436429,
+          0.69525748,
+          0.71407143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7140714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51974521,
+          0.68436429,
+          0.69525748,
+          0.71407143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b029",
+      "kind": "table-cell",
+      "source": {
+        "text": "that we got it wrong!",
+        "raw": "that we got it wrong!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11265694,
+          0.72079286,
+          0.26583943,
+          0.73102857
+        ],
+        "mask_bbox": [
+          0.11133325,
+          0.72007857,
+          0.26716313,
+          0.7321
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "竟然打错了电话！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11265694,
+          0.71936429,
+          0.29315854,
+          0.73736429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7373642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11265694,
+          0.71936429,
+          0.29315854,
+          0.73736429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b030",
+      "kind": "table-cell",
+      "source": {
+        "text": "sayona-ra!",
+        "raw": "sayona-ra!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31598725,
+          0.72079286,
+          0.39048094,
+          0.73102857
+        ],
+        "mask_bbox": [
+          0.31466355,
+          0.72007857,
+          0.39180464,
+          0.7321
+        ],
+        "line_ids": [
+          54
+        ]
+      },
+      "translation": {
+        "text": "sayona~ra!",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31598725,
+          0.71936429,
+          0.4961121,
+          0.73736429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7373642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31598725,
+          0.71936429,
+          0.4961121,
+          0.73736429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b031",
+      "kind": "table-cell",
+      "source": {
+        "text": "Goodbye-!",
+        "raw": "Goodbye-!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51980631,
+          0.72079286,
+          0.59808781,
+          0.73102857
+        ],
+        "mask_bbox": [
+          0.51848261,
+          0.72007857,
+          0.59941151,
+          0.7321
+        ],
+        "line_ids": [
+          55
+        ]
+      },
+      "translation": {
+        "text": "再见啦——！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51980631,
+          0.71936429,
+          0.69525748,
+          0.73736429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7373642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51980631,
+          0.71936429,
+          0.69525748,
+          0.73736429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b032",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, these Japanese lyrics are completely new, yet still approximate the English lyrics in meaning and tone. The result is a funny, memorable song that Japanese players can also sing along to.",
+        "raw": "As we can see, these Japanese lyrics are completely new, yet still approximate\nthe English lyrics in meaning and tone. The result is a funny, memorable song\nthat Japanese players can also sing along to.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09254691,
+          0.76288571,
+          0.68997287,
+          0.81205
+        ],
+        "mask_bbox": [
+          0.08955331,
+          0.76217143,
+          0.70543978,
+          0.81312143
+        ],
+        "line_ids": [
+          56,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "这些日语歌词虽然全部重写了，意思与语气仍然接近英文。最后得到的歌既好笑又令人难忘，日本玩家也能跟着唱。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09254691,
+          0.76145714,
+          0.70340332,
+          0.81562143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8228571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09254691,
+          0.76145714,
+          0.70340332,
+          0.81562143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b033",
+      "kind": "aside",
+      "source": {
+        "text": "This song localization feels a lot like the Japanese \"Rudolph the Red-Nosed Reindeer\" localization we saw near the start of this book'",
+        "raw": "This song localization feels a lot like the Japanese \"Rudolph the Red-Nosed\nReindeer\" localization we saw near the start of this book'",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11120088,
+          0.84160714,
+          0.68064589,
+          0.86801429
+        ],
+        "mask_bbox": [
+          0.10987718,
+          0.84089286,
+          0.68196959,
+          0.86908571
+        ],
+        "line_ids": [
+          59,
+          60
+        ]
+      },
+      "translation": {
+        "text": "这首歌的本地化，很像本书开头提到的《红鼻子驯鹿鲁道夫》日语改编！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11120088,
+          0.84017857,
+          0.68064589,
+          0.87158571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11120088,
+          0.84017857,
+          0.68064589,
+          0.87158571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0153-b034",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64078219,
+          0.93190714,
+          0.70457429,
+          0.94200714
+        ],
+        "mask_bbox": [
+          0.63945849,
+          0.93119286,
+          0.70589799,
+          0.94307857
+        ],
+        "line_ids": [
+          61
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64078219,
+          0.93047857,
+          0.70457429,
+          0.94847857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9484785714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64078219,
+          0.93047857,
+          0.70457429,
+          0.94847857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "23b42d8096998860ed9ee5a3ca538f9e867824b6d6c9527192c4a025af2c16d4"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10,
+          11,
+          12,
+          62
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      90.89,
+      690.81
+    ],
+    "text_runs": [
+      {
+        "id": "p0153-b003",
+        "blocks": [
+          "p0153-b003",
+          "p0153-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 562.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

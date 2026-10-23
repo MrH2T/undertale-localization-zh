@@ -1,0 +1,844 @@
+{
+  "schema_version": 3,
+  "pdf_page": 137,
+  "printed_page": "137",
+  "title": "人类最好的朋友",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.203021+00:00",
+  "reference_size": [
+    980.425963,
+    1400
+  ],
+  "physical_size_pt": [
+    497.16,
+    709.92
+  ],
+  "image_url": "/assets/p0137.jpg",
+  "image_sha256": "229cfeb12948b648c5c33307a1620e86f50e09c6a93e777974be967ea5e2f466",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0137/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0137-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Man's Best Friend",
+        "raw": "Man's Best Friend",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0927454,
+          0.05902857,
+          0.27696125,
+          0.07198571
+        ],
+        "mask_bbox": [
+          0.09141945,
+          0.05831429,
+          0.2782872,
+          0.07305714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "人类最好的朋友",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.04871429,
+          0.70535668,
+          0.07285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.04871429,
+          0.70535668,
+          0.07285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 106.0
+    },
+    {
+      "id": "p0137-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Japanese counter words like these are a good example of how even the most basic thing in one language can be much more complicated in another",
+        "raw": "Japanese counter\nwords like these are a\ngood example of how\neven the most basic\nthing in one language\ncan be much more\ncomplicated in another",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73222255,
+          0.08818571,
+          0.87663937,
+          0.19117857
+        ],
+        "mask_bbox": [
+          0.7308966,
+          0.08747143,
+          0.87796533,
+          0.19225
+        ],
+        "line_ids": [
+          2,
+          6,
+          8,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "日语量词说明了一件事：一种语言里很简单的表达，换到另一种语言里也许会复杂得多。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73222255,
+          0.08675714,
+          0.88079063,
+          0.19475
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73222255,
+          0.08675714,
+          0.88079063,
+          0.19475
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Defeating Dogamy and Dogaressa in battle will cause a bear in Snowdin to wonder where they went. In English, the bear says:",
+        "raw": "Defeating Dogamy and Dogaressa in battle will cause a bear in Snowdin to\nwonder where they went. In English, the bear says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09212322,
+          0.25229286,
+          0.66427249,
+          0.28259286
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.25157857,
+          0.70739661,
+          0.28366429
+        ],
+        "line_ids": [
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "打败 Dogamy 和 Dogaressa 后，Snowdin 的一只熊会纳闷它们去了哪里。英文台词是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.25086429,
+          0.70535668,
+          0.28616429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.25086429,
+          0.70535668,
+          0.28616429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Those two married dogs always put presents under the tree for each other. It's always the same. A single bone. But every time, they act like it's the first time they've gotten it. Then Papyrus comes to take his bones back. Anyway, where are those two. .. ?",
+        "raw": "Those two married dogs always put presents under the tree for each other.\nIt's always the same. A single bone. But every time, they act like it's the first\ntime they've gotten it. Then Papyrus comes to take his bones back. Anyway,\nwhere are those two. .. ?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13679768,
+          0.29725714,
+          0.70428571,
+          0.36552857
+        ],
+        "mask_bbox": [
+          0.13547173,
+          0.29654286,
+          0.70561167,
+          0.3666
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "那对狗夫妻总在树下给彼此放礼物。每次都只是一根骨头，却每次都表现得像头一回收到似的。然后 Papyrus 就来把骨头捡走。话说，那两个去哪儿了？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13679768,
+          0.29582857,
+          0.70535668,
+          0.3691
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13679768,
+          0.29582857,
+          0.70535668,
+          0.3691
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This would be relatively straightforward to translate into Japanese, except for one problem: counter words.",
+        "raw": "This would be relatively straightforward to translate into Japanese, except for\none problem: counter words.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09204163,
+          0.38007143,
+          0.69267851,
+          0.41038571
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.37935714,
+          0.70739661,
+          0.41145714
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "这些话译成日语并不难，只有一个问题：量词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.37864286,
+          0.70535668,
+          0.41395714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.37864286,
+          0.70535668,
+          0.41395714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, we usually count objects by giving a number followed the name of the object: two dogs, 420 cats, seven farts. Sometimes, though, we use special \"counter words\" to count objects or groups of objects: three \"heads\" of!ettuce, a \"n1urder\" of crows, a \"tank\" of gas.",
+        "raw": "In English, we usually count objects by giving a number followed the name of\nthe object: two dogs, 420 cats, seven farts. Sometimes, though, we use special\n\"counter words\" to count objects or groups of objects: three \"heads\" of!ettuce, a\n\"n1urder\" of crows, a \"tank\" of gas.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08606463,
+          0.42605,
+          0.70524448,
+          0.49355
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.42533571,
+          0.70739661,
+          0.49462143
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "英语中，通常用数字加名词就能计数，比如“two dogs”（两只狗）、“420 cats”（420 只猫）、“7 farts”（7 个屁）。有时也会用类似量词的表达，如三“棵”生菜（three heads of lettuce）、一“群”乌鸦（a murder of crows）、一“箱”汽油（a tank of gas）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.42462143,
+          0.70535668,
+          0.49712143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.42462143,
+          0.70535668,
+          0.49712143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, when counting objects, everything requires a counter word. For example:",
+        "raw": "In Japanese, when counting objects, everything requires a counter word. For\nexample:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09254141,
+          0.50855,
+          0.68185669,
+          0.53986429
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.50783571,
+          0.70739661,
+          0.54093571
+        ],
+        "line_ids": [
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "日语中，数什么都需要量词。例如：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.50712143,
+          0.70535668,
+          0.54343571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.50712143,
+          0.70535668,
+          0.54343571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b008",
+      "kind": "quote",
+      "source": {
+        "text": "People: 人 (nin). Small animals: 匹 (hiki). Large animals: 頭 (tō). Butterflies, for some reason: 頭 (tō). Cylindrical objects: 本 (hon). Flat objects: 枚 (mai).",
+        "raw": "People are counted with A (nin)\nSmall animals are counted with ~ (hiki)\nLarge animals are counted with l@! (to)\nButterflies are also counted with fl] (t*o) for some reason\nCylindrical objects are counted with (hon)\nFlat things are counted with t:z (mai)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13750146,
+          0.55294286,
+          0.5712211,
+          0.66011429
+        ],
+        "mask_bbox": [
+          0.10047674,
+          0.55222857,
+          0.57254706,
+          0.66118571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "• 人：人（nin）\n• 小动物：匹（hiki）\n• 大动物：頭（tō）\n• 蝴蝶：不知为何也用頭（tō）\n• 圆柱状物体：本（hon）\n• 扁平物体：枚（mai）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 19,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 33,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 50,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 67,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 78,
+            "end": 81,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13750146,
+          0.55151429,
+          0.70535668,
+          0.66368571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.13750146,
+          0.55151429,
+          0.70535668,
+          0.66368571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0137-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English Undertale script, the bear says \"those two married dogs\" and \"those two\" when referring to Dogamy and Dogaressa, but how should they be counted in Japanese? The dogs walk and talk like people, which would warrant the counter word nin. But you can also pet them and play fetch with them like ordinary dogs, which would warrant hiki. So which should it be? And, perhaps more importantly, how would the Underground's denizens count them?",
+        "raw": "In the English Undertale script, the bear says \"those two married dogs\" and\n\"those two\" when referring to Dogamy and Dogaressa, but how should they be\ncounted in Japanese? The dogs walk and talk like people, which would warrant\nthe counter word nin. But you can also pet them and play fetch with them like\nordinary dogs, which would warrant hiki. So which should it be? And, perhaps\nmore importantly, how would the Underground's denizens count them?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08655422,
+          0.6742,
+          0.70535668,
+          0.77921429
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.67348571,
+          0.70739661,
+          0.78028571
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "英文中，这只熊用“那对狗夫妻”和“那两个”指代 Dogamy 与 Dogaressa。日语该用哪个量词呢？它们像人一样走路、说话，似乎该用“人”；但它们又会让人抚摸、玩捡东西的游戏，似乎该用“匹”。更重要的是，地下世界的居民会怎样看待它们？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.67277143,
+          0.70535668,
+          0.78278571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.67277143,
+          0.70535668,
+          0.78278571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the earliest drafts of the Japanese script, the translator chose hiki when referring to Dogamy and Dogaressa. Another team member later argued for using nin instead, given that they act overall more like people than dogs. The translator agreed and changed every instance of hiki to nin ... but accidentally missed one. As a result, the bear refers to the dogs as people and as small animals in the final draft of the Japanese script.",
+        "raw": "In the earliest drafts of the Japanese script, the translator chose hiki when\nreferring to Dogamy and Dogaressa. Another team member later argued for\nusing nin instead, given that they act overall more like people than dogs. The\ntranslator agreed and changed every instance of hiki to nin ... but accidentally\nmissed one. As a result, the bear refers to the dogs as people and as small\nanimals in the final draft of the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09353077,
+          0.79386429,
+          0.68526337,
+          0.8989
+        ],
+        "mask_bbox": [
+          0.0840247,
+          0.79315,
+          0.70739661,
+          0.89997143
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "最早的译稿用了“匹”。后来，有位团队成员认为它们更像人，应该用“人”。团队于是作了替换，却漏改了一处。最终版里，这只熊既把它们当作人来数，也把它们当作小动物来数。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09208243,
+          0.79243571,
+          0.70535668,
+          0.90247143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0137-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.09208243,
+          0.79243571,
+          0.70535668,
+          0.90247143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0137-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64329182,
+          0.93750714,
+          0.7074884,
+          0.94680714
+        ],
+        "mask_bbox": [
+          0.64196586,
+          0.93679286,
+          0.70881436,
+          0.94787857
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64329182,
+          0.93607857,
+          0.7074884,
+          0.95407857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9540785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64329182,
+          0.93607857,
+          0.7074884,
+          0.95407857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c455d6264c6a7afb3f533d9c30491a8d252b366a4e84e0ba5064ac57549867dc"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          9,
+          46
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      90.28,
+      691.55
+    ],
+    "text_runs": [
+      {
+        "id": "p0137-b003",
+        "blocks": [
+          "p0137-b003",
+          "p0137-b004",
+          "p0137-b005",
+          "p0137-b006",
+          "p0137-b007",
+          "p0137-b008",
+          "p0137-b009",
+          "p0137-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

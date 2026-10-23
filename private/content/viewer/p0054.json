@@ -1,0 +1,364 @@
+{
+  "schema_version": 3,
+  "pdf_page": 54,
+  "printed_page": "54",
+  "title": "日本的玩家与活动",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    984.286676,
+    1400
+  ],
+  "physical_size_pt": [
+    501.48,
+    713.28
+  ],
+  "image_url": "/assets/p0054.jpg",
+  "image_sha256": "f568d65bf089005d1903be11715fd9410cf89f53a7755b667cd7dad56a1026cf",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0054/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0054-b001",
+      "kind": "caption",
+      "source": {
+        "text": "At a Japanese event, fans happily offered art, manga, and the like at a makeshift Undertale shrine",
+        "raw": "At a Japanese event,\nfans\nhappily offered art, manga,\nand the like at a makeshift\nUndertale\nshrine",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15571683,
+          0.29795,
+          0.3242856,
+          0.35484286
+        ],
+        "mask_bbox": [
+          0.15439608,
+          0.29723571,
+          0.32560636,
+          0.35591429
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "在日本的一场活动中，玩家高兴地向临时搭建的 Undertale 神龛献上画作、漫画等作品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 22,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.15571683,
+          0.29652143,
+          0.3242856,
+          0.35841429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3742857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.15571683,
+          0.29652143,
+          0.3242856,
+          0.35841429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0054-b002",
+      "kind": "caption",
+      "source": {
+        "text": "A small official launch party was held to celebrate Undertale's Japanese release",
+        "raw": "A small official\nlaunch party was\nheld to celebrate\nUndertale's\nJapanese release",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.79112114,
+          0.38038571,
+          0.897391,
+          0.45141429
+        ],
+        "mask_bbox": [
+          0.78980039,
+          0.37967143,
+          0.89871175,
+          0.45248571
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "官方举办了一场小型上市派对，庆祝 Undertale 日语版发行。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.79112114,
+          0.37895714,
+          0.897391,
+          0.45498571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4644428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.79112114,
+          0.37895714,
+          0.897391,
+          0.45498571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0054-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale appears on various Japanese TV shows every so often",
+        "raw": "Underta/e appears\non various\nJapanese TV shows\nevery so often",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.79143609,
+          0.47158571,
+          0.91044614,
+          0.52780714
+        ],
+        "mask_bbox": [
+          0.79011534,
+          0.47087143,
+          0.91176689,
+          0.52887857
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Undertale 不时出现在各种日本电视节目中。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.79143609,
+          0.47015714,
+          0.91044614,
+          0.53137857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6471428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.79143609,
+          0.47015714,
+          0.91044614,
+          0.53137857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0054-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Pop Team Epic, a popular Japanese entertainment series, frequently references Undertale in its jokes",
+        "raw": "Pop Team Epic, a\npopular Japanese\nentertainment series,\nfrequently references\nUndertale in its jokes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14018274,
+          0.65294286,
+          0.27297941,
+          0.72698571
+        ],
+        "mask_bbox": [
+          0.13886198,
+          0.65222857,
+          0.27430017,
+          0.72805714
+        ],
+        "line_ids": [
+          16,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "热门日本作品《Pop Team Epic》经常拿 Undertale 玩笑话。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 25,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14018274,
+          0.65151429,
+          0.27297941,
+          0.73055714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.14018274,
+          0.65151429,
+          0.27297941,
+          0.73055714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "875b8baa3cf836cac48edd0cbc9d857871ac2ddf646bde50029d15f317a219c5"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          17
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292,
+      893
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

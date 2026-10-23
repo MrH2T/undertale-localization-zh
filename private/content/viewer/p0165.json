@@ -1,0 +1,902 @@
+{
+  "schema_version": 3,
+  "pdf_page": 165,
+  "printed_page": "165",
+  "title": "美妙的鬼音乐",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.236896+00:00",
+  "reference_size": [
+    980.828402,
+    1400
+  ],
+  "physical_size_pt": [
+    497.28,
+    709.8
+  ],
+  "image_url": "/assets/p0165.jpg",
+  "image_sha256": "002ab11b8c488991859c219f33309f72e48d862ebd0a5fcce0d17e01bb3b1e69",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0165/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0165-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Bootiful Music",
+        "raw": "Bootiful Music",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09272774,
+          0.06287143,
+          0.24372255,
+          0.07654286
+        ],
+        "mask_bbox": [
+          0.09140233,
+          0.06215714,
+          0.24504796,
+          0.07761429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "美妙的鬼音乐",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09138703,
+          0.053,
+          0.69984719,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09138703,
+          0.053,
+          0.69984719,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "原题 Bootiful Music 以鬼叫 boo 替换 beautiful（美妙）的开头；中文标题保留两个含义。"
+      ],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0165-b002",
+      "kind": "aside",
+      "source": {
+        "text": "If someone handed me a song like this and asked me to translate it, I'd assume it's a trick question at first",
+        "raw": "If someone handed\nme a song like\nthis and asked me\nto translate it, I'd\nassume it's a trick\nquestion at first",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73200368,
+          0.09305714,
+          0.85116826,
+          0.1807
+        ],
+        "mask_bbox": [
+          0.73067827,
+          0.09234286,
+          0.85249367,
+          0.18177143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "如果有人拿这样的歌来让我翻译，我起初一定会以为对方在故意考我。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72839449,
+          0.09162857,
+          0.87520916,
+          0.18427143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3706000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72839449,
+          0.09162857,
+          0.87520916,
+          0.18427143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Napstablook enjoys some ghostly \"spooktunes\" with the main character. In the English script, the lyrics to one song are simply:",
+        "raw": "Napstablook enjoys some ghostly \"spooktunes\" with the main character. In the\nEnglish script, the lyrics to one song are simply:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09208542,
+          0.26585,
+          0.69984719,
+          0.29616429
+        ],
+        "mask_bbox": [
+          0.08864955,
+          0.26513571,
+          0.70188628,
+          0.29723571
+        ],
+        "line_ids": [
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Napstablook 和主角一起欣赏幽灵的“spooktunes”（鬼曲）。英语剧本里，有首歌的歌词只是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09068865,
+          0.26071429,
+          0.69984719,
+          0.30214286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3692857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09068865,
+          0.26071429,
+          0.69984719,
+          0.30214286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b004",
+      "kind": "quote",
+      "source": {
+        "text": "ooo ooo oooo\nooo ooo oooo\noo oo ooo oo ooo",
+        "raw": "000 000 0000\n000 000 0000\n00 00 000 00 000",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13678234,
+          0.31481429,
+          0.25689509,
+          0.36093571
+        ],
+        "mask_bbox": [
+          0.13545693,
+          0.3141,
+          0.2582205,
+          0.36200714
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "ooo ooo oooo\nooo ooo oooo\noo oo ooo oo ooo",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13678234,
+          0.31338571,
+          0.69984719,
+          0.36450714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.36927143285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0165-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13678234,
+          0.31338571,
+          0.69984719,
+          0.36450714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [
+        "o 是鬼叫的拟声，不是数字 0；对应含义在下文解释。"
+      ]
+    },
+    {
+      "id": "p0165-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Actual music - accompanied by spooky vocal sounds - plays while these lyrics are displayed. The song seems like random, meaningless nonsense at first, but Toby noted that the song is actually \"Jingle Bells\", the classic popular Christmas song.",
+        "raw": "Actual music - accompanied by\nspooky vocal sounds - plays while\nthese lyrics are displayed. The song\nseems like random, meaningless\nnonsense at first, but Toby noted that\nthe song is actually \"Jingle Bells\", the\nclassic popular Christmas song.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09020946,
+          0.37641429,
+          0.37940378,
+          0.49972857
+        ],
+        "mask_bbox": [
+          0.08864955,
+          0.3757,
+          0.38072919,
+          0.5008
+        ],
+        "line_ids": [
+          19,
+          23,
+          25,
+          27,
+          29,
+          31,
+          34
+        ]
+      },
+      "translation": {
+        "text": "显示这些歌词时，游戏会播放音乐，伴着经典的幽灵叫声。起初，这首歌看似随意、毫无意义，但 Toby 指出，它其实是流行的经典圣诞歌曲《铃儿响叮当》。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09068865,
+          0.37498571,
+          0.37940378,
+          0.5033
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5901428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09068865,
+          0.37498571,
+          0.37940378,
+          0.5033
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, ghosts sometimes say \"oo\" as a stereotypical spooky sound. Hoping to preserve this idea in Japanese, the translator gave the song new lyrics:",
+        "raw": "In English, ghosts sometimes say \"oo\"\nas a stereotypical spooky sound. Hoping\nto preserve this idea in Japanese, the\ntranslator gave the song new lyrics:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09210582,
+          0.51504286,
+          0.38515402,
+          0.58154286
+        ],
+        "mask_bbox": [
+          0.08864955,
+          0.51432857,
+          0.38647943,
+          0.58261429
+        ],
+        "line_ids": [
+          36,
+          38,
+          41,
+          43
+        ]
+      },
+      "translation": {
+        "text": "英语中的鬼魂有时会发出“oo”（呜——）这样的吓人叫声。为了在日语中保留这个想法，译者重新填了歌词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09068865,
+          0.51361429,
+          0.38515402,
+          0.58511429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5901428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0165-b005",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09068865,
+          0.51361429,
+          0.38515402,
+          0.58511429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b007",
+      "kind": "quote",
+      "source": {
+        "text": "u~ra~me~\nshi~ya~u~\nra~me~shi~~ya u~",
+        "raw": "u........._,ra........._,me........._,\nshi~ya~u~\nra~me~shi~~ya u~",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.137547,
+          0.59728571,
+          0.30890215,
+          0.64563571
+        ],
+        "mask_bbox": [
+          0.13622159,
+          0.59657143,
+          0.31022756,
+          0.64670714
+        ],
+        "line_ids": [
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "u～ra～me～\nshi～ya～u～\nra～me～shi～～ya u～",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.137547,
+          0.59585714,
+          0.69984719,
+          0.64920714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6542142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.137547,
+          0.59585714,
+          0.69984719,
+          0.64920714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, urameshiya (roughly \"oh, how I begn1dge you\" or \"I curse you\") is a stereotypical phrase that ghosts say, similar to how ghosts say \"boo\" or \"oo\" in some English speaking regions. Even with these new Japanese lyrics, however, the song was crafted to follow the tune of \"Jingle Bells\".",
+        "raw": "In Japanese, urameshiya (roughly\n\"oh, how I begn1dge you\" or \"I curse\nyou\") is a stereotypical phrase that\nghosts say, similar to how ghosts\nsay \"boo\" or \"oo\" in some English\nspeaking regions. Even with these\nnew Japanese lyrics, however, the\nsong was crafted to follow the tune of\n\"Jingle Bells\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08604971,
+          0.66135714,
+          0.38388978,
+          0.82161429
+        ],
+        "mask_bbox": [
+          0.0847243,
+          0.66064286,
+          0.38521519,
+          0.82268571
+        ],
+        "line_ids": [
+          47,
+          50,
+          52,
+          54,
+          56,
+          58,
+          60,
+          64,
+          66
+        ]
+      },
+      "translation": {
+        "text": "日语中的 urameshiya，大意为“我好恨你啊”或“我诅咒你”，是鬼魂常说的固定台词，类似一些英语地区的“boo”或“oo”。即使用了这套新日文歌词，歌曲仍然配合《铃儿响叮当》的旋律。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08604971,
+          0.65992857,
+          0.38388978,
+          0.82518571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8298071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08604971,
+          0.65992857,
+          0.38388978,
+          0.82518571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b009",
+      "kind": "aside",
+      "source": {
+        "text": "As we've already seen, classic Christmas songs are known in Japan, and many of them have received multiple translations into Japanese. I wonder if there are ever heated arguments about which version of \"Jingle Bells\" is the \"truer\" translation",
+        "raw": "As we've already\nseen, classic\nChristmas songs are\nknown in Japan, and\nmany of them have\nreceived multiple\ntranslations into\nJapanese. I wonder if\nthere are ever heated\narguments about\nwhich version of\n\"Jingle Bells\" is the\n\"truer\" translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72663067,
+          0.37774286,
+          0.8656764,
+          0.57497143
+        ],
+        "mask_bbox": [
+          0.72530526,
+          0.37702857,
+          0.86700181,
+          0.57604286
+        ],
+        "line_ids": [
+          21,
+          22,
+          24,
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          37,
+          39,
+          40,
+          42
+        ]
+      },
+      "translation": {
+        "text": "前面说过，经典圣诞歌曲在日本也很有名，许多还有多个日语译本。不知道人们会不会为哪个《铃儿响叮当》译本更“忠实”而争个面红耳赤。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72663067,
+          0.37631429,
+          0.87520916,
+          0.57854286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6556500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72663067,
+          0.37631429,
+          0.87520916,
+          0.57854286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b010",
+      "kind": "aside",
+      "source": {
+        "text": "In early drafts of the translation, Napstablook sang all new Japanese lyrics when listening to this spooktune",
+        "raw": "In early drafts of\nthe translation,\nNapstablook sang all\nnew Japanese lyrics\nwhen listening to this\nspooktune",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73347183,
+          0.66279286,
+          0.86987693,
+          0.75179286
+        ],
+        "mask_bbox": [
+          0.73214642,
+          0.66207857,
+          0.87120234,
+          0.75286429
+        ],
+        "line_ids": [
+          48,
+          49,
+          51,
+          53,
+          55,
+          57
+        ]
+      },
+      "translation": {
+        "text": "早期译稿中，Napstablook 听这首鬼曲时，唱的是全新日文歌词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72839449,
+          0.66136429,
+          0.87520916,
+          0.75536429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72839449,
+          0.66136429,
+          0.87520916,
+          0.75536429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "As the final draft of the Japanese translation began to solidify, Toby requested that the uremishiya lyrics be changed back to \"oo\" sounds to properly match the actual \"oo\" sound effects that accompany the music.",
+        "raw": "As the final draft of the Japanese translation began to solidify, Toby requested\nthat the uremishiya lyrics be changed back to \"oo\" sounds to properly match\nthe actual \"oo\" sound effects that accompany the music.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09068865,
+          0.83695,
+          0.68919293,
+          0.88620714
+        ],
+        "mask_bbox": [
+          0.08864955,
+          0.83623571,
+          0.70188628,
+          0.88727857
+        ],
+        "line_ids": [
+          67,
+          68,
+          69
+        ]
+      },
+      "translation": {
+        "text": "日语译稿逐渐定稿时，Toby 要求把 urameshiya 歌词改回“oo”的叫声，好与音乐中实际播放的“oo”音效一致。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09138703,
+          0.83552143,
+          0.69984719,
+          0.88977857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09138703,
+          0.83552143,
+          0.69984719,
+          0.88977857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0165-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63755291,
+          0.94229286,
+          0.7056688,
+          0.95215714
+        ],
+        "mask_bbox": [
+          0.6362275,
+          0.94157857,
+          0.70699421,
+          0.95322857
+        ],
+        "line_ids": [
+          70
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63755291,
+          0.94086429,
+          0.7056688,
+          0.95886429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9588642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63755291,
+          0.94086429,
+          0.7056688,
+          0.95886429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "260aea2d37f93e2b87fa121df52e7988ae7fd90ac9f6b8a4edb4528db6773246"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          20,
+          59,
+          61,
+          62,
+          63,
+          65,
+          71
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      89.63,
+      686.43
+    ],
+    "text_runs": [
+      {
+        "id": "p0165-b003",
+        "blocks": [
+          "p0165-b003",
+          "p0165-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 516.98
+      },
+      {
+        "id": "p0165-b005",
+        "blocks": [
+          "p0165-b005",
+          "p0165-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 826.2
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

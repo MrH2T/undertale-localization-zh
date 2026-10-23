@@ -1,0 +1,880 @@
+{
+  "schema_version": 3,
+  "pdf_page": 238,
+  "printed_page": "238",
+  "title": "最终战斗：再谈 Flowey 的说话方式",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:37:49.134774+00:00",
+  "reference_size": [
+    984.749748,
+    1400
+  ],
+  "physical_size_pt": [
+    502.56,
+    714.48
+  ],
+  "image_url": "/assets/p0238.jpg",
+  "image_sha256": "b4ca55a711b55db7665ff0a822ae09b7f028c7848b7b030dba50d6bfc667f5f6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0238/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0238-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Final Battles",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29449106,
+          0.04642857,
+          0.57882726,
+          0.075
+        ],
+        "mask_bbox": [
+          0.29317093,
+          0.04571429,
+          0.58014739,
+          0.07607143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29449106,
+          0.04142857,
+          0.90175194,
+          0.07857143
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29449106,
+          0.04142857,
+          0.90175194,
+          0.07857143
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-band"
+    },
+    {
+      "id": "p0238-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Unstoppable Human Encounters Last Line of Defense!",
+        "raw": "Unstoppable Human Encounters Last Line of Defense!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29658296,
+          0.08730714,
+          0.75404944,
+          0.09920714
+        ],
+        "mask_bbox": [
+          0.29526283,
+          0.08659286,
+          0.75536958,
+          0.10027857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "势不可挡的人类遇上最后一道防线！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.07720714,
+          0.90362044,
+          0.10135
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10134999714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.07720714,
+          0.90362044,
+          0.10135
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "At last, the main character reaches the barrier that separates the human world from the monster world. The player's choices over the course of the game now steer the player toward several different climactic battles.",
+        "raw": "At last, the main character reaches the barrier that separates the human world\nfrom the monster world. The player's choices over the course of the game now\nsteer the player toward several different climactic battles.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29610569,
+          0.12592857,
+          0.88955595,
+          0.16702857
+        ],
+        "mask_bbox": [
+          0.29307954,
+          0.12521429,
+          0.90565141,
+          0.1681
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "主角终于来到分隔人类世界与怪物世界的结界。一路上的选择，将把玩家引向几场截然不同的最终战斗。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.1245,
+          0.90362044,
+          0.1706
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.1794928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.1245,
+          0.90362044,
+          0.1706
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b004",
+      "kind": "heading",
+      "source": {
+        "text": "Flowey Speaks Again",
+        "raw": "Flowey Speaks Again",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29755783,
+          0.18663571,
+          0.51443527,
+          0.19992857
+        ],
+        "mask_bbox": [
+          0.2962377,
+          0.18592143,
+          0.5157554,
+          0.201
+        ],
+        "line_ids": [
+          5
+        ]
+      },
+      "translation": {
+        "text": "再谈 Flowey 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.17657143,
+          0.90362044,
+          0.20071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.17657143,
+          0.90362044,
+          0.20071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 285.0
+    },
+    {
+      "id": "p0238-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've already seen in the Japanese script, Flowey has used the boyish pronoun boku throughout the game so far. For first-time players, boku seems to reflect Flowey's friendly personality at the beginning of the game. However, there's another reason that Flowey uses boku: it turns out that he's actually the king's young son, stuck in the body of a flower.",
+        "raw": "As we've already seen in the Japanese script, Flowey has used the boyish\npronoun boku throughout the game so far. For first-time players, boku seems\nto reflect Flowey's friendly personality at the beginning of the game. However,\nthere's another reason that Flowey uses boku: it turns out that he's actually the\nking's young son, stuck in the body of a flower.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29511051,
+          0.21541429,
+          0.89545593,
+          0.30027143
+        ],
+        "mask_bbox": [
+          0.29307954,
+          0.2147,
+          0.90565141,
+          0.30134286
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "前面已经看到，日文版的 Flowey 到目前为止一直用带男孩气的第一人称 boku（我）。第一次玩的玩家，会觉得这很符合他在游戏开头表现出的友善性格。不过，还有另一个原因：他其实是国王年幼的儿子，被困在了一朵花的身体里。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 37,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.21398571,
+          0.90362044,
+          0.30384286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3107142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.21398571,
+          0.90362044,
+          0.30384286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Flowey uses the boyish pronoun ボク (boku) at the start of the game",
+        "raw": "Flowey uses the boyish pronoun 1K7(boku) at\nthe start of the game",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.30100033,
+          0.4445,
+          0.58474755,
+          0.47002143
+        ],
+        "mask_bbox": [
+          0.2996802,
+          0.44378571,
+          0.58606768,
+          0.47109286
+        ],
+        "line_ids": [
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "游戏开头，Flowey 用带男孩气的「ボク」（boku，我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30100033,
+          0.44307143,
+          0.58474755,
+          0.47359286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4904357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30100033,
+          0.44307143,
+          0.58474755,
+          0.47359286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Flowey was actually a little boy before he got transformed, so it makes perfect sense for him to keep using boku",
+        "raw": "Flowey was actually a little boy before he got\ntransformed, so it makes perfect sense for him\nto keep using boku",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61646119,
+          0.44570714,
+          0.90193473,
+          0.48425714
+        ],
+        "mask_bbox": [
+          0.61514106,
+          0.44499286,
+          0.90325486,
+          0.48532857
+        ],
+        "line_ids": [
+          12,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Flowey 变身前其实是个小男孩，因此一直用 boku完全说得通。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61646119,
+          0.44427857,
+          0.90193473,
+          0.48782857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4904357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61646119,
+          0.44427857,
+          0.90193473,
+          0.48782857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese entertainment, it's normal for characters to switch to an aggressive personal pronoun after turning evil or being corrupted by immense power. In this case, however, Flowey continues to use the timid pronoun boku even after becoming a god-like entity:",
+        "raw": "In Japanese entertainment, it's normal for characters to switch to an aggressive\npersonal pronoun after turning evil or being corrupted by immense power. In\nthis case, however, Flowey continues to use the timid pronoun boku even after\nbecoming a god-like entity:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29834991,
+          0.49757857,
+          0.90362044,
+          0.56565714
+        ],
+        "mask_bbox": [
+          0.29307954,
+          0.49686429,
+          0.90565141,
+          0.56672857
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "日本娱乐作品里，角色变坏或被强大力量腐蚀后，常会改用更咄咄逼人的自称。但 Flowey 即使变成近乎神明的存在，也仍用偏温弱的 boku：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 64,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.49615,
+          0.90362044,
+          0.56922857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.49615,
+          0.90362044,
+          0.56922857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Flowey continues to use boku even when he gets sinister",
+        "raw": "Flowey continues to use boku even when he\ngets sinister",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30863679,
+          0.70817143,
+          0.57860385,
+          0.73372143
+        ],
+        "mask_bbox": [
+          0.30731666,
+          0.70745714,
+          0.57992399,
+          0.73479286
+        ],
+        "line_ids": [
+          20,
+          22
+        ]
+      },
+      "translation": {
+        "text": "即使变得阴险，Flowey 仍用 boku。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30464593,
+          0.70674286,
+          0.57984275,
+          0.73729286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7463857128571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30464593,
+          0.70674286,
+          0.57984275,
+          0.73729286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Even when he's a terrifying creature of untold power, Flowey keeps using boku",
+        "raw": "Even when he's a terrifying creature of untold\npower, Flowey keeps using boku",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62102072,
+          0.70938571,
+          0.90192458,
+          0.73419286
+        ],
+        "mask_bbox": [
+          0.61970059,
+          0.70867143,
+          0.90324471,
+          0.73526429
+        ],
+        "line_ids": [
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "即使化为力量深不可测的恐怖生物，Flowey 仍用 boku。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62102072,
+          0.70795714,
+          0.90192458,
+          0.73776429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7463857128571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62102072,
+          0.70795714,
+          0.90192458,
+          0.73776429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the Japanese language has a wider variety of personal pronouns than the English language, this unwavering use of boku gives Japanese players an extra layer of insight into Flowey's character that isn't seen in the English script.",
+        "raw": "Because the Japanese language has a wider variety of personal pronouns than\nthe English language, this unwavering use of boku gives Japanese players an\nextra layer of insight into Flowey's character that isn't seen in the English script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29934509,
+          0.75352857,
+          0.8975783,
+          0.80247143
+        ],
+        "mask_bbox": [
+          0.29307954,
+          0.75281429,
+          0.90565141,
+          0.80354286
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词比英语丰富得多，因此他始终不变的 boku，也让日本玩家多看见一层英文剧本无法直接体现的性格。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2972278,
+          0.7521,
+          0.90362044,
+          0.80604286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8121428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2972278,
+          0.7521,
+          0.90362044,
+          0.80604286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0238-b012",
+      "kind": "aside",
+      "source": {
+        "text": "This scene offers another example of how the localization process can shine light on extra details that were there all along but were otherwise invisible. It's kind of like a microscope or a night-vision camera in that sense. In this chapter, we'll continue to see how pronouns enhance the Japanese dialogue.",
+        "raw": "This scene offers another example of how the localization process can shine\nlight on extra details that were there all along but were otherwise invisible.\nIt's kind of like a microscope or a night-vision camera in that sense. In this\nchapter, we'll continue to see how pronouns enhance the Japanese dialogue.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31603968,
+          0.831,
+          0.88622516,
+          0.88790714
+        ],
+        "mask_bbox": [
+          0.31471955,
+          0.83028571,
+          0.88754529,
+          0.88897857
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "这个场景再次说明，本地化能让原本一直存在、却不易察觉的细节显露出来。从这个意义上说，它有点像显微镜或夜视相机。本章还会继续看看，人称代词如何丰富日文台词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31603968,
+          0.82957143,
+          0.88622516,
+          0.89147857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.31603968,
+          0.82957143,
+          0.88622516,
+          0.89147857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "64d1e3de6cd4d68542af7dffee432e12f207b8f9c4b00fd22750025349fa55b3"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          31
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292.7,
+      889.84
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        266,
+        0,
+        888,
+        111
+      ],
+      "fill": "#000000"
+    }
+  ]
+}

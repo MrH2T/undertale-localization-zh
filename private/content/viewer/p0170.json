@@ -1,0 +1,860 @@
+{
+  "schema_version": 3,
+  "pdf_page": 170,
+  "printed_page": "170",
+  "title": "Temmie 们的说话方式",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    978.777703,
+    1400
+  ],
+  "physical_size_pt": [
+    499.68,
+    714.72
+  ],
+  "image_url": "/assets/p0170.jpg",
+  "image_sha256": "937c4ff483d82f39ed0a0d28103ed1ad4df6b911b08071115bee90c40c396f6a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0170/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0170-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Temmies Speak",
+        "raw": "Temmies Speak",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29430585,
+          0.06333571,
+          0.4542298,
+          0.07662857
+        ],
+        "mask_bbox": [
+          0.29297766,
+          0.06262143,
+          0.45555799,
+          0.0777
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Temmie 们的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29570555,
+          0.053714286,
+          0.90541499,
+          0.077857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.077857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29570555,
+          0.053714286,
+          0.90541499,
+          0.077857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113
+    },
+    {
+      "id": "p0170-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Although both names are pronounced temī in Japanese, Temmies humorously misspell their names 手ミー instead of テミー.",
+        "raw": "Although both names\nare pronounced temi\nin Japanese, Temmies\nhumorously misspell\ntheir names =!=2.\ninstead of 7' 2. -",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.13258373,
+          0.09252857,
+          0.26651608,
+          0.18064286
+        ],
+        "mask_bbox": [
+          0.13125554,
+          0.09181429,
+          0.26784427,
+          0.18171429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "两种日文写法都读 temī。Temmie 们却把“テミー”写成了滑稽的“手ミー”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749348,
+          0.0911,
+          0.27016349,
+          0.18421429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5591857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749348,
+          0.0911,
+          0.27016349,
+          0.18421429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A strange area named Temmie Village exists in Waterfall. Unsurprisingly, almost every monster living in Temmie Village is named \"Temmie''. These Temmie characters look unusual, behave strangely, and speak in a unique way.",
+        "raw": "A strange area named Temmie Village exists in Waterfall. Unsurprisingly,\nalmost every monster living in Temmie Village is named \"Temmie''. These\nTemmie characters look unusual, behave strangely, and speak in a unique way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2934272,
+          0.24657143,
+          0.89393128,
+          0.29515
+        ],
+        "mask_bbox": [
+          0.29138383,
+          0.24585714,
+          0.90745835,
+          0.29622143
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "瀑布中藏着一个奇怪的地方：Temmie Village（Temmie 村）。不出所料，村里的怪物几乎都叫“Temmie”。这些角色模样奇特，行为古怪，说话方式也与众不同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29570555,
+          0.24514286,
+          0.90541499,
+          0.29872143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.56,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29570555,
+          0.24514286,
+          0.90541499,
+          0.29872143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, Temmies often call themselves \"temmie\", \"TEMMIE\", or \"tEMMIE\" - capitalization seemingly has no meaning for them. In other instances, Temmies simply call themselves \"tem\". To replicate this unusual English wordplay, the translator devised a simple system:",
+        "raw": "In the English script, Temmies often call themselves \"temmie\", \"TEMMIE\",\nor \"tEMMIE\" - capitalization seemingly has no meaning for them. In other\ninstances, Temmies simply call themselves \"tem\". To replicate this unusual\nEnglish wordplay, the translator devised a simple system:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29570555,
+          0.31037143,
+          0.88596215,
+          0.37740714
+        ],
+        "mask_bbox": [
+          0.29138383,
+          0.30965714,
+          0.90745835,
+          0.37847857
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "英文剧本里，Temmie 们常称自己为“temmie”“TEMMIE”或“tEMMIE”，大小写似乎对它们毫无意义。有时它们干脆叫自己“tem”。为了模仿这种特殊的英语文字游戏，译者定了一个简单规则：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29570555,
+          0.30894286,
+          0.90541499,
+          0.38097857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.56,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0170-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29570555,
+          0.30894286,
+          0.90541499,
+          0.38097857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b005",
+      "kind": "quote",
+      "source": {
+        "text": "1. When \"Temmie\" is spelled correctly in the English script, the Japanese script should use the properly spelled name テミー (temī).",
+        "raw": "1. When \"Temmie\" is spelled correctly in the English script, the Japanese\nscript should use the properly spelled name T 2 - (teml)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.31363608,
+          0.39128571,
+          0.887086,
+          0.42107143
+        ],
+        "mask_bbox": [
+          0.27654901,
+          0.39057143,
+          0.88841419,
+          0.42214286
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "1. 英文中“Temmie”拼写正确时，日文使用正确写法“テミー”（temī）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 34,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31363608,
+          0.38985714,
+          0.90541499,
+          0.42464286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.56,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0170-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.31363608,
+          0.38985714,
+          0.90541499,
+          0.42464286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0170-b006",
+      "kind": "quote",
+      "source": {
+        "text": "2. When \"Temmie\" is misspelled, the Japanese script should use the misspelled name 手ミー (temī) instead.",
+        "raw": "2. When \"Temmie\" is misspelled, the Japanese script should use the\nmisspelled name =f: 2 - (temf) instead",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.31354413,
+          0.43696429,
+          0.84538093,
+          0.46886429
+        ],
+        "mask_bbox": [
+          0.27645705,
+          0.43625,
+          0.84670911,
+          0.46993571
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "2. 英文中“Temmie”拼错时，日文改用错误写法“手ミー”（temī）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 32,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31354413,
+          0.43553571,
+          0.90541499,
+          0.47243571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.56,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0170-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.31354413,
+          0.43553571,
+          0.90541499,
+          0.47243571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0170-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Basically, both Japanese names for \"Temmie\" are pronounced the same, but the misspelled name mixes two Japanese writing systems in an unexpected way. The resulting misspelling, which combines the kanji character 手 (te, \"hand\") with the katakana characters ミー (mī), is bizarre, funny, and memorable.",
+        "raw": "Basically, both Japanese names for \"Temmie\" are pronounced the same, but the\nmisspelled name mixes two Japanese writing systems in an unexpected way.\nThe resulting misspelling, which combines the kanji character =f: (te, \"hand\")\nwith the katakana characters 2 - (mf), is bizarre, funny, and memorable.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29570555,
+          0.48330714,
+          0.90541499,
+          0.54935
+        ],
+        "mask_bbox": [
+          0.29138383,
+          0.48259286,
+          0.90745835,
+          0.55042143
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "两种日文名字读音相同，但错误写法出人意料地混合了两种文字：把汉字“手”（te，手）与片假名“ミー”（mī）拼在一起。这样的错字古怪、好笑，又让人记得住。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 36,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 50,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29570555,
+          0.48187857,
+          0.90541499,
+          0.55292143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.56,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0170-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29570555,
+          0.48187857,
+          0.90541499,
+          0.55292143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Temmies use the feminine pronoun あちし (achishi).",
+        "raw": "Temmies use the\nfeminine pronoun\nS 5 L., (achishi)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.15798276,
+          0.56632857,
+          0.26724148,
+          0.60774286
+        ],
+        "mask_bbox": [
+          0.15665457,
+          0.56561429,
+          0.26856967,
+          0.60881429
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "Temmie 们使用偏女性的自称“あちし”（achishi，我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 22,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749348,
+          0.5649,
+          0.27016349,
+          0.61131429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7506000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749348,
+          0.5649,
+          0.27016349,
+          0.61131429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Temmies sound like hyperactive, energetic girls. In Japanese, Temmies use a variety of unique speech patterns to sound equally hyperactive and energetic. And although they don't use pronouns very often, Temmies in the Japanese script use the youthful and feminine personal pronoun achishi.",
+        "raw": "In English, Temmies sound like hyperactive, energetic girls. In Japanese,\nTemmies use a variety of unique speech patterns to sound equally hyperactive\nand energetic. And although they don't use pronouns very often, Temmies in\nthe Japanese script use the youthful and feminine personal pronoun achishi.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29620618,
+          0.67503571,
+          0.89496317,
+          0.74174286
+        ],
+        "mask_bbox": [
+          0.29138383,
+          0.67432143,
+          0.90745835,
+          0.74281429
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "英语版的 Temmie 们听起来像过分兴奋、活力十足的女孩。日文也用了多种独特的说话习惯，传达同样的亢奋与活力。虽然它们不常用代词，但需要时，会采用年轻、偏女性的第一人称 achishi（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 86,
+            "end": 93,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29570555,
+          0.67360714,
+          0.90541499,
+          0.74531429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7495000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29570555,
+          0.67360714,
+          0.90541499,
+          0.74531429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, one unusual Temmie uses proper grammar and introduces himself as \"Bob\". For the Japanese script, the translator left Bob's name as-is, and gave him a polite, grammatically correct speech pattern. As part of this, Bob uses the boyish pronoun boku.",
+        "raw": "In the English script, one unusual\nTemmie uses proper grammar and\nintroduces himself as \"Bob\". For\nthe Japanese script, the translator\nleft Bob's name as-is, and gave him a\npolite, grammatically correct speech\npattern. As part of this, Bob uses the\nboyish pronoun boku.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61465438,
+          0.75664286,
+          0.89553532,
+          0.89689286
+        ],
+        "mask_bbox": [
+          0.61332619,
+          0.75592857,
+          0.8968635,
+          0.89796429
+        ],
+        "line_ids": [
+          32,
+          35,
+          37,
+          39,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "英文剧本里有一只与众不同的 Temmie，语法完全正确，还自称“Bob”。日语版保留了 Bob 的名字，并让他说礼貌、语法正确的话。他也相应使用带少年感的第一人称 boku（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 82,
+            "end": 86,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61465438,
+          0.75521429,
+          0.89553532,
+          0.90046429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61465438,
+          0.75521429,
+          0.89553532,
+          0.90046429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0170-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Bob speaks more like a normal person in Japanese and uses the boyish pronoun ぼく (boku).",
+        "raw": "Bob speaks more like\na normal person in\nJapanese and uses the\nboyish pronoun\n~;f< (boku)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.13054037,
+          0.75774286,
+          0.26881487,
+          0.83033571
+        ],
+        "mask_bbox": [
+          0.12921218,
+          0.75702857,
+          0.27014306,
+          0.83140714
+        ],
+        "line_ids": [
+          33,
+          34,
+          36,
+          38,
+          40
+        ]
+      },
+      "translation": {
+        "text": "Bob 在日语中说话比较像正常人，使用少年式的自称“ぼく”（boku，我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749348,
+          0.75631429,
+          0.27016349,
+          0.83390714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749348,
+          0.75631429,
+          0.27016349,
+          0.83390714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7d875623764ea0ffbb6d614a5e157f35c6796bb5c124f0f2e059486e61f60d9d"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          45
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.43,
+      886.2
+    ],
+    "text_runs": [
+      {
+        "id": "p0170-b003",
+        "blocks": [
+          "p0170-b003",
+          "p0170-b004",
+          "p0170-b005",
+          "p0170-b006",
+          "p0170-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 784.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

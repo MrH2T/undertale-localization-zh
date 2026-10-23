@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "pdf_page": 260,
+  "printed_page": "260",
+  "title": "结语·章节插图",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.327059+00:00",
+  "reference_size": [
+    987.624347,
+    1400
+  ],
+  "physical_size_pt": [
+    502.08,
+    711.72
+  ],
+  "image_url": "/assets/p0260.jpg",
+  "image_sha256": "184b02b369783d3516cffd92dc0f6cc8fccec09f1bb3a0ebece42263697f0c58",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0260/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "46486437f3125bbb2111b88d6ce51fa55e088dee98e2c9755fe3ba4f6cf18cb0"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

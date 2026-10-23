@@ -1,0 +1,879 @@
+{
+  "schema_version": 3,
+  "pdf_page": 102,
+  "printed_page": "102",
+  "title": "又一个骷髅双关",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.723421+00:00",
+  "reference_size": [
+    982.783019,
+    1400
+  ],
+  "physical_size_pt": [
+    500.04,
+    712.32
+  ],
+  "image_url": "/assets/p0102.jpg",
+  "image_sha256": "154080a857e48382e53bfcfa22945e5ae9fb3da3fd5661e7e0e7c065c373fbc4",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0102/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0102-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Another Skeleton Pun",
+        "raw": "Another Skeleton Pun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28895493,
+          0.06353571,
+          0.51677735,
+          0.07729286
+        ],
+        "mask_bbox": [
+          0.28763216,
+          0.06282143,
+          0.51810012,
+          0.07836429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "又一个骷髅双关",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.053714286,
+          0.89681037,
+          0.077857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.077857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.053714286,
+          0.89681037,
+          0.077857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113
+    },
+    {
+      "id": "p0102-b002",
+      "kind": "aside",
+      "source": {
+        "text": "You know how in ~ fighting games, characters have different stats like speed, strength, etc.? Translators have stats too, and one is \"good at translating bad jokes\"",
+        "raw": "You know how in ~\nfighting games,\ncharacters have\ndifferent stats like\nspeed, strength, etc.?\nTranslators have stats\ntoo, and one is \"good at\ntranslating bad jokes\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.112273,
+          0.09285714,
+          0.2788815,
+          0.21278571
+        ],
+        "mask_bbox": [
+          0.11095023,
+          0.09214286,
+          0.28020427,
+          0.21385714
+        ],
+        "line_ids": [
+          2,
+          6,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "格斗游戏里的角色都有速度、力量等不同属性，对吧？译者也有属性，其中一项就是“擅长翻译冷笑话”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.112273,
+          0.09142857,
+          0.2788815,
+          0.21635714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.48799285285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.112273,
+          0.09142857,
+          0.2788815,
+          0.21635714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Another skeleton pun is found in Toriel's home. In English, the joke replaces the word \"lonely\" with a bone-themed rhyme:",
+        "raw": "Another skeleton pun is found in Toriel's home. In English, the joke replaces\nthe word \"lonely\" with a bone-themed rhyme:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28841565,
+          0.24761429,
+          0.87552388,
+          0.27864286
+        ],
+        "mask_bbox": [
+          0.28464065,
+          0.2469,
+          0.8988454,
+          0.27971429
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Toriel 家里还有一个骷髅双关。英语笑话把 lonely（孤独）换成了一个押韵、又带有 bone（骨头）的词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.24618571,
+          0.89681037,
+          0.28221429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45902143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.24618571,
+          0.89681037,
+          0.28221429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Why did the skeleton want a friend? Because she was feeling BONELY ..",
+        "raw": "Why did the skeleton want a friend? Because she was feeling BONELY ..",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33483485,
+          0.29376429,
+          0.86586763,
+          0.30584286
+        ],
+        "mask_bbox": [
+          0.33351207,
+          0.29305,
+          0.8671904,
+          0.30691429
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "Why did the skeleton want a friend? Because she was feeling BONELY...\n骷髅为什么想交朋友？因为她觉得 BONELY……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33483485,
+          0.29233571,
+          0.89681037,
+          0.312925
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.45902143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0102-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33483485,
+          0.29233571,
+          0.89681037,
+          0.312925
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This joke would be lost in a literal translation, so the translator replaced it with a different Japanese joke:",
+        "raw": "This joke would be lost in a literal translation, so the translator replaced it with\na different Japanese joke:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29021665,
+          0.32072857,
+          0.89681037,
+          0.35209286
+        ],
+        "mask_bbox": [
+          0.28464065,
+          0.32001429,
+          0.8988454,
+          0.35316429
+        ],
+        "line_ids": [
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "直译会丢掉这个笑话，所以译者换了一个日语笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.3193,
+          0.89681037,
+          0.35566429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45902143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0102-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.3193,
+          0.89681037,
+          0.35566429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b006",
+      "kind": "quote",
+      "source": {
+        "text": "Why'd the skeleton want a friend? Because the loneliness pierced to the bone ...",
+        "raw": "Why'd the skeleton want a friend? Because the loneliness pierced to the\nbone ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33531308,
+          0.36755714,
+          0.86147195,
+          0.39783571
+        ],
+        "mask_bbox": [
+          0.3339903,
+          0.36684286,
+          0.86279472,
+          0.39890714
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "骷髅为什么想交朋友？因为寂寞已经深入骨髓……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33531308,
+          0.36612857,
+          0.89681037,
+          0.40140714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.45902143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0102-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.33531308,
+          0.36612857,
+          0.89681037,
+          0.40140714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the setup to the joke is the same in Japanese, and the punchline manages to stay groaningly close to the original.",
+        "raw": "As we can see, the setup to the joke is the same in Japanese, and the punchline\nmanages to stay groaningly close to the original.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28937211,
+          0.41136429,
+          0.88989124,
+          0.44206429
+        ],
+        "mask_bbox": [
+          0.28464065,
+          0.41065,
+          0.8988454,
+          0.44313571
+        ],
+        "line_ids": [
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "日语保留了相同的铺垫，包袱也紧贴原作，一样冷得令人叹气。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.40993571,
+          0.89681037,
+          0.44563571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45902143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0102-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.40993571,
+          0.89681037,
+          0.44563571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b008",
+      "kind": "heading",
+      "source": {
+        "text": "Snake Snack",
+        "raw": "Snake Snack",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29209906,
+          0.46616429,
+          0.42078464,
+          0.47992143
+        ],
+        "mask_bbox": [
+          0.29077629,
+          0.46545,
+          0.42210742,
+          0.48099286
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "蛇点心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.45657143,
+          0.89681037,
+          0.48071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4807142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.45657143,
+          0.89681037,
+          0.48071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 677.0
+    },
+    {
+      "id": "p0102-b009",
+      "kind": "aside",
+      "source": {
+        "text": "To access the game's Hard Mode, start a new game, then give yourself a certain human's name ...",
+        "raw": "To access the game's\nHard Mode, start a\nnew game, then give\nyourself a certain\nhuman's name ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13568611,
+          0.49513571,
+          0.270721,
+          0.56825714
+        ],
+        "mask_bbox": [
+          0.13436333,
+          0.49442143,
+          0.27204377,
+          0.56932857
+        ],
+        "line_ids": [
+          25,
+          26,
+          27,
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "想进入游戏的困难模式，就新开一局，再给自己取某个人类的名字……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11701464,
+          0.49370714,
+          0.270721,
+          0.57182857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11701464,
+          0.49370714,
+          0.270721,
+          0.57182857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "A snake-haired enemy named Parsnik appears in the ruins during Underta/e's secret Hard Mode. In the English version, a battle option titled \"Snack\" becomes available during this encounter. Occasionally, Parsnik mishears this \"snack\" as \"snake\", then aggressively offers \"tasty snakes\" to the player.",
+        "raw": "A snake-haired enemy named Parsnik appears in the ruins during Underta/e's\nsecret Hard Mode. In the English version, a battle option titled \"Snack\"\nbecomes available during this encounter. Occasionally, Parsnik mishears this\n\"snack\" as \"snake\", then aggressively offers \"tasty snakes\" to the player.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28667569,
+          0.62229286,
+          0.88339947,
+          0.69002857
+        ],
+        "mask_bbox": [
+          0.28464065,
+          0.62157857,
+          0.8988454,
+          0.6911
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Undertale 隐藏的困难模式中，遗迹会出现蛇发敌人 Parsnik。英语版战斗中有“Snack”（点心）选项。Parsnik 偶尔听成 snake（蛇），便气势汹汹地向玩家奉上“美味的蛇”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28889388,
+          0.62086429,
+          0.89681037,
+          0.6936
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6983571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28889388,
+          0.62086429,
+          0.89681037,
+          0.6936
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translator localized this wordplay by having Parsnik offer \"Hebi Star Noodles\" in Japanese. This name plays with the words hebi (\"snake\") and bebī (\"baby\") to humorously refer to Baby Star Ramen, a famous Japanese snack. Second, the noodles in Baby Star Ramen roughly look like countless baby snakes. The result is a snake-themed snack joke that parallels the original line in a uniquely Japanese way.",
+        "raw": "The translator localized this wordplay\nby havingParsnik offer \"Hebi Star\nNoodles\" in Japanese. This name plays\nwith the words hebi (\"snake\") and\nbebf (\"baby\") to humorously refer to\nBaby Star Ramen, a famous Japanese\nsnack. Second, the noodles in Baby Star\nRamen roughly look like countless baby\nsnakes. The result is a snake-themed\nsnack joke that parallels the original\nline in a uniquely Japanese way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.292618,
+          0.7055,
+          0.5853174,
+          0.90129286
+        ],
+        "mask_bbox": [
+          0.28464065,
+          0.70478571,
+          0.58664017,
+          0.90236429
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          51
+        ]
+      },
+      "translation": {
+        "text": "日文中，译者让 Parsnik 奉上“Hebi Star Noodles”（蛇星面），用 hebi（蛇）和 bebī（婴儿）的近音，打趣日本知名零食 Baby Star Ramen（童星拉面）。这种点心的面条也像无数条小蛇。这样便以日本特有的方式，重现了原文的蛇点心笑话。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 49,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 54,
+            "end": 58,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28667569,
+          0.70428571,
+          0.58609071,
+          0.92428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28667569,
+          0.70428571,
+          0.58609071,
+          0.92428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0102-b012",
+      "kind": "caption",
+      "source": {
+        "text": "Baby Star Ramen, popular since the 1950s, is made of squiggly, crunchy noodles",
+        "raw": "Baby Star Ramen, popular since the 1950s, is\nmade of squiggly, crunchy noodles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61335004,
+          0.87015,
+          0.89182453,
+          0.89777143
+        ],
+        "mask_bbox": [
+          0.61202726,
+          0.86943571,
+          0.8931473,
+          0.89884286
+        ],
+        "line_ids": [
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "Baby Star Ramen 自20世纪50年代流行至今，是一种弯曲酥脆的面条零食。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6125462,
+          0.86857143,
+          0.90457403,
+          0.92285714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9228571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.6125462,
+          0.86857143,
+          0.90457403,
+          0.92285714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c02fa9fd51658485b8fba3b0e85841bc4007058e0c306e22c2013cb1a97f44bc"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          8,
+          29,
+          31,
+          32,
+          33,
+          34,
+          35,
+          53
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      283.92,
+      881.37
+    ],
+    "text_runs": [
+      {
+        "id": "p0102-b003",
+        "blocks": [
+          "p0102-b003",
+          "p0102-b004",
+          "p0102-b005",
+          "p0102-b006",
+          "p0102-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 642.63
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

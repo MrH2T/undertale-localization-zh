@@ -1,0 +1,355 @@
+{
+  "schema_version": 3,
+  "pdf_page": 35,
+  "printed_page": "35",
+  "title": "更多翻译难题",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.114564+00:00",
+  "reference_size": [
+    994.087015,
+    1400
+  ],
+  "physical_size_pt": [
+    507.24,
+    714.36
+  ],
+  "image_url": "/assets/p0035.jpg",
+  "image_sha256": "9941481092719bf7d826ee72621666fc83bc18f5ccada24f49e27605e69b3b41",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0035/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0035-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Simple words like \"yes\" and \"no\" don't always work the same way between languages, especially when a negative question is involved. In the literal English translation of this scene, choosing \"yes\" would effectively mean \"no\" and vice versa (Game: Breath of Fire II)",
+        "raw": "Simple words like \"yes\"\nand \"no\" don't always\nwork the same way\nbetween languages,\nespecially when a\nnegative question is\ninvolved. In the literal\nEnglish translation of\nthis scene, choosing\n\"yes\" would effectively\nmean \"no\" and vice\nversa (Game: Breath\nof Fire II)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72466493,
+          0.07677143,
+          0.87414883,
+          0.27170714
+        ],
+        "mask_bbox": [
+          0.7233572,
+          0.07605714,
+          0.87545656,
+          0.27277857
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "yes（是）和 no（否）这样的简单词，在不同语言中也未必一样，遇到否定问句尤其如此。这个场景的英语直译里，选 yes 实际相当于 no，反过来也一样。（游戏：Breath of Fire II）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72466493,
+          0.07534286,
+          0.87414883,
+          0.27527857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.37939285285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72466493,
+          0.07534286,
+          0.87414883,
+          0.27527857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0035-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Sometimes a simple word in the source language isn't as simple in the target language. Translating word-for-word without consideration of the target audience can lead to weird results (Game: Alice in the Heart -Wonderful Wonder World-)",
+        "raw": "Sometimes a simple\nword in the source\nlanguage isn't as\nsimple in the target\nlanguage. Translating\nword-for-word without\nconsideration of the\ntarget audience can\nlead to weird results\n(Game: Alice in the\nHeart -Wonderful\nWonder World-)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73086157,
+          0.38653571,
+          0.87255943,
+          0.56640714
+        ],
+        "mask_bbox": [
+          0.72955384,
+          0.38582143,
+          0.87386716,
+          0.56747857
+        ],
+        "line_ids": [
+          14,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "原语言里简单的词，换一种语言未必仍然简单。逐字翻译却不考虑目标受众，可能产生古怪的结果。（游戏：Alice in the Heart -Wonderful Wonder World-）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73086157,
+          0.38510714,
+          0.87255943,
+          0.56997857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6350571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73086157,
+          0.38510714,
+          0.87255943,
+          0.56997857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0035-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The English letter \"W\" is regularly used in Japanese as a symbol for the word \"double\". Leaving this \"W\" as-is in translation can cause confusion for audiences outside of Japan",
+        "raw": "The English letter \"W\"\nis regularly used in\nJapanese as a symbol\nfor the word \"double\".\nLeaving this \"W\" as-is\nin translation can cause\nconfusion for audiences\noutside of Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73093199,
+          0.6422,
+          0.87690513,
+          0.76116429
+        ],
+        "mask_bbox": [
+          0.72962426,
+          0.64148571,
+          0.87821286,
+          0.76223571
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "日语常借用英文字母 W 表示 double（双份、双重）。翻译时原样留下 W，可能让日本以外的读者摸不着头脑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73093199,
+          0.64077143,
+          0.87690513,
+          0.76473571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73093199,
+          0.64077143,
+          0.87690513,
+          0.76473571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0035-b004",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55216494,
+          0.93819286,
+          0.70612531,
+          0.94771429
+        ],
+        "mask_bbox": [
+          0.55085721,
+          0.93747857,
+          0.70743304,
+          0.94878571
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55216494,
+          0.93676429,
+          0.70612531,
+          0.95476429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9547642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55216494,
+          0.93676429,
+          0.70612531,
+          0.95476429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "05f3c37cc82ed13cf0caf7ec4c0e2f2c9139061da520ec61c117f73830719ff8"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          15
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

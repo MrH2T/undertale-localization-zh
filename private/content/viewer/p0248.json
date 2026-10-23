@@ -1,0 +1,665 @@
+{
+  "schema_version": 3,
+  "pdf_page": 248,
+  "printed_page": "248",
+  "title": "向前作致敬",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    989.979825,
+    1400
+  ],
+  "physical_size_pt": [
+    504.72,
+    713.76
+  ],
+  "image_url": "/assets/p0248.jpg",
+  "image_sha256": "a7fe361179a03a51b048716d84a2e7766d80537d4ed30816bace168c8a05e7b1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0248/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0248-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Monument to Pre-Existence",
+        "raw": "Monument to Pre-Existence",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29343022,
+          0.0652,
+          0.5790522,
+          0.07836429
+        ],
+        "mask_bbox": [
+          0.29211706,
+          0.06448571,
+          0.58036536,
+          0.07943571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "向前作致敬",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29287466,
+          0.05514286,
+          0.89676575,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29287466,
+          0.05514286,
+          0.89676575,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0248-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Without a high level of • cooperation between creator and localizer, references can easily be lost in translation",
+        "raw": "Without a high level of •\ncooperation between\ncreator and localizer,\nreferences can easily be\nlost in translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12004285,
+          0.09465714,
+          0.28089461,
+          0.16699286
+        ],
+        "mask_bbox": [
+          0.11872969,
+          0.09394286,
+          0.28220777,
+          0.16806429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "创作者与本地化人员如果缺乏密切合作，典故就很容易在翻译中丢失。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11616398,
+          0.09322857,
+          0.28089461,
+          0.17056429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.36122143285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11616398,
+          0.09322857,
+          0.28089461,
+          0.17056429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Asriel unleashes a powerful attack known as \"Hyper Goner\" in English. Toby noted that this is a reference to the final battle in Final Fantasy VI, in which the godlike villain uses his ultimate attack - known as \"Goner\" in English - when his defeat draws near. Toby also noted that it wasn't important to retain this reference in the Japanese script - he only asked that the Japanese name for \"Hyper Goner\" should sound \"extremely powerful and cool\".",
+        "raw": "Asriel unleashes a powerful attack known as \"Hyper Goner\" in English. Toby\nnoted that this is a reference to the final battle in Final Fantasy VI, in which the\ngodlike villain uses his ultimate attack - known as \"Goner\" in English - when\nhis defeat draws near. Toby also noted that it wasn't important to retain this\nreference in the Japanese script - he only asked that the Japanese name for\n\"Hyper Goner\" should sound \"extremely powerful and cool\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28782405,
+          0.24857143,
+          0.89676575,
+          0.35203571
+        ],
+        "mask_bbox": [
+          0.2858038,
+          0.24785714,
+          0.89878599,
+          0.35310714
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Asriel 会使出英文名为“Hyper Goner”的强力攻击。Toby 说明，这致敬的是《最终幻想 VI》的最终战：近乎神明的反派即将落败时，会使出英文名为“Goner”（意为“完蛋的人”）的终极攻击。Toby 也说，日文不一定要保留这个典故，只要求“Hyper Goner”的日文名听起来“强得不得了，而且很酷”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29287466,
+          0.24714286,
+          0.89676575,
+          0.35560714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.36214285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29287466,
+          0.24714286,
+          0.89676575,
+          0.35560714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b004",
+      "kind": "aside",
+      "source": {
+        "text": "The \"Goner\" attack in • Final Fantasy VI was originally known as \"Missing\" in Japanese",
+        "raw": "The \"Goner\" attack in •\nFinal Fantasy VI was\noriginally known as\n\"Missing\" in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13009356,
+          0.36836429,
+          0.28280374,
+          0.42388571
+        ],
+        "mask_bbox": [
+          0.1287804,
+          0.36765,
+          0.2841169,
+          0.42495714
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "《最终幻想 VI》的“Goner”在日文原版里叫“Missing”（消失）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11616398,
+          0.36693571,
+          0.28280374,
+          0.42745714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11616398,
+          0.36693571,
+          0.28280374,
+          0.42745714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although it was unnecessary, the localizers did preserve this classic Final Fantasy reference. But because \"Goner\" was known in Japanese as \"Missing\", Asriel's \"Hyper Goner\" was localized into Japanese as \"Hyper Missing\".",
+        "raw": "Although it was unnecessary, the localizers did preserve this classic Final\nFantasy reference. But because \"Goner\" was known in Japanese as \"Missing\",\nAsriel's \"Hyper Goner\" was localized into Japanese as \"Hyper Missing\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29287466,
+          0.51218571,
+          0.8847251,
+          0.56117143
+        ],
+        "mask_bbox": [
+          0.2858038,
+          0.51147143,
+          0.89878599,
+          0.56224286
+        ],
+        "line_ids": [
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "虽然不是硬性要求，团队还是保留了这处对经典《最终幻想》的致敬。但因为“Goner”在日文里叫“Missing”，Asriel 的“Hyper Goner”便译成了“Hyper Missing”（超级消失）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29287466,
+          0.51075714,
+          0.89676575,
+          0.56474286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5807142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29287466,
+          0.51075714,
+          0.89676575,
+          0.56474286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Umm ...",
+        "raw": "Umm ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56161751,
+          0.60287143,
+          0.63430586,
+          0.61604286
+        ],
+        "mask_bbox": [
+          0.56030435,
+          0.60215714,
+          0.63561901,
+          0.61711429
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "嗯……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32121867,
+          0.59228571,
+          0.86769445,
+          0.61642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6164285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.32121867,
+          0.59228571,
+          0.86769445,
+          0.61642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 867.0
+    },
+    {
+      "id": "p0248-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Perhaps I should set these depressing topics aside and share a Japanese recipe instead. One of the best down-home recipes in Japan is Japanese curry. It's basically a warm, hearty stew with vegetables or meat or anything else, but with a rich, mouthwatering flavor. I want it to finally be popular where I'm from, so I hope you'll try making some sometime!",
+        "raw": "Perhaps I should set these depressing topics aside and share a Japanese\nrecipe instead. One of the best down-home recipes in Japan is Japanese\ncurry. It's basically a warm, hearty stew with vegetables or meat or\nanything else, but with a rich, mouthwatering flavor. I want it to finally\nbe popular where I'm from, so I hope you'll try making some sometime!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32269344,
+          0.63198571,
+          0.85629018,
+          0.7117
+        ],
+        "mask_bbox": [
+          0.32138029,
+          0.63127143,
+          0.85760334,
+          0.71277143
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "或许该把这些沉重话题放一放，分享一道日本菜谱。日式咖喱是日本最棒的家常菜之一：把蔬菜、肉或其他食材炖成热腾腾、料足的浓汤，味道醇厚，叫人垂涎。我希望它也能在我的家乡流行起来，所以希望你有空也试着做一锅！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32269344,
+          0.63055714,
+          0.89676575,
+          0.71527143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7214285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32269344,
+          0.63055714,
+          0.89676575,
+          0.71527143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Find Japanese curry blocks at your local store and then drop them in any soup or stew",
+        "raw": "Find Japanese curry blocks at your local store\nand then drop them in any soup or stew",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32592583,
+          0.85795714,
+          0.58464828,
+          0.88286429
+        ],
+        "mask_bbox": [
+          0.32461268,
+          0.85724286,
+          0.58596144,
+          0.88393571
+        ],
+        "line_ids": [
+          31,
+          33
+        ]
+      },
+      "translation": {
+        "text": "在当地商店找些日式咖喱块，放进汤或炖菜里就行。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29287466,
+          0.85652857,
+          0.58848926,
+          0.88643571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29287466,
+          0.85652857,
+          0.58848926,
+          0.88643571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0248-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese curry is even better with steak, mashed potatoes, dipping bread, and/or rice!",
+        "raw": "Japanese curry is even better with steak,\nmashed potatoes, dipping bread, and/or rice!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61410342,
+          0.85795714,
+          0.86968439,
+          0.88252857
+        ],
+        "mask_bbox": [
+          0.61279027,
+          0.85724286,
+          0.87099755,
+          0.8836
+        ],
+        "line_ids": [
+          32,
+          34
+        ]
+      },
+      "translation": {
+        "text": "日式咖喱配牛排、土豆泥、蘸汁面包或米饭，都更好吃！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6086917,
+          0.85652857,
+          0.89676575,
+          0.8861
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.6086917,
+          0.85652857,
+          0.89676575,
+          0.8861
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "82c44648913aaf11ed58557d7516dc3d6d425928a5bd82f3d5d87ea11cf555d0"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.94,
+      887.78
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "family": "Noto Serif JP ExtraLight",
+  "version": "Version 2.003-H1;hotconv 1.1.1;makeotfexe 2.6.0",
+  "license": "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://openfontlicense.org",
+  "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/notoserifjp/NotoSerifJP%5Bwght%5D.ttf",
+  "source_sha256": "2fd527ba12b6a44ec30d796d633360da0aeba6c5d4af1304ce12bb4dc15a7dfc",
+  "glyphs": 16726,
+  "converted_format": "woff2; full glyph set retained",
+  "woff2_sha256": "f1bad9bd0f2fe0ae940cb99adb2b2cd5e15bb658889871077b14d79d67142703",
+  "bytes": 5965412
+}

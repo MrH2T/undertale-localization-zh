@@ -1,0 +1,847 @@
+{
+  "schema_version": 3,
+  "pdf_page": 167,
+  "printed_page": "167",
+  "title": "Delta 的力量",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    979.905437,
+    1400
+  ],
+  "physical_size_pt": [
+    497.4,
+    710.64
+  ],
+  "image_url": "/assets/p0167.jpg",
+  "image_sha256": "c50e1ee8cc457f9d3f13854921cfce4c4fa52635ea5e0ae474804d217a3c45eb",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0167/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0167-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Delta Force",
+        "raw": "Delta Force",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09509081,
+          0.06515,
+          0.21262256,
+          0.07837143
+        ],
+        "mask_bbox": [
+          0.09376415,
+          0.06443571,
+          0.21394922,
+          0.07944286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Delta 的力量",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09390702,
+          0.055142857,
+          0.7001594,
+          0.079285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.079285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09390702,
+          0.055142857,
+          0.7001594,
+          0.079285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115
+    },
+    {
+      "id": "p0167-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Here's hoping we see Underta/e 11: UNRELATED and Underta/e 17: NUDER TALE someday!",
+        "raw": "Here's hoping we\nsee Underta/e 11:\nUNRELATED and\nUnderta/e 17: NUDER\nTALE someday!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73425452,
+          0.09407857,
+          0.86646116,
+          0.16703571
+        ],
+        "mask_bbox": [
+          0.73292787,
+          0.09336429,
+          0.86778782,
+          0.16810714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "希望有朝一日能玩到 Undertale 11: UNRELATED（无关）和 Undertale 17: NUDER TALE（更裸的故事）！这两个名字也都是 Undertale 的字母重排。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 39,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72873359,
+          0.09265,
+          0.87568654,
+          0.17060714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3533857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72873359,
+          0.09265,
+          0.87568654,
+          0.17060714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Gerson also explains that a reoccurring symbol in the game is called the \"Delta Rune\". In the translation spreadsheet, Toby left only one short note for the localization team:",
+        "raw": "Gerson also explains that a reoccurring symbol in the game is called the \"Delta\nRune\". In the translation spreadsheet, Toby left only one short note for the\nlocalization team:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09390702,
+          0.26688571,
+          0.7001594,
+          0.31472857
+        ],
+        "mask_bbox": [
+          0.09097817,
+          0.26617143,
+          0.70220041,
+          0.3158
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Gerson 还会解释，游戏中反复出现的标志叫作“Delta Rune”。Toby 在翻译表格里只给团队留了一条简短注释：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09390702,
+          0.26545714,
+          0.7001594,
+          0.3183
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35194285285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09390702,
+          0.26545714,
+          0.7001594,
+          0.3183
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Delta Rune= anagrnm for Under tale",
+        "raw": "Delta Rune= anagrnm for Under tale",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13815619,
+          0.33061429,
+          0.41378483,
+          0.34271429
+        ],
+        "mask_bbox": [
+          0.13682953,
+          0.3299,
+          0.41511148,
+          0.34378571
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "Delta Rune＝Undertale 的字母重排。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13815619,
+          0.32918571,
+          0.7001594,
+          0.349775
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.35194285285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0167-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13815619,
+          0.32918571,
+          0.7001594,
+          0.349775
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first, the translator paralleled this wordplay by scrambling the word アンダーテイル (andāteiru, \"Undertale\") to create a new Japanese anagram: テアイダ・ルーン (teaida rūn, \"Teaida Rune\"). It’s unclear if the name holds any specific meaning, however, as teaida isn’t a standard Japanese word.",
+        "raw": "At first, the translator paralleled this\nwordplay by scrambling the word\n7 / ')l''-f-1 Jv (andateiru,\n\"Undertale\") to create a new Japanese\nanagram: f-71'57''·1v-/ (teaida\nrun, \"Teaida Rune\"). It's unclear if\nthe name holds any specific meaning,\nhowever, as teaida isn't a standard\nJapanese word.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.08747783,
+          0.35908571,
+          0.38323086,
+          0.51736429
+        ],
+        "mask_bbox": [
+          0.08615117,
+          0.35837143,
+          0.38455752,
+          0.51843571
+        ],
+        "line_ids": [
+          21,
+          27,
+          33,
+          42,
+          51,
+          54,
+          58,
+          62,
+          63
+        ]
+      },
+      "translation": {
+        "text": "起初，译者模仿这个文字游戏，把“アンダーテイル”（andāteiru，Undertale 的日语音译）重新排列，造出“テアイダ・ルーン”（teaida rūn，Teaida Rune）。不过，teaida 并不是标准日语词，因此不清楚这个名字是否有特定含义。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 69,
+            "end": 79,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 96,
+            "end": 102,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08747783,
+          0.35765714,
+          0.38323086,
+          0.52093571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5255285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08747783,
+          0.35765714,
+          0.38323086,
+          0.52093571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Although it’s not a real word, テアイダ (teaida) could potentially mean \"between hands\" or \"a match-up between two competitors\", among other things.",
+        "raw": "Although it's not a\nreal word, 77-1-J'\n(teaida) could\npotentially mean\n\"between hands\" or \"a\nmatch-up between\ntwo competitors\",\namong other things",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.72838661,
+          0.36052857,
+          0.87406393,
+          0.47977143
+        ],
+        "mask_bbox": [
+          0.72705995,
+          0.35981429,
+          0.87539059,
+          0.48084286
+        ],
+        "line_ids": [
+          23,
+          26,
+          32,
+          41,
+          48,
+          53,
+          56,
+          60
+        ]
+      },
+      "translation": {
+        "text": "“テアイダ”（teaida）虽然不是现成的词，但也可以让人联想到“手之间”“双方的对阵”等意思。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72838661,
+          0.3591,
+          0.87568654,
+          0.48334286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6282928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72838661,
+          0.3591,
+          0.87568654,
+          0.48334286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before Underta/e's Japanese release, Toby emphatically requested that \"Teida Rune\" be changed back to \"Delta Rune\" and left in English text. This choice preserved the original English anagram. For added measure, and for the Japanese audience's sake, the translator included the Japanese pronunciation of \"DELTA RUNE\" in parentheses the first time the term is introduced.",
+        "raw": "Before Underta/e's Japanese release, Toby emphatically requested that \"Teida\nRune\" be changed back to \"Delta Rune\" and left in English text. This choice\npreserved the original English anagram. For added measure, and for the\nJapanese audience's sake, the translator included the Japanese pronunciation\nof \"DELTA RUNE\" in parentheses the first time the term is introduced.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09301918,
+          0.53267143,
+          0.69187288,
+          0.61867857
+        ],
+        "mask_bbox": [
+          0.09097817,
+          0.53195714,
+          0.70220041,
+          0.61975
+        ],
+        "line_ids": [
+          64,
+          65,
+          66,
+          67,
+          68
+        ]
+      },
+      "translation": {
+        "text": "Undertale 日语版发行前，Toby 强烈要求把“Teaida Rune”改回“Delta Rune”，并保留英文字母。这样，原版的字母重排关系就保住了。为方便日本玩家，译者又在这个词首次出现时，用括号附上“DELTA RUNE”的日语读音。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09390702,
+          0.53124286,
+          0.7001594,
+          0.62225
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09390702,
+          0.53124286,
+          0.7001594,
+          0.62225
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Deltarune is a sort of alternate universe version of Undertale that tells a different story, or something like that",
+        "raw": "Deltarune is a sort\nof alternate universe\nversion of Undertale\nthat tells a different\nstory, or something\nlike that",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73423411,
+          0.63543571,
+          0.86339964,
+          0.72395714
+        ],
+        "mask_bbox": [
+          0.73290746,
+          0.63472143,
+          0.8647263,
+          0.72502857
+        ],
+        "line_ids": [
+          69,
+          71,
+          73,
+          76,
+          77,
+          78
+        ]
+      },
+      "translation": {
+        "text": "Deltarune 大概算是 Undertale 的平行世界，讲述另一段故事，或者类似这么回事。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 15,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72873359,
+          0.63400714,
+          0.87568654,
+          0.72752857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72873359,
+          0.63400714,
+          0.87568654,
+          0.72752857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "In late 2018, Toby released Chapter 1 of a new game he called Delta rune. Suddenly, the anagram connection between \"Undertale\" and \"Delta Rune\" became clear to many more fans around the world. Had the Japanese translation of Undertale stuck with \"Teaida Rune\", though, this after-the-fact connection might've been lost in translation.",
+        "raw": "In late 2018, Toby released Chapter 1 of a new game he called Delta rune.\nSuddenly, the anagram connection between \"Undertale\" and \"Delta Rune\"\nbecame clear to many more fans around the world. Had the Japanese\ntranslation of Undertale stuck with \"Teaida Rune\", though, this after-the-fact\nconnection might've been lost in translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09438666,
+          0.80859286,
+          0.6890767,
+          0.89529286
+        ],
+        "mask_bbox": [
+          0.09097817,
+          0.80787857,
+          0.70220041,
+          0.89636429
+        ],
+        "line_ids": [
+          79,
+          80,
+          81,
+          82,
+          83
+        ]
+      },
+      "translation": {
+        "text": "2018 年末，Toby 发布了新游戏 Deltarune 的第一章。突然间，全球更多粉丝看明白了“Undertale”与“Delta Rune”的字母重排关系。倘若 Undertale 日译版当初坚持用“Teaida Rune”，这个事后才显露的联系可能就会在翻译中丢失。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 50,
+            "end": 59,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 84,
+            "end": 93,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09390702,
+          0.80716429,
+          0.7001594,
+          0.89886429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09390702,
+          0.80716429,
+          0.7001594,
+          0.89886429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0167-b010",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63883715,
+          0.94265714,
+          0.7074254,
+          0.95236429
+        ],
+        "mask_bbox": [
+          0.63751049,
+          0.94194286,
+          0.70875206,
+          0.95343571
+        ],
+        "line_ids": [
+          85
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63883715,
+          0.94122857,
+          0.7074254,
+          0.95922857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9592285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63883715,
+          0.94122857,
+          0.7074254,
+          0.95922857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "9ed896363506febd2c91b38881949d3bce86398b9db96a3ada51bf118fe6a1b9"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          20,
+          22,
+          24,
+          25,
+          28,
+          29,
+          30,
+          31,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          43,
+          44,
+          45,
+          46,
+          47,
+          49,
+          50,
+          52,
+          55,
+          57,
+          59,
+          61,
+          70,
+          72,
+          74,
+          75,
+          84
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.02,
+      686.09
+    ],
+    "text_runs": [
+      {
+        "id": "p0167-b003",
+        "blocks": [
+          "p0167-b003",
+          "p0167-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 492.72
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

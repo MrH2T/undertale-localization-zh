@@ -1,0 +1,1115 @@
+{
+  "schema_version": 3,
+  "pdf_page": 112,
+  "printed_page": "112",
+  "title": "玩家对 Oira 冲击的反应",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:49:29.219511+00:00",
+  "reference_size": [
+    980.989233,
+    1400
+  ],
+  "physical_size_pt": [
+    499.8,
+    713.28
+  ],
+  "image_url": "/assets/p0112.jpg",
+  "image_sha256": "427280f23a6871e2fa02e630434b1be3c20127278739184de821e3d71aac20e0",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0112/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0112-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Oira Shock Reactions",
+        "raw": "Oira Shock Reactions",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2955588,
+          0.06323571,
+          0.51293122,
+          0.07641429
+        ],
+        "mask_bbox": [
+          0.29423361,
+          0.06252143,
+          0.51425641,
+          0.07748571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "玩家对 Oira 冲击的反应",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29665973,
+          0.053,
+          0.90678875,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29665973,
+          0.053,
+          0.90678875,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0112-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Japanese Undertale fans responded with fervor after learning that Sans uses the pronoun oira in the official Japanese release. Here are a handful of randomly selected fan comments, translated into English:",
+        "raw": "Japanese Undertale fans responded with fervor after learning that Sans\nuses the pronoun oira in the official Japanese release. Here are a handful of\nrandomly selected fan comments, translated into English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29425399,
+          0.09082143,
+          0.87270071,
+          0.14031429
+        ],
+        "mask_bbox": [
+          0.29221524,
+          0.09010714,
+          0.90882751,
+          0.14138571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "得知日语官方版中 Sans 用 oira（我）自称后，日本 Undertale 粉丝反应激烈。下面随机摘选了几条粉丝评论，由作者译为英语：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 30,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29665973,
+          0.08939286,
+          0.90678875,
+          0.14388571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29665973,
+          0.08939286,
+          0.90678875,
+          0.14388571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b003",
+      "kind": "quote",
+      "source": {
+        "text": "'' Guess I'll have to stick with the unofficial translation. Oh, my dear Sans, usingoira ...",
+        "raw": "'' Guess I'll have to stick with the unofficial translation. Oh, my dear Sans,\nusingoira ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29659857,
+          0.15631429,
+          0.87644183,
+          0.18575
+        ],
+        "mask_bbox": [
+          0.29527337,
+          0.1556,
+          0.87776702,
+          0.18682143
+        ],
+        "line_ids": [
+          5,
+          6
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295619962,
+            0.152857143,
+            0.321104442,
+            0.167142857
+          ],
+          "offset": [
+            -44.1016,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "看来我只能继续用非官方翻译了。唉，我亲爱的 Sans 居然用 oira……",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 31,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34057623,
+          0.15488571,
+          0.90678875,
+          0.18932143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.34057623,
+          0.15488571,
+          0.90678875,
+          0.18932143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b004",
+      "kind": "quote",
+      "source": {
+        "text": "'' After watching the controversy over Sans' pronoun, I've come to the conclusion that \"oira Sans\" might be pretty cool after all. In fact, maybe Sans could be the leading example ofc ool guys who use oira!",
+        "raw": "'' After watching the controversy over Sans' pronoun, I've come to the\nconclusion that \"oira Sans\" might be pretty cool after all. In fact, maybe\nSans could be the leading example ofc ool guys who use oira!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29657818,
+          0.20174286,
+          0.8746885,
+          0.24966429
+        ],
+        "mask_bbox": [
+          0.29525299,
+          0.20102857,
+          0.87601369,
+          0.25073571
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295619962,
+            0.197857143,
+            0.321104442,
+            0.212857143
+          ],
+          "offset": [
+            -41.4323,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "看完围绕 Sans 自称的争论，我觉得“oira Sans”说不定挺酷的。甚至可以让 Sans 成为使用 oira 的帅哥代表！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 53,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33785514,
+          0.20031429,
+          0.90678875,
+          0.25323571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33785514,
+          0.20031429,
+          0.90678875,
+          0.25323571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b005",
+      "kind": "quote",
+      "source": {
+        "text": "'' No, this isn't right, Sans can't use oira. He's not Sans-like unless he uses ore.",
+        "raw": "'' No, this isn't right, Sans can't use oira. He's not Sans-like unless he uses ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29657818,
+          0.26445714,
+          0.90486212,
+          0.27693571
+        ],
+        "mask_bbox": [
+          0.29525299,
+          0.26374286,
+          0.90618732,
+          0.27800714
+        ],
+        "line_ids": [
+          10
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295619962,
+            0.261428571,
+            0.321104442,
+            0.275714286
+          ],
+          "offset": [
+            -44.1409,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "不，不对，Sans 不能用 oira。他不用 ore（我），就不像 Sans。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34061625,
+          0.26302857,
+          0.90678875,
+          0.28361786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.34061625,
+          0.26302857,
+          0.90678875,
+          0.28361786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b006",
+      "kind": "quote",
+      "source": {
+        "text": "'' That's some good work from the translation team! I think having oira as his normal pronoun works great with his personality shift later.",
+        "raw": "'' That's some good work from the translation team! I think having oira as his\nnormal pronoun works great with his personality shift later.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29707767,
+          0.29205,
+          0.90237484,
+          0.32228571
+        ],
+        "mask_bbox": [
+          0.29575248,
+          0.29133571,
+          0.90370003,
+          0.32335714
+        ],
+        "line_ids": [
+          11,
+          12
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295619962,
+            0.288571429,
+            0.321104442,
+            0.303571429
+          ],
+          "offset": [
+            -44.5727,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "翻译团队干得好！我觉得平时用 oira，与他后来的性格变化配合得很棒。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34105642,
+          0.29062143,
+          0.90678875,
+          0.32585714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.34105642,
+          0.29062143,
+          0.90678875,
+          0.32585714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b007",
+      "kind": "quote",
+      "source": {
+        "text": "'' I'm really happy an official translation is being released. But I don't think I'll ever get used to Sans saying oira",
+        "raw": "'' I'm really happy an official translation is being released. But I don't think\nI'll ever get used to Sans saying oira",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29705729,
+          0.33868571,
+          0.88447454,
+          0.36845714
+        ],
+        "mask_bbox": [
+          0.29573209,
+          0.33797143,
+          0.88579973,
+          0.36952857
+        ],
+        "line_ids": [
+          13,
+          14
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295619962,
+            0.335,
+            0.321104442,
+            0.35
+          ],
+          "offset": [
+            -43.6894,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "能出官方翻译我真的很高兴。但我觉得自己永远习惯不了 Sans 说 oira。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34015606,
+          0.33725714,
+          0.90678875,
+          0.37202857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.34015606,
+          0.33725714,
+          0.90678875,
+          0.37202857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b008",
+      "kind": "quote",
+      "source": {
+        "text": "'' At first I was shocked when I learned that he uses oira, but after seeing him use it in official screenshots it really clicked with me",
+        "raw": "'' At first I was shocked when I learned that he uses oira, but after seeing him\nuse it in official screenshots it really clicked with me",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29755678,
+          0.38355714,
+          0.89844003,
+          0.41312857
+        ],
+        "mask_bbox": [
+          0.29623159,
+          0.38284286,
+          0.89976523,
+          0.4142
+        ],
+        "line_ids": [
+          15,
+          16
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.296639341,
+            0.380714286,
+            0.322123821,
+            0.395
+          ],
+          "offset": [
+            -41.4136,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "刚知道他用 oira 时，我很震惊；但在官方截图里看到他这样说，就觉得完全说得通了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33885554,
+          0.38212857,
+          0.90678875,
+          0.4167
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42991428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0112-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33885554,
+          0.38212857,
+          0.90678875,
+          0.4167
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Sans Laughs",
+        "raw": "Sans Laughs",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2970369,
+          0.43705714,
+          0.42522383,
+          0.45023571
+        ],
+        "mask_bbox": [
+          0.29571171,
+          0.43634286,
+          0.42654902,
+          0.45130714
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "Sans 的笑声",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29665973,
+          0.42728571,
+          0.90678875,
+          0.45142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4514285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29665973,
+          0.42728571,
+          0.90678875,
+          0.45142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 636.0
+    },
+    {
+      "id": "p0112-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Laughter doesn't always translate perfectly between languages, so localizers sometimes need to adjust the way characters laugh to sound more natural in the target language. As an example, Sans' standard \"heheh\" laugh in the English script was tweaked on a per-scene basis to match the different moods Toby had intended:",
+        "raw": "Laughter doesn't always translate perfectly between languages, so localizers\nsometimes need to adjust the way characters laugh to sound more natural in the\ntarget language. As an example, Sans' standard \"heheh\" laugh in the English script\nwas tweaked on a per-scene basis to match the different moods Toby had intended:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29665973,
+          0.46532857,
+          0.90678875,
+          0.53231429
+        ],
+        "mask_bbox": [
+          0.29221524,
+          0.46461429,
+          0.90882751,
+          0.53338571
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "笑声并不总能在语言之间直接照搬，所以本地化人员有时需要调整角色的笑法，让它在目标语言中更自然。例如，英语剧本中 Sans 惯常的“heheh”，就按场景逐一调整，以贴合 Toby 想要的不同气氛：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29665973,
+          0.4639,
+          0.90678875,
+          0.53588571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5435714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29665973,
+          0.4639,
+          0.90678875,
+          0.53588571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Sans' friendly \"heheh\" was localized into Japanese with a friendly \"haha\"",
+        "raw": "Sans' friendly \"heheh\"\nwas localized into\nJapanese with a\nfriendly \"haha\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13523084,
+          0.54862857,
+          0.27396835,
+          0.60552857
+        ],
+        "mask_bbox": [
+          0.13390565,
+          0.54791429,
+          0.27529354,
+          0.6066
+        ],
+        "line_ids": [
+          22,
+          24,
+          27,
+          29
+        ]
+      },
+      "translation": {
+        "text": "Sans 友善的“heheh”（嘿嘿），在日语中改成了同样友善的“haha”（哈哈）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11722861,
+          0.5472,
+          0.27396835,
+          0.6091
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6599214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11722861,
+          0.5472,
+          0.27396835,
+          0.6091
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b012",
+      "kind": "aside",
+      "source": {
+        "text": "Sans' less friendly \"heh heh heh\" was left as-is, because it shares the same vibe in tenser scenes",
+        "raw": "Sans' less friendly \"heh\nheh heh\" was left as-is,\nbecause it shares the\nsame vibe in tenser\nscenes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12564868,
+          0.66706429,
+          0.27294897,
+          0.74044286
+        ],
+        "mask_bbox": [
+          0.12432348,
+          0.66635,
+          0.27427416,
+          0.74151429
+        ],
+        "line_ids": [
+          30,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "Sans 不太友善的“heh heh heh”（嘿、嘿、嘿）原样保留，因为在紧张场景中，两种语言给人的感觉相同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11722861,
+          0.6642071385714285,
+          0.27294897,
+          0.7425857185714285
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7612000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11722861,
+          0.6642071385714285,
+          0.27294897,
+          0.7425857185714285
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b013",
+      "kind": "aside",
+      "source": {
+        "text": "Sans' gleefully dark \"heheheh\" was localized as \"hee hee hee hee\" in Japanese to match the tone of the scene",
+        "raw": "Sans' gleefully dark\n\"heheheh\" was localized\nas \"hee hee hee hee\" in\nJapanese to match the\ntone of the scene",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11696357,
+          0.76834286,
+          0.27157281,
+          0.84039286
+        ],
+        "mask_bbox": [
+          0.11563837,
+          0.76762857,
+          0.272898,
+          0.84146429
+        ],
+        "line_ids": [
+          36,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "Sans 带着阴暗快意的“heheheh”，在日语中改成“hee hee hee hee”（嘻嘻嘻嘻），以符合场景的基调。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11696357,
+          0.76691429,
+          0.27157281,
+          0.84396429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11696357,
+          0.76691429,
+          0.27157281,
+          0.84396429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0112-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Other characters had their laughter similarly fine-tuned for tone and context too, as we'll continue to see.",
+        "raw": "Other characters had their laughter similarly fine-tuned for tone and context\ntoo, as we'll continue to see.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2980155,
+          0.86741429,
+          0.8875021,
+          0.89806429
+        ],
+        "mask_bbox": [
+          0.29221524,
+          0.8667,
+          0.90882751,
+          0.89913571
+        ],
+        "line_ids": [
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "其他角色的笑声也根据语气和语境作了类似的微调，后面还会见到。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29665973,
+          0.86598571,
+          0.90678875,
+          0.90163571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29665973,
+          0.86598571,
+          0.90678875,
+          0.90163571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "125519d429e1c6058ff2bc4bc71315ed1a14b1a78c3c27919a5af1c123127d48"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          23,
+          25,
+          26,
+          28,
+          31,
+          37,
+          44
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.02,
+      889.55
+    ],
+    "text_runs": [
+      {
+        "id": "p0112-b002",
+        "blocks": [
+          "p0112-b002",
+          "p0112-b003",
+          "p0112-b004",
+          "p0112-b005",
+          "p0112-b006",
+          "p0112-b007",
+          "p0112-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 601.88
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,794 @@
+{
+  "schema_version": 3,
+  "pdf_page": 151,
+  "printed_page": "151",
+  "title": "鞋里的秘密",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.745643+00:00",
+  "reference_size": [
+    977.122642,
+    1400
+  ],
+  "physical_size_pt": [
+    497.16,
+    712.32
+  ],
+  "image_url": "/assets/p0151.jpg",
+  "image_sha256": "aa23bea644438d8f2f59b2974334b0fcdf7655afeaa6d197f0f61536daf140e9",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0151/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0151-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Getting Sneaky",
+        "raw": "Getting Sneaky",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09288496,
+          0.05950714,
+          0.25426696,
+          0.07326429
+        ],
+        "mask_bbox": [
+          0.09155453,
+          0.05879286,
+          0.25559739,
+          0.07433571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "鞋里的秘密",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09276727,
+          0.050142857,
+          0.70633917,
+          0.074285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.074285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09276727,
+          0.050142857,
+          0.70633917,
+          0.074285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108
+    },
+    {
+      "id": "p0151-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Toby mentioned in his translation notes that this part of the game is \"super inspired by Phoenix Wright\"",
+        "raw": "Toby mentioned in his\ntranslation notes that\nthis part of the game\nis \"super inspired by\nPhoenix Wright\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73368477,
+          0.08957857,
+          0.87229582,
+          0.16012857
+        ],
+        "mask_bbox": [
+          0.73235433,
+          0.08886429,
+          0.87362626,
+          0.1612
+        ],
+        "line_ids": [
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译注释中说，游戏这一段“深受《逆转裁判》启发”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73368477,
+          0.08815,
+          0.88230751,
+          0.1637
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6127642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73368477,
+          0.08815,
+          0.88230751,
+          0.1637
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "During the date and hangout sequences, Papyrus mentions that his outfit contains a special secret. The player is then asked to identify that secret. If the player checks Papyrus' shoes in the English game, Papyrus responds with:",
+        "raw": "During the date and hangout sequences, Papyrus mentions that his outfit\ncontains a special secret. The player is then asked to identify that secret. If the\nplayer checks Papyrus' shoes in the English game, Papyrus responds with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09308965,
+          0.23301429,
+          0.69663722,
+          0.28271429
+        ],
+        "mask_bbox": [
+          0.08963051,
+          0.2323,
+          0.708386,
+          0.28378571
+        ],
+        "line_ids": [
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "约会和一起玩耍时，Papyrus 会说自己的装束里藏着一个特别的秘密，请玩家找出来。英语版中，如果调查他的鞋子，他会回答：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09276727,
+          0.23158571,
+          0.70633917,
+          0.28628571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09276727,
+          0.23158571,
+          0.70633917,
+          0.28628571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b004",
+      "kind": "quote",
+      "source": {
+        "text": "HUMAN SOULS ARE STRONGER THAN MONSTER SOULS. .. BUT THE SOLES OF OUR SHOES ON THE OTHER HAND. .. ! ARE ABOUT THE SAME.",
+        "raw": "HUMAN SOULS ARE STRONGER THAN MONSTER SOULS. ..\nBUT THE SOLES OF OUR SHOES ON THE OTHER HAND. .. !\nARE ABOUT THE SAME.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13592971,
+          0.29770714,
+          0.62472199,
+          0.34555
+        ],
+        "mask_bbox": [
+          0.13459928,
+          0.29699286,
+          0.62605243,
+          0.34662143
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "人类的 SOULS（灵魂）比怪物的更强大……\n但是，我们鞋子的 SOLES（鞋底）……！\n倒是差不多。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13592971,
+          0.29627857,
+          0.70633917,
+          0.34912143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0151-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13592971,
+          0.29627857,
+          0.70633917,
+          0.34912143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This line includes a pun on the English words \"soul\" and \"sole\". The Japanese equivalents of these words don't share the same pronunciation, though, so the joke would be lost in a straightforward translation.",
+        "raw": "This line includes a pun on the English words \"soul\" and \"sole\". The Japanese\nequivalents of these words don't share the same pronunciation, though, so the\njoke would be lost in a straightforward translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09252677,
+          0.36138571,
+          0.69524538,
+          0.41108571
+        ],
+        "mask_bbox": [
+          0.08963051,
+          0.36067143,
+          0.708386,
+          0.41215714
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "这句台词利用了英语 soul（灵魂）与 sole（鞋底）的同音。相应的日语词发音并不相同，所以直译会丢掉这个笑话。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09276727,
+          0.35995714,
+          0.70633917,
+          0.41465714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0151-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09276727,
+          0.35995714,
+          0.70633917,
+          0.41465714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "To get around this untranslatable English pun, the translator replaced the English shoe joke with a Japanese shoe joke:",
+        "raw": "To get around this untranslatable English pun, the translator replaced the\nEnglish shoe joke with a Japanese shoe joke:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09300777,
+          0.42541429,
+          0.66140111,
+          0.45622857
+        ],
+        "mask_bbox": [
+          0.08963051,
+          0.4247,
+          0.708386,
+          0.4573
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "为了绕过这个无法照译的英语双关，译者把英语鞋子笑话换成了日语鞋子笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09276727,
+          0.42398571,
+          0.70633917,
+          0.4598
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0151-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.09276727,
+          0.42398571,
+          0.70633917,
+          0.4598
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b007",
+      "kind": "quote",
+      "source": {
+        "text": "The secret is in my shoes, you say ...? Heh heh ... Sorry to break it to you, but \"secret shoes\" these are not!",
+        "raw": "The secret is in my shoes, you say ...?\nHeh heh ...\nSorry to break it to you, but \"secret shoes\" these are not!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13772069,
+          0.47179286,
+          0.55748376,
+          0.52052143
+        ],
+        "mask_bbox": [
+          0.13639025,
+          0.47107857,
+          0.55881419,
+          0.52159286
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "你说秘密藏在鞋子里……？\n嘿嘿……\n抱歉让你失望了，这可不是“秘密鞋”！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13772069,
+          0.47036429,
+          0.70633917,
+          0.52409286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0151-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.13772069,
+          0.47036429,
+          0.70633917,
+          0.52409286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first glance, this Japanese response seems to be devoid of any jokes at all. However, the English phrase \"secret shoes\" is used in Japanese to refer to what are known elsewhere as \"elevator shoes\" - shoes designed to make the wearer look taller, in other words.",
+        "raw": "At first glance, this Japanese response seems to be devoid of any jokes at all.\nHowever, the English phrase \"secret shoes\" is used in Japanese to refer to what\nare known elsewhere as \"elevator shoes\" - shoes designed to make the wearer\nlook taller, in other words.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09167734,
+          0.53492143,
+          0.70633917,
+          0.60348571
+        ],
+        "mask_bbox": [
+          0.08963051,
+          0.53420714,
+          0.708386,
+          0.60455714
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "乍看之下，这段日文似乎根本没有笑点。但英语词组“secret shoes”（秘密鞋）在日语中指的正是“内增高鞋”——也就是让穿鞋的人看起来更高的鞋。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09276727,
+          0.53349286,
+          0.70633917,
+          0.60705714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6135714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0151-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.09276727,
+          0.53349286,
+          0.70633917,
+          0.60705714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b009",
+      "kind": "aside",
+      "source": {
+        "text": "I apologize for occupying some of your brain cells for the next several years with this random Japanese shoe fact",
+        "raw": "I apologize for\noccupying some of\nyour brain cells for the\nnext several years with\nthis random Japanese\nshoe fact",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73507661,
+          0.61990714,
+          0.87817021,
+          0.70765
+        ],
+        "mask_bbox": [
+          0.73374617,
+          0.61919286,
+          0.87950065,
+          0.70872143
+        ],
+        "line_ids": [
+          27,
+          30,
+          31,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "抱歉，这条无关紧要的日本鞋类知识，恐怕要占用你未来好几年的一部分脑细胞了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73499473,
+          0.61847857,
+          0.88230751,
+          0.71122143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7971428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73499473,
+          0.61847857,
+          0.88230751,
+          0.71122143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b010",
+      "kind": "aside",
+      "source": {
+        "text": "I really like this Japanese shoe joke - it fits the context, it's shoe-themed, it uses the word \"secret\", and it doesn't feel forced. It all comes down to personal opinion, but I feel this is a good example of a localization surpassing the original. It does lose the discussion about souls, though.",
+        "raw": "I really like this Japanese shoe joke - it fits the context, it's shoe-themed,\nit uses the word \"secret\", and it doesn't feel forced. It all comes down\nto personal opinion, but I feel this is a good example of a localization\nsurpassing the original. It does lose the discussion about souls, though.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11192044,
+          0.81498571,
+          0.66652841,
+          0.87272857
+        ],
+        "mask_bbox": [
+          0.11059001,
+          0.81427143,
+          0.66785885,
+          0.8738
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "我很喜欢这个日语鞋子笑话：它符合上下文，以鞋为主题，用到了“秘密”这个词，又不显得牵强。好坏当然见仁见智，但我认为，这是一个本地化超越原文的好例子。不过，关于灵魂的那段话确实没有了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11192044,
+          0.81355714,
+          0.66652841,
+          0.8763
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8814285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11192044,
+          0.81355714,
+          0.66652841,
+          0.8763
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0151-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64432035,
+          0.93414286,
+          0.70850881,
+          0.94411429
+        ],
+        "mask_bbox": [
+          0.64298991,
+          0.93342857,
+          0.70983925,
+          0.94518571
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64432035,
+          0.93271429,
+          0.70850881,
+          0.95071429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9507142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64432035,
+          0.93271429,
+          0.70850881,
+          0.95071429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "facbe6a08ada02a7bd3c0c5f1ee0feedf4b2c2baa021e38ca7e98b72417626d7"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          26,
+          28,
+          29,
+          32,
+          41
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      90.64,
+      690.18
+    ],
+    "text_runs": [
+      {
+        "id": "p0151-b003",
+        "blocks": [
+          "p0151-b003",
+          "p0151-b004",
+          "p0151-b005",
+          "p0151-b006",
+          "p0151-b007",
+          "p0151-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 859.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

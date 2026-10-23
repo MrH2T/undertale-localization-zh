@@ -1,0 +1,1062 @@
+{
+  "schema_version": 3,
+  "pdf_page": 127,
+  "printed_page": "127",
+  "title": "填字填出火气",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.190928+00:00",
+  "reference_size": [
+    976.480513,
+    1400
+  ],
+  "physical_size_pt": [
+    496.08,
+    711.24
+  ],
+  "image_url": "/assets/p0127.jpg",
+  "image_sha256": "cef124dc9a0b58aa2630609ee3a2bfd02e7e0eabda35bad1e8ebbeff94f524e2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0127/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0127-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Crossing the Line",
+        "raw": "Crossing the Line",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08923885,
+          0.05969286,
+          0.26971352,
+          0.07290714
+        ],
+        "mask_bbox": [
+          0.08790754,
+          0.05897857,
+          0.27104484,
+          0.07397857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "填字填出火气",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08885994,
+          0.05090714,
+          0.70297358,
+          0.07505
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07504999714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08885994,
+          0.05090714,
+          0.70297358,
+          0.07505
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In my experience, puns are generally easier to localize between Japanese and English when they involve a foreign loan word, such as in this scene",
+        "raw": "In my experience,\npuns are generally\neasier to localize\nbetween Japanese\nand English when\nthey involve a foreign\nloan word, such as in\nthis scene",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73184256,
+          0.09028571,
+          0.86585445,
+          0.20941429
+        ],
+        "mask_bbox": [
+          0.73051125,
+          0.08957143,
+          0.86718576,
+          0.21048571
+        ],
+        "line_ids": [
+          2,
+          5,
+          6,
+          7,
+          8,
+          13,
+          20,
+          23
+        ]
+      },
+      "translation": {
+        "text": "依我的经验，双关涉及外来词时，通常更容易在日英之间本地化，这个场景就是例子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73164799,
+          0.08885714,
+          0.87911637,
+          0.21298571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.46679285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73164799,
+          0.08885714,
+          0.87911637,
+          0.21298571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus shares his disgust for crossword puzzles by saying:",
+        "raw": "Papyrus shares his disgust for crossword puzzles by saying:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08942319,
+          0.22607143,
+          0.54680047,
+          0.23858571
+        ],
+        "mask_bbox": [
+          0.08550094,
+          0.22535714,
+          0.54813178,
+          0.23965714
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 这样表达了对纵横填字游戏的厌恶：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08885994,
+          0.22464286,
+          0.70297358,
+          0.24678571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.24600714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08885994,
+          0.22464286,
+          0.70297358,
+          0.24678571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b004",
+      "kind": "quote",
+      "source": {
+        "text": "HMM. .. CROSSWORD. I GUESS IT'S AN APT NAME. THOSE WORDS MAKE ME CROSS!!!",
+        "raw": "HMM. .. CROSSWORD. I GUESS IT'S AN APT NAME. THOSE WORDS\nMAKE ME CROSS!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13368418,
+          0.25315,
+          0.68459123,
+          0.28222143
+        ],
+        "mask_bbox": [
+          0.13235287,
+          0.25243571,
+          0.68592255,
+          0.28329286
+        ],
+        "line_ids": [
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "嗯……CROSSWORD（纵横填字）。名字倒挺贴切。这些词让我 CROSS（生气）！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13415526,
+          0.25214286,
+          0.70252298,
+          0.29285714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.29285714285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13415526,
+          0.25214286,
+          0.70252298,
+          0.29285714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The English word \"crossword\" exists in the Japanese language, so the translator localized this pun by playing with the Japanese words kurosu (\"cross\") and kurōsuru (\"to struggle with\"). As a result, Papyrus now says in Japanese:",
+        "raw": "The English word \"crossword\" exists in the Japanese language, so the translator\nlocalized this pun by playing with the Japanese words kurosu (\"cross\") and\nkur6suru (\"to struggle with\"). As a result, Papyrus now says in Japanese:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08885994,
+          0.29860714,
+          0.69380801,
+          0.34859286
+        ],
+        "mask_bbox": [
+          0.08550094,
+          0.29789286,
+          0.70502175,
+          0.34966429
+        ],
+        "line_ids": [
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "日语借用了 crossword，所以译者改用 kurosu（交叉）和 kurōsuru（苦恼、费劲）的近音作双关。日语台词变成：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08754911,
+          0.29714286,
+          0.70297358,
+          0.35214286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.08754911,
+          0.29714286,
+          0.70297358,
+          0.35214286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b006",
+      "kind": "quote",
+      "source": {
+        "text": "HMM. .. CROSSWORD. .. THAT'S A GOOD NAME. BECAUSE I ESPECIALLY STRUGGLE WITH THEM! NYAHAHA!",
+        "raw": "HMM. .. CROSSWORD. .. THAT'S A GOOD NAME. BECAUSE I\nESPECIALLY STRUGGLE WITH THEM! NYAHAHA!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1336637,
+          0.36349286,
+          0.61427749,
+          0.39324286
+        ],
+        "mask_bbox": [
+          0.13233239,
+          0.36277857,
+          0.6156088,
+          0.39431429
+        ],
+        "line_ids": [
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "嗯……纵横填字……这名字不错，因为我做起来特别费劲！NYAHAHA！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13415526,
+          0.35928571,
+          0.70252298,
+          0.39928571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3992857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13415526,
+          0.35928571,
+          0.70252298,
+          0.39928571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the new Japanese line parallels the English line's tone and humor.",
+        "raw": "As we can see, the new Japanese line parallels the English line's tone and humor.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08754911,
+          0.40896429,
+          0.69624533,
+          0.42147857
+        ],
+        "mask_bbox": [
+          0.08550094,
+          0.40825,
+          0.70502175,
+          0.42255
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "新的日语台词保留了英语台词的语气和幽默。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08754911,
+          0.40714286,
+          0.70297358,
+          0.42785714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4278571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.08754911,
+          0.40714286,
+          0.70297358,
+          0.42785714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b008",
+      "kind": "heading",
+      "source": {
+        "text": "Jumbled Up",
+        "raw": "Jumbled Up",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08842982,
+          0.44470714,
+          0.21192435,
+          0.45792857
+        ],
+        "mask_bbox": [
+          0.08709851,
+          0.44399286,
+          0.21325566,
+          0.459
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "字母大乱斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08885994,
+          0.43442857,
+          0.70297358,
+          0.45857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4585714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08885994,
+          0.43442857,
+          0.70297358,
+          0.45857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 646.0
+    },
+    {
+      "id": "p0127-b009",
+      "kind": "aside",
+      "source": {
+        "text": "In a way, Junior Jumble seems fitting for skeletons, as they're basically a jumble of bones themselves",
+        "raw": "In a way, Junior Jumble\nseems fitting for\nskeletons, as they're\nbasically a jumble of\nbones themselves",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7318528,
+          0.47393571,
+          0.87696579,
+          0.54786429
+        ],
+        "mask_bbox": [
+          0.73052149,
+          0.47322143,
+          0.8782971,
+          0.54893571
+        ],
+        "line_ids": [
+          34,
+          38,
+          40,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "某种意义上，Junior Jumble（儿童乱字谜）倒挺适合骷髅，毕竟他们自己也就是一堆拼起来的骨头。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73164799,
+          0.47250714,
+          0.87911637,
+          0.55143571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7343857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73164799,
+          0.47250714,
+          0.87911637,
+          0.55143571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans and Papyrus argue about word puzzles. In English, Sans prefers crossword puzzles, while Papyrus prefers Junior Jumble, a real-life puzzle series aimed at children.",
+        "raw": "Sans and Papyrus argue about word puzzles. In English, Sans prefers\ncrossword puzzles, while Papyrus prefers Junior Jumble, a real-life puzzle\nseries aimed at children.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0898021,
+          0.61073571,
+          0.66353603,
+          0.66003571
+        ],
+        "mask_bbox": [
+          0.08550094,
+          0.61002143,
+          0.70502175,
+          0.66110714
+        ],
+        "line_ids": [
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "Sans 和 Papyrus 争论起文字谜题。英语版中，Sans 偏爱纵横填字，Papyrus 则偏爱现实中面向儿童的谜题系列 Junior Jumble。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 64,
+            "end": 77,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08885994,
+          0.60930714,
+          0.70297358,
+          0.66360714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.735,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08885994,
+          0.60930714,
+          0.70297358,
+          0.66360714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "To make this reference work in Japanese, the translator replaced .Junior Jumble with Okosama Challenge (\"Junior Challenge\"), which is a parody of the real-life children's activity book Kodomo Challenge (\"Child Challenge\").",
+        "raw": "To make this reference work in Japanese, the translator replaced .Junior Jumble\nwith Okosama Challenge (\"Junior Challenge\"), which is a parody of the real-life\nchildren's activity book Kodomo Challenge (\"Child Challenge\").",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08885994,
+          0.67485,
+          0.70297358,
+          0.72448571
+        ],
+        "mask_bbox": [
+          0.08550094,
+          0.67413571,
+          0.70502175,
+          0.72555714
+        ],
+        "line_ids": [
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "为了让日本玩家理解这个梗，译者把 Junior Jumble 换成了 Okosama Challenge（小朋友挑战），模仿现实中的儿童活动读物 Kodomo Challenge（儿童挑战）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 73,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08885994,
+          0.67342143,
+          0.70297358,
+          0.72805714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.735,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0127-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.08885994,
+          0.67342143,
+          0.70297358,
+          0.72805714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b012",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Each Junior Jumble puzzle involves a clue, a drawing, and a word scramble",
+        "raw": "LEFT: Each Junior Jumble\npuzzle involves a clue,\na drawing, and a word\nscramble",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7323034,
+          0.74152857,
+          0.8866434,
+          0.79892143
+        ],
+        "mask_bbox": [
+          0.73097209,
+          0.74081429,
+          0.88797471,
+          0.79999286
+        ],
+        "line_ids": [
+          51,
+          54,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "左：Junior Jumble 每题有提示、图画和字母重排。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73119739,
+          0.74,
+          0.89402706,
+          0.81571429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73119739,
+          0.74,
+          0.89402706,
+          0.81571429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b013",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Kodomo Challenge puzzles are designed as supplementary educational materials, but are easier than Junior Jumble puzzles",
+        "raw": "RIGHT: Kodama Challenge\npuzzles are designed\nas supplementary\neducational materials,\nbut are easier than Junior\nJumble puzzles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73086968,
+          0.81004286,
+          0.8919584,
+          0.89915
+        ],
+        "mask_bbox": [
+          0.72953837,
+          0.80932857,
+          0.89328972,
+          0.90022143
+        ],
+        "line_ids": [
+          59,
+          60,
+          61,
+          62,
+          64,
+          67
+        ]
+      },
+      "translation": {
+        "text": "右：Kodomo Challenge\n谜题用于辅助学习，\n比 Junior Jumble 简单。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 31,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73119739,
+          0.82428571,
+          0.89402706,
+          0.91857143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0127-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.73119739,
+          0.82428571,
+          0.89402706,
+          0.91857143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0127-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64040192,
+          0.93758571,
+          0.70472476,
+          0.94757143
+        ],
+        "mask_bbox": [
+          0.63907061,
+          0.93687143,
+          0.70605608,
+          0.94864286
+        ],
+        "line_ids": [
+          68
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64040192,
+          0.93615714,
+          0.70472476,
+          0.95415714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9541571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64040192,
+          0.93615714,
+          0.70472476,
+          0.95415714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "693fa4a0542f4e91919789ab635b9ba7b2ae835c03531fdbd2e6538b6a7c4ff6"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          9,
+          10,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          21,
+          22,
+          35,
+          36,
+          37,
+          39,
+          41,
+          44,
+          52,
+          53,
+          55,
+          56,
+          63,
+          65,
+          66,
+          69
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      86.77,
+      686.44
+    ],
+    "text_runs": [
+      {
+        "id": "p0127-b010",
+        "blocks": [
+          "p0127-b010",
+          "p0127-b011"
+        ],
+        "gap": 12,
+        "limit_bottom": 1029.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

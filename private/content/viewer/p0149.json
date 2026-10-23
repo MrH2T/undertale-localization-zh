@@ -1,0 +1,528 @@
+{
+  "schema_version": 3,
+  "pdf_page": 149,
+  "printed_page": "149",
+  "title": "日本游戏里的简化英语",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.744306+00:00",
+  "reference_size": [
+    975.349857,
+    1400
+  ],
+  "physical_size_pt": [
+    495.84,
+    711.72
+  ],
+  "image_url": "/assets/p0149.jpg",
+  "image_sha256": "05614421ef8b436c7c63d5063fa62b597b09649e5bd418e19a62b8fa01c5a5e0",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0149/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0149-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Simplified English in Japanese Games",
+        "raw": "Simplified English in Japanese Games",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20066646,
+          0.08629286,
+          0.59621683,
+          0.0995
+        ],
+        "mask_bbox": [
+          0.1993336,
+          0.08557857,
+          0.59754969,
+          0.10057143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日本游戏里的简化英语",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11790641,
+          0.076571429,
+          0.679756085,
+          0.100714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.100714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11790641,
+          0.076571429,
+          0.679756085,
+          0.100714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 145
+    },
+    {
+      "id": "p0149-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've seen, English words appear all the time in Japanese games. Over the years, these English words have formed a limited \"English game vocabulary\" that Japanese gamers naturally absorb. However, it's still common for English phrases to be simplified during English-to Japanese game localization.",
+        "raw": "As we've seen, English words appear all the time in Japanese games.\nOver the years, these English words have formed a limited \"English\ngame vocabulary\" that Japanese gamers naturally absorb. However,\nit's still common for English phrases to be simplified during English-to\nJapanese game localization.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11849082,
+          0.11685714,
+          0.6520532,
+          0.19427857
+        ],
+        "mask_bbox": [
+          0.11644027,
+          0.11614286,
+          0.6783002,
+          0.19535
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "前面已经看到，日本游戏中经常出现英语词。多年来，它们形成了一套范围有限的“游戏英语词汇”，日本玩家玩着玩着就熟悉了。不过，英语游戏本地化成日语时，简化英文措辞仍然十分常见。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11873175,
+          0.11542857,
+          0.67624965,
+          0.19785
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.20642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11873175,
+          0.11542857,
+          0.67624965,
+          0.19785
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0149-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The English word \"flawless\" was replaced with the more recognizable English word \"perfect\" in the Japanese version of Valorant (2020)",
+        "raw": "The English word \"flawless\" was replaced with the more recognizable English word\n\"perfect\" in the Japanese version of Valorant (2020)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11307737,
+          0.3539,
+          0.64089823,
+          0.37889286
+        ],
+        "mask_bbox": [
+          0.11174452,
+          0.35318571,
+          0.64223109,
+          0.37996429
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Valorant（2020）日语版把 flawless（完美无缺）换成了日本玩家更容易认得的 perfect（完美）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11307737,
+          0.35247143,
+          0.67624965,
+          0.38246429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3892857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11307737,
+          0.35247143,
+          0.67624965,
+          0.38246429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0149-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Conversely, \"flawless\" was kept intact in the Japanese version of One Step From Eden (2020), but the phrase \"battle won\" was simplified to \"victory\"",
+        "raw": "Conversely, \"flawless\" was kept intact in the Japanese version of One Step From Eden\n(2020), but the phrase \"battle won\" was simplified to \"victory\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12028504,
+          0.536,
+          0.65569292,
+          0.56217143
+        ],
+        "mask_bbox": [
+          0.11895219,
+          0.53528571,
+          0.65702578,
+          0.56324286
+        ],
+        "line_ids": [
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "相反，One Step From Eden（2020）日语版保留了 flawless，却把 battle won（战斗获胜）简化成了 victory（胜利）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11873175,
+          0.53457143,
+          0.67624965,
+          0.56574286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5713571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11873175,
+          0.53457143,
+          0.67624965,
+          0.56574286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0149-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The reverse of this practice can happen too. Sometimes overly simplified English text in a Japanese game will be rewritten with more complicated English during the Japanese-to-English localization process.",
+        "raw": "The reverse of this practice can happen too. Sometimes overly simplified\nEnglish text in a Japanese game will be rewritten with more complicated\nEnglish during the Japanese-to-English localization process.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11897269,
+          0.5785,
+          0.67624965,
+          0.62285714
+        ],
+        "mask_bbox": [
+          0.11644027,
+          0.57778571,
+          0.6783002,
+          0.62392857
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "反过来的情况也会发生。日本游戏中有时会出现过分简化的英语，日译英本地化时，又会把它们改写成更复杂的英语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11873175,
+          0.57707143,
+          0.67624965,
+          0.62642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6364285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11873175,
+          0.57707143,
+          0.67624965,
+          0.62642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0149-b006",
+      "kind": "caption",
+      "source": {
+        "text": "This victory message in the original Japanese version of Dark Souls (2011) uses very simple English intended for Japanese players, while the English localization uses a larger vocabulary to rephrase the message in a more natural way",
+        "raw": "This victory message in the original Japanese version of Dark Souls (2011) uses very\nsimple English intended for Japanese players, while the English localization uses a larger\nvocabulary to rephrase the message in a more natural way",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11995696,
+          0.78419286,
+          0.67298928,
+          0.82655
+        ],
+        "mask_bbox": [
+          0.1186241,
+          0.78347857,
+          0.67432214,
+          0.82762143
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Dark Souls（2011）日语原版的胜利提示“YOU DEFEATED”使用很简单的英语，方便日本玩家理解。英语本地化则采用更丰富的词汇，改成较自然的“VICTORY ACHIEVED”（取得胜利）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11873175,
+          0.78276429,
+          0.67624965,
+          0.83012143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8385714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11873175,
+          0.78276429,
+          0.67624965,
+          0.83012143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0149-b007",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64457896,
+          0.93457857,
+          0.70845348,
+          0.94412857
+        ],
+        "mask_bbox": [
+          0.64324611,
+          0.93386429,
+          0.70978633,
+          0.9452
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64457896,
+          0.93315,
+          0.70845348,
+          0.95115
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.95115,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64457896,
+          0.93315,
+          0.70845348,
+          0.95115
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7d30fb7f18a1686c1526957675d5a2d3ac3a3a0fddfb55cb553dfa871ac1beb6"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      115.81,
+      659.58
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

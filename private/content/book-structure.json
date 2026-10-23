@@ -1,0 +1,140 @@
+{
+  "version": 1,
+  "numbering": "original-print",
+  "toc_pdf_page": 5,
+  "chapters": [
+    {
+      "id": "chapter-8",
+      "source_title": "Introduction",
+      "title_zh": "引言",
+      "printed_start": 8,
+      "pdf_start": 8,
+      "title_pdf_page": 9
+    },
+    {
+      "id": "chapter-14",
+      "source_title": "What is Localization?",
+      "title_zh": "什么是本地化？",
+      "printed_start": 14,
+      "pdf_start": 14,
+      "title_pdf_page": 15
+    },
+    {
+      "id": "chapter-36",
+      "source_title": "History",
+      "title_zh": "历史",
+      "printed_start": 36,
+      "pdf_start": 36,
+      "title_pdf_page": 37
+    },
+    {
+      "id": "chapter-58",
+      "source_title": "Getting it Localized",
+      "title_zh": "本地化的过程",
+      "printed_start": 58,
+      "pdf_start": 58,
+      "title_pdf_page": 59
+    },
+    {
+      "id": "chapter-72",
+      "source_title": "Starting the Game",
+      "title_zh": "开始游戏",
+      "printed_start": 72,
+      "pdf_start": 72,
+      "title_pdf_page": 73
+    },
+    {
+      "id": "chapter-80",
+      "source_title": "Ruins",
+      "title_zh": "遗迹",
+      "printed_start": 80,
+      "pdf_start": 80,
+      "title_pdf_page": 81
+    },
+    {
+      "id": "chapter-106",
+      "source_title": "Snowdin",
+      "title_zh": "雪镇",
+      "printed_start": 106,
+      "pdf_start": 106,
+      "title_pdf_page": 107
+    },
+    {
+      "id": "chapter-156",
+      "source_title": "Waterfall",
+      "title_zh": "瀑布",
+      "printed_start": 156,
+      "pdf_start": 156,
+      "title_pdf_page": 157
+    },
+    {
+      "id": "chapter-184",
+      "source_title": "Hotland",
+      "title_zh": "热域",
+      "printed_start": 184,
+      "pdf_start": 184,
+      "title_pdf_page": 185
+    },
+    {
+      "id": "chapter-214",
+      "source_title": "The Core",
+      "title_zh": "核心",
+      "printed_start": 214,
+      "pdf_start": 214,
+      "title_pdf_page": 215
+    },
+    {
+      "id": "chapter-224",
+      "source_title": "New Home",
+      "title_zh": "新家",
+      "printed_start": 224,
+      "pdf_start": 224,
+      "title_pdf_page": 225
+    },
+    {
+      "id": "chapter-230",
+      "source_title": "True Lab",
+      "title_zh": "真正的实验室",
+      "printed_start": 230,
+      "pdf_start": 230,
+      "title_pdf_page": 231
+    },
+    {
+      "id": "chapter-236",
+      "source_title": "Final Battles",
+      "title_zh": "最终战斗",
+      "printed_start": 236,
+      "pdf_start": 236,
+      "title_pdf_page": 237
+    },
+    {
+      "id": "chapter-252",
+      "source_title": "Ending",
+      "title_zh": "结局",
+      "printed_start": 252,
+      "pdf_start": 252,
+      "title_pdf_page": 253
+    },
+    {
+      "id": "chapter-260",
+      "source_title": "Final Thoughts",
+      "title_zh": "结语",
+      "printed_start": 260,
+      "pdf_start": 260,
+      "title_pdf_page": 261
+    }
+  ],
+  "special_pages": {
+    "1": "title",
+    "2": "copyright-credits",
+    "3": "art",
+    "4": "rights-reference-tables",
+    "5": "contents",
+    "6-7": "art-spread",
+    "266-267": "thanks-opening",
+    "268-269": "thanks",
+    "270": "closing-image",
+    "271-272": "end-matter"
+  },
+  "policy": "Translate navigation labels only; language analysis retains original terms. Chapter spreads override ordinary odd-page footers. Page numbers stay original."
+}

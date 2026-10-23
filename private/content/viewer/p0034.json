@@ -1,0 +1,967 @@
+{
+  "schema_version": 3,
+  "pdf_page": 34,
+  "printed_page": "34",
+  "title": "无法预知的情况",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.113487+00:00",
+  "reference_size": [
+    991.637161,
+    1400
+  ],
+  "physical_size_pt": [
+    504.12,
+    711.72
+  ],
+  "image_url": "/assets/p0034.jpg",
+  "image_sha256": "bb5b0240bd36a888eda685b50a3b2126ee674065da76d13b7a8fb0992b051321",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0034/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0034-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Unpredictable Circumstances",
+        "raw": "Unpredictable Circumstances",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29284905,
+          0.0636,
+          0.59388658,
+          0.07695
+        ],
+        "mask_bbox": [
+          0.29153809,
+          0.06288571,
+          0.59519754,
+          0.07802143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "无法预知的情况",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.05371429,
+          0.89949231,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.05371429,
+          0.89949231,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0034-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sometimes, the lack of external information can cause a literal translation to fail later on. This is common when translating ongoing entertainment series. In these situations, it's possible that only the original creator knows where the story will go. Or it's possible that the creator has no idea and is making things up as they go. Either way, without input from the creator, a translator can only hope and guess which insignificant things will become significant later on.",
+        "raw": "Sometimes, the lack of external information can cause a literal translation to\nfail later on. This is common when translating ongoing entertainment series.\nIn these situations, it's possible that only the original creator knows where the\nstory will go. Or it's possible that the creator has no idea and is making things\nup as they go. Either way, without input from the creator, a translator can only\nhope and guess which insignificant things will become significant later on.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29266753,
+          0.09147857,
+          0.88850039,
+          0.19522857
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.09076429,
+          0.90150918,
+          0.1963
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "有时缺乏外部信息，会让当时的直译在日后出错。翻译仍在连载的娱乐作品时，这很常见：可能只有原作者知道故事将走向哪里，也可能作者自己并不知道，正边写边想。无论哪种情况，没有作者提供信息，译者只能猜测哪些看似无关紧要的细节会在以后变得重要，并希望自己猜中。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.09005,
+          0.89949231,
+          0.1988
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3449785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.09005,
+          0.89949231,
+          0.1988
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As an example, an important island in the One Piece series named ラフテル (rafuteru) was introduced in 1999. Because the Japanese language doesn’t distinguish between “L” and “R” sounds, and because the series’ creator wasn’t involved in the translation process, English translators originally called the island “Raftel”, hoping this literal transcription was correct. In 2019, with the series still chugging along, it was finally revealed that the creator intended the name to be “Laugh Tale” all along.",
+        "raw": "As an example, an important island in the One Piece series named 777-Jv\n(rafuteru) was introduced in 1999. Because the Japanese language doesn't\ndistinguish between \"L\" and \"R\" sounds, and because the series' creator wasn't\ninvolved in the translation process, English translators originally called the\nisland \"Raftel\", hoping this literal transcription was correct. In 2019, with the\nseries still chugging along, it was finally revealed that the creator intended the\nname to be \"Laugh Tale\" all along.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29131623,
+          0.21015714,
+          0.89369382,
+          0.33247857
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.20944286,
+          0.90150918,
+          0.33355
+        ],
+        "line_ids": [
+          8,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21
+        ]
+      },
+      "translation": {
+        "text": "例如，《One Piece》在1999年提到一座重要的岛，名叫ラフテル（rafuteru）。日语不区分 L 和 R 的发音，而原作者没有参与翻译，英语译者便先将岛名拼成 Raftel，希望这种直接音译是对的。到2019年，故事仍在连载，大家才终于得知：作者从一开始想的就是 Laugh Tale（笑谈）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 36,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.20872857,
+          0.89949231,
+          0.33605
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3449785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0034-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.20872857,
+          0.89949231,
+          0.33605
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Basically, you can translate something literally to the best of your ability and still be wrong - unless you can read minds or see the future",
+        "raw": "Basically, you can\ntranslate something\nliterally to the best of\nyour ability and still\nbe wrong - unless\nyou can read minds or\nsee the future",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13133836,
+          0.2125,
+          0.26724493,
+          0.31468571
+        ],
+        "mask_bbox": [
+          0.1300274,
+          0.21178571,
+          0.26855589,
+          0.31575714
+        ],
+        "line_ids": [
+          9,
+          10,
+          12,
+          14,
+          16,
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "即使尽力照字面翻译，仍可能译错——除非你会读心术，或能预知未来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13133836,
+          0.21107143,
+          0.26724493,
+          0.31825714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13133836,
+          0.21107143,
+          0.26724493,
+          0.31825714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "And Many More",
+        "raw": "And Many More",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29328268,
+          0.35212143,
+          0.44080639,
+          0.36434286
+        ],
+        "mask_bbox": [
+          0.29197171,
+          0.35140714,
+          0.44211736,
+          0.36541429
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "还有许多其他情况",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.34234286,
+          0.89949231,
+          0.36648572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3664857171428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.34234286,
+          0.89949231,
+          0.36648572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "There are many other times when a literal translation might not work properly. Some of these problematic situations involve:",
+        "raw": "There are many other times when a literal translation might not work properly.\nSome of these problematic situations involve:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29310116,
+          0.37472857,
+          0.89618465,
+          0.40462143
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.37401429,
+          0.90150918,
+          0.40569286
+        ],
+        "line_ids": [
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "直译可能行不通的情况还有很多，例如涉及：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.3733,
+          0.89949231,
+          0.40819286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6373428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.3733,
+          0.89949231,
+          0.40819286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Abbreviations, signs, and symbols Units of measurement Vocabulary levels Internet slang Unstated information and filler words Etiquette and gestures Physical differences Differences in surroundings Space, time, and technological limitations",
+        "raw": "Abbreviations, signs, and symbols\nUnits of measurement\nVocabulary levels\nInternet slang\nUnstated information and filler words\nEtiquette and gestures\nPhysical differences\nDifferences in surroundings\nSpace, time, and technological limitations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33797644,
+          0.41992857,
+          0.65609683,
+          0.57965
+        ],
+        "mask_bbox": [
+          0.30137031,
+          0.41921429,
+          0.6574078,
+          0.58072143
+        ],
+        "line_ids": [
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "• 缩写、标识与符号\n• 计量单位\n• 词汇的难易程度\n• 网络用语\n• 未明说的信息和填充词\n• 礼仪与手势\n• 身体差异\n• 周围环境的差异\n• 空间、时间与技术限制",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33797644,
+          0.4185,
+          0.89949231,
+          0.58322143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6373428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0034-b006",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33797644,
+          0.4185,
+          0.89949231,
+          0.58322143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0034-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "There are always new, unexpected challenges in translation, so this list is only the tip of the iceberg!",
+        "raw": "There are always new, unexpected challenges in translation, so this list is only\nthe tip of the iceberg!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29405917,
+          0.59425,
+          0.88762305,
+          0.62448571
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.59353571,
+          0.90150918,
+          0.62555714
+        ],
+        "line_ids": [
+          36,
+          38
+        ]
+      },
+      "translation": {
+        "text": "翻译总会冒出意想不到的新难题，这份清单只是冰山一角！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.59282143,
+          0.89949231,
+          0.62805714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6373428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0034-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.59282143,
+          0.89949231,
+          0.62805714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Local abbreviations can completely lose their intended meaning if left intact and unlocalized",
+        "raw": "Local abbreviations can\ncompletely lose their\nintended meaning if left\nintact and unlocalized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12016492,
+          0.56894286,
+          0.26856597,
+          0.62490714
+        ],
+        "mask_bbox": [
+          0.11885396,
+          0.56822857,
+          0.26987694,
+          0.62597857
+        ],
+        "line_ids": [
+          34,
+          35,
+          37,
+          39
+        ]
+      },
+      "translation": {
+        "text": "当地的缩写如果原样保留、不做本地化，可能完全传达不了原意。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12016492,
+          0.56751429,
+          0.26856597,
+          0.62847857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8092857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12016492,
+          0.56751429,
+          0.26856597,
+          0.62847857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b010",
+      "kind": "subheading",
+      "source": {
+        "text": "All Together",
+        "raw": "All Together",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2942306,
+          0.64448571,
+          0.40724573,
+          0.65670714
+        ],
+        "mask_bbox": [
+          0.29291964,
+          0.64377143,
+          0.40855669,
+          0.65777857
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "合起来看",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.63470714,
+          0.89949231,
+          0.65885
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6588499971428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.63470714,
+          0.89949231,
+          0.65885
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've seen in this chapter, a lot can get lost in translation if you only focus on the words used. Recognizing and preserving the ideas behind those words is arguably more important, and is at the heart of what localization is all about.",
+        "raw": "As we've seen in this chapter, a lot can get lost in translation if you only focus\non the words used. Recognizing and preserving the ideas behind those words is\narguably more important, and is at the heart of what localization is all about.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29322217,
+          0.66776429,
+          0.89776789,
+          0.71620714
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.66705,
+          0.90150918,
+          0.71727857
+        ],
+        "line_ids": [
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "本章说明，只盯着词语本身，翻译就可能丢掉很多东西。认清并保留词语背后的想法，或许更为重要；这也正是本地化的核心。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.66633571,
+          0.89949231,
+          0.71977857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8092857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.66633571,
+          0.89949231,
+          0.71977857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In this third Legends of Localization book, we'll look at the specific things that changed during Undertale's translation process into Japanese. And given that the game relies so much on humor, unique speech patterns, cultural references, and more, there'll surely be a lot to discover!",
+        "raw": "In this third Legends ofL ocalization book, we'll look at the specific things that\nchanged during Underta/e's translation process into Japanese. And given that\nthe game relies so much on humor, unique speech patterns, cultural references,\nand more, there'll surely be a lot to discover!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29502727,
+          0.73149286,
+          0.89949231,
+          0.79916429
+        ],
+        "mask_bbox": [
+          0.28929936,
+          0.73077857,
+          0.90150918,
+          0.80023571
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "在《Legends of Localization》第3卷中，我们将具体看看 Undertale 译成日语时改动了什么。游戏大量依靠幽默、独特的说话方式、文化典故等元素，一定有不少值得发现的内容！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 39,
+            "end": 48,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29316166,
+          0.73006429,
+          0.89949231,
+          0.80273571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8092857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0034-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29316166,
+          0.73006429,
+          0.89949231,
+          0.80273571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0034-b013",
+      "kind": "aside",
+      "source": {
+        "text": "It goes without saying that Undertale's localization encountered almost every obstacle in this chapter, and more. It's such a big, strange game that I'd be shocked if it had been an easy, straightforward translation!",
+        "raw": "It goes without saying that Undertale's localization encountered almost\nevery obstacle in this chapter, and more. It's such a big, strange game that\nI'd be shocked if it had been an easy, straightforward translation!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3140564,
+          0.82770714,
+          0.87225452,
+          0.86955
+        ],
+        "mask_bbox": [
+          0.31274544,
+          0.82699286,
+          0.87356549,
+          0.87062143
+        ],
+        "line_ids": [
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "不用说，Undertale 的本地化几乎遇到了本章里的每一种障碍，还不止这些。游戏既庞大又奇特，如果它译起来轻松直接，我才会惊讶！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3140564,
+          0.82627857,
+          0.87225452,
+          0.87312143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8778571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.3140564,
+          0.82627857,
+          0.87225452,
+          0.87312143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "92c7c47ae8cb26636cd417ef4cf09c506c26449937bcd6e8a81be56b71f36679"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          51
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.71,
+      891.97
+    ],
+    "text_runs": [
+      {
+        "id": "p0034-b002",
+        "blocks": [
+          "p0034-b002",
+          "p0034-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 482.97
+      },
+      {
+        "id": "p0034-b006",
+        "blocks": [
+          "p0034-b006",
+          "p0034-b007",
+          "p0034-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 892.28
+      },
+      {
+        "id": "p0034-b011",
+        "blocks": [
+          "p0034-b011",
+          "p0034-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1133.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

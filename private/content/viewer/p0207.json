@@ -1,0 +1,1383 @@
+{
+  "schema_version": 3,
+  "pdf_page": 207,
+  "printed_page": "207",
+  "title": "菜单上的变动",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:49:29.225866+00:00",
+  "reference_size": [
+    978.273357,
+    1400
+  ],
+  "physical_size_pt": [
+    496.32,
+    710.28
+  ],
+  "image_url": "/assets/p0207.jpg",
+  "image_sha256": "b61b4663ce6221de13ed368158398d0681a8e5157beb9df0bff34814636777eb",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0207/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0207-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Not on the Menu",
+        "raw": "Not on the Menu",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08803265,
+          0.05820714,
+          0.26549839,
+          0.07087857
+        ],
+        "mask_bbox": [
+          0.08670378,
+          0.05749286,
+          0.26682726,
+          0.07195
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "菜单上的变动",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08765444,
+          0.04728571,
+          0.70114349,
+          0.07142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07142857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08765444,
+          0.04728571,
+          0.70114349,
+          0.07142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 104.0
+    },
+    {
+      "id": "p0207-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "A Mettaton-themed restaurant inside the MTT Resort sells four different Mettaton-therned items:",
+        "raw": "A Mettaton-themed restaurant inside\nthe MTT Resort sells four different\nMettaton-therned items:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.40663481,
+          0.08489286,
+          0.69579734,
+          0.13412857
+        ],
+        "mask_bbox": [
+          0.40530594,
+          0.08417857,
+          0.69712621,
+          0.1352
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "MTT 度假村里的 Mettaton 主题餐厅，出售四种以他为主题的食物：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40683925,
+          0.08285714,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.31,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.40683925,
+          0.08285714,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "food-list"
+    },
+    {
+      "id": "p0207-b003",
+      "kind": "quote",
+      "source": {
+        "text": "• A hamburger called the \"Glamburger\"",
+        "raw": "• A hamburger called the\n\"Glamburger\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42670078,
+          0.14945,
+          0.63108128,
+          0.18042143
+        ],
+        "mask_bbox": [
+          0.38959458,
+          0.14873571,
+          0.63241015,
+          0.18149286
+        ],
+        "line_ids": [
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "Glamburger（华丽汉堡）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42728343,
+          0.14785714,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.31,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.42728343,
+          0.14785714,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "food-list"
+    },
+    {
+      "id": "p0207-b004",
+      "kind": "quote",
+      "source": {
+        "text": "• A hero/submarine sandwich called the \"Legendary Hero\"",
+        "raw": "• A hero/submarine sandwich\ncalled the \"Legendary Hero\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42670078,
+          0.1954,
+          0.6742185,
+          0.22602143
+        ],
+        "mask_bbox": [
+          0.38959458,
+          0.19468571,
+          0.67554738,
+          0.22709286
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Legendary Hero（传奇英雄）长条三明治（hero／submarine）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42728343,
+          0.19357143,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.31,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.42728343,
+          0.19357143,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "food-list"
+    },
+    {
+      "id": "p0207-b005",
+      "kind": "quote",
+      "source": {
+        "text": "• A steak shaped like Metta ton's face, called the \"Face Steak\"",
+        "raw": "• A steak shaped like Metta ton's\nface, called the \"Face Steak\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42718121,
+          0.24134286,
+          0.6849517,
+          0.27199286
+        ],
+        "mask_bbox": [
+          0.39007502,
+          0.24062857,
+          0.68628057,
+          0.27306429
+        ],
+        "line_ids": [
+          9,
+          11
+        ]
+      },
+      "translation": {
+        "text": "做成 Mettaton 脸形的 Face Steak 牛排。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42728343,
+          0.23928571,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.31,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.42728343,
+          0.23928571,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "food-list"
+    },
+    {
+      "id": "p0207-b006",
+      "kind": "quote",
+      "source": {
+        "text": "• A parfait called the \"Starfait\"",
+        "raw": "• A parfait called the \"Starfait\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42718121,
+          0.28695714,
+          0.67409584,
+          0.29934286
+        ],
+        "mask_bbox": [
+          0.39007502,
+          0.28624286,
+          0.67542471,
+          0.30041429
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "Starfait（星星芭菲）甜品。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42728343,
+          0.285,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.31,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.42728343,
+          0.285,
+          0.70532433,
+          0.31
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "food-list"
+    },
+    {
+      "id": "p0207-b007",
+      "kind": "caption",
+      "source": {
+        "text": "In the English version of Undertale, the Mettaton-themed restaurant sells four Mettaton-themed food items",
+        "raw": "In the English version of Undertale, the\nMettaton-themed restaurant sells four\nMettaton-themed food items",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08938197,
+          0.25092143,
+          0.33078689,
+          0.2938
+        ],
+        "mask_bbox": [
+          0.0880531,
+          0.25020714,
+          0.33211576,
+          0.29487143
+        ],
+        "line_ids": [
+          10,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "在英文版《Undertale》中，这家主题餐厅出售四种 Mettaton 主题食物。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0889322,
+          0.24928571,
+          0.37412856,
+          0.30214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.30214285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.0889322,
+          0.24928571,
+          0.37412856,
+          0.30214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "left-image-caption"
+    },
+    {
+      "id": "p0207-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "These items are meant to represent how fabulous and popular Mettaton considers himself to be: a glamorous, legendary, heroic star with an incredible face.",
+        "raw": "These items are meant to represent how fabulous and popular Mettaton considers\nhimself to be: a glamorous, legendary, heroic star with an incredible face.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08737844,
+          0.31432857,
+          0.70114349,
+          0.34565
+        ],
+        "mask_bbox": [
+          0.08533402,
+          0.31361429,
+          0.70318791,
+          0.34672143
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "这些食物都体现了 Mettaton 自认为的魅力和人气：华丽、传奇、英雄般的大明星，还有一张无与伦比的脸。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08765444,
+          0.3129,
+          0.70114349,
+          0.34922143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08765444,
+          0.3129,
+          0.70114349,
+          0.34922143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b009",
+      "kind": "aside",
+      "source": {
+        "text": "I w o n de r i f f a n s h av e m a d e a c t u al Starfaits and Sunday Sundaes - if so, it'd be cool to see if they differ at all",
+        "raw": "I w o n de r i f f a n s\nh av e m a d e a c t u al\nStarfaits and Sunday\nSundaes - if so, it'd\nbe cool to see if they\ndiffer at all",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73374174,
+          0.3676,
+          0.86318409,
+          0.45023571
+        ],
+        "mask_bbox": [
+          0.73241287,
+          0.36688571,
+          0.86451296,
+          0.45130714
+        ],
+        "line_ids": [
+          21,
+          25,
+          27,
+          29,
+          33,
+          38
+        ]
+      },
+      "translation": {
+        "text": "不知道粉丝有没有真的做出 Starfait 和 Sunday Sundae；如果有，看看它们是否不同一定很有趣。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72976535,
+          0.36617143,
+          0.87696347,
+          0.45380714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72976535,
+          0.36617143,
+          0.87696347,
+          0.45380714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, the Glamburger, Legendary Hero, and Face Steak items remain unchanged. However, the Starfait - which is short for \"Star Parfait\" - became the \"Sunday Sundae\" and received a new Japanese description:",
+        "raw": "In Japanese, the Glamburger, Legendary Hero, and Face Steak items remain\nunchanged. However, the Starfait - which is short for \"Star Parfait\" - became\nthe \"Sunday Sundae\" and received a new Japanese description:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0878691,
+          0.49002857,
+          0.68693479,
+          0.53892857
+        ],
+        "mask_bbox": [
+          0.08533402,
+          0.48931429,
+          0.70318791,
+          0.54
+        ],
+        "line_ids": [
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "日文版的 Glamburger、Legendary Hero 和 Face Steak 没有变化。不过，Starfait 是 Star Parfait（星星芭菲）的缩写，日版改成了 Sunday Sundae（星期日圣代），还换上了新说明：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08737844,
+          0.48571429,
+          0.70114349,
+          0.54857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5485714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.08737844,
+          0.48571429,
+          0.70114349,
+          0.54857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "food-names-before-table"
+    },
+    {
+      "id": "p0207-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10795551,
+          0.56874286,
+          0.2051676,
+          0.58057143
+        ],
+        "mask_bbox": [
+          0.10662664,
+          0.56802857,
+          0.20649648,
+          0.58164286
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "英文版",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10795551,
+          0.56731429,
+          0.39130167,
+          0.58531429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5838857185714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.10795551,
+          0.56731429,
+          0.39130167,
+          0.58531429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41384138,
+          0.56874286,
+          0.67614026,
+          0.58057143
+        ],
+        "mask_bbox": [
+          0.41251251,
+          0.56802857,
+          0.67746913,
+          0.58164286
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "日文版大意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41384138,
+          0.56731429,
+          0.69296582,
+          0.58531429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5838857185714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.41384138,
+          0.56731429,
+          0.69296582,
+          0.58531429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "A sweet treat made of sparkling stars.",
+        "raw": "A sweet treat made of sparkling stars.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1068413,
+          0.6004,
+          0.37786984,
+          0.61208571
+        ],
+        "mask_bbox": [
+          0.10551243,
+          0.59968571,
+          0.37919872,
+          0.61315714
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "用闪亮星星做成的甜点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1068413,
+          0.59897143,
+          0.39130167,
+          0.61697143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6335714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1068413,
+          0.59897143,
+          0.39130167,
+          0.61697143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "The perfect sweet for a snack on your day off.",
+        "raw": "The perfect sweet for a snack on your\nday off.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41379027,
+          0.6004,
+          0.68426682,
+          0.62695
+        ],
+        "mask_bbox": [
+          0.4124614,
+          0.59968571,
+          0.68559569,
+          0.62802143
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "休息日享用的绝佳甜点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41379027,
+          0.59897143,
+          0.69296582,
+          0.63052143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6335714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41379027,
+          0.59897143,
+          0.69296582,
+          0.63052143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Starfait received this new name and description early in Underta/e's localization, when Toby and the translation team were still getting accustomed to the project's workflow and with working with each other. During this time, Toby explained his vision for the Japanese script:",
+        "raw": "The Starfait received this new name and description early in Underta/e's\nlocalization, when Toby and the translation team were still getting accustomed\nto the project's workflow and with working with each other. During this time,\nToby explained his vision for the Japanese script:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08784866,
+          0.6556,
+          0.69838353,
+          0.72272857
+        ],
+        "mask_bbox": [
+          0.08533402,
+          0.65488571,
+          0.70318791,
+          0.7238
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "Starfait 的新名字和说明在《Undertale》本地化早期就定下了，当时 Toby 与翻译团队还在熟悉项目流程、磨合彼此的合作。那时，他这样描述自己对日语剧本的期待：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08765444,
+          0.65417143,
+          0.70114349,
+          0.7263
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08765444,
+          0.65417143,
+          0.70114349,
+          0.7263
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b016",
+      "kind": "quote",
+      "source": {
+        "text": "'' Undertale is fir/I of weird things and jokes. If tl1ere's afimny line in the EN version that doesn't work in the .JP version, it's obviously better to change it to somethingfi1nny rather than try to make it faithful. I'd be glad to help with any of these changes if necessary.",
+        "raw": "'' Undertale is fir/I of weird things and jokes. If tl1ere's afimny line in the EN\nversion that doesn't work in the .JP version, it's obviously better to change\nit to somethingfi1nny rather than try to make it faithful. I'd be glad to help\nwith any of these changes if necessary.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08980108,
+          0.73872857,
+          0.69139162,
+          0.80540714
+        ],
+        "mask_bbox": [
+          0.0884722,
+          0.73801429,
+          0.69272049,
+          0.80647857
+        ],
+        "line_ids": [
+          53,
+          54,
+          55,
+          56
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.087909989,
+            0.735714286,
+            0.114487427,
+            0.750714286
+          ],
+          "offset": [
+            -44.9962,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "《Undertale》里满是怪事和笑话。如果英文里有句笑话在日语中不成立，显然把它改成别的好笑的话，比勉强忠实原文更好。必要时，我很乐意帮忙一起改。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13390554,
+          0.7373,
+          0.70114349,
+          0.80897857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b015"
+      },
+      "calibration": {
+        "bbox": [
+          0.13390554,
+          0.7373,
+          0.70114349,
+          0.80897857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b017",
+      "kind": "paragraph",
+      "source": {
+        "text": "With this note in mind, the team played around with various item names in early versions of the Japanese script. Thus, at some point, the \"Starfait\" became the -t}-/-T'--ij-/·'f'- (sande sande, \"Sunday Sundae\") and remained that way. This \"Sunday Sundae\" change does have drawbacks, however: the new name and description are no longer Metta ton-themed or star-themed.",
+        "raw": "With this note in mind, the team played around with various item names\nin early versions of the Japanese script. Thus, at some point, the \"Starfait\"\nbecame the -t}-/-T'--ij-/·'f'- (sande sande, \"Sunday Sundae\") and remained\nthat way. This \"Sunday Sundae\" change does have drawbacks, however: the\nnew name and description are no longer Metta ton-themed or star-themed.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08746022,
+          0.82117143,
+          0.67560871,
+          0.90722143
+        ],
+        "mask_bbox": [
+          0.08533402,
+          0.82045714,
+          0.70318791,
+          0.90829286
+        ],
+        "line_ids": [
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      },
+      "translation": {
+        "text": "有了这条说明，团队在早期日语剧本中尝试了各种物品名。于是，Starfait 在某个阶段变成了「サンデーサンデー」（sandē sandē，Sunday Sundae，星期日圣代），并一直沿用下来。但这项改动也有缺点：新名字和说明不再与 Mettaton 或星星有关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 57,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08765444,
+          0.81974286,
+          0.70114349,
+          0.91079286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0207-b016"
+      },
+      "calibration": {
+        "bbox": [
+          0.08765444,
+          0.81974286,
+          0.70114349,
+          0.91079286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0207-b018",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64572954,
+          0.9358,
+          0.7044759,
+          0.94579286
+        ],
+        "mask_bbox": [
+          0.64440066,
+          0.93508571,
+          0.70580477,
+          0.94686429
+        ],
+        "line_ids": [
+          62
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64572954,
+          0.93437143,
+          0.7044759,
+          0.95237143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9523714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64572954,
+          0.93437143,
+          0.7044759,
+          0.95237143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "10fbf9e39402c1c4d90082509d3593b9f3447dec9e99432b7a47d2d22d5f53da"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      85.75,
+      685.91
+    ],
+    "text_runs": [
+      {
+        "id": "p0207-b015",
+        "blocks": [
+          "p0207-b015",
+          "p0207-b016",
+          "p0207-b017"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

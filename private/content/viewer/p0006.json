@@ -1,0 +1,45 @@
+{
+  "schema_version": 3,
+  "pdf_page": 6,
+  "printed_page": "6",
+  "title": "Undertale · 跨页插图（左）",
+  "subtitle": "私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.088114+00:00",
+  "reference_size": [
+    990.203669,
+    1400
+  ],
+  "physical_size_pt": [
+    504.24,
+    712.92
+  ],
+  "image_url": "/assets/p0006.jpg",
+  "image_sha256": "bb603000cae4ce43458d2ee0c1b9d4c3e3521124c2807eb6ad4124bd78c3e8d2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0006/page.json",
+  "page_role": "art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "872189f9ee3c9db1dc7a949ea4c4b8e518cd5527944c3756463a8b69e0b23360"
+  },
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

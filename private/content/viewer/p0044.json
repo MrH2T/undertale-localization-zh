@@ -1,0 +1,837 @@
+{
+  "schema_version": 3,
+  "pdf_page": 44,
+  "printed_page": "44",
+  "title": "制作 Undertale",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.124010+00:00",
+  "reference_size": [
+    988.262911,
+    1400
+  ],
+  "physical_size_pt": [
+    505.2,
+    715.68
+  ],
+  "image_url": "/assets/p0044.jpg",
+  "image_sha256": "d18a9814af5b2881d39285fa4c3cce3de354318f4a05bf9e7ebc3f04fa203ffb",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0044/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0044-b001",
+      "kind": "heading",
+      "source": {
+        "text": "2010s:",
+        "raw": "2010s:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29105615,
+          0.06560714,
+          0.35549245,
+          0.07902143
+        ],
+        "mask_bbox": [
+          0.28974071,
+          0.06489286,
+          0.35680789,
+          0.08009286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "2010年代：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29037819,
+          0.05702143,
+          0.89401311,
+          0.08116429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08116428714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29037819,
+          0.05702143,
+          0.89401311,
+          0.08116429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "After receiving his university degree, Toby continues to compose music for Homes tuck and design games for fun. During this time, he uses another game creation tool known known as Game Maker to continue developing Undertale.",
+        "raw": "After receiving his university degree, Toby continues to compose music for\nHomes tuck and design games for fun. During this time, he uses another game\ncreation tool known known as Game Maker to continue developing Undertale.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28879967,
+          0.08895,
+          0.88180988,
+          0.13947857
+        ],
+        "mask_bbox": [
+          0.28677591,
+          0.08823571,
+          0.89603686,
+          0.14055
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "大学毕业后，Toby 继续为 Homestuck 作曲，也继续把设计游戏当作爱好。这期间，他改用另一款游戏制作工具 Game Maker，继续开发 Undertale。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 58,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 74,
+            "end": 83,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29037819,
+          0.08752143,
+          0.89401311,
+          0.14305
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29037819,
+          0.08752143,
+          0.89401311,
+          0.14305
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Eventually, Toby releases a short, playable demo of Undertale to the public. The positive response encourages him to launch a crowdfunding campaign to fund further development. The campaign is a success, and allows Toby to spend the next two years developing the Undertale demo into a full-length game.",
+        "raw": "Eventually, Toby releases a short, playable demo of Undertale to the public. The\npositive response encourages him to launch a crowdfunding campaign to fund\nfurther development. The campaign is a success, and allows Toby to spend the\nnext two years developing the Undertale demo into a full-length game.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29064128,
+          0.15434286,
+          0.89401311,
+          0.22064286
+        ],
+        "mask_bbox": [
+          0.28677591,
+          0.15362857,
+          0.89603686,
+          0.22171429
+        ],
+        "line_ids": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "后来，Toby 向公众发布了一段可玩的 Undertale 演示版。良好反馈鼓励他发起众筹，为后续开发筹钱。众筹成功了，让他得以用接下来的两年，将演示版扩展成完整游戏。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29037819,
+          0.15291429,
+          0.89401311,
+          0.22421429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0044-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29037819,
+          0.15291429,
+          0.89401311,
+          0.22421429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 2015, Toby releases his full, finished version of Undertale. The once-na'ive RPG Maker kid is now a professional game developer.",
+        "raw": "In 2015, Toby releases his full, finished version of Undertale. The once-na'ive\nRPG Maker kid is now a professional game developer.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29037819,
+          0.23616429,
+          0.86931321,
+          0.26625
+        ],
+        "mask_bbox": [
+          0.28677591,
+          0.23545,
+          0.89603686,
+          0.26732143
+        ],
+        "line_ids": [
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "2015年，Toby 发布了制作完成的 Undertale。曾经那个懵懂的 RPG Maker 少年，如今已是职业游戏开发者。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 38,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29037819,
+          0.23473571,
+          0.89401311,
+          0.26982143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0044-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29037819,
+          0.23473571,
+          0.89401311,
+          0.26982143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b005",
+      "kind": "caption",
+      "source": {
+        "text": "In 2013, Toby sent me ~ helpful feedback for a game I was developing, and then hinted at a new game of his own that he was working on",
+        "raw": "In 2013, Toby sent me ~\nhelpful feedback for a\ngame I was developing,\nand then hinted at a\nnew game of his own\nthat he was working on",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11963416,
+          0.28119286,
+          0.2802999,
+          0.37110714
+        ],
+        "mask_bbox": [
+          0.11831872,
+          0.28047857,
+          0.28161534,
+          0.37217857
+        ],
+        "line_ids": [
+          11,
+          12,
+          14,
+          17,
+          19,
+          21
+        ]
+      },
+      "translation": {
+        "text": "2013年，Toby 给我正在开发的游戏提了有用的意见，随后透露自己也在做一款新游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11963416,
+          0.27976429,
+          0.2802999,
+          0.37467857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.49337857285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11963416,
+          0.27976429,
+          0.2802999,
+          0.37467857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b006",
+      "kind": "quote",
+      "source": {
+        "text": "If you do any updates to the game, I might make it so NPCs can't walk through you. Also, a button to make the text scroll twice as fast (or instantly jump the ending position of the string) would be REALLY appreciated. After you've read the text once, scrolling through it all again gets kind of tiring.",
+        "raw": "If you do any updates to the game, I might make it so NPCs can't walk\nthrough you. Also, a button to make the text scroll twice as fast (or\ninstantly jump the ending position of the string) would be REALLY\nappreciated. After you've read the text once, scrolling through it all again\ngets kind of tiring.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32153387,
+          0.29942143,
+          0.85953848,
+          0.36890714
+        ],
+        "mask_bbox": [
+          0.32021843,
+          0.29870714,
+          0.86085392,
+          0.36997857
+        ],
+        "line_ids": [
+          13,
+          15,
+          16,
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "如果你要更新游戏，我建议改成 NPC（非玩家角色）不能穿过玩家。另外，加一个按钮，让文字显示快一倍，或者一下子显示整句，我会非常感激。已经读过的文字，还得重新等它慢慢显示，实在有点烦。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32153387,
+          0.29799286,
+          0.89401311,
+          0.37247857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4764285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32153387,
+          0.29799286,
+          0.89401311,
+          0.37247857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Also ....... I'm working on a short (1h r) MOTHER-y RPG of my own right now. Depending on interest and my own sanity levels, I might try to assemble a team to create something amazing ... I wonder if Fangamer would be potentially interested in helping ...?",
+        "raw": "Also ....... I'm working on a short (1h r) MOTHER-y RPG of my own right\nnow. Depending on interest and my own sanity levels, I might try to\nassemble a team to create something amazing ... I wonder if Fangamer\nwould be potentially interested in helping ...?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32163506,
+          0.38393571,
+          0.85222261,
+          0.43659286
+        ],
+        "mask_bbox": [
+          0.32031962,
+          0.38322143,
+          0.85353805,
+          0.43766429
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "还有……我正在做一个短小的、MOTHER 风格的角色扮演游戏，大约一小时。看大家有没有兴趣，以及我自己还剩多少理智，我可能会试着组个团队，做点很棒的东西……不知道 Fangamer 有没有兴趣帮忙……？",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32163506,
+          0.38250714,
+          0.89401311,
+          0.44016429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4764285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0044-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.32163506,
+          0.38250714,
+          0.89401311,
+          0.44016429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b008",
+      "kind": "quote",
+      "source": {
+        "text": "UnderTale",
+        "raw": "UnderTale",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32266717,
+          0.45436429,
+          0.39804185,
+          0.46582143
+        ],
+        "mask_bbox": [
+          0.32135173,
+          0.45365,
+          0.39935729,
+          0.46689286
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "UnderTale",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32266717,
+          0.45293571,
+          0.89401311,
+          0.473525
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4764285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0044-b007",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.32266717,
+          0.45293571,
+          0.89401311,
+          0.473525
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Toby uses Game ~ Maker to develop a small game called \"UnderTale\" for his circle of friends to play and laugh at",
+        "raw": "Toby uses Game ~\nMaker to develop a\nsmall game called\n\"UnderTale\" for his\ncircle of friends to play\nand laugh at",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12621135,
+          0.50052143,
+          0.28125107,
+          0.58907857
+        ],
+        "mask_bbox": [
+          0.12489591,
+          0.49980714,
+          0.28256651,
+          0.59015
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Toby 用 Game Maker 做了个叫“UnderTale”的小游戏，给朋友们玩，让大家笑一笑。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12621135,
+          0.49909286,
+          0.28125107,
+          0.59265
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7210785728571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12621135,
+          0.49909286,
+          0.28125107,
+          0.59265
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0044-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Toby developed and ~ released a short free demo of his new game to gauge players' reactions",
+        "raw": "Toby developed and ~\nreleased a short free\ndemo of his new game\nto gauge players'\nreactions",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12670717,
+          0.72822143,
+          0.282182,
+          0.80033571
+        ],
+        "mask_bbox": [
+          0.12539173,
+          0.72750714,
+          0.28349743,
+          0.80140714
+        ],
+        "line_ids": [
+          33,
+          35,
+          36,
+          39,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Toby 制作并发布了一段免费的短演示版，看看玩家会有什么反应。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12670717,
+          0.72679286,
+          0.282182,
+          0.80390714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12670717,
+          0.72679286,
+          0.282182,
+          0.80390714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "203681a6cc756130b39a5d4f0c1782f24abf08fe5b1b4c93979d4ecbe4b2f839"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.97,
+      883.52
+    ],
+    "text_runs": [
+      {
+        "id": "p0044-b002",
+        "blocks": [
+          "p0044-b002",
+          "p0044-b003",
+          "p0044-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 386.0
+      },
+      {
+        "id": "p0044-b006",
+        "blocks": [
+          "p0044-b006",
+          "p0044-b007",
+          "p0044-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 667.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

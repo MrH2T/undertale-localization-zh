@@ -1,0 +1,690 @@
+{
+  "schema_version": 3,
+  "pdf_page": 105,
+  "printed_page": "105",
+  "title": "老游戏翻译中的文字缩写",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    980.21309,
+    1400
+  ],
+  "physical_size_pt": [
+    496.8,
+    709.56
+  ],
+  "image_url": "/assets/p0105.jpg",
+  "image_sha256": "3eee3cba9b7e78ab6e9d3f710c11583ff16ba73e16a16c59a08f088867f3163c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0105/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0105-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Text Abbreviations in Retro Game Translations",
+        "raw": "Text Abbreviations in Retro Game Translations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15591508,
+          0.08948571,
+          0.64372738,
+          0.10245
+        ],
+        "mask_bbox": [
+          0.15458884,
+          0.08877143,
+          0.64505362,
+          0.10352143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "老游戏翻译中的文字缩写",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.118341615,
+          0.078714286,
+          0.681484472,
+          0.102857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.102857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.118341615,
+          0.078714286,
+          0.681484472,
+          0.102857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 148
+    },
+    {
+      "id": "p0105-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In general, Japanese words can be written with fewer characters than English words. This difference often requires English text to be abbreviated in Japanese-to-English game translations. Such abbreviation filled games were especially common in Japanese RPGs translated during the 1990s. Naturally, heavy text abbreviations can lead to confusion, unintentional laughs, or even complete loss of meaning.",
+        "raw": "In general, Japanese words can be written with fewer characters\nthan English words. This difference often requires English text to be\nabbreviated in Japanese-to-English game translations. Such abbreviation\nfilled games were especially common in Japanese RPGs translated during\nthe 1990s. Naturally, heavy text abbreviations can lead to confusion,\nunintentional laughs, or even complete loss of meaning.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11923938,
+          0.11822143,
+          0.67498588,
+          0.21633571
+        ],
+        "mask_bbox": [
+          0.11719901,
+          0.11750714,
+          0.67702626,
+          0.21740714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "一般来说，日语词汇所需的字符比英语少。因此，日本游戏译成英语时，经常不得不缩写英文。这种满是缩写的游戏，在20世纪90年代翻译的日本 RPG 中尤其常见。大量缩写自然可能造成困惑、无心的笑料，甚至让原意完全丢失。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11923938,
+          0.11679286,
+          0.67498588,
+          0.21990714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11923938,
+          0.11679286,
+          0.67498588,
+          0.21990714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Phantasy Star (Master System, 1988)",
+        "raw": "Phantasy Star\n(Master System, 1988)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.18476595,
+          0.40695714,
+          0.32350109,
+          0.43141429
+        ],
+        "mask_bbox": [
+          0.1834397,
+          0.40624286,
+          0.32482733,
+          0.43248571
+        ],
+        "line_ids": [
+          10,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Phantasy Star\n（Master System，1988）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11923938,
+          0.40552857,
+          0.3911726,
+          0.43498571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.44,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11923938,
+          0.40552857,
+          0.3911726,
+          0.43498571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Final Fantasy (NES, 1990)",
+        "raw": "Final Fantasy\n(NES, 1990)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50851188,
+          0.40663571,
+          0.58871893,
+          0.43107143
+        ],
+        "mask_bbox": [
+          0.50718564,
+          0.40592143,
+          0.59004517,
+          0.43214286
+        ],
+        "line_ids": [
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Final Fantasy\n（NES，1990）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41157633,
+          0.40520714,
+          0.67498588,
+          0.43464286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.44,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41157633,
+          0.40520714,
+          0.67498588,
+          0.43464286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b005",
+      "kind": "caption",
+      "source": {
+        "text": "The 7th Saga (Super NE S, 1993)",
+        "raw": "The 7th Saga\n(Super NE S, 1993)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19782433,
+          0.62072857,
+          0.30852475,
+          0.64516429
+        ],
+        "mask_bbox": [
+          0.19649809,
+          0.62001429,
+          0.30985099,
+          0.64623571
+        ],
+        "line_ids": [
+          14,
+          16
+        ]
+      },
+      "translation": {
+        "text": "The 7th Saga\n（Super NES，1993）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11923938,
+          0.6193,
+          0.3906778,
+          0.64873571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6542857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11923938,
+          0.6193,
+          0.3906778,
+          0.64873571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Paladin's Quest (Super NES, 1993)",
+        "raw": "Paladin's Quest\n(Super NES, 1993)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49299484,
+          0.62072857,
+          0.60417475,
+          0.6455
+        ],
+        "mask_bbox": [
+          0.4916686,
+          0.62001429,
+          0.60550099,
+          0.64657143
+        ],
+        "line_ids": [
+          15,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Paladin’s Quest\n（Super NES，1993）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41108153,
+          0.6193,
+          0.67498588,
+          0.64907143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6542857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41108153,
+          0.6193,
+          0.67498588,
+          0.64907143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Secret of the Stars (Super NES, 1995)",
+        "raw": "Secret of the Stars\n(Super NES, 1995)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19778352,
+          0.83552143,
+          0.3093409,
+          0.8603
+        ],
+        "mask_bbox": [
+          0.19645728,
+          0.83480714,
+          0.31066714,
+          0.86137143
+        ],
+        "line_ids": [
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Secret of the Stars\n（Super NES，1995）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11923938,
+          0.83409286,
+          0.3914761,
+          0.86387143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11923938,
+          0.83409286,
+          0.3914761,
+          0.86387143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Breath of Fire II (Super NES, 1995)",
+        "raw": "Breath of Fire II\n(Super NES, 1995)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49396402,
+          0.83518571,
+          0.60562342,
+          0.85995714
+        ],
+        "mask_bbox": [
+          0.49263778,
+          0.83447143,
+          0.60694966,
+          0.86102857
+        ],
+        "line_ids": [
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "Breath of Fire II\n（Super NES，1995）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41187983,
+          0.83375714,
+          0.67498588,
+          0.86352857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41187983,
+          0.83375714,
+          0.67498588,
+          0.86352857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0105-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "raw": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.66926264,
+          0.94059286,
+          0.70876425,
+          0.95046429
+        ],
+        "mask_bbox": [
+          0.6679364,
+          0.93987857,
+          0.7100905,
+          0.95153571
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.66926264,
+          0.93916429,
+          0.70876425,
+          0.95716429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9571642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.66926264,
+          0.93916429,
+          0.70876425,
+          0.95716429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ruins",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c9bd8e68e95e384bd671197fd47834f96eac8aa2fee22b98625bf48230bd4efd"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          38
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      116.88,
+      661.63
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

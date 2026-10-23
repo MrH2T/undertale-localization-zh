@@ -1,0 +1,1063 @@
+{
+  "schema_version": 3,
+  "pdf_page": 85,
+  "printed_page": "85",
+  "title": "技术上的协作",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    981.015006,
+    1400
+  ],
+  "physical_size_pt": [
+    498.72,
+    711.72
+  ],
+  "image_url": "/assets/p0085.jpg",
+  "image_sha256": "134f11255c3e8d19965f3e78d00dc443d4355333a0281d87e40c3094bca90f1a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0085/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0085-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Technical Teamwork",
+        "raw": "Technical Teamwork",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09660403,
+          0.06268571,
+          0.30578533,
+          0.07589286
+        ],
+        "mask_bbox": [
+          0.09527887,
+          0.06197143,
+          0.30711049,
+          0.07696429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "技术上的协作",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09736854,
+          0.05228571,
+          0.71242539,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09736854,
+          0.05228571,
+          0.71242539,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0085-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Flowey pretends to be friendly and helpful at first, but it becomes clear that he only wants to murder the main character.",
+        "raw": "Flowey pretends to be friendly and helpful at first, but it becomes clear that he\nonly wants to murder the main character.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0971239,
+          0.09079286,
+          0.7001422,
+          0.12172143
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.09007857,
+          0.7144641,
+          0.12279286
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "Flowey 起初装得友好又热心，但很快就显露出他唯一的目的：杀死主角。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09736854,
+          0.08936429,
+          0.71242539,
+          0.12529286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.13142857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09736854,
+          0.08936429,
+          0.71242539,
+          0.12529286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The fact that this scene is literally one minute into the game is amazing - I can't think of any Japanese RPGs that are so bold right off the bat",
+        "raw": "The fact that this\nscene is literally one\nminute into the game\nis amazing - I can't\nthink of any Japanese\nRPGs that are so bold\nright off the bat",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7352385,
+          0.13743571,
+          0.86973185,
+          0.24130714
+        ],
+        "mask_bbox": [
+          0.73391334,
+          0.13672143,
+          0.87105701,
+          0.24237857
+        ],
+        "line_ids": [
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "这一幕居然就发生在开场后一分钟，真了不起——我想不出还有哪款日式角色扮演游戏，一上来就敢这么做。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7352385,
+          0.13600714,
+          0.86973185,
+          0.24487857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6054071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7352385,
+          0.13600714,
+          0.86973185,
+          0.24487857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "As part of his battle system tutorial, Flowey instructs the player to catch little white \"friendliness pellets\", which are actually harmful projectiles. If the player dodges them, Flowey responds in English with:",
+        "raw": "As part of his battle system tutorial, Flowey instructs the player to catch little\nwhite \"friendliness pellets\", which are actually harmful projectiles. If the\nplayer dodges them, Flowey responds in English with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09574777,
+          0.27323571,
+          0.68956132,
+          0.32200714
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.27252143,
+          0.7144641,
+          0.32307857
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "在讲解战斗系统时，Flowey 让玩家接住白色的“友谊颗粒”（friendliness pellets），其实那些都是会造成伤害的弹丸。如果玩家躲开它们，Flowey 就会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09574777,
+          0.26428571,
+          0.71242539,
+          0.32642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09574777,
+          0.26428571,
+          0.71242539,
+          0.32642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Is this a joke? Are you brain dead? RUN. INTO. THE. BULLETS!!!",
+        "raw": "Is this a joke? Are you brain dead? RUN. INTO. THE. BULLETS!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1416594,
+          0.33807857,
+          0.63489345,
+          0.3503
+        ],
+        "mask_bbox": [
+          0.14033424,
+          0.33736429,
+          0.63621861,
+          0.35137143
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "Is this a joke? Are you brain dead? RUN. INTO. THE. BULLETS!!!\n你在开玩笑？脑子坏了吗？给。我。撞。上。子弹！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14168998,
+          0.33214286,
+          0.71242539,
+          0.36785714
+        ],
+        "font_size": 17,
+        "line_height": 1.470588,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0085-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.14168998,
+          0.33214286,
+          0.71242539,
+          0.36785714
+        ],
+        "font_size": 17,
+        "leading": 24.999996
+      },
+      "review_issues": [],
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Flowey then pauses, notices he used the word \"bullets\" in his text bubble, and quickly changes it to say \"friendliness pellets\" instead.",
+        "raw": "Flowey then pauses, notices he used the word \"bullets\" in his text bubble, and\nquickly changes it to say \"friendliness pellets\" instead.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09761319,
+          0.36528571,
+          0.6949333,
+          0.3952
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.36457143,
+          0.7144641,
+          0.39627143
+        ],
+        "line_ids": [
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "接着，Flowey 停顿了一下，发现对话框里用了 bullets（子弹）这个词，赶紧把它改成了 friendliness pellets（友谊颗粒）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0085-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Flowey's line is easily translated into Japanese, but there were two problems:",
+        "raw": "Flowey's line is easily translated into Japanese, but there were two problems:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09809228,
+          0.41048571,
+          0.68871525,
+          0.42285
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.40977143,
+          0.7144641,
+          0.42392143
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "这句台词本身不难译成日语，但有两个问题：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b008",
+      "kind": "quote",
+      "source": {
+        "text": "1. The line's comedic timing was designed for the English text 2. The changed word needed to appear last to look correct",
+        "raw": "1. The line's comedic timing was designed for the English text\n2. The changed word needed to appear last to look correct",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11539069,
+          0.43845714,
+          0.60159121,
+          0.47813571
+        ],
+        "mask_bbox": [
+          0.0783882,
+          0.43774286,
+          0.60291636,
+          0.47920714
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "1. 笑话的节奏是按英语文本设计的。\n2. 被替换的词必须放在最后，效果才对。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08460625,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.08460625,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The first problem required back-and-forth testing with the localization programmer to get the timing right. The resulting Japanese scene has Flowey notice the mistake before the word tama (\"bullet\") fully displays. Because the word isn't fully spelled, the letter \"m\" is left dangling at the end, which is what happens after typing \"tam\" with a Japanese keyboard. For Japanese players, this joke conveys a similar sense of \"whoops, that's not the word I meant to use\".",
+        "raw": "The first problem required back-and-forth testing with the localization\nprogrammer to get the timing right. The resulting Japanese scene has Flowey\nnotice the mistake before the word tama (\"bullet\") fully displays. Because the\nword isn't fully spelled, the letter \"m\" is left dangling at the end, which is what\nhappens after typing \"tam\" with a Japanese keyboard. For Japanese players,\nthis joke conveys a similar sense of \"whoops, that's not the word I meant to use\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09705254,
+          0.49242857,
+          0.71242539,
+          0.59683571
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.49171429,
+          0.7144641,
+          0.59790714
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "第一个问题需要与本地化程序员反复测试，才能调准时机。最终，日语版里的 Flowey 会在 tama（子弹）显示完整之前发现失误。由于这个词还没拼完，末尾就留着一个 m——使用日语键盘输入 tam 时，正是这样的状态。对日本玩家来说，这个笑话也传达出了类似的感觉：“糟糕，我不是想用这个词。”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 49,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6064285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09574777,
+          0.37357143,
+          0.71242539,
+          0.60642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "bullet-timing-explanation"
+    },
+    {
+      "id": "p0085-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Incidentally, the term \"friendliness pellets\" was localized as \"friendliness capsules\" after much internal discussion",
+        "raw": "Incidentally, the term\n\"friendliness pellets\"\nwas localized as\n\"friendliness capsules\"\nafter much internal\ndiscussion",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73079412,
+          0.61255,
+          0.87075121,
+          0.70193571
+        ],
+        "mask_bbox": [
+          0.72946896,
+          0.61183571,
+          0.87207636,
+          0.70300714
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "顺带一提，经过多次内部讨论，friendliness pellets（友谊颗粒）被译成了“友谊胶囊”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73079412,
+          0.61112143,
+          0.87075121,
+          0.70550714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73079412,
+          0.61112143,
+          0.87075121,
+          0.70550714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "The second problem required some creative writing, because standard Japanese grammar would usually place the word \"bullets\" somewhere in the middle of the sentence and not necessarily at the end.",
+        "raw": "The second problem required some creative writing, because standard\nJapanese grammar would usually place the word \"bullets\" somewhere in the\nmiddle of the sentence and not necessarily at the end.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0975928,
+          0.75039286,
+          0.68667655,
+          0.79882143
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.74967857,
+          0.7144641,
+          0.79989286
+        ],
+        "line_ids": [
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "第二个问题则需要在措辞上想些办法，因为按常规日语语法，“子弹”通常会出现在句子中间，不一定放在句尾。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09736854,
+          0.74896429,
+          0.71242539,
+          0.80239286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09736854,
+          0.74896429,
+          0.71242539,
+          0.80239286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "With these new adjustments in place, the final Japanese line became:",
+        "raw": "With these new adjustments in place, the final Japanese line became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09714428,
+          0.81445,
+          0.62829824,
+          0.82681429
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.81373571,
+          0.7144641,
+          0.82788571
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "经过这些调整，最终日语台词的大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09736854,
+          0.81302143,
+          0.71242539,
+          0.83516429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09736854,
+          0.81302143,
+          0.71242539,
+          0.83516429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b013",
+      "kind": "quote",
+      "source": {
+        "text": "Are you joking around? Are you an idiot? Just get hit already! By the bu/--",
+        "raw": "Are you joking around? Are you an idiot? Just get hit already! By the bu/--",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14078276,
+          0.84256429,
+          0.68999964,
+          0.85478571
+        ],
+        "mask_bbox": [
+          0.1394576,
+          0.84185,
+          0.6913248,
+          0.85585714
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "你在开玩笑？白痴吗？快撞上去！撞上子——",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14078276,
+          0.84113571,
+          0.71242539,
+          0.861725
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.14078276,
+          0.84113571,
+          0.71242539,
+          0.861725
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "This wasn't the only line that involved timing, of course - the localizers encountered many more that required this level of attentive teamwork.",
+        "raw": "This wasn't the only line that involved timing, of course - the localizers\nencountered many more that required this level of attentive teamwork.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09803112,
+          0.86975,
+          0.64642232,
+          0.90101429
+        ],
+        "mask_bbox": [
+          0.09370907,
+          0.86903571,
+          0.7144641,
+          0.90208571
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "当然，需要配合时机的台词不止这一句。本地化人员还遇到了许多同样需要细致协作的地方。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09736854,
+          0.86832143,
+          0.71242539,
+          0.90458571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0085-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.09736854,
+          0.86832143,
+          0.71242539,
+          0.90458571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0085-b015",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "raw": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6700713,
+          0.93896429,
+          0.7094183,
+          0.94851429
+        ],
+        "mask_bbox": [
+          0.66874614,
+          0.93825,
+          0.71074346,
+          0.94958571
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6700713,
+          0.93753571,
+          0.7094183,
+          0.95553571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9555357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6700713,
+          0.93753571,
+          0.7094183,
+          0.95553571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ruins",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d59ca66d55296c530741831790a6148c4e0755534f996471e71bb4cc4be22daf"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.52,
+      698.9
+    ],
+    "text_runs": [
+      {
+        "id": "p0085-b011",
+        "blocks": [
+          "p0085-b011",
+          "p0085-b012",
+          "p0085-b013",
+          "p0085-b014"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

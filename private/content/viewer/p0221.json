@@ -1,0 +1,287 @@
+{
+  "schema_version": 3,
+  "pdf_page": 221,
+  "printed_page": "221",
+  "title": "主机版的屏幕键盘",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    980.259828,
+    1400
+  ],
+  "physical_size_pt": [
+    498.0,
+    711.24
+  ],
+  "image_url": "/assets/p0221.jpg",
+  "image_sha256": "41702882e02fc92cce61f39a6ec1247fa999837c868644ee916dc1d5af6cce50",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0221/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0221-b001",
+      "kind": "aside",
+      "source": {
+        "text": "Each home console version of Undertale required re-programming to support on-screen keyboards Here we see the English and Japanese keyboard layouts for the Nintendo Switch release",
+        "raw": "Each home console\nversion of Undertale\nrequired re-programming\nto support on-screen\nkeyboards\nHere we see the English\nand Japanese keyboard\nlayouts for the Nintendo\nSwitch release",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73093886,
+          0.0751,
+          0.88887658,
+          0.20975
+        ],
+        "mask_bbox": [
+          0.72961268,
+          0.07438571,
+          0.89020276,
+          0.21082143
+        ],
+        "line_ids": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》每个家用主机版都必须重新编程，以支持屏幕键盘。这里展示的是 Nintendo Switch 版的英语与日语键盘布局。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72633804,
+          0.07367143,
+          0.88887658,
+          0.21332143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49851428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72633804,
+          0.07367143,
+          0.88887658,
+          0.21332143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0221-b002",
+      "kind": "aside",
+      "source": {
+        "text": "~ Here we see the English and Japanese keyboard layouts for the PlayStation 4 release of Undertale",
+        "raw": "~ Here we see\nthe\nEnglish and\nJapanese\nkeyboard layouts\nfor the PlayStation\n4\nrelease of Undertale",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63519894,
+          0.50565714,
+          0.78492455,
+          0.57962857
+        ],
+        "mask_bbox": [
+          0.63387276,
+          0.50494286,
+          0.78625072,
+          0.5807
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "这里展示的是《Undertale》PlayStation 4 版的英语与日语键盘布局。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63519894,
+          0.50422857,
+          0.78492455,
+          0.5832
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.63519894,
+          0.50422857,
+          0.78492455,
+          0.5832
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0221-b003",
+      "kind": "footer",
+      "source": {
+        "text": "The Core",
+        "raw": "The Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63992217,
+          0.94229286,
+          0.70433367,
+          0.95185714
+        ],
+        "mask_bbox": [
+          0.63859599,
+          0.94157857,
+          0.70565985,
+          0.95292857
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "核心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63992217,
+          0.94086429,
+          0.70433367,
+          0.95886429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9588642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63992217,
+          0.94086429,
+          0.70433367,
+          0.95886429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "The Core",
+        "chapter_id": "chapter-214"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "916a04b50cda54972d181426871d33a4444f437de65e78340a5d942d2939c18b"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

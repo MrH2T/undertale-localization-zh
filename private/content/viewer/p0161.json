@@ -1,0 +1,350 @@
+{
+  "schema_version": 3,
+  "pdf_page": 161,
+  "printed_page": "161",
+  "title": "灵感聚焦：Breath of Fire II",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    985.97848,
+    1400
+  ],
+  "physical_size_pt": [
+    502.68,
+    713.76
+  ],
+  "image_url": "/assets/p0161.jpg",
+  "image_sha256": "29580d8e7c0d568679b659cdd4db40903d5b09b7a2eed0f082bc6393a1c6abb1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0161/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0161-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Inspiration Spotlight: Breath of Fire II",
+        "raw": "Inspiration Spotlight: Breath of Fire II",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19821934,
+          0.09154286,
+          0.5879033,
+          0.10541429
+        ],
+        "mask_bbox": [
+          0.19690085,
+          0.09082857,
+          0.58922179,
+          0.10648571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "灵感聚焦：Breath of Fire II",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.114606964,
+          0.082285714,
+          0.670400027,
+          0.106428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.106428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.114606964,
+          0.082285714,
+          0.670400027,
+          0.106428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 153
+    },
+    {
+      "id": "p0161-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 1994, Capcom released a Super Famicom role-playing game known as Breath of Fire II in Japan. A North American version was released in 1995, and a European version was released in 1996. Although it boasts solid game design and a memorable story, Breath of Fire II has also earned notoriety for its poor English-language localization.",
+        "raw": "In 1994, Capcom released a Super Famicom role-playing game known as\nBreath of Fire II in Japan. A North American version was released in 1995,\nand a European version was released in 1996. Although it boasts solid\ngame design and a memorable story, Breath of Fire II has also earned\nnotoriety for its poor English-language localization.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12015475,
+          0.74697857,
+          0.6727733,
+          0.82737143
+        ],
+        "mask_bbox": [
+          0.1172338,
+          0.74626429,
+          0.67480175,
+          0.82844286
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "1994 年，Capcom 在日本为 Super Famicom 发行了角色扮演游戏 Breath of Fire II。北美版于 1995 年发行，欧洲版于 1996 年发行。游戏设计扎实、故事令人难忘，不过它糟糕的英语本地化也出了名。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 43,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11926224,
+          0.74555,
+          0.6727733,
+          0.83094286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8992857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11926224,
+          0.74555,
+          0.6727733,
+          0.83094286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0161-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The game's story sets an orphan and a band of unique characters on a quest to destroy a corrupt religious cult, solve the mystery surrounding a giant sleeping dragon, and ultimately save the world from destruction.",
+        "raw": "The game's story sets an orphan and a band of unique characters on a\nquest to destroy a corrupt religious cult, solve the mystery surrounding a\ngiant sleeping dragon, and ultimately save the world from destruction.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11926224,
+          0.8398,
+          0.66865557,
+          0.88621429
+        ],
+        "mask_bbox": [
+          0.1172338,
+          0.83908571,
+          0.67480175,
+          0.88728571
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "故事讲述一个孤儿与一群各具特色的伙伴踏上旅途，摧毁腐败的宗教组织，解开沉睡巨龙之谜，最终拯救即将毁灭的世界。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11926224,
+          0.83837143,
+          0.6727733,
+          0.88978571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8992857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0161-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.11926224,
+          0.83837143,
+          0.6727733,
+          0.88978571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0161-b004",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63070342,
+          0.93829286,
+          0.6984838,
+          0.94782143
+        ],
+        "mask_bbox": [
+          0.62938493,
+          0.93757857,
+          0.69980229,
+          0.94889286
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63070342,
+          0.93686429,
+          0.6984838,
+          0.95486429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9548642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63070342,
+          0.93686429,
+          0.6984838,
+          0.95486429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0c9028872b7fff3a2288f79f253c1affc62d23709e15b1d12360fe6111b95028"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          3,
+          4,
+          5,
+          14
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      117.59,
+      659.28
+    ],
+    "text_runs": [
+      {
+        "id": "p0161-b002",
+        "blocks": [
+          "p0161-b002",
+          "p0161-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 1259.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

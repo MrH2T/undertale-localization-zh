@@ -1,0 +1,773 @@
+{
+  "schema_version": 3,
+  "pdf_page": 152,
+  "printed_page": "152",
+  "title": "神秘来电",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.746643+00:00",
+  "reference_size": [
+    977.122642,
+    1400
+  ],
+  "physical_size_pt": [
+    497.16,
+    712.32
+  ],
+  "image_url": "/assets/p0152.jpg",
+  "image_sha256": "a8c5bdb466a596bcc2801aefaf3948962a32d8a1abf0843609cddf7565999dcf",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0152/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0152-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Mystery Call",
+        "raw": "Mystery Call",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2916113,
+          0.05995,
+          0.42176896,
+          0.07315
+        ],
+        "mask_bbox": [
+          0.29028086,
+          0.05923571,
+          0.4230994,
+          0.07422143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "神秘来电",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29173922,
+          0.050142857,
+          0.90145286,
+          0.074285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.074285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29173922,
+          0.050142857,
+          0.90145286,
+          0.074285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108
+    },
+    {
+      "id": "p0152-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Some English-speaking ~ fans went straight to this line in the Japanese script to see if it revealed any more details about \"G\", but Toby had already anticipated them",
+        "raw": "Some English-speaking ~\nfans went straight\nto this line in the\nJapanese script to see\nif it revealed any more\ndetails about \"G\",\nbut Toby had already\nanticipated them",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11905363,
+          0.09015,
+          0.28049703,
+          0.2081
+        ],
+        "mask_bbox": [
+          0.1177232,
+          0.08943571,
+          0.28182747,
+          0.20917143
+        ],
+        "line_ids": [
+          2,
+          7,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "有些英语粉丝直接去查日文剧本里的这句台词，想看看能不能得到更多关于“G”的线索。不过，Toby 早已料到。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11769249,
+          0.08872143,
+          0.28049703,
+          0.21167143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7130428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11769249,
+          0.08872143,
+          0.28049703,
+          0.21167143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Under very rare conditions, the player might receive a strange phone call from an unknown caller:",
+        "raw": "Under very rare conditions, the player might receive a strange phone call from\nan unknown caller:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29156013,
+          0.26153571,
+          0.89448342,
+          0.29242143
+        ],
+        "mask_bbox": [
+          0.28900159,
+          0.26082143,
+          0.90349969,
+          0.29349286
+        ],
+        "line_ids": [
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "在极少见的条件下，玩家可能接到一个陌生人的奇怪电话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29173922,
+          0.26010714,
+          0.90145286,
+          0.29599286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29173922,
+          0.26010714,
+          0.90145286,
+          0.29599286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Hello! Can I speak to G. .. Wait a second. Is this the wrong number?",
+        "raw": "Hello! Can I speak to G. ..\nWait a second. Is this the wrong number?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33612976,
+          0.30837143,
+          0.64569172,
+          0.33893571
+        ],
+        "mask_bbox": [
+          0.33479932,
+          0.30765714,
+          0.64702216,
+          0.34000714
+        ],
+        "line_ids": [
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "你好！请问 G……在吗？\n等等，我是不是打错电话了？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33612976,
+          0.30694286,
+          0.90145286,
+          0.34250714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0152-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33612976,
+          0.30694286,
+          0.90145286,
+          0.34250714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "It appears that the speaker starts to say someone's name, then stops before saying too much. There are several characters in Undertale with names that start with \"G\", including Grillby, Gerson, Gyftrot, and Glyde. But the prevailing theory among English-speaking fans is that \"G\" is actually referring to an incredibly mysterious and eerie character named Gaster.",
+        "raw": "It appears that the speaker starts to say someone's name, then stops before\nsaying too much. There are several characters in Undertale with names that\nstart with \"G\", including Grillby, Gerson, Gyftrot, and Glyde. But the prevailing\ntheory among English-speaking fans is that \"G\" is actually referring to an\nincredibly mysterious and eerie character named Gaster.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29191832,
+          0.35318571,
+          0.90145286,
+          0.43865
+        ],
+        "mask_bbox": [
+          0.28900159,
+          0.35247143,
+          0.90349969,
+          0.43972143
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "来电者似乎刚说出某个人名字的开头，就在透露更多之前停住了。Undertale 有几个角色的名字以“G”开头，包括 Grillby、Gerson、Gyftrot 和 Glyde。不过，英语粉丝中最流行的猜测是：“G”指的是那个极为神秘、诡异的角色 Gaster。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29173922,
+          0.35175714,
+          0.90145286,
+          0.44222143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0152-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29173922,
+          0.35175714,
+          0.90145286,
+          0.44222143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby has been notoriously quiet when fans ask about certain details in Undertale. As a creator, he wants certain mysteries to remain mysteries, so he only left one short note about this line in the translation spreadsheet:",
+        "raw": "Toby has been notoriously quiet when fans ask about certain details in\nUndertale. As a creator, he wants certain mysteries to remain mysteries, so he\nonly left one short note about this line in the translation spreadsheet:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29191832,
+          0.45393571,
+          0.88735023,
+          0.50266429
+        ],
+        "mask_bbox": [
+          0.28900159,
+          0.45322143,
+          0.90349969,
+          0.50373571
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "粉丝问起 Undertale 的某些细节时，Toby 向来守口如瓶。作为作者，他希望某些谜团始终保持神秘。因此，他只在翻译表格里为这句台词留下一条简短注释：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29173922,
+          0.45250714,
+          0.90145286,
+          0.50623571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0152-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29173922,
+          0.45250714,
+          0.90145286,
+          0.50623571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b007",
+      "kind": "quote",
+      "source": {
+        "text": "'' Character's name beginning with \"G\". .. Actually, it might be suitably bizarre ify ou leave this line completely intact in English",
+        "raw": "'' Character's name beginning with \"G\". .. Actually, it might be suitably\nbizarre ify ou leave this line completely intact in English",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29333063,
+          0.51895,
+          0.85080415,
+          0.54882857
+        ],
+        "mask_bbox": [
+          0.29200019,
+          0.51823571,
+          0.85213459,
+          0.5499
+        ],
+        "line_ids": [
+          28,
+          29
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.292696114,
+            0.515714286,
+            0.318281438,
+            0.53
+          ],
+          "offset": [
+            -43.8546,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "角色名字以“G”开头……其实，如果这句完整保留英文，或许会怪得恰到好处。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33757744,
+          0.51752143,
+          0.90145286,
+          0.5524
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0152-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33757744,
+          0.51752143,
+          0.90145286,
+          0.5524
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've already seen, the translation process can reveal details not found in the original work. In this case, because the Japanese language is based on syllables and not sounds, a standard translation of \"can I speak to G?\" into Japanese would result in a vowel appearing after \"G\". This would reveal more information about G's identity - enough for fans to solve this mystery. Toby understood this, and eventually firmly requested that this text remain completely in English. And, as he suggested, leaving it in English would make the line feel even stranger for Japanese players.",
+        "raw": "As we've already seen, the translation process can reveal details not found\nin the original work. In this case, because the Japanese language is based on\nsyllables and not sounds, a standard translation of \"can I speak to G?\" into\nJapanese would result in a vowel appearing after \"G\". This would reveal\nmore information about G's identity - enough for fans to solve this mystery.\nToby understood this, and eventually firmly requested that this text remain\ncompletely in English. And, as he suggested, leaving it in English would make\nthe line feel even stranger for Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29104842,
+          0.56344286,
+          0.89026696,
+          0.70415
+        ],
+        "mask_bbox": [
+          0.28900159,
+          0.56272857,
+          0.90349969,
+          0.70522143
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "前面已经看到，翻译有时会透露原作里没有的信息。在这里，日语假名表示音节，而非单个音素，按通常方式翻译“请问 G 在吗”，就会在“G”后加上一个元音。这会透露更多关于 G 身份的信息，足以让粉丝解开谜团。Toby 明白这一点，后来明确要求这段文字全部保留英文。而且正如他所说，保留英文会让日本玩家觉得这句台词更加古怪。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29173922,
+          0.56201429,
+          0.90145286,
+          0.70772143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7122785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0152-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29173922,
+          0.56201429,
+          0.90145286,
+          0.70772143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before Toby insisted that this phone call remain entirely in English, the localization team assumed - like many other fans - that \"G\" referred to this secretive Gaster character. As such, early drafts of the Japanese translation had this line say \"Hello? May I speak to Ga--\" in English, but written using Japanese pronunciation.",
+        "raw": "Before Toby insisted that this phone\ncall remain entirely in English, the\nlocalization team assumed - like\nmany other fans - that \"G\" referred\nto this secretive Gaster character. As\nsuch, early drafts of the Japanese\ntranslation had this line say \"Hello?\nMay I speak to Ga--\" in English, but\nwritten using Japanese pronunciation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61300391,
+          0.71942143,
+          0.91161535,
+          0.87835714
+        ],
+        "mask_bbox": [
+          0.61167347,
+          0.71870714,
+          0.91294579,
+          0.87942857
+        ],
+        "line_ids": [
+          38,
+          43,
+          46,
+          48,
+          50,
+          52,
+          55,
+          56,
+          57
+        ]
+      },
+      "translation": {
+        "text": "在 Toby 坚持这通电话必须完全保留英文之前，本地化团队和许多粉丝一样，以为“G”指的是神秘的 Gaster。因此，早期日文译稿写的是英语“Hello? May I speak to Ga—”（你好？请问 Ga——在吗），但用日语假名标出英语发音。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61300391,
+          0.71799286,
+          0.91161535,
+          0.88192857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61300391,
+          0.71799286,
+          0.91161535,
+          0.88192857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0152-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Toby didn’t explain \"G\" in his translation notes, so the localizers originally assumed it was meant to refer to Gaster, thus \"G\" became ガ (Ga) for a short time.",
+        "raw": "Toby didn't explain ~\n\"G\" in his translation\nnotes, so the\nlocalizers originally\nassumed it was meant\nto refer to Gaster, thus\n\"G\" became tS (Ga) for\na short time",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.12048641,
+          0.72018571,
+          0.28337282,
+          0.84017857
+        ],
+        "mask_bbox": [
+          0.11915597,
+          0.71947143,
+          0.28470326,
+          0.84125
+        ],
+        "line_ids": [
+          39,
+          41,
+          45,
+          47,
+          49,
+          51,
+          53,
+          54
+        ]
+      },
+      "translation": {
+        "text": "Toby 没有在注释里解释“G”，团队起初以为指的是 Gaster。因此，“G”曾一度变成“ガ”（Ga）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12048641,
+          0.71875714,
+          0.28337282,
+          0.84375
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.12048641,
+          0.71875714,
+          0.28337282,
+          0.84375
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bf9e3c0e95ece959f07b701dee79f4ad369140c1dc45d3ea72fa2db74bdf0e70"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          40,
+          42,
+          44,
+          58
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      285.07,
+      880.83
+    ],
+    "text_runs": [
+      {
+        "id": "p0152-b003",
+        "blocks": [
+          "p0152-b003",
+          "p0152-b004",
+          "p0152-b005",
+          "p0152-b006",
+          "p0152-b007",
+          "p0152-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 997.19
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

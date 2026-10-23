@@ -1,0 +1,1122 @@
+{
+  "schema_version": 3,
+  "pdf_page": 52,
+  "printed_page": "52",
+  "title": "日本的反响",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:49:29.218594+00:00",
+  "reference_size": [
+    985.089196,
+    1400
+  ],
+  "physical_size_pt": [
+    501.72,
+    713.04
+  ],
+  "image_url": "/assets/p0052.jpg",
+  "image_sha256": "643664a53002d07f3cf64ecf9332434b34832030f1b030521086d67fce4fde98",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0052/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0052-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Response",
+        "raw": "Japanese Response",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29219689,
+          0.06392857,
+          0.49155955,
+          0.07711429
+        ],
+        "mask_bbox": [
+          0.29087721,
+          0.06321429,
+          0.49287923,
+          0.07818571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日本的反响",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.05511429,
+          0.89414238,
+          0.07925715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07925714714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.05511429,
+          0.89414238,
+          0.07925715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "For the first two years after its original release, Undertale gained a small and wholly devoted following in Japan. As a foreign indie game, however, it didn't catch the attention of mainstream gamers or news outlets during this time.",
+        "raw": "For the first two years after its original release, Undertale gained a small and\nwholly devoted following in Japan. As a foreign indie game, however, it didn't\ncatch the attention of mainstream gamers or news outlets during this time.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29315112,
+          0.09253571,
+          0.88506706,
+          0.14205714
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.09182143,
+          0.89617265,
+          0.14312857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "原版推出后的头两年，Undertale 在日本积累了一批规模不大却十分投入的玩家。不过，作为外国独立游戏，它当时尚未引起主流玩家或新闻媒体的关注。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.09110714,
+          0.89414238,
+          0.14562857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.09110714,
+          0.89414238,
+          0.14562857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Following Undertale's official Japanese release in 2017, its recognition skyrocketed. The response to the game closely mirrored that of the English version's debut, and it achieved success in almost every way.",
+        "raw": "Following Underta/e's official Japanese release in 2017, its recognition\nskyrocketed. The response to the game closely mirrored that of the English\nversion's debut, and it achieved success in almost every way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29344551,
+          0.15616429,
+          0.86743414,
+          0.205
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.15545,
+          0.89617265,
+          0.20607143
+        ],
+        "line_ids": [
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "2017年官方日语版发行后，它的知名度直线上升。日本的反响与英语版最初推出时十分相似，几乎在各方面都取得了成功。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.15473571,
+          0.89414238,
+          0.20857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.15473571,
+          0.89414238,
+          0.20857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although Undertale was originally only available to purchase as a digital download, it consistently sold well in Japan. Almost immediately, it topped digital sales charts and even broke into the standard sales charts.",
+        "raw": "Although Undertale was originally only available to purchase as a digital\ndownload, it consistently sold well in Japan. Almost immediately, it topped\ndigital sales charts and even broke into the standard sales charts.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29176038,
+          0.2201,
+          0.86537341,
+          0.26827857
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.21938571,
+          0.89617265,
+          0.26935
+        ],
+        "line_ids": [
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "虽然最初只能购买数字下载版，Undertale 在日本的销量一直很好。它几乎立刻登上数字销量榜首，甚至挤进综合销量榜。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.21867143,
+          0.89414238,
+          0.27185
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.21867143,
+          0.89414238,
+          0.27185
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale was a critical success in Japan as well. Game critics, news outlets, and industry legends showered the game with praise.",
+        "raw": "Undertale was a critical success in Japan as well. Game critics, news outlets,\nand industry legends showered the game with praise.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29364854,
+          0.28371429,
+          0.87284482,
+          0.31505
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.283,
+          0.89617265,
+          0.31612143
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "日本评论界也非常认可它，游戏评论者、新闻媒体及业界传奇人物纷纷赞不绝口。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.28228571,
+          0.89414238,
+          0.31862143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.28228571,
+          0.89414238,
+          0.31862143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b006",
+      "kind": "quote",
+      "source": {
+        "text": "'' A nearly flawless game in every way, Undertale truly stands as the king of indie games.\" -DENG EK I PLAYSTATION",
+        "raw": "'' A nearly flawless game in every way, Under tale truly stands as the king of\nindie games.\"\n-DENG EK I PLAYSTATION",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2945114,
+          0.33174286,
+          0.88714809,
+          0.36077857
+        ],
+        "mask_bbox": [
+          0.29319172,
+          0.33102857,
+          0.88846777,
+          0.36185
+        ],
+        "line_ids": [
+          13,
+          14,
+          15
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293374449,
+            0.327857143,
+            0.318752861,
+            0.342857143
+          ],
+          "offset": [
+            -41.5817,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“各方面几乎无可挑剔，Undertale 真正称得上独立游戏之王。”——电击 PlayStation",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33558559,
+          0.33031429,
+          0.89414238,
+          0.36435
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.33558559,
+          0.33031429,
+          0.89414238,
+          0.36435
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b007",
+      "kind": "quote",
+      "source": {
+        "text": "'' It may look like a plain and simple retro-style game, but it boasts groundbreaking game design and offers players a radically new gameplay experience.\" -FAMITSU",
+        "raw": "'' It may look like a plain and simple retro-style game, but it boasts\ngroundbreaking game design and offers players a radically new gameplay\nexperience.\"\n-FAMITSU",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29498852,
+          0.37548571,
+          0.88077303,
+          0.42302857
+        ],
+        "mask_bbox": [
+          0.29366884,
+          0.37477143,
+          0.88209271,
+          0.4241
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293374449,
+            0.372857143,
+            0.318752861,
+            0.387142857
+          ],
+          "offset": [
+            -43.4077,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“看似朴素简单的复古游戏，却有突破性的设计，带给玩家全新的游玩体验。”——FAMITSU",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33743921,
+          0.37405714,
+          0.89414238,
+          0.4266
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33743921,
+          0.37405714,
+          0.89414238,
+          0.4266
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b008",
+      "kind": "quote",
+      "source": {
+        "text": "'' Ify ou have time to read this review, just go play the game instead.\" - IGN JAPAN",
+        "raw": "'' Ify ou have time to read this review, just go play the game instead.\"\n- IGN JAPAN",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2944911,
+          0.44012857,
+          0.83314283,
+          0.46911429
+        ],
+        "mask_bbox": [
+          0.29317142,
+          0.43941429,
+          0.83446251,
+          0.47018571
+        ],
+        "line_ids": [
+          20,
+          21
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293374449,
+            0.436428571,
+            0.318752861,
+            0.451428571
+          ],
+          "offset": [
+            -43.9182,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“有空读这篇评测，不如直接去玩。”——IGN JAPAN",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33795743,
+          0.4387,
+          0.89414238,
+          0.47268571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33795743,
+          0.4387,
+          0.89414238,
+          0.47268571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b009",
+      "kind": "quote",
+      "source": {
+        "text": "'' As a game, Undertale fully represents our \"determination\" to look toward an era ofp eace that we must reach someday, in spite oft he evils that still exist today.\" - DEN FAM I NICO GAMER",
+        "raw": "'' As a game, Under tale fully represents our \"determination\" to look toward\nan era ofp eace that we must reach someday, in spite oft he evils that still\nexist today.\"\n- DEN FAM I NICO GAMER",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29498852,
+          0.48588571,
+          0.88154454,
+          0.53310714
+        ],
+        "mask_bbox": [
+          0.29366884,
+          0.48517143,
+          0.88286422,
+          0.53417857
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293374449,
+            0.482857143,
+            0.318752861,
+            0.497142857
+          ],
+          "offset": [
+            -42.0922,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“当今仍有罪恶存在，但我们必须朝着终将到来的和平时代前行。作为游戏，Undertale 充分体现了这份‘决心’。”——DEN FAMI NICO GAMER",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 34,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3361038,
+          0.48445714,
+          0.89414238,
+          0.53667857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.3361038,
+          0.48445714,
+          0.89414238,
+          0.53667857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b010",
+      "kind": "quote",
+      "source": {
+        "text": "'' No other single game in my life has given me as many surprises, as many tears, as many laughs, as many frights, and as much joy.\" -MocuRA GAMES",
+        "raw": "'' No other single game in my life has given me as many surprises, as many\ntears, as many laughs, as many frights, and as much joy.\" -MocuRA\nGAMES",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29498852,
+          0.54951429,
+          0.88812262,
+          0.57962143
+        ],
+        "mask_bbox": [
+          0.29366884,
+          0.5488,
+          0.8894423,
+          0.58069286
+        ],
+        "line_ids": [
+          26,
+          27,
+          28
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293374449,
+            0.545714286,
+            0.318752861,
+            0.560714286
+          ],
+          "offset": [
+            -44.3109,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“我一生中，没有其他任何一款游戏，带给我这么多惊喜、眼泪、笑声、恐惧和快乐。”——MOGURA GAMES",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33835606,
+          0.54808571,
+          0.89414238,
+          0.58319286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.33835606,
+          0.54808571,
+          0.89414238,
+          0.58319286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale won prestigious game awards in Japan, including the Indie Games & Game Developers Award at the 2017 PlayStation Awards. It also won an Excellence Award at the 2018 Japan Game Awards, which is held by the Japanese government's Ministry of Economy, Trade, and Industry.",
+        "raw": "Undertale won prestigious game awards in Japan, including the Indie Games\n& Game Developers Award at the 2017 PlayStation Awards. It also won an\nExcellence Award at the 2018 Japan Game Awards, which is held by the\nJapanese government's Ministry of Economy, Trade, and Industry.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29360793,
+          0.59405,
+          0.87888488,
+          0.66172857
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.59333571,
+          0.89617265,
+          0.6628
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Undertale 在日本赢得了有分量的游戏奖项，包括2017年 PlayStation Awards 的独立游戏及游戏开发者奖，以及2018年日本游戏大奖的优秀奖；后者由日本政府的经济产业省举办。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.59262143,
+          0.89414238,
+          0.6653
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.59262143,
+          0.89414238,
+          0.6653
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [
+        "原书称 Japan Game Awards 由日本经济产业省举办；机构归属需单独核对，译文暂按原书记录。"
+      ]
+    },
+    {
+      "id": "p0052-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale was a hit among Japanese players as well. The game received recognition at small fan events, at major professional events, on national television, and more. Rival magazines competed to interview Toby for exclusive articles. Japanese fans showered Toby with drawings, videos, and thank-you messages.",
+        "raw": "Undertale was a hit among Japanese players as well. The game received\nrecognition at small fan events, at major professional events, on national\ntelevision, and more. Rival magazines competed to interview Toby for\nexclusive articles. Japanese fans showered Toby with drawings, videos, and\nthank-you messages.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29460276,
+          0.67685,
+          0.86968774,
+          0.76270714
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.67613571,
+          0.89617265,
+          0.76377857
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "日本玩家同样热爱这款游戏。从小型同人活动到大型专业展会，再到全国电视节目，都能见到它。竞争杂志争相采访 Toby、刊发独家报道。日本玩家则不断给他送去绘画、视频和感谢信。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.67542143,
+          0.89414238,
+          0.76627857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.67542143,
+          0.89414238,
+          0.76627857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Lastly, the response to Undertale's Japanese release brought Toby sig11ificant professional success. Suddenly, Undertale characters and music began to make cameos in colossal hits like the Super Smash Bros. and Taiko Drum Master series. Legendary game creators met with Toby to inquire about collaborative projects. Toby was even invited to compose music for a new Pokemon game.",
+        "raw": "Lastly, the response to Undertale's Japanese release brought Toby sig11ificant\nprofessional success. Suddenly, Undertale characters and music began to make\ncameos in colossal hits like the Super Smash Bros. and Taiko Drum Master\nseries. Legendary game creators met with Toby to inquire about collaborative\nprojects. Toby was even invited to compose music for a new Pokemon game.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29496821,
+          0.77750714,
+          0.89414238,
+          0.86336429
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.77679286,
+          0.89617265,
+          0.86443571
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "日本版的热烈反响，也让 Toby 的事业大获成功。Undertale 的角色和音乐突然出现在《Super Smash Bros.》《Taiko Drum Master》等热门大作中。传奇游戏创作者与他会面，商谈合作；他甚至受邀为一款新的《Pokémon》游戏作曲。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 47,
+            "end": 64,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 66,
+            "end": 83,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 119,
+            "end": 126,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.77607857,
+          0.89414238,
+          0.86693571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.77607857,
+          0.89414238,
+          0.86693571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0052-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "By all accounts, Undertale was as big a hit in Japan as it was in the rest of the world - maybe even bigger.",
+        "raw": "By all accounts, Undertale was as big a hit in Japan as it was in the rest of the\nworld - maybe even bigger.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29506973,
+          0.87814286,
+          0.87878337,
+          0.90846429
+        ],
+        "mask_bbox": [
+          0.28973011,
+          0.87742857,
+          0.89617265,
+          0.90953571
+        ],
+        "line_ids": [
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "无论从哪方面看，Undertale 在日本都像在世界其他地方一样成功，或许还更胜一筹。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29362824,
+          0.87671429,
+          0.89414238,
+          0.91203571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0052-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.29362824,
+          0.87671429,
+          0.89414238,
+          0.91203571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5682ff4bbc0139454951ac508a427d5483acacfa14caf0c6835080b7db23a9af"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          45
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.25,
+      880.81
+    ],
+    "text_runs": [
+      {
+        "id": "p0052-b002",
+        "blocks": [
+          "p0052-b002",
+          "p0052-b003",
+          "p0052-b004",
+          "p0052-b005",
+          "p0052-b006",
+          "p0052-b007",
+          "p0052-b008",
+          "p0052-b009",
+          "p0052-b010",
+          "p0052-b011",
+          "p0052-b012",
+          "p0052-b013",
+          "p0052-b014"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

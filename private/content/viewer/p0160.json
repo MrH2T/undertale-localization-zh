@@ -1,0 +1,838 @@
+{
+  "schema_version": 3,
+  "pdf_page": 160,
+  "printed_page": "160",
+  "title": "Aaron 的说话方式",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.751043+00:00",
+  "reference_size": [
+    979.716504,
+    1400
+  ],
+  "physical_size_pt": [
+    497.64,
+    711.12
+  ],
+  "image_url": "/assets/p0160.jpg",
+  "image_sha256": "049baabfb6d84030f315c78f3c8a571ff26f9386ec0202703001a4a195cefc7a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0160/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0160-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Aaron Speaks",
+        "raw": "Aaron Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29517723,
+          0.06172857,
+          0.43823902,
+          0.07537143
+        ],
+        "mask_bbox": [
+          0.29385031,
+          0.06101429,
+          0.43956593,
+          0.07644286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Aaron 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.051571429,
+          0.90759929,
+          0.075714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.051571429,
+          0.90759929,
+          0.075714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110
+    },
+    {
+      "id": "p0160-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Today, emoticons like (^_-)☆ feel outdated and associated with middle-aged guys desperately trying to flirt with girls online.",
+        "raw": "Today, emoticons like\n(\"_-)ti' feel outdated\nand associated with\nmiddle-aged guys\ndesperately trying to\nflirt with girls online",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13196675,
+          0.09095714,
+          0.26893494,
+          0.17975
+        ],
+        "mask_bbox": [
+          0.13063983,
+          0.09024286,
+          0.27026186,
+          0.18082143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "如今，(^_-)☆ 之类的表情已经有些过时，容易让人想到在网上拼命撩女孩的中年男人。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11738089,
+          0.08952857,
+          0.27166532,
+          0.18332143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.47769285285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11738089,
+          0.08952857,
+          0.27166532,
+          0.18332143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A seahorse monster named Aaron loves bodybuilding, muscles, and flirting with other characters. In his notes, Toby describes Aaron as \"a buff horse whose Airty actions border on creepy\".",
+        "raw": "A seahorse monster named Aaron loves bodybuilding, muscles, and flirting\nwith other characters. In his notes, Toby describes Aaron as \"a buff horse\nwhose Airty actions border on creepy\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29462605,
+          0.23702143,
+          0.87147659,
+          0.28550714
+        ],
+        "mask_bbox": [
+          0.29258464,
+          0.23630714,
+          0.90964069,
+          0.28657857
+        ],
+        "line_ids": [
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "海马怪物 Aaron 热爱健身、肌肉，也喜欢和其他角色调情。Toby 在注释里把他形容为“一匹肌肉发达的马，调情举动已经接近让人发毛的程度”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.23559286,
+          0.90759929,
+          0.28907857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4484428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.23559286,
+          0.90759929,
+          0.28907857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, Aaron uses the friendly, boyish pronoun boku rather than the more \"manly\" pronoun ore. Although he doesn't use pronouns very often, this uncharacteristic use of boku was intended to accentuate his \"creepy\" vibe.",
+        "raw": "In Japanese, Aaron uses the friendly, boyish pronoun boku rather than the\nmore \"manly\" pronoun ore. Although he doesn't use pronouns very often, this\nuncharacteristic use of boku was intended to accentuate his \"creepy\" vibe.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29694304,
+          0.29977857,
+          0.89610617,
+          0.34962857
+        ],
+        "mask_bbox": [
+          0.29258464,
+          0.29906429,
+          0.90964069,
+          0.3507
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "日语中，Aaron 用亲切、带少年感的 boku（我），而不是更有“男子气概”的 ore。虽然他不常用代词，但这种与外表不太相符的 boku，正是为了突出他让人不舒服的感觉。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 41,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 66,
+            "end": 70,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.29835,
+          0.90759929,
+          0.3532
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4484428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0160-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.29835,
+          0.90759929,
+          0.3532
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Aaron often ends his text with ;), which is a common Western emoticon of someone winking. Japanese emoticons are generally quite different, however, so the original winking face was replaced with a Japanese-style winking face: (^_-)☆",
+        "raw": "In English, Aaron often ends his text with;), which is a common Western\nemoticon of someone winking. Japanese emoticons are generally quite\ndifferent, however, so the original winking face was replaced with a Japanese\nstyle winking face: (\"'_-)-tr",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29742277,
+          0.36491429,
+          0.89216625,
+          0.43062857
+        ],
+        "mask_bbox": [
+          0.29258464,
+          0.3642,
+          0.90964069,
+          0.4317
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "英语版中，Aaron 常在句尾加上 ;)。这是西方常见的眨眼表情。但日式表情通常很不一样，所以原来的眨眼脸换成了日式版本：(^_-)☆",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.36348571,
+          0.90759929,
+          0.4342
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4484428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0160-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.36348571,
+          0.90759929,
+          0.4342
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Pumping Fire",
+        "raw": "Pumping Fire",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29858638,
+          0.45558571,
+          0.43628948,
+          0.46922857
+        ],
+        "mask_bbox": [
+          0.29725946,
+          0.45487143,
+          0.43761639,
+          0.4703
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "练肌肉的火焰",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.44585714,
+          0.90759929,
+          0.47
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.44585714,
+          0.90759929,
+          0.47
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 662.0
+    },
+    {
+      "id": "p0160-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Entertainment translators need to be well-versed in many different fields of study to accurately recognize references without supplemental notes",
+        "raw": "Entertainment\ntranslators need to be\nwell-versed in many\ndifferent fields of study\nto accurately recognize\nreferences without\nsupplemental notes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12622019,
+          0.48483571,
+          0.27111925,
+          0.58847143
+        ],
+        "mask_bbox": [
+          0.12489327,
+          0.48412143,
+          0.27244616,
+          0.58954286
+        ],
+        "line_ids": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "娱乐作品译者需要涉猎许多领域，才能在没有附加注释时准确认出典故。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11738089,
+          0.48340714,
+          0.27166532,
+          0.59204286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7797357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11738089,
+          0.48340714,
+          0.27166532,
+          0.59204286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "During battle, Aaron sometimes says in English:",
+        "raw": "During battle, Aaron sometimes says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29845368,
+          0.62919286,
+          0.66905069,
+          0.64156429
+        ],
+        "mask_bbox": [
+          0.29258464,
+          0.62847857,
+          0.6703776,
+          0.64263571
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "战斗中，Aaron 有时会在英语版里说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.62776429,
+          0.90759929,
+          0.64990714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7814285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.62776429,
+          0.90759929,
+          0.64990714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Education? Hobby? Talent?",
+        "raw": "Education? Hobby? Talent?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34253787,
+          0.65785714,
+          0.54890369,
+          0.66980714
+        ],
+        "mask_bbox": [
+          0.34121095,
+          0.65714286,
+          0.5502306,
+          0.67087857
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "学历？爱好？特长？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34253787,
+          0.65642857,
+          0.90759929,
+          0.67701786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7814285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0160-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34253787,
+          0.65642857,
+          0.90759929,
+          0.67701786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby not d that this this seemingly random line is actually a direct quote from a bodybuilding character in Breath ofF ire II. The translator used Toby's notes to find the equivalent Japanese line from Breath ofF ire II in order to preserve the reference in the Japanese Undertale script. Fortunately, the Breath ofF ire II line is the same in Japanese and English, so no extra adaptation work was needed.",
+        "raw": "Toby not d that this this seemingly random line is actually a direct quote from a\nbodybuilding character in Breath ofF ire II. The translator used Toby's notes to\nfind the equivalent Japanese line from Breath ofF ire II in order to preserve the\nreference in the Japanese Undertale script. Fortunately, the Breath ofF ire II line\nis the same in Japanese and English, so no extra adaptation work was needed.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29839244,
+          0.68486429,
+          0.90759929,
+          0.77081429
+        ],
+        "mask_bbox": [
+          0.29258464,
+          0.68415,
+          0.90964069,
+          0.77188571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这句看似随意的话，实际上直接引用了 Breath of Fire II 中一个健美角色的台词。译者根据注释找到原作对应的日语台词，将典故保留在 Undertale 的日文剧本中。幸运的是，Breath of Fire II 的这句台词英日文一致，不需要额外改编。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 80,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 102,
+            "end": 119,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2971829,
+          0.68343571,
+          0.90759929,
+          0.77438571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7814285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0160-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.2971829,
+          0.68343571,
+          0.90759929,
+          0.77438571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0160-b011",
+      "kind": "aside",
+      "source": {
+        "text": "In Breath of Fire II, this musclebound Director of HR repeats the same three questions during battle, as if giving a job interview",
+        "raw": "In Breath of Fire II, this\nmusclebound Director\nof HR repeats the\nsame three questions\nduring battle, as if\ngiving a job interview",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13178302,
+          0.78687857,
+          0.27282382,
+          0.87567857
+        ],
+        "mask_bbox": [
+          0.13045611,
+          0.78616429,
+          0.27415074,
+          0.87675
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "Breath of Fire II 中，这位浑身肌肉的人事主管在战斗时反复问这三个问题，像是在主持招聘面试。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11738089,
+          0.78545,
+          0.27282382,
+          0.87925
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11738089,
+          0.78545,
+          0.27282382,
+          0.87925
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6a1b09dc96375703ca09958784425b6ece73e90fca4fb5e600ce4589d239772f"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.15,
+      889.19
+    ],
+    "text_runs": [
+      {
+        "id": "p0160-b003",
+        "blocks": [
+          "p0160-b003",
+          "p0160-b004",
+          "p0160-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 627.82
+      },
+      {
+        "id": "p0160-b008",
+        "blocks": [
+          "p0160-b008",
+          "p0160-b009",
+          "p0160-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1094.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

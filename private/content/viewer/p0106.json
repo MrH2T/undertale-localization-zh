@@ -1,0 +1,51 @@
+{
+  "schema_version": 3,
+  "pdf_page": 106,
+  "printed_page": "106",
+  "title": "雪镇章节插图",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.170564+00:00",
+  "reference_size": [
+    981.323877,
+    1400
+  ],
+  "physical_size_pt": [
+    498.12,
+    710.64
+  ],
+  "image_url": "/assets/p0106.jpg",
+  "image_sha256": "b2889d97a13cce0a3aaadcf0f55be02c6e15c40c0692f42ac1cd4ae7cb1a4799",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0106/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3bd835b28fc69485884359eb41683f793347e99a85dfaa2582f055b3569cfe7d"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

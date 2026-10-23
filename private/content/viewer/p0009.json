@@ -1,0 +1,82 @@
+{
+  "schema_version": 3,
+  "pdf_page": 9,
+  "printed_page": "9",
+  "title": "引言 · 章节标题页",
+  "subtitle": "引言 · 章节标题页",
+  "revision": 3,
+  "updated_at": "2026-10-22T16:55:06.062525+00:00",
+  "reference_size": [
+    993.0672979370985,
+    1400
+  ],
+  "physical_size_pt": [
+    503.4,
+    709.68
+  ],
+  "image_url": "/assets/p0009.jpg",
+  "image_sha256": "56df87465de37f730d3c9c0b390ebb390aef8ee5ad94e20128e1d21486aa3340",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0009/page.json",
+  "page_role": "chapter-title",
+  "blocks": [
+    {
+      "id": "p0009-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Introduction",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49004767580452924,
+          0.9145788548359824,
+          0.7845481978545887,
+          0.9557243006707249
+        ],
+        "mask_bbox": [
+          0.49004767580452924,
+          0.9145788548359824,
+          0.7845481978545887,
+          0.9557243006707249
+        ]
+      },
+      "translation": {
+        "text": "引言",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.49004767580452924,
+          0.9145788548359824,
+          0.7845481978545887,
+          0.9557243006707249
+        ],
+        "font_size": 40,
+        "line_height": 1.25,
+        "font_weight": 700,
+        "text_align": "left",
+        "color": "#18191d",
+        "mask_color": "#ffffff",
+        "background": "transparent"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.49004767580452924,
+          0.9145788548359824,
+          0.7845481978545887,
+          0.9557243006707249
+        ],
+        "font_size": 40,
+        "leading": 50
+      }
+    }
+  ],
+  "chapter_id": "chapter-8",
+  "spread": {
+    "left": 8,
+    "right": 9
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "schema_version": 3,
+  "pdf_page": 140,
+  "printed_page": "140",
+  "title": "Translation Collision",
+  "subtitle": "侧栏 · 游戏截图 · 英日字形",
+  "revision": 25,
+  "updated_at": "2026-10-22T16:28:22.436950+00:00",
+  "reference_size": [
+    977.0242914979757,
+    1400
+  ],
+  "image_url": "/assets/p0140.jpg",
+  "blocks": [
+    {
+      "id": "p0140-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Translation Collision",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.291411,
+          0.062143,
+          0.908998,
+          0.079286
+        ],
+        "mask_bbox": [
+          0.291702061535274,
+          0.062142857142857146,
+          0.5117580026934632,
+          0.07785714285714286
+        ]
+      },
+      "translation": {
+        "text": "翻译与碰撞判定",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2937490935460479,
+          0.056428571428571425,
+          0.9099057287889776,
+          0.08214285714285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "background": "transparent",
+        "font_weight": 700
+      },
+      "notes": "标题结合本页 hitbox 语境的暂译。",
+      "calibration": {
+        "bbox": [
+          0.2937490935460479,
+          0.056428571428571425,
+          0.9099057287889776,
+          0.08214285714285714
+        ],
+        "font_size": 26,
+        "leading": 34
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b002",
+      "kind": "aside",
+      "source": {
+        "text": "During this battle, the player must dodge bones that scroll by quickly and spell a funny phrase",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.121677,
+          0.092857,
+          0.270961,
+          0.167857
+        ],
+        "mask_bbox": [
+          0.10235160053869263,
+          0.09166428571428573,
+          0.27327877343830936,
+          0.16762142857142856
+        ]
+      },
+      "translation": {
+        "text": "在这场战斗中，玩家必须躲开快速掠过的骨头；这些骨头还拼成了一句有趣的话。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.12282192064643116,
+          0.09,
+          0.27020822542214856,
+          0.17142857142857143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "background": "transparent",
+        "font_weight": 400
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.12282192064643116,
+          0.09,
+          0.27020822542214856,
+          0.17142857142857143
+        ],
+        "font_size": 15.5,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In battle, Papyrus repeatedly and humorously states that he has a special attack that he’s prepared to use if need be. Eventually, he unleashes his special attack, which is flashy, strange, and funny all at once. In the English version of Undertale, this attack ends with the eight-character message “COOL DUDE” spelled out in bones. The player must then dodge this text as it quickly scrolls by.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.291411,
+          0.236429,
+          0.908998,
+          0.326429
+        ],
+        "mask_bbox": [
+          0.2906785455298871,
+          0.23690714285714287,
+          0.9150233088159122,
+          0.32809285714285713
+        ]
+      },
+      "translation": {
+        "text": "战斗中，Papyrus 一再以诙谐的方式宣称，自己备有一招特殊攻击，必要时就会使出来。最后，他终于使出了这招既华丽、又古怪、还很好笑的攻击。在英文版 Undertale 中，攻击最后会出现用骨头拼出的八个字符：“COOL DUDE”（酷哥）。这行字会快速掠过，玩家必须躲开。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 75,
+            "end": 84,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2957961255568217,
+          0.23285714285714285,
+          0.9099057287889776,
+          0.33785714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2957961255568217,
+          0.23285714285714285,
+          0.9099057287889776,
+          0.33785714285714286
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this English bone text is somewhat difficult to read and scrolls by quickly, the translator felt it would benefit the gameplay experience to localize the bone text into Japanese. But as Toby noted, any changes to “COOL DUDE” would likely change the difficulty of avoiding the scrolling text. With this in mind, the translator looked for a phrase that could say roughly the same thing in Japanese using the exact same number of characters as the English message.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.291411,
+          0.337857,
+          0.908998,
+          0.446429
+        ],
+        "mask_bbox": [
+          0.2906785455298871,
+          0.3373785714285714,
+          0.9150233088159122,
+          0.44666428571428574
+        ]
+      },
+      "translation": {
+        "text": "这些英文骨头字有些难读，移动又快，因此译者认为，将它们本地化成日文会改善游玩体验。但正如 Toby 所指出的，任何对“COOL DUDE”的改动，都可能改变躲避这行移动文字的难度。考虑到这一点，译者开始寻找一个日文短语：意思大致相同，字符数也必须与英文完全一致。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2957961255568217,
+          0.3457142857142857,
+          0.9099057287889776,
+          0.45071428571428573
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2957961255568217,
+          0.3457142857142857,
+          0.9099057287889776,
+          0.45071428571428573
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus has a “COOL DUDE” attack and wears a “COOL DUDE” outfit at one point, but localizing the attack text into Japanese broke this connection",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.121677,
+          0.411429,
+          0.271984,
+          0.521429
+        ],
+        "mask_bbox": [
+          0.10235160053869263,
+          0.41214285714285714,
+          0.27327877343830936,
+          0.52
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 有一招“COOL DUDE”攻击，还曾穿过写着“COOL DUDE”的衣服。不过，把攻击文字本地化成日文后，两者之间的呼应就消失了。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1361276287164612,
+          0.4114285714285714,
+          0.27225525743292234,
+          0.5478571428571428
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "background": "transparent",
+        "font_weight": 400,
+        "keep_phrases": [
+          "“COOL DUDE”"
+        ]
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.12282192064643116,
+          0.4114285714285714,
+          0.27020822542214856,
+          0.5478571428571428
+        ],
+        "font_size": 15.5,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "After some brainstorming for a replacement message, the translator chose the phrase イカした こうげき (ikashita kōgeki), which roughly means “cool attack” or “totally sweet attack”. This phrase was then given to the game art studio 256graph to transform into graphical form. 256graph not only created all-new Japanese bone text, but also ensured that its height and width closely matched the height and width of the original English bone text.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.291411,
+          0.455,
+          0.908998,
+          0.564286
+        ],
+        "mask_bbox": [
+          0.2906785455298871,
+          0.45595,
+          0.9150233088159122,
+          0.5657142857142857
+        ]
+      },
+      "translation": {
+        "text": "经过一番构思，译者选定了“イカした こうげき”（ikashita kōgeki），大意是“很酷的攻击”或“超棒的攻击”。随后，这个短语交给游戏美术工作室 256graph 制作成图像。256graph 不仅制作了全新的日文骨头字，还确保其高度和宽度与原英文骨头字尽量接近。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 33,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2957961255568217,
+          0.4585714285714286,
+          0.9099057287889776,
+          0.565
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "日文与罗马字保留；本页截图和骨头字图像均保留原样。",
+      "calibration": {
+        "bbox": [
+          0.2957961255568217,
+          0.4585714285714286,
+          0.9099057287889776,
+          0.565
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b007",
+      "kind": "aside",
+      "source": {
+        "text": "They definitely don’t teach hit box localization in textbooks or school, this is uncharted territory for almost everyone",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.121677,
+          0.576429,
+          0.270961,
+          0.681429
+        ],
+        "mask_bbox": [
+          0.10235160053869263,
+          0.5769071428571428,
+          0.27327877343830936,
+          0.6804785714285714
+        ]
+      },
+      "translation": {
+        "text": "教科书或学校里肯定不会教你如何本地化碰撞判定框；对几乎所有人来说，这都是陌生的领域。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.12282192064643116,
+          0.5757142857142857,
+          0.27020822542214856,
+          0.6821428571428572
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "background": "transparent",
+        "font_weight": 400
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.12282192064643116,
+          0.5757142857142857,
+          0.27020822542214856,
+          0.6821428571428572
+        ],
+        "font_size": 15.5,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b008",
+      "kind": "aside",
+      "source": {
+        "text": "The localized Japanese bone text closely matches the dimensions of the original English bone text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.121677,
+          0.695714,
+          0.270961,
+          0.775
+        ],
+        "mask_bbox": [
+          0.10235160053869263,
+          0.6969071428571428,
+          0.27327877343830936,
+          0.7728571428571429
+        ]
+      },
+      "translation": {
+        "text": "本地化后的日文骨头字，尺寸与原英文骨头字十分接近。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.12077488863565732,
+          0.6957142857142857,
+          0.27020822542214856,
+          0.7778571428571428
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "background": "transparent",
+        "font_weight": 400
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.12077488863565732,
+          0.6957142857142857,
+          0.27020822542214856,
+          0.7778571428571428
+        ],
+        "font_size": 15.5,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0140-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "All of this teamwork resulted in a Japanese phrase with the same number of characters as the English phrase, hitboxes that closely match the original game’s hitboxes, and all-new bone graphics that look just like the original English bone graphics. Even more impressive is that all of this work was done for one short message that stays on the screen for less than five seconds!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.291411,
+          0.814286,
+          0.908998,
+          0.905714
+        ],
+        "mask_bbox": [
+          0.2906785455298871,
+          0.815,
+          0.9150233088159122,
+          0.9042857142857142
+        ]
+      },
+      "translation": {
+        "text": "经过这番协作，最终的日文短语与英文拥有相同的字符数，碰撞判定框也与原版十分接近；全新制作的骨头字图像，看起来仍与原英文版本风格一致。更令人佩服的是，这一切工作，只是为了屏幕上一句停留不到五秒钟的短语！",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2957961255568217,
+          0.8139285714285714,
+          0.9099057287889776,
+          0.9071428571428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.2957961255568217,
+          0.8139285714285714,
+          0.9099057287889776,
+          0.9071428571428571
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "calibrated_at": "20261022T124100Z",
+    "pdf_page_pt": [
+      496.44,
+      711.36
+    ],
+    "reference_height": 1400,
+    "body_font": "Noto Serif SC",
+    "caption_font": "Noto Sans SC",
+    "japanese_font": "Noto Serif JP",
+    "body_size": 20,
+    "body_leading": 29,
+    "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+    "body_weight": 450,
+    "body_alignment": "justify",
+    "revised_at": "20261022T130627Z",
+    "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+    "latin_font": "Source Serif 4 Text",
+    "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+    "linebreak_revised_at": "20261022T133957Z"
+  },
+  "physical_size_pt": [
+    496.44,
+    711.36
+  ],
+  "image_sha256": "b3bf30c38bb0d187dc652f213c2c3f73e66aae5e1bbef9efb681aff080ed2188",
+  "review": {
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 9
+    }
+  }
+}

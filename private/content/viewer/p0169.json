@@ -1,0 +1,897 @@
+{
+  "schema_version": 3,
+  "pdf_page": 169,
+  "printed_page": "169",
+  "title": "螃蟹苹果",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    976.393332,
+    1400
+  ],
+  "physical_size_pt": [
+    497.04,
+    712.68
+  ],
+  "image_url": "/assets/p0169.jpg",
+  "image_sha256": "574d814cf290ed0293d64af38c9890e656153937a3c87c59e242675912fcf44f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0169/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0169-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Getting Crabby",
+        "raw": "Getting Crabby",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09097768,
+          0.05923571,
+          0.24999147,
+          0.07285
+        ],
+        "mask_bbox": [
+          0.08964625,
+          0.05852143,
+          0.2513229,
+          0.07392143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "螃蟹苹果",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.049428571,
+          0.70223749,
+          0.073571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.073571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.049428571,
+          0.70223749,
+          0.073571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 107
+    },
+    {
+      "id": "p0169-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The \"Crab Apple\" item was renamed to stay funny and understandable for Japanese players",
+        "raw": "The \"Crab Apple\"\nitem was renamed\nto stay funny and\nunderstandable for\nJapanese players",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73144703,
+          0.08885,
+          0.8511324,
+          0.15980714
+        ],
+        "mask_bbox": [
+          0.7301156,
+          0.08813571,
+          0.85246383,
+          0.16087857
+        ],
+        "line_ids": [
+          2,
+          6,
+          10,
+          13,
+          16
+        ]
+      },
+      "translation": {
+        "text": "“Crab Apple”改了名字，好让日本玩家也能看懂并觉得好笑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73091446,
+          0.08742143,
+          0.87839601,
+          0.16337857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5289214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73091446,
+          0.08742143,
+          0.87839601,
+          0.16337857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Gerson also sells an item known as the \"Crab Apple\" in the English script. The item's description is:",
+        "raw": "Gerson also sells an item known as the \"Crab Apple\" in the English script. The\nitem's description is:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0910801,
+          0.24187857,
+          0.69527308,
+          0.27240714
+        ],
+        "mask_bbox": [
+          0.08903174,
+          0.24116429,
+          0.70428584,
+          0.27347857
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Gerson 还出售一种英语名为“Crab Apple”的道具，说明写着：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.24045,
+          0.70223749,
+          0.27597857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.53,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.24045,
+          0.70223749,
+          0.27597857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b004",
+      "kind": "quote",
+      "source": {
+        "text": "An aquatic fruit that resembles a crustacean.",
+        "raw": "An aquatic fruit that resembles a crustacean.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13355274,
+          0.28813571,
+          0.47046614,
+          0.30034286
+        ],
+        "mask_bbox": [
+          0.1322213,
+          0.28742143,
+          0.47179757,
+          0.30141429
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "一种形似甲壳动物的水生水果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13355274,
+          0.28670714,
+          0.70223749,
+          0.30729643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.53,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0169-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13355274,
+          0.28670714,
+          0.70223749,
+          0.30729643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Crab apples (sometimes spelled \"crabapples\") are a real thing - they're essentially a type of wild apple. They look like smaller versions of regular apples and tend to be very sour or bitter. So the joke here is that Crab Apples in Undertale are literal crab-shaped apples, rather than the real-life crab apples that savvy players might envision.",
+        "raw": "Crab apples (sometimes spelled \"crabapples\") are a real thing - they're\nessentially a type of wild apple. They look like smaller versions of regular\napples and tend to be very sour or bitter. So the joke here is that Crab Apples\nin Undertale are literal crab-shaped apples, rather than the real-life crab apples\nthat savvy players might envision.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0910801,
+          0.31631429,
+          0.70223749,
+          0.4014
+        ],
+        "mask_bbox": [
+          0.08903174,
+          0.3156,
+          0.70428584,
+          0.40247143
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Crab apple（也拼作 crabapple）在现实中确有其物，基本上是一类野生苹果，模样像缩小的普通苹果，通常很酸或很苦。笑点在于，Undertale 里的 Crab Apple 真的是螃蟹形状的苹果，而不是熟悉这个词的玩家想象中的现实水果。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 69,
+            "end": 78,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.31488571,
+          0.70223749,
+          0.40497143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.53,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0169-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.31488571,
+          0.70223749,
+          0.40497143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "The English wordplay that connects the \"Crab Apple\" name and its description would be lost in a literal translation, so the localization team relied on a more creative solution: combining the wordsfujimi (\"immortality\") and ringo (\"apple\"). The resulting name, Fujiringo, usually means \"Fuji apple\" in everyday Japanese, but instead means \"immortality apple\" in this specific, unexpected context.",
+        "raw": "The English wordplay that connects the \"Crab Apple\" name and its description\nwould be lost in a literal translation, so the localization team relied on a\nmore creative solution: combining the wordsfujimi (\"immortality\") and\nringo (\"apple\"). The resulting name, Fujiringo, usually means \"Fuji apple\" in\neveryday Japanese, but instead means \"immortality apple\" in this specific,\nunexpected context.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09112106,
+          0.41665,
+          0.702217,
+          0.52027857
+        ],
+        "mask_bbox": [
+          0.08903174,
+          0.41593571,
+          0.70428584,
+          0.52135
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "名称与道具说明之间的英语文字游戏，直译会丢失。团队于是采用更有创意的办法，把日语 fujimi（不死）和 ringo（苹果）结合起来。得到的名字 Fujiringo，平时指“富士苹果”，但在这个出人意料的特定语境里，却变成了“不死苹果”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 41,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 53,
+            "end": 58,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 73,
+            "end": 82,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.41522143,
+          0.70223749,
+          0.52385
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.53,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0169-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.41522143,
+          0.70223749,
+          0.52385
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b007",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Crab apples do seem to have a fitting name",
+        "raw": "LEFT: Crab apples\ndo seem to have a\nfitting name",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73380264,
+          0.53606429,
+          0.84802914,
+          0.57838571
+        ],
+        "mask_bbox": [
+          0.7324712,
+          0.53535,
+          0.84936057,
+          0.57945714
+        ],
+        "line_ids": [
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "左：Crab apple 的名字看起来还真有点贴切。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73091446,
+          0.53463571,
+          0.87839601,
+          0.58195714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5828071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73091446,
+          0.53463571,
+          0.87839601,
+          0.58195714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b008",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Fuji apples are named after Fujisaki, the city they originate from",
+        "raw": "RIGHT: Fuji apples\nare named after\nFujisaki, the city\nthey originate from",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73380264,
+          0.58995,
+          0.85258673,
+          0.64640714
+        ],
+        "mask_bbox": [
+          0.7324712,
+          0.58923571,
+          0.85391816,
+          0.64747857
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "右：富士苹果以其发源地藤崎命名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73091446,
+          0.58852143,
+          0.87839601,
+          0.64997857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73091446,
+          0.58852143,
+          0.87839601,
+          0.64997857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, changing the item's name meant that the original item description would no longer make sense, so the translator gave it an all-new description:",
+        "raw": "Naturally, changing the item's name meant that the original item description\nwould no longer make sense, so the translator gave it an all-new description:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09220669,
+          0.71872143,
+          0.68386374,
+          0.74959286
+        ],
+        "mask_bbox": [
+          0.08903174,
+          0.71800714,
+          0.70428584,
+          0.75066429
+        ],
+        "line_ids": [
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "名字改了，原来的道具说明自然就不再合适，因此译者另写了一段：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.71729286,
+          0.70223749,
+          0.75316429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.71729286,
+          0.70223749,
+          0.75316429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b010",
+      "kind": "quote",
+      "source": {
+        "text": "Rumored to grant immortality when eaten. But it's actually just a normal apple.",
+        "raw": "Rumored to grant immortality when eaten. But it's actually just a normal\napple.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13678914,
+          0.76498571,
+          0.68636274,
+          0.79603571
+        ],
+        "mask_bbox": [
+          0.13545771,
+          0.76427143,
+          0.68769417,
+          0.79710714
+        ],
+        "line_ids": [
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "据说吃了便能长生不死。其实只是普通苹果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13678914,
+          0.76355714,
+          0.70223749,
+          0.79960714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0169-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.13678914,
+          0.76355714,
+          0.70223749,
+          0.79960714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "From all of this, we can see that the localized item name follows the ideas of the original item name: it contains wordplay, remains apple-themed, and matches the name of a type of real-life apple. At the same time, however, the Japanese name lacks the original's aquatic theme shared by many items found in Waterfall.",
+        "raw": "From all of this, we can see that the localized item name follows the ideas\nof the original item name: it contains wordplay, remains apple-themed, and\nmatches the name of a type of real-life apple. At the same time, however, the\nJapanese name lacks the original's aquatic theme shared by many items found\nin Waterfall.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0916434,
+          0.81067143,
+          0.69187281,
+          0.89710714
+        ],
+        "mask_bbox": [
+          0.08903174,
+          0.80995714,
+          0.70428584,
+          0.89817857
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "可见，本地化后的名称沿用了原名的思路：有文字游戏，仍然与苹果有关，又与现实中的苹果品种同名。但另一方面，日文名失去了原版的水生主题，而这恰好是瀑布地区许多道具共有的特点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09112106,
+          0.80924286,
+          0.70223749,
+          0.90067857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0169-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.09112106,
+          0.80924286,
+          0.70223749,
+          0.90067857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0169-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63833906,
+          0.93388571,
+          0.70648782,
+          0.94398571
+        ],
+        "mask_bbox": [
+          0.63700763,
+          0.93317143,
+          0.70781925,
+          0.94505714
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63833906,
+          0.93245714,
+          0.70648782,
+          0.95045714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9504571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63833906,
+          0.93245714,
+          0.70648782,
+          0.95045714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "564352c7471fb45a7cfeb31b7c84d05bb7105022223dba16614c9fbc3523cb65"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          11,
+          12,
+          14,
+          15,
+          17,
+          18,
+          50
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      88.97,
+      685.66
+    ],
+    "text_runs": [
+      {
+        "id": "p0169-b003",
+        "blocks": [
+          "p0169-b003",
+          "p0169-b004",
+          "p0169-b005",
+          "p0169-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 742.0
+      },
+      {
+        "id": "p0169-b009",
+        "blocks": [
+          "p0169-b009",
+          "p0169-b010",
+          "p0169-b011"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

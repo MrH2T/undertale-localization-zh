@@ -1,0 +1,888 @@
+{
+  "schema_version": 3,
+  "pdf_page": 104,
+  "printed_page": "104",
+  "title": "物品名称的缩写",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.170564+00:00",
+  "reference_size": [
+    980.496873,
+    1400
+  ],
+  "physical_size_pt": [
+    497.28,
+    710.04
+  ],
+  "image_url": "/assets/p0104.jpg",
+  "image_sha256": "4b7811dd6576dc88d462e46f4e0d36cc9395b6313ff50bc44884d82d06ebe129",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0104/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0104-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Abbreviated Items",
+        "raw": "Abbreviated Items",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29055677,
+          0.06375,
+          0.48449925,
+          0.07712857
+        ],
+        "mask_bbox": [
+          0.28923091,
+          0.06303571,
+          0.48582511,
+          0.0782
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "物品名称的缩写",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.05371429,
+          0.90753987,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.05371429,
+          0.90753987,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0104-b002",
+      "kind": "aside",
+      "source": {
+        "text": "\"Butterscotch Pie\" is ~ humorously abbreviated as \"ButtsPie\" in English, but is left full-length in Japanese",
+        "raw": "\"Butterscotch Pie\" is ~\nhumorously abbreviated\nas \"ButtsPie\" in English,\nbut is left full-length in\nJapanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11265717,
+          0.09436429,
+          0.2799397,
+          0.16644286
+        ],
+        "mask_bbox": [
+          0.11133131,
+          0.09365,
+          0.28126556,
+          0.16751429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "“Butterscotch Pie”（奶油糖派）在英语中被戏谑地缩成“ButtsPie”（屁股派），日语则保留全名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11265717,
+          0.09293571,
+          0.2799397,
+          0.17001429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4992714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11265717,
+          0.09293571,
+          0.2799397,
+          0.17001429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, every item has three names: a standard name that can be quite long, an abbreviated name for battle menus, and an abbreviated name for battle menus during serious scenes.",
+        "raw": "In the English version of Underta/e, every item has three names: a standard\nname that can be quite long, an abbreviated name for battle menus, and an\nabbreviated name for battle menus during serious scenes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29235177,
+          0.23060714,
+          0.86968151,
+          0.27882857
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.22989286,
+          0.90957965,
+          0.2799
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "英语版 Undertale 中，每件物品都有三个名字：可能很长的标准名、战斗菜单中的缩写名，以及严肃场景下战斗菜单专用的缩写名。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.22917857,
+          0.90753987,
+          0.2824
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.22917857,
+          0.90753987,
+          0.2824
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's not obvious at first, but these abbreviated names serve multiple functions:",
+        "raw": "It's not obvious at first, but these abbreviated names serve multiple functions:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29235177,
+          0.29449286,
+          0.8885291,
+          0.30688571
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.29377857,
+          0.90957965,
+          0.30795714
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "这些缩写名乍看不起眼，其实有多种用途：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.29306429,
+          0.90753987,
+          0.31520714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.29306429,
+          0.90753987,
+          0.31520714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b005",
+      "kind": "quote",
+      "source": {
+        "text": "l. Some names need to be shortened to fit in the limited text space",
+        "raw": "l. Some names need to be shortened to fit in the limited text space",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31046504,
+          0.32288571,
+          0.83103784,
+          0.33527857
+        ],
+        "mask_bbox": [
+          0.27344299,
+          0.32217143,
+          0.83236369,
+          0.33635
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "1. 有些名字需要缩短，才能放进有限的文字空间。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31046504,
+          0.32145714,
+          0.90753987,
+          0.34204643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.31046504,
+          0.32145714,
+          0.90753987,
+          0.34204643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0104-b006",
+      "kind": "quote",
+      "source": {
+        "text": "2. The shortened names are a parody of the odd name abbreviations found in old Japanese-to-English game localizations",
+        "raw": "2. The shortened names are a parody of the odd name abbreviations found\nin old Japanese-to-English game localizations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31025086,
+          0.34993571,
+          0.8903853,
+          0.37989286
+        ],
+        "mask_bbox": [
+          0.27322882,
+          0.34922143,
+          0.89171116,
+          0.38096429
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "2. 缩写名模仿了早期日本游戏英文本地化中那些古怪的名称缩写。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31025086,
+          0.34850714,
+          0.90753987,
+          0.38346429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.31025086,
+          0.34850714,
+          0.90753987,
+          0.38346429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0104-b007",
+      "kind": "quote",
+      "source": {
+        "text": "3. Toby wanted some items to have intentionally funny abbreviations",
+        "raw": "3. Toby wanted some items to have intentionally funny abbreviations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31110757,
+          0.39421429,
+          0.84996701,
+          0.40660714
+        ],
+        "mask_bbox": [
+          0.27408552,
+          0.3935,
+          0.85129287,
+          0.40767857
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "3. Toby 想让某些物品的缩写名故意显得滑稽。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31110757,
+          0.39278571,
+          0.90753987,
+          0.413375
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.31110757,
+          0.39278571,
+          0.90753987,
+          0.413375
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0104-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "As an example of the third function, \"Butterscotch Pie\" is normally abbreviated as the humorous \"ButtsPie\" in battle. But to avoid ruining the mood during serious scenes, Toby implemented the second set of \"serious\" abbreviations. Thus \"ButtsPie\" becomes \"Pie\" during important battles.",
+        "raw": "As an example of the third function, \"Butterscotch Pie\" is normally abbreviated\nas the humorous \"ButtsPie\" in battle. But to avoid ruining the mood during\nserious scenes, Toby implemented the second set of \"serious\" abbreviations.\nThus \"ButtsPie\" becomes \"Pie\" during important battles.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29098512,
+          0.42225714,
+          0.9034705,
+          0.48975
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.42154286,
+          0.90957965,
+          0.49082143
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "第三种用途的例子是“Butterscotch Pie”：通常战斗中会缩成滑稽的“ButtsPie”。但为了不破坏严肃场景的气氛，Toby 又做了第二套“严肃”缩写。因此在重要战斗中，“ButtsPie”就变成了“Pie”（派）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.42082857,
+          0.90753987,
+          0.49332143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.42082857,
+          0.90753987,
+          0.49332143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b009",
+      "kind": "aside",
+      "source": {
+        "text": "In serious battles, ~ \"Butterscotch Pie\" is instead abbreviated as \"Pie\" in English, while the name remains its full length in Japanese",
+        "raw": "In serious battles, ~\n\"Butterscotch Pie\" is\ninstead abbreviated as\n\"Pie\" in English, while\nthe name remains its\nfull length in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12520183,
+          0.50641429,
+          0.28187749,
+          0.59404286
+        ],
+        "mask_bbox": [
+          0.12387597,
+          0.5057,
+          0.28320335,
+          0.59511429
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          31
+        ]
+      },
+      "translation": {
+        "text": "严肃战斗中，“Butterscotch Pie”在英语里改缩为“Pie”，而日语依然保留全名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11728747,
+          0.50498571,
+          0.28187749,
+          0.59761429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11728747,
+          0.50498571,
+          0.28187749,
+          0.59761429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although name abbreviations were common in old games localized into English, such abbreviations weren't as pervasive in Japanese-language games - after all, it's easy to say a lot in Japanese with only a few characters. So although the two extra sets of abbreviated names made sense for the English release, there was no strong reason to implement them in the Japanese version.",
+        "raw": "Although name abbreviations were common in old games localized into\nEnglish, such abbreviations weren't as pervasive in Japanese-language games\n- after all, it's easy to say a lot in Japanese with only a few characters. So\nalthough the two extra sets of abbreviated names made sense for the English\nrelease, there was no strong reason to implement them in the Japanese version.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28792545,
+          0.6521,
+          0.90753987,
+          0.73818571
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.65138571,
+          0.90957965,
+          0.73925714
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "名称缩写在旧游戏的英语本地化中很常见，日语游戏却没有这么普遍，毕竟日语用几个字就很容易表达许多信息。因此，两套额外的缩写名在英语版中有意义，日语版却没有充分的理由照搬。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.65067143,
+          0.90753987,
+          0.74175714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.65067143,
+          0.90753987,
+          0.74175714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "With this in mind, Toby and the localization team decided to only use one set of full-length Japanese item names. This new approach meant that the original two-column item menu needed to be reprogrammed into a one-column item menu with a scrollbar. And because the player can switch between the English and Japanese versions of the game at any time, all of this new program code needed to safely coexist with the original game's code.",
+        "raw": "With this in mind, Toby and the localization team decided to only use one set\nof full-length Japanese item names. This new approach meant that the original\ntwo-column item menu needed to be reprogrammed into a one-column item\nmenu with a scrollbar. And because the player can switch between the English\nand Japanese versions of the game at any time, all of this new program code\nneeded to safely coexist with the original game's code.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29337166,
+          0.75317143,
+          0.9043884,
+          0.85751429
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.75245714,
+          0.90957965,
+          0.85858571
+        ],
+        "line_ids": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "考虑到这一点，Toby 和本地化团队决定，日文物品名称只保留一套全名。这就需要重新编程，把原来的双栏物品菜单改成带滚动条的单栏菜单。而玩家又可以随时切换游戏的英语版和日语版，所以所有新增代码都必须能与原版代码安全共存。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.75174286,
+          0.90753987,
+          0.86108571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.75174286,
+          0.90753987,
+          0.86108571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0104-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, the English and Japanese versions of Undertale treat item names quite differently, while also following the expectations of their specific audiences.",
+        "raw": "In short, the English and Japanese versions of Undertale treat item names quite\ndifferently, while also following the expectations of their specific audiences.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29520747,
+          0.8725,
+          0.90680554,
+          0.90348571
+        ],
+        "mask_bbox": [
+          0.28588566,
+          0.87178571,
+          0.90957965,
+          0.90455714
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "总的来说，Undertale 的英语版和日语版以截然不同的方式处理物品名称，也都符合各自玩家的预期。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29235177,
+          0.87107143,
+          0.90753987,
+          0.90705714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0104-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29235177,
+          0.87107143,
+          0.90753987,
+          0.90705714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1dac4740e55d78bf4b899c0522619d911f7f624cc00638fb37cd930a15f49828"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          29,
+          30,
+          32,
+          33,
+          34,
+          35,
+          49
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.65,
+      889.84
+    ],
+    "text_runs": [
+      {
+        "id": "p0104-b003",
+        "blocks": [
+          "p0104-b003",
+          "p0104-b004",
+          "p0104-b005",
+          "p0104-b006",
+          "p0104-b007",
+          "p0104-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 700.0
+      },
+      {
+        "id": "p0104-b010",
+        "blocks": [
+          "p0104-b010",
+          "p0104-b011",
+          "p0104-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,999 @@
+{
+  "schema_version": 3,
+  "pdf_page": 141,
+  "printed_page": "141",
+  "title": "只剩个头",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.739483+00:00",
+  "reference_size": [
+    978.208151,
+    1400
+  ],
+  "physical_size_pt": [
+    497.88,
+    712.56
+  ],
+  "image_url": "/assets/p0141.jpg",
+  "image_sha256": "75599703718f11128a4899b3d313b503b2d623e849d440910f0b5765fdab5c86",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0141/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0141-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Just Ahead",
+        "raw": "Just Ahead",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08813053,
+          0.06115714,
+          0.20252336,
+          0.07448571
+        ],
+        "mask_bbox": [
+          0.08680157,
+          0.06044286,
+          0.20385232,
+          0.07555714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "只剩个头",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.050857143,
+          0.70493177,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.050857143,
+          0.70493177,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "原题 Just Ahead 利用 ahead（就在前方）与 a head（一个头）的同音，中文标题保留情境义。"
+      ],
+      "rule_y": 109
+    },
+    {
+      "id": "p0141-b002",
+      "kind": "aside",
+      "source": {
+        "text": "An Undertafe themed retelling of Shakespeare plays would be interesting to see",
+        "raw": "An Undertafe\nthemed retelling of\nShakespeare plays\nwould be interesting\nto see",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7288735,
+          0.09045714,
+          0.85742487,
+          0.16188571
+        ],
+        "mask_bbox": [
+          0.72754454,
+          0.08974286,
+          0.85875383,
+          0.16295714
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "要是用 Undertale 的角色重演莎士比亚戏剧，一定很有意思。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7288735,
+          0.08902857,
+          0.88076347,
+          0.16545714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2560857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7288735,
+          0.08902857,
+          0.88076347,
+          0.16545714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "If Papyrus is defeated in battle, his head falls in his hand and he says in English:",
+        "raw": "If Papyrus is defeated in battle, his head falls in his hand and he says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0884781,
+          0.20666429,
+          0.70010662,
+          0.21927857
+        ],
+        "mask_bbox": [
+          0.08612686,
+          0.20595,
+          0.70697632,
+          0.22035
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 在战斗中落败后，脑袋掉进自己手里，英语版中他说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.20523571,
+          0.70493177,
+          0.22737857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.25520714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.20523571,
+          0.70493177,
+          0.22737857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b004",
+      "kind": "quote",
+      "source": {
+        "text": "ALAS, POOR PAPYRUS!",
+        "raw": "ALAS, POOR PAPYRUS!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13186355,
+          0.23517143,
+          0.32002391,
+          0.2471
+        ],
+        "mask_bbox": [
+          0.13053459,
+          0.23445714,
+          0.32135287,
+          0.24817143
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "唉，可怜的 Papyrus！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13186355,
+          0.23374286,
+          0.70493177,
+          0.25433214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.25520714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0141-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13186355,
+          0.23374286,
+          0.70493177,
+          0.25433214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this is a reference to the famous Shakespeare quote, \"Alas, poor Yorick!\", which Hamlet says while holding a skull. The translator preserved this reference by quoting the same line from a Japanese translation of Hamlet. However, the translator also noted that the quote is less recognizable in Japanese and thus more likely to be missed by Japanese players.",
+        "raw": "Toby noted that this is a reference to\nthe famous Shakespeare quote, \"Alas,\npoor Yorick!\", which Hamlet says\nwhile holding a skull. The translator\npreserved this reference by quoting\nthe same line from a Japanese\ntranslation of Hamlet. However, the\ntranslator also noted that the quote\nis less recognizable in Japanese and\nthus more likely to be missed by\nJapanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08853944,
+          0.26235,
+          0.37681142,
+          0.45808571
+        ],
+        "mask_bbox": [
+          0.08612686,
+          0.26163571,
+          0.37814038,
+          0.45915714
+        ],
+        "line_ids": [
+          10,
+          14,
+          16,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这引用了莎士比亚的名句“唉，可怜的约里克！”——哈姆雷特手持头骨时说的话。译者采用《哈姆雷特》日译本中对应的台词，保留了这个典故。不过，译者也指出，这句名言在日语中没那么耳熟，因此日本玩家更容易错过。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08817142,
+          0.26092143,
+          0.37681142,
+          0.46165714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.47435714285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08817142,
+          0.26092143,
+          0.37681142,
+          0.46165714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Hamlet holds Yorick's skull before not saying \"I knew him well\"",
+        "raw": "Hamlet holds\nYorick's skull before\nnot saying \"I knew\nhim well\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72870994,
+          0.26322857,
+          0.8529473,
+          0.32051429
+        ],
+        "mask_bbox": [
+          0.72738098,
+          0.26251429,
+          0.85427626,
+          0.32158571
+        ],
+        "line_ids": [
+          11,
+          13,
+          15,
+          17
+        ]
+      },
+      "translation": {
+        "text": "哈姆雷特拿着约里克的头骨；但接下来，他可没有说那句常被误引的“I knew him well”（我很了解他）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72870994,
+          0.2618,
+          0.88076347,
+          0.32408571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5029785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72870994,
+          0.2618,
+          0.88076347,
+          0.32408571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b007",
+      "kind": "heading",
+      "source": {
+        "text": "Grammar Explosion",
+        "raw": "Grammar Explosion",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08985818,
+          0.4815,
+          0.29543814,
+          0.49482857
+        ],
+        "mask_bbox": [
+          0.08852922,
+          0.48078571,
+          0.2967671,
+          0.4959
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "语法大爆炸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.47157143,
+          0.70493177,
+          0.49571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.47157143,
+          0.70493177,
+          0.49571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 698.0
+    },
+    {
+      "id": "p0141-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus' non-stop weird vocabulary and grammar made him particularly tricky but fun to localize into Japanese",
+        "raw": "Papyrus' non-stop\nweird vocabulary and\ngrammar made him\nparticularly tricky but\nfun to localize into\nJapanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7292313,
+          0.51012143,
+          0.86402878,
+          0.59905714
+        ],
+        "mask_bbox": [
+          0.72790234,
+          0.50940714,
+          0.86535775,
+          0.60012857
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 古怪的用词和语法层出不穷，让他的日语本地化格外棘手，也格外有趣。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7292313,
+          0.50869286,
+          0.88076347,
+          0.60262857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7292313,
+          0.50869286,
+          0.88076347,
+          0.60262857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "After losing to Papyrus three times, Papyrus will say in English:",
+        "raw": "After losing to Papyrus three times, Papyrus will say in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08817142,
+          0.63791429,
+          0.57576703,
+          0.6504
+        ],
+        "mask_bbox": [
+          0.08612686,
+          0.6372,
+          0.70697632,
+          0.65147143
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "玩家连输给 Papyrus 三次后，他会在英语版里说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.63648571,
+          0.70493177,
+          0.65862857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.63648571,
+          0.70493177,
+          0.65862857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b010",
+      "kind": "quote",
+      "source": {
+        "text": "I AM THE PERSISTENTEST! AND IF YOU THINK YOU ARE PERSISTENESTER ... THAT IS WRONG! GRAMATICALLY WRONG! BECAUSE THE CORRECT FORM WOULD BE. .. \"NOT AS PERSISTENTEST AS PAPYRUS, THE PERSISTENTESTEST!\"",
+        "raw": "I AM THE PERSISTENTEST! AND IF YOU THINK YOU ARE\nPERSISTENESTER ... THAT IS WRONG! GRAMATICALLY\nWRONG! BECAUSE THE CORRECT FORM WOULD BE. .. \"NOT AS\nPERSISTENTEST AS PAPYRUS, THE PERSISTENTESTEST!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13415345,
+          0.66629286,
+          0.65840793,
+          0.73211429
+        ],
+        "mask_bbox": [
+          0.13282449,
+          0.66557857,
+          0.65973689,
+          0.73318571
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "我才是最坚持的（PERSISTENTEST）！要是你以为自己更最坚持（PERSISTENESTER）……那就错了！语法错了！正确的说法应该是……“比不上最最坚持的（PERSISTENTESTEST）Papyrus 那么最坚持！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13415345,
+          0.66486429,
+          0.70493177,
+          0.73568571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0141-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.13415345,
+          0.66486429,
+          0.70493177,
+          0.73568571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "To retain this bizarre grammar abuse, the translator rephrased the text a bit:",
+        "raw": "To retain this bizarre grammar abuse, the translator rephrased the text a bit:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08950038,
+          0.74803571,
+          0.67655335,
+          0.76052857
+        ],
+        "mask_bbox": [
+          0.08612686,
+          0.74732143,
+          0.70697632,
+          0.7616
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "为了保留这种胡乱糟蹋语法的效果，译者稍作改写：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.74660714,
+          0.70493177,
+          0.76875
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0141-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.74660714,
+          0.70493177,
+          0.76875
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b012",
+      "kind": "quote",
+      "source": {
+        "text": "I AM MORE INTENSELY PERSISTENT! IF YOU'RE THINKING \"I'M WAY MORE PERSISTENT\". .. THEN THAT'S WRONG. .. GRAMMATICALLY WRONG! THE CORRECT FORM WOULD BE ... \"IT'S NOT UN-NON-REASONABLE TO SAY YOU'RE WAY MORE UN PERSISTENT!\"",
+        "raw": "I AM MORE INTENSELY PERSISTENT! IF YOU'RE THINKING\n\"I'M WAY MORE PERSISTENT\". .. THEN THAT'S WRONG. ..\nGRAMMATICALLY WRONG! THE CORRECT FORM WOULD BE ...\n\"IT'S NOT UN-NON-REASONABLE TO SAY YOU'RE WAY MORE UN\nPERSISTENT!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12888872,
+          0.77609286,
+          0.67559241,
+          0.86213571
+        ],
+        "mask_bbox": [
+          0.12755976,
+          0.77537857,
+          0.67692137,
+          0.86320714
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "我才是更加坚持的！如果你想说“我更更坚持”……那就错了……语法错了！正确的说法应该是……“说你更不坚持，也不是不没有道理的！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12888872,
+          0.77466429,
+          0.70493177,
+          0.86570714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0141-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.12888872,
+          0.77466429,
+          0.70493177,
+          0.86570714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new line emulates the English line's bizarre gran1mar by using a flurry of negatives in a row. This keeps the line comical, nonsensical, and very Papyrus-like.",
+        "raw": "This new line emulates the English line's bizarre gran1mar by using a flurry of\nnegatives in a row. This keeps the line comical, nonsensical, and very Papyrus-like.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08998085,
+          0.87705,
+          0.70493177,
+          0.90772857
+        ],
+        "mask_bbox": [
+          0.08612686,
+          0.87633571,
+          0.70697632,
+          0.9088
+        ],
+        "line_ids": [
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "新版台词用一连串否定来模仿英语原文古怪的语法。这样一来，它仍然好笑、莫名其妙，也很有 Papyrus 的风格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08898924,
+          0.87562143,
+          0.70493177,
+          0.9113
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0141-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.08898924,
+          0.87562143,
+          0.70493177,
+          0.9113
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0141-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63904599,
+          0.93583571,
+          0.70363347,
+          0.9458
+        ],
+        "mask_bbox": [
+          0.63771703,
+          0.93512143,
+          0.70496243,
+          0.94687143
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63904599,
+          0.93440714,
+          0.70363347,
+          0.95240714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9524071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63904599,
+          0.93440714,
+          0.70363347,
+          0.95240714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1ccb55361950a7409fa9aba5a2daabfd95e710773f8ca52e19a0190fb9a7fea5"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          12,
+          28,
+          48
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      87.05,
+      689.57
+    ],
+    "text_runs": [
+      {
+        "id": "p0141-b003",
+        "blocks": [
+          "p0141-b003",
+          "p0141-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 357.29
+      },
+      {
+        "id": "p0141-b009",
+        "blocks": [
+          "p0141-b009",
+          "p0141-b010",
+          "p0141-b011",
+          "p0141-b012",
+          "p0141-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

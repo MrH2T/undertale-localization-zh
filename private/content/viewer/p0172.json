@@ -1,0 +1,701 @@
+{
+  "schema_version": 3,
+  "pdf_page": 172,
+  "printed_page": "172",
+  "title": "Temmie 式语法",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    980.376344,
+    1400
+  ],
+  "physical_size_pt": [
+    500.16,
+    714.24
+  ],
+  "image_url": "/assets/p0172.jpg",
+  "image_sha256": "c8d6a20c70909dd5123fe6c4ec335756a049f8040e48f1350cea97895e620fa2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0172/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0172-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Gramatically Temmie",
+        "raw": "Gramatically Temmie",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29674319,
+          0.06237143,
+          0.51504711,
+          0.07567143
+        ],
+        "mask_bbox": [
+          0.29541716,
+          0.06165714,
+          0.51637313,
+          0.07674286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Temmie 式语法",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2976255,
+          0.052285714,
+          0.90465259,
+          0.076428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.076428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2976255,
+          0.052285714,
+          0.90465259,
+          0.076428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "原题 Gramatically Temmie 把 grammatically 少写了一个 m；中文标题采用正常写法，原文错字在 source 中保留。"
+      ],
+      "rule_y": 111
+    },
+    {
+      "id": "p0172-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Note that \"Temminese\" is just an unofficial name I made up for convenience's sake - I've never heard anyone say it before, not even Toby",
+        "raw": "Note that \"Temminese\"\nis just an unofficial\nname I made up for\nconvenience's sake\n- I've never heard\nanyone say it before,\nnot even Toby",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12731845,
+          0.09180714,
+          0.27232399,
+          0.19505
+        ],
+        "mask_bbox": [
+          0.12599243,
+          0.09109286,
+          0.27365001,
+          0.19612143
+        ],
+        "line_ids": [
+          2,
+          6,
+          11,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "注意，“Temminese”（Temmie 语）只是我为方便讨论而起的非正式名称。我从没听过别人这么说，包括 Toby。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11730189,
+          0.09037857,
+          0.27232399,
+          0.19862143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.305,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11730189,
+          0.09037857,
+          0.27232399,
+          0.19862143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, the Temmies speak in \"Temminese\" - an extremely unique dialect that can be described as an absolute disaster of the English language. Toby's explanation to the localization staff offers some details:",
+        "raw": "In English, the Temmies speak in \"Temminese\" - an extremely unique dialect\nthat can be described as an absolute disaster of the English language. Toby's\nexplanation to the localization staff offers some details:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2973858,
+          0.2464,
+          0.89352421,
+          0.29467857
+        ],
+        "mask_bbox": [
+          0.29530496,
+          0.24568571,
+          0.90669262,
+          0.29575
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "英语版中，Temmie 们说着“Temmie 语”：一种极其独特的方言，简直是英语的大灾难。Toby 给本地化人员的说明提供了一些细节：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2976255,
+          0.24497143,
+          0.90465259,
+          0.29825
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2976255,
+          0.24497143,
+          0.90465259,
+          0.29825
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Temmies are based off of how my friend Temmie talks, which is to say with a lot of typos and weird phrases. Kind ofl ike Mr. Saturn I guess but more like chatspeak. Temmies are generally all girls besides Bob I think.",
+        "raw": "Temmies are based off of how my friend Temmie talks, which is to say with\na lot of typos and weird phrases. Kind ofl ike Mr. Saturn I guess but more\nlike chatspeak. Temmies are generally all girls besides Bob I think.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34176671,
+          0.31112143,
+          0.89550304,
+          0.35946429
+        ],
+        "mask_bbox": [
+          0.34044069,
+          0.31040714,
+          0.89682907,
+          0.36053571
+        ],
+        "line_ids": [
+          22,
+          24,
+          27
+        ]
+      },
+      "translation": {
+        "text": "Temmie 们的说话方式，参考了我的朋友 Temmie：错字很多，措辞也很奇怪。大概有点像 Mr. Saturn，但更接近网络聊天语言。除了 Bob 之外，Temmie 应该基本都是女孩。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34176671,
+          0.30969286,
+          0.90465259,
+          0.36303571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0172-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34176671,
+          0.30969286,
+          0.90465259,
+          0.36303571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, Temminese makes Temmies sounds hyper-energetic, excitable, upbeat, and positive. These qualities, combined with their butchering of the English language, make the Temmies' dialogue funny, endearing, and quotable.",
+        "raw": "In short, Temminese makes Temmies sounds hyper-energetic, excitable,\nupbeat, and positive. These qualities, combined with their butchering of the\nEnglish language, make the Temmies' dialogue funny, endearing, and quotable.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2978652,
+          0.37375,
+          0.90131714,
+          0.42201429
+        ],
+        "mask_bbox": [
+          0.29530496,
+          0.37303571,
+          0.90669262,
+          0.42308571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "Temmie 语让这些角色显得精力过剩、容易兴奋、乐观积极。再加上它们对英语的胡乱糟蹋，台词便既好笑、惹人喜欢，又让人忍不住引用。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2976255,
+          0.37232143,
+          0.90465259,
+          0.42558571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0172-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.2976255,
+          0.37232143,
+          0.90465259,
+          0.42558571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This unique butchery of the English language would be lost in a straightforward translation into Japanese. But because Temmies are so memorable and strange, the localization team spent weeks on creating a solid, Japanese equivalent of English Temminese. The resulting Japanese speech style included:",
+        "raw": "This unique butchery of the English language would be lost in a\nstraightforward translation into Japanese. But because Temmies are so\nmemorable and strange, the localization team spent weeks on creating a solid,\nJapanese equivalent of English Temminese. The resulting Japanese speech\nstyle included:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.297345,
+          0.43792143,
+          0.89663526,
+          0.52215
+        ],
+        "mask_bbox": [
+          0.29530496,
+          0.43720714,
+          0.90669262,
+          0.52322143
+        ],
+        "line_ids": [
+          31,
+          34,
+          36,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "这种糟蹋英语的独特方式，直接翻译成日语就会消失。但 Temmie 们实在古怪而令人难忘，本地化团队为此花了好几周，打磨出与英语 Temmie 语相当的日语风格，包括：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2976255,
+          0.43649286,
+          0.90465259,
+          0.52572143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0172-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.2976255,
+          0.43649286,
+          0.90465259,
+          0.52572143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b007",
+      "kind": "aside",
+      "source": {
+        "text": "In EarthBound, beings known as \"Mr. Saturn\" speak strangely and with a weird font",
+        "raw": "In EarthBound, beings\nknown as \"Mr. Saturn\"\nspeak strangely and\nwith a weird font",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13263274,
+          0.43847143,
+          0.27381322,
+          0.49543571
+        ],
+        "mask_bbox": [
+          0.13130672,
+          0.43775714,
+          0.27513924,
+          0.49650714
+        ],
+        "line_ids": [
+          32,
+          33,
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "EarthBound 中，名为 Mr. Saturn 的生物说话很奇怪，字体也很奇怪。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11730189,
+          0.43704286,
+          0.27381322,
+          0.49900714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11730189,
+          0.43704286,
+          0.27381322,
+          0.49900714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0172-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Having Temmies use hyper, cute, teenage girl-like speech styles Having Temmies make amusing and bizarre word choices Breaking Japanese grammar non-stop Misspelling things in amusing and surprising ways Unexpectedly switching between the hiragana and katakana writing systems Using hiragana and katakana in ways that no normal person would use them Using hiragana and katakana in ways that are potentially unpronounceable Mixing half-width Japanese characters with full-width Japanese characters",
+        "raw": "Having Temmies use hyper, cute, teenage girl-like speech styles\nHaving Temmies make amusing and bizarre word choices\nBreaking Japanese grammar non-stop\nMisspelling things in amusing and surprising ways\nUnexpectedly switching between the hiragana and katakana writing\nsystems\nUsing hiragana and katakana in ways that no normal person would use them\nUsing hiragana and katakana in ways that are potentially\nunpronounceable\nMixing half-width Japanese characters with full-width Japanese\ncharacters",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34301113,
+          0.53805714,
+          0.90792684,
+          0.79634286
+        ],
+        "mask_bbox": [
+          0.30598454,
+          0.53734286,
+          0.90925287,
+          0.79741429
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "• 使用亢奋、可爱、少女式的语气。\n• 选择好笑而古怪的词。\n• 不断破坏日语语法。\n• 把字写得出人意料地好笑。\n• 出其不意地切换平假名与片假名。\n• 以正常人不会采用的方式使用平假名与片假名。\n• 把平假名与片假名组合成可能根本念不出来的写法。\n• 混用半角和全角日文字符。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34301113,
+          0.53662857,
+          0.90792684,
+          0.79991429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0172-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.34301113,
+          0.53662857,
+          0.90792684,
+          0.79991429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0172-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "By incorporating these language quirks into the Temmies' dialogue, the localization team ensured that Temmies sound hyper, cute, upbeat, earnest, and unique in Japanese, while also sounding weird, goofy, slightly annoying, and unintelligent. In short, Temmies are as memorable in the Japanese version of Undertale as they are in the English release.",
+        "raw": "By incorporating these language quirks into the Temmies' dialogue, the\nlocalization team ensured that Temmies sound hyper, cute, upbeat, earnest,\nand unique in Japanese, while also sounding weird, goofy, slightly annoying,\nand unintelligent. In short, Temmies are as memorable in the Japanese version\nof Undertale as they are in the English release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29982364,
+          0.81159286,
+          0.90465259,
+          0.89682857
+        ],
+        "mask_bbox": [
+          0.29530496,
+          0.81087857,
+          0.90669262,
+          0.8979
+        ],
+        "line_ids": [
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "把这些语言怪癖融入台词后，团队让日语 Temmie 们既亢奋、可爱、乐观、认真、独特，也古怪、傻气、有点烦人，还不太聪明。结果是：在 Undertale 日语版里，Temmie 们和英语版一样令人难忘。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 67,
+            "end": 76,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2976255,
+          0.81016429,
+          0.90465259,
+          0.9004
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0172-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.2976255,
+          0.81016429,
+          0.90465259,
+          0.9004
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "13dde80eea14178e7973aea7c89f610abaaaa8994ae461aeefa5c1bc3d4f3bf0"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          7,
+          8,
+          9,
+          10,
+          12,
+          13,
+          21,
+          23,
+          25,
+          26,
+          56
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.78,
+      886.9
+    ],
+    "text_runs": [
+      {
+        "id": "p0172-b003",
+        "blocks": [
+          "p0172-b003",
+          "p0172-b004",
+          "p0172-b005",
+          "p0172-b006",
+          "p0172-b008",
+          "p0172-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

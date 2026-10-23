@@ -1,0 +1,714 @@
+{
+  "schema_version": 3,
+  "pdf_page": 118,
+  "printed_page": "118",
+  "title": "兄弟姐妹的长幼",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.187350+00:00",
+  "reference_size": [
+    979.905756,
+    1400
+  ],
+  "physical_size_pt": [
+    499.08,
+    713.04
+  ],
+  "image_url": "/assets/p0118.jpg",
+  "image_sha256": "7d53a54b0f14096dbf8aa8328d2c61c4568acf627ae5e7bda4b3201cdbb11a07",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0118/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0118-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Sibling Matters",
+        "raw": "Sibling Matters",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29218116,
+          0.06381429,
+          0.4525027,
+          0.07797857
+        ],
+        "mask_bbox": [
+          0.2908545,
+          0.0631,
+          0.45382936,
+          0.07905
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "兄弟姐妹的长幼",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.05514286,
+          0.90502581,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.05514286,
+          0.90502581,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0118-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus refers to Sans as his 兄ちゃん (nīchan, \"big brother\") in Japanese.",
+        "raw": "Papyrus refers to •\nSans as his 5(,!; 'Pfu\n(nlchan, \"big brother\")\nin Japanese",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.1227465,
+          0.09366429,
+          0.28076169,
+          0.15067143
+        ],
+        "mask_bbox": [
+          0.12141984,
+          0.09295,
+          0.28208835,
+          0.15174286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "日语中，Papyrus 称 Sans 为“兄ちゃん”（nīchan，哥哥）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11735822,
+          0.09223571,
+          0.28076169,
+          0.15424286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4510428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11735822,
+          0.09223571,
+          0.28076169,
+          0.15424286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans and Papyrus are brothers, but which is the older brother and which is the younger brother? The English script leaves this unclear - they're simply brothers. What's more, Toby had intended for the brothers' relationship to remain unclear.",
+        "raw": "Sans and Papyrus are brothers, but which is the older brother and which is\nthe younger brother? The English script leaves this unclear - they're simply\nbrothers. What's more, Toby had intended for the brothers' relationship to\nremain unclear.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29301797,
+          0.25714286,
+          0.87641081,
+          0.32381429
+        ],
+        "mask_bbox": [
+          0.29097696,
+          0.25642857,
+          0.90706682,
+          0.32488571
+        ],
+        "line_ids": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Sans 和 Papyrus 是兄弟，但谁是哥哥、谁是弟弟？英文剧本没有说清，只知道他们是兄弟。而且 Toby 本来就打算让他们的长幼关系保持模糊。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.25571429,
+          0.90502581,
+          0.32738571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4521428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.25571429,
+          0.90502581,
+          0.32738571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, the brothers' uncertain relationship presented a major translation problem: there are words for \"younger brother\" and \"older brother\" in Japanese, but not for \"brother\" in general. Rather than make a blind guess, the translator consulted with Toby for details. Thus, through the translation process, it was definitively revealed that Sans is the older brother and Papyrus is the younger brother.",
+        "raw": "Unfortunately, the brothers' uncertain relationship presented a major\ntranslation problem: there are words for \"younger brother\" and \"older brother\"\nin Japanese, but not for \"brother\" in general. Rather than make a blind guess,\nthe translator consulted with Toby for details. Thus, through the translation\nprocess, it was definitively revealed that Sans is the older brother and Papyrus\nis the younger brother.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29332413,
+          0.33857857,
+          0.90475027,
+          0.44162143
+        ],
+        "mask_bbox": [
+          0.29097696,
+          0.33786429,
+          0.90706682,
+          0.44269286
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "可惜，这种模糊关系造成了一个很大的翻译难题：日语有“弟弟”和“哥哥”的说法，却没有泛指单个“brother”的词。译者没有盲猜，而是向 Toby 询问详情。于是，通过翻译过程，Sans 是哥哥、Papyrus 是弟弟这件事才被明确揭晓。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.33715,
+          0.90502581,
+          0.44519286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4521428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0118-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.33715,
+          0.90502581,
+          0.44519286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b005",
+      "kind": "aside",
+      "source": {
+        "text": "The English script simply says \"sister\" here, while the Japanese script uses the word ねえさん (nēsan, \"older sister\").",
+        "raw": "The English script •\nsimply says \"sister\"\nhere, while the\nJapanese script uses the\nword tJ.;{_\n(nesan,\n~A,\n\"older sister\")",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.11675613,
+          0.45818571,
+          0.28317009,
+          0.54548571
+        ],
+        "mask_bbox": [
+          0.11542947,
+          0.45747143,
+          0.28449675,
+          0.54655714
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "这里英语只说“sister”（姐妹），日语则用“ねえさん”（nēsan，姐姐）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11675613,
+          0.45675714,
+          0.28317009,
+          0.54905714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11675613,
+          0.45675714,
+          0.28317009,
+          0.54905714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This same relationship issue appeared elsewhere during Underta/e's Japanese localization. For example, a store owner mentions that she has a sister who manages the inn. In English, these two are simply referred to as sisters, but the Japanese language only has words for \"younger sister\" or \"older sister\".",
+        "raw": "This same relationship issue appeared elsewhere during Underta/e's Japanese\nlocalization. For example, a store owner mentions that she has a sister who\nmanages the inn. In English, these two are simply referred to as sisters, but the\nJapanese language only has words for \"younger sister\" or \"older sister\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29414053,
+          0.62131429,
+          0.90026005,
+          0.68967143
+        ],
+        "mask_bbox": [
+          0.29097696,
+          0.6206,
+          0.90706682,
+          0.69074286
+        ],
+        "line_ids": [
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的日语本地化中，其他地方也遇到了相同的亲属关系问题。例如，一位店主提到，她的姐妹经营着旅馆。英语只说明两人是姐妹，但日语需要区分“妹妹”或“姐姐”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.61988571,
+          0.90502581,
+          0.69324286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.61988571,
+          0.90502581,
+          0.69324286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Again, the translator consulted with Toby to determine their relationship. Toby had never considered how these sisters relate age-wise, so he arbitrarily decided that the store owner is the younger sister and the innkeeper is the older sister.",
+        "raw": "Again, the translator consulted with Toby to determine their relationship. Toby\nhad never considered how these sisters relate age-wise, so he arbitrarily decided\nthat the store owner is the younger sister and the innkeeper is the older sister.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29330372,
+          0.70377857,
+          0.89932118,
+          0.75227143
+        ],
+        "mask_bbox": [
+          0.29097696,
+          0.70306429,
+          0.90706682,
+          0.75334286
+        ],
+        "line_ids": [
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "译者再次询问 Toby，以确定她们的关系。Toby 从未想过这对姐妹谁大谁小，于是随意决定店主是妹妹，旅馆老板是姐姐。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.70235,
+          0.90502581,
+          0.75584286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0118-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.70235,
+          0.90502581,
+          0.75584286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, there are parts of the Japanese script that provide small details not present in the English script - not because anything was intentionally changed, but simply because of how the two languages work.",
+        "raw": "In short, there are parts of the Japanese script that provide small details not\npresent in the English script - not because anything was intentionally changed,\nbut simply because of how the two languages work.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29562027,
+          0.76873571,
+          0.90502581,
+          0.81758571
+        ],
+        "mask_bbox": [
+          0.29097696,
+          0.76802143,
+          0.90706682,
+          0.81865714
+        ],
+        "line_ids": [
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "因此，日文剧本有些地方提供了英文剧本没有的小细节。这不是有人刻意改动了内容，只是两种语言的表达方式不同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29332413,
+          0.76730714,
+          0.90502581,
+          0.82115714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0118-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29332413,
+          0.76730714,
+          0.90502581,
+          0.82115714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0118-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Sometimes things get lost in translation, but sometimes things become clear in translation too, as Undertale's Japanese localization demonstrates here.",
+        "raw": "Sometimes things get lost in translation, but sometimes things become clear\nin translation too, as Undertale's Japanese localization demonstrates here.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31516296,
+          0.84457143,
+          0.88892222,
+          0.87232857
+        ],
+        "mask_bbox": [
+          0.3138363,
+          0.84385714,
+          0.89024888,
+          0.8734
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "翻译有时会丢失信息，但有时也会让事情变得清楚，Undertale 的日语本地化在这里就展现了后一种情况。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31533645,
+          0.84071429,
+          0.90518909,
+          0.87928571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.88,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31533645,
+          0.84071429,
+          0.90518909,
+          0.87928571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "da73bbc373259142d834563dd77e43596b2cf0941b8cf34b53b5459f7cb18a3d"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          6,
+          7,
+          8,
+          9,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          53
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.43,
+      886.84
+    ],
+    "text_runs": [
+      {
+        "id": "p0118-b003",
+        "blocks": [
+          "p0118-b003",
+          "p0118-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 633.0
+      },
+      {
+        "id": "p0118-b006",
+        "blocks": [
+          "p0118-b006",
+          "p0118-b007",
+          "p0118-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 1158.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

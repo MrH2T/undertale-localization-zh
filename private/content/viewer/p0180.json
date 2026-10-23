@@ -1,0 +1,908 @@
+{
+  "schema_version": 3,
+  "pdf_page": 180,
+  "printed_page": "180",
+  "title": "方便食品与不祥的风",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.252765+00:00",
+  "reference_size": [
+    978.771515,
+    1400
+  ],
+  "physical_size_pt": [
+    497.16,
+    711.12
+  ],
+  "image_url": "/assets/p0180.jpg",
+  "image_sha256": "23d5b14d7a33dfb6903be6a40f7fe88247d7e84deab6e346554d433fa940e533",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0180/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0180-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Dinner for Two",
+        "raw": "Dinner for Two",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29789383,
+          0.0642,
+          0.45348684,
+          0.07727857
+        ],
+        "mask_bbox": [
+          0.29656564,
+          0.06348571,
+          0.45481503,
+          0.07835
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "双人晚餐",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29704072,
+          0.05527857,
+          0.91015113,
+          0.07942143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07942142714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29704072,
+          0.05527857,
+          0.91015113,
+          0.07942143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Note that these screenshots are mock ups and not real",
+        "raw": "Note that these\nscreenshots are mock\nups and not real",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13554747,
+          0.09298571,
+          0.26914351,
+          0.13553571
+        ],
+        "mask_bbox": [
+          0.13421927,
+          0.09227143,
+          0.2704717,
+          0.13660714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "这些画面是示意图，并非真实游戏截图。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749422,
+          0.09155714,
+          0.2714985,
+          0.13910714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.15214285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749422,
+          0.09155714,
+          0.2714985,
+          0.13910714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translation spreadsheet includes an odd line related to the Undyne battle that simply says \"Hamburger Helpers\". Toby noted that this line seems to be unused in the actual game. It's likely an old error message he used while developing Underta/e. Still, the translator localized it just to be safe.",
+        "raw": "The translation spreadsheet includes an odd line related to the Undyne battle\nthat simply says \"Hamburger Helpers\". Toby noted that this line seems to\nbe unused in the actual game. It's likely an old error message he used while\ndeveloping Underta/e. Still, the translator localized it just to be safe.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29672911,
+          0.23970714,
+          0.89360999,
+          0.30574286
+        ],
+        "mask_bbox": [
+          0.29468573,
+          0.23899286,
+          0.91219451,
+          0.30681429
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "翻译表里有一句与 Undyne 战斗有关的怪话，只有“Hamburger Helpers”。Toby 注明，这句话似乎没有在实际游戏中使用，可能是开发 Undertale 时遗留的错误提示。不过，为保险起见，译者还是做了本地化。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 76,
+            "end": 85,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29704072,
+          0.23827857,
+          0.91015113,
+          0.30931429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40366428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29704072,
+          0.23827857,
+          0.91015113,
+          0.30931429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Hamburger Helper is a popular meal preparation kit with a weird hand for a mascot",
+        "raw": "Hamburger Helper\nis a popular meal\npreparation kit with\na weird hand for a\nmascot",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1454885,
+          0.31269286,
+          0.2711971,
+          0.38663571
+        ],
+        "mask_bbox": [
+          0.1441603,
+          0.31197857,
+          0.2725253,
+          0.38770714
+        ],
+        "line_ids": [
+          10,
+          12,
+          14,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Hamburger Helper 是一种很受欢迎的方便料理包，吉祥物是一只奇怪的手。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749422,
+          0.31126429,
+          0.2714985,
+          0.39020714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.43347857285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749422,
+          0.31126429,
+          0.2714985,
+          0.39020714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Hamburger Helper is an American packaged food product meant to simplify the meal-cooking process - the purchaser only needs to add hamburger meat before cooking. Because Hamburger Helper isn't widely known in Japan, however, the Undertale translator changed this line to say \"Instant Food\" instead.",
+        "raw": "Hamburger Helper is an American packaged food product meant to simplify the\nmeal-cooking process - the purchaser only needs to add hamburger meat before\ncooking. Because Hamburger Helper isn't widely known in Japan, however, the\nUndertale translator changed this line to say \"Instant Food\" instead.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29729104,
+          0.32171429,
+          0.90413338,
+          0.38910714
+        ],
+        "mask_bbox": [
+          0.29468573,
+          0.321,
+          0.91219451,
+          0.39017857
+        ],
+        "line_ids": [
+          11,
+          13,
+          15,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Hamburger Helper 是美国的包装食品，用来简化做饭过程：只需加入汉堡肉末，就能下锅烹饪。但这个品牌在日本并不知名，因此 Undertale 译者把这句改成了“方便食品”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 67,
+            "end": 76,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29704072,
+          0.32028571,
+          0.91015113,
+          0.39267857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.40366428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0180-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29704072,
+          0.32028571,
+          0.91015113,
+          0.39267857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Ominous Wind",
+        "raw": "Ominous Wind",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29758733,
+          0.41080714,
+          0.4500131,
+          0.42388571
+        ],
+        "mask_bbox": [
+          0.29625913,
+          0.41009286,
+          0.45134129,
+          0.42495714
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "不祥的风",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29704072,
+          0.40188571,
+          0.91015113,
+          0.42602857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4260285671428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29704072,
+          0.40188571,
+          0.91015113,
+          0.42602857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b007",
+      "kind": "aside",
+      "source": {
+        "text": "The villainous Magus can be befriended in Chrono Trigger, just as the antagonistic Undyne can be befriended in Underta/e - maybe this is partly what inspired Toby to quote Magus here",
+        "raw": "The villainous Magus\ncan be befriended in\nChrono Trigger, just\nas the antagonistic\nUndyne can be\nbefriended in Underta/e\n- maybe this is partly\nwhat inspired Toby to\nquote Magus here",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12279679,
+          0.44062143,
+          0.27214727,
+          0.57630714
+        ],
+        "mask_bbox": [
+          0.12146859,
+          0.43990714,
+          0.27347547,
+          0.57737857
+        ],
+        "line_ids": [
+          20,
+          27,
+          30,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "在 Chrono Trigger 中，玩家可以与反派 Magus 结为同伴，就像在 Undertale 中可以与敌对的 Undyne 交朋友。也许这也是 Toby 在此引用 Magus 台词的原因之一。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 42,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749422,
+          0.43919286,
+          0.27214727,
+          0.57987857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6723142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749422,
+          0.43919286,
+          0.27214727,
+          0.57987857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The phrase \"the wind is howling\" appears before, during, and after the battle with Undyne. Toby included this short, ominous message as a reference to the classic Japanese RPG Chrono Trigger. In the game, a villain named Magus shares two memorable lines: \"the black wind begins to blow\" and \"the black wind howls\".",
+        "raw": "The phrase \"the wind is howling\" appears before, during, and after the battle with\nUndyne. Toby included this short, ominous message as a reference to the classic\nJapanese RPG Chrono Trigger. In the game, a villain named Magus shares two\nmemorable lines: \"the black wind begins to blow\" and \"the black wind howls\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29679041,
+          0.59576429,
+          0.91015113,
+          0.66315
+        ],
+        "mask_bbox": [
+          0.29468573,
+          0.59505,
+          0.91219451,
+          0.66422143
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "与 Undyne 战斗前、战斗中以及战斗后，都会出现“风在呼啸”。Toby 加入这句简短而不祥的提示，是在致敬经典日式 RPG Chrono Trigger。该作反派 Magus 有两句令人难忘的台词：“黑风开始吹起”与“黑风在呼啸”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 64,
+            "end": 78,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29672911,
+          0.58928571,
+          0.91032482,
+          0.67214286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6735714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29672911,
+          0.58928571,
+          0.91032482,
+          0.67214286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b009",
+      "kind": "aside",
+      "source": {
+        "text": "Chrono Trigger features memorable lines about howling black wind",
+        "raw": "Chrono Trigger\nfeatures memorable\nlines about howling\nblack wind",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14526373,
+          0.67945714,
+          0.27202467,
+          0.73662143
+        ],
+        "mask_bbox": [
+          0.14393553,
+          0.67874286,
+          0.27335287,
+          0.73769286
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "Chrono Trigger 中有关黑风呼啸的台词令人难忘。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749422,
+          0.67802857,
+          0.27202467,
+          0.74019286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749422,
+          0.67802857,
+          0.27202467,
+          0.74019286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Chrono Trigger (Japan)",
+        "raw": "Chrono Trigger (Japan)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.37422421,
+          0.82592857,
+          0.51476774,
+          0.8369
+        ],
+        "mask_bbox": [
+          0.37289602,
+          0.82521429,
+          0.51609593,
+          0.83797143
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "Chrono Trigger（日版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.37422421,
+          0.8245,
+          0.58236268,
+          0.8425
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8461428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.37422421,
+          0.8245,
+          0.58236268,
+          0.8425
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Chrono Trigger (North America)",
+        "raw": "Chrono Trigger (North America)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.66730589,
+          0.82626429,
+          0.86334756,
+          0.83723571
+        ],
+        "mask_bbox": [
+          0.6659777,
+          0.82555,
+          0.86467576,
+          0.83830714
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "Chrono Trigger（北美版）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62731699,
+          0.82483571,
+          0.90521637,
+          0.84283571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8461428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62731699,
+          0.82483571,
+          0.90521637,
+          0.84283571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0180-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because Magus' lines are slightly different in Japanese and English, the Undertale translator replaced Toby's indirect reference with a direct quote to keep the reference recognizable for Japanese players.",
+        "raw": "Because Magus' lines are slightly different in Japanese and English, the\nUndertale translator replaced Toby's indirect reference with a direct quote to\nkeep the reference recognizable for Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29874184,
+          0.85328571,
+          0.8921081,
+          0.90211429
+        ],
+        "mask_bbox": [
+          0.29468573,
+          0.85257143,
+          0.91219451,
+          0.90318571
+        ],
+        "line_ids": [
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "Magus 的台词在日文与英文中略有不同，因此 Undertale 的译者把 Toby 的间接致敬换成了直接引用，让日本玩家也能认出出处。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29704072,
+          0.85185714,
+          0.91015113,
+          0.90568571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29704072,
+          0.85185714,
+          0.91015113,
+          0.90568571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4d6ef08314e0f25bfe76098684857b2932ace7eae8396010589aa4a9fe80112c"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          28,
+          29,
+          31,
+          51
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.74,
+      890.83
+    ],
+    "text_runs": [
+      {
+        "id": "p0180-b003",
+        "blocks": [
+          "p0180-b003",
+          "p0180-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 565.13
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

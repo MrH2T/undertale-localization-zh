@@ -1,0 +1,756 @@
+{
+  "schema_version": 3,
+  "pdf_page": 200,
+  "printed_page": "200",
+  "title": "一杯水引发的灾难",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    981.394564,
+    1400
+  ],
+  "physical_size_pt": [
+    498.24,
+    710.76
+  ],
+  "image_url": "/assets/p0200.jpg",
+  "image_sha256": "82c9605767675cebe49ce2c97a8a386be27ceb1a6b27a1074e6195761cffffc9",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0200/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0200-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Water Matters",
+        "raw": "Water Matters",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29044383,
+          0.06603571,
+          0.44121907,
+          0.0794
+        ],
+        "mask_bbox": [
+          0.28911919,
+          0.06532143,
+          0.44254372,
+          0.08047143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "一杯水引发的灾难",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203341,
+          0.05585714,
+          0.90241992,
+          0.08
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29203341,
+          0.05585714,
+          0.90241992,
+          0.08
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 116
+    },
+    {
+      "id": "p0200-b002",
+      "kind": "aside",
+      "source": {
+        "text": "As we've seen ~ several times before, it's unclear if this localized reference is as recognizable in Japanese as it is in English",
+        "raw": "As we've seen ~\nseveral times before,\nit's unclear if this\nlocalized reference\nis as recognizable in\nJapanese as it is in\nEnglish",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13812997,
+          0.09550714,
+          0.27988743,
+          0.19905714
+        ],
+        "mask_bbox": [
+          0.13680532,
+          0.09479286,
+          0.28121207,
+          0.20012857
+        ],
+        "line_ids": [
+          2,
+          9,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "像前面几次一样，我们很难判断，这个本地化后的引用在日语里是否与英语一样容易认出来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11718019,
+          0.09407857,
+          0.27988743,
+          0.20262857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4341642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11718019,
+          0.09407857,
+          0.27988743,
+          0.20262857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton forces the main character to participate in a live news broadcast. If the player chooses to report on a nearby a glass of water, Metta ton will shout:",
+        "raw": "Mettaton forces the main character to participate in a live news broadcast. If\nthe player chooses to report on a nearby a glass of water, Metta ton will shout:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29134052,
+          0.24972143,
+          0.88637132,
+          0.28125
+        ],
+        "mask_bbox": [
+          0.28925165,
+          0.24900714,
+          0.90445783,
+          0.28232143
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 强迫主角参加新闻直播。如果玩家选择报道附近一杯水，他就会大喊：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203341,
+          0.24829286,
+          0.90241992,
+          0.28482143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43642857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29203341,
+          0.24829286,
+          0.90241992,
+          0.28482143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b004",
+      "kind": "quote",
+      "source": {
+        "text": "WAIT A SECOND. THAT'S NOT A GLASS OF WATER!!! THAT'S. .. A BOMB!!! OH NO!!! THIS NEWS REPORT. .. IS TURNING INTO A DISASTER REPORT!!!",
+        "raw": "WAIT A SECOND. THAT'S NOT A GLASS OF WATER!!!\nTHAT'S. .. A BOMB!!! OH NO!!! THIS NEWS REPORT. ..\nIS TURNING INTO A DISASTER REPORT!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33544103,
+          0.29665714,
+          0.77022028,
+          0.34495714
+        ],
+        "mask_bbox": [
+          0.33411638,
+          0.29594286,
+          0.77154493,
+          0.34602857
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "等一下。那不是一杯水！！！\n那是……炸弹！！！噢，不！！！这场新闻报道……\n要变成灾难报道（DISASTER REPORT）了！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33544103,
+          0.29522857,
+          0.90241992,
+          0.34852857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.43642857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0200-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33544103,
+          0.29522857,
+          0.90241992,
+          0.34852857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this line includes a reference to Disaster Report, a PlayStation 2 game from 2003. This led to an unexpected issue, though - Disaster Report originally went by a very different name in Japan: Zettai Zetsumei Toshi (\"City of Certain Doom\").",
+        "raw": "Toby noted that this line includes a reference to Disaster Report, a PlayStation\n2 game from 2003. This led to an unexpected issue, though - Disaster Report\noriginally went by a very different name in Japan: Zettai Zetsumei Toshi (\"City\nof Certain Doom\").",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29128957,
+          0.36071429,
+          0.89332062,
+          0.42644286
+        ],
+        "mask_bbox": [
+          0.28925165,
+          0.36,
+          0.90445783,
+          0.42751429
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这里引用了 2003 年的 PlayStation 2 游戏《Disaster Report》。但问题意外出现了：它原本的日文名字完全不同，叫 Zettai Zetsumei Toshi（绝体绝命都市，意即“必死绝境中的城市”）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 39,
+            "end": 54,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 80,
+            "end": 101,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203341,
+          0.35928571,
+          0.90241992,
+          0.43001429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43642857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0200-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29203341,
+          0.35928571,
+          0.90241992,
+          0.43001429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Disaster Report went by a different name in Japan - even the game's box was quite different",
+        "raw": "Disaster Report went\nby a different name\nin Japan - even the\ngame's box was quite\ndifferent",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13090555,
+          0.44130714,
+          0.26531633,
+          0.51579286
+        ],
+        "mask_bbox": [
+          0.12958091,
+          0.44059286,
+          0.26664097,
+          0.51686429
+        ],
+        "line_ids": [
+          26,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "《Disaster Report》在日本的名字不同，连包装盒都差别很大。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11718019,
+          0.43987857,
+          0.26655946,
+          0.51936429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11718019,
+          0.43987857,
+          0.26655946,
+          0.51936429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "To keep Toby's Disaster Report reference intact, the translator rephrased Mettaton's line:",
+        "raw": "To keep Toby's Disaster Report reference intact, the translator rephrased\nMettaton's line:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2927263,
+          0.74497857,
+          0.85182864,
+          0.77592857
+        ],
+        "mask_bbox": [
+          0.28925165,
+          0.74426429,
+          0.90445783,
+          0.777
+        ],
+        "line_ids": [
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "为了保留 Toby 对《Disaster Report》的引用，译者改写了 Mettaton 的台词：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203341,
+          0.74355,
+          0.90241992,
+          0.7795
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7845357128571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29203341,
+          0.74355,
+          0.90241992,
+          0.7795
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b008",
+      "kind": "quote",
+      "source": {
+        "text": "WAIT. .. THAT'S NOT A GLASS OF WATER! IT'SA BOMB! OH, NO! WHAT WAS SUPPOSED TO BE A NEWS REPORT. .. HAS BECOME A REPORT OF CERTAIN DOOM!",
+        "raw": "WAIT. .. THAT'S NOT A GLASS OF WATER! IT'SA BOMB!\nOH, NO! WHAT WAS SUPPOSED TO BE A NEWS REPORT. ..\nHAS BECOME A REPORT OF CERTAIN DOOM!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.36448133,
+          0.79167857,
+          0.83919356,
+          0.83997857
+        ],
+        "mask_bbox": [
+          0.36315669,
+          0.79096429,
+          0.84051821,
+          0.84105
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "等等……那不是一杯水！是炸弹！\n噢，不！本来是新闻报道……\n结果变成绝体绝命的报道了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.36448133,
+          0.79025,
+          0.83919356,
+          0.84355
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8486000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.36448133,
+          0.79025,
+          0.83919356,
+          0.84355
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0200-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the original English script, Toby's game reference is unobtrusive enough to sound like ordinary text to players unfamiliar with Disaster Report. The translator recognized this fact and phrased the Japanese line to work similarly.",
+        "raw": "In the original English script, Toby's game reference is unobtrusive enough\nto sound like ordinary text to players unfamiliar with Disaster Report. The\ntranslator recognized this fact and phrased the Japanese line to work similarly.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2932154,
+          0.85574286,
+          0.90241992,
+          0.90425714
+        ],
+        "mask_bbox": [
+          0.28925165,
+          0.85502857,
+          0.90445783,
+          0.90532857
+        ],
+        "line_ids": [
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "原英文里的游戏引用很不显眼，不熟悉《Disaster Report》的玩家只会把它当成普通台词。译者注意到了这一点，也让日语的措辞达到类似效果。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203341,
+          0.85431429,
+          0.90241992,
+          0.90782857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29203341,
+          0.85431429,
+          0.90241992,
+          0.90782857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "46f2fde286a68c3a7307cf65c41bcd6409236acb3c90f9a1d444cb7f6d785daa"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.6,
+      885.63
+    ],
+    "text_runs": [
+      {
+        "id": "p0200-b003",
+        "blocks": [
+          "p0200-b003",
+          "p0200-b004",
+          "p0200-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 611.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

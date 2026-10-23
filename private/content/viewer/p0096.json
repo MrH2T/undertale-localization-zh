@@ -1,0 +1,568 @@
+{
+  "schema_version": 3,
+  "pdf_page": 96,
+  "printed_page": "96",
+  "title": "最没自信的幽灵",
+  "subtitle": "Ruins · 私人学习译稿",
+  "revision": 7,
+  "updated_at": "2026-10-22T16:31:49.161786+00:00",
+  "reference_size": [
+    979.3615943252829,
+    1400
+  ],
+  "physical_size_pt": [
+    497.04,
+    710.52
+  ],
+  "image_url": "/assets/p0096.jpg",
+  "image_sha256": "6e317994998c467b52ad143dda224f142f322dfdf93071ec4368dce939a25cba",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0096/page.json",
+  "blocks": [
+    {
+      "id": "p0096-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Ghost with the Least",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2899848,
+          0.0557143,
+          0.9128396,
+          0.075
+        ],
+        "mask_bbox": [
+          0.2899848,
+          0.0557143,
+          0.9128396,
+          0.075
+        ]
+      },
+      "translation": {
+        "text": "最没自信的幽灵",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.293048,
+          0.0514286,
+          0.9097763,
+          0.07857144285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.293048,
+          0.0514286,
+          0.9097763,
+          0.07857144285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Napstablook’s association with “Napster” is why the character owns a computer, uses the Underground’s version of the Internet, and listens to music",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1204867,
+          0.0857143,
+          0.2726266,
+          0.2114286
+        ],
+        "mask_bbox": [
+          0.1204867,
+          0.0857143,
+          0.2726266,
+          0.2114286
+        ]
+      },
+      "translation": {
+        "text": "Napstablook 与 Napster 的关联，正是这个角色拥有电脑、使用地下世界版互联网并且爱听音乐的原因。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.111297,
+          0.0864286,
+          0.2705844,
+          0.2242857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.111297,
+          0.0864286,
+          0.2705844,
+          0.2242857
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the ruins is a sleeping ghost named “Napstablook”. As Toby explains it, this name was originally randomly generated and had no actual inherent meaning:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2899848,
+          0.2314286,
+          0.9138606,
+          0.2678571
+        ],
+        "mask_bbox": [
+          0.2899848,
+          0.2314286,
+          0.9138606,
+          0.2678571
+        ]
+      },
+      "translation": {
+        "text": "遗迹里有一个正在睡觉的幽灵，名叫 Napstablook。据 Toby 解释，这个名字原本是随机生成的，本身并没有实际含义：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2940691,
+          0.2292857,
+          0.9107974,
+          0.2735714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2940691,
+          0.2292857,
+          0.9107974,
+          0.2735714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Basically I used the name to come up with the character. So “blook” sounds like a ghost, then “nap” --> it sleeps, with zzz. After the demo, people noticed “napsta” sounded like Napster [a popular file-sharing service in the early 2000s], so I added the Napster joke as well. Then I explained all of this simultaneously to the translator.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3349121,
+          0.2771429,
+          0.9138606,
+          0.3692857
+        ],
+        "mask_bbox": [
+          0.3349121,
+          0.2771429,
+          0.9138606,
+          0.3692857
+        ]
+      },
+      "translation": {
+        "text": "基本上，我是根据名字来构思角色的。blook 听起来像个幽灵，而 nap（打盹）就意味着它会睡觉，还会发出 zzz。试玩版出来后，有人发现 napsta 听起来像 Napster［2000 年代初流行的文件分享服务］，所以我又加上了 Napster 的梗。之后，我把这些一股脑儿都解释给了译者。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 33,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 54,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 70,
+            "end": 76,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 82,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 90,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 117,
+            "end": 124,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3389963440711871,
+          0.2785714285714286,
+          0.9097763330344208,
+          0.375
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3389963440711871,
+          0.2785714285714286,
+          0.9097763330344208,
+          0.375
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b005",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Napstablook is often depicted wearing headphones like in the Napster logo",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1174234,
+          0.3785714,
+          0.2736477,
+          0.4428571
+        ],
+        "mask_bbox": [
+          0.1174234,
+          0.3785714,
+          0.2736477,
+          0.4428571
+        ]
+      },
+      "translation": {
+        "text": "左：Napstablook 常被画成戴着耳机的样子，就像 Napster 标志那样。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.09700196592398427,
+          0.37857142857142856,
+          0.27058443126164033,
+          0.4592857142857143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1102759,
+          0.3785714,
+          0.2705844,
+          0.4592857
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b006",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Winny was the big file-sharing service in Japan for a while in the 2000s",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1215077,
+          0.4471429,
+          0.2746687,
+          0.5114286
+        ],
+        "mask_bbox": [
+          0.1215077,
+          0.4471429,
+          0.2746687,
+          0.5114286
+        ]
+      },
+      "translation": {
+        "text": "右：2000 年代，Winny 曾一度是日本主要的文件分享服务。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1102759,
+          0.4642857,
+          0.2705844,
+          0.5385714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1102759,
+          0.4642857,
+          0.2705844,
+          0.5385714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because Napstablook’s name contains an old Internet reference, the localizers considered giving the character a name with a similar Japanese reference. For this reason, early drafts of the Japanese script called Napstablook “Winnybohre”. “Winny” was a Japanese file-sharing service that was popular in the mid-2000s, and “bohre” is a play on the Japanese word bōrei, a type of ghost.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2848795,
+          0.5521429,
+          0.9148817,
+          0.645
+        ],
+        "mask_bbox": [
+          0.2848795,
+          0.5521429,
+          0.9148817,
+          0.645
+        ]
+      },
+      "translation": {
+        "text": "由于 Napstablook 的名字包含一个早期互联网的典故，本地化团队考虑过换成一个含有类似日本典故的名字。因此，早期日文稿把 Napstablook 称作 Winnybohre。Winny 是 2000 年代中期在日本流行的文件分享服务，bohre 则是在日语 bōrei（亡灵，一类幽灵）上做的文字游戏。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 133,
+            "end": 138,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2950902,
+          0.5507143,
+          0.9107974,
+          0.6492857
+        ],
+        "font_size": 19,
+        "line_height": 1.4210526315789473,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2950902,
+          0.5507143,
+          0.9107974,
+          0.6492857
+        ],
+        "font_size": 19,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b008",
+      "kind": "aside",
+      "source": {
+        "text": "To Pikachu, or not to Pikachu? Whether it’s for memorability, consistency, or simplicity’s sake, there is some merit in leaving a meaningful name unlocalized for international audiences",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1184445,
+          0.6535714,
+          0.2746687,
+          0.7964286
+        ],
+        "mask_bbox": [
+          0.1184445,
+          0.6535714,
+          0.2746687,
+          0.7964286
+        ]
+      },
+      "translation": {
+        "text": "要不要像 Pikachu 那样保留原名？无论是为了好记、一致还是简洁，面向国际受众时，不将一个有含义的名字本地化，也自有它的好处。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.111297,
+          0.6535714,
+          0.2705844,
+          0.8042857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.111297,
+          0.6535714,
+          0.2705844,
+          0.8042857
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0096-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Initially, Toby wasn’t sure that “Winnybohre” suited the character. He understood the reasoning behind the choice and wasn’t against the idea of renaming Napstablook, so he waited to see if the name grew on him. It still felt off months later, so he reverted the name back to “Napstablook” before the Japanese release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.292027,
+          0.81,
+          0.9138606,
+          0.9021429
+        ],
+        "mask_bbox": [
+          0.292027,
+          0.81,
+          0.9138606,
+          0.9021429
+        ]
+      },
+      "translation": {
+        "text": "最初，Toby 不确定 Winnybohre 是否适合这个角色。他理解这样命名的理由，也不反对给 Napstablook 改名，于是决定等等，看自己会不会慢慢喜欢上这个名字。几个月后，他仍觉得不太对劲，便在日版发行前把名字改回了 Napstablook。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2961113,
+          0.8078571,
+          0.9107974,
+          0.9114286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2961113,
+          0.8078571,
+          0.9107974,
+          0.9114286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.944986+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 9
+    }
+  }
+}

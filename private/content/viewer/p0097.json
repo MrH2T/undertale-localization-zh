@@ -1,0 +1,787 @@
+{
+  "schema_version": 3,
+  "pdf_page": 97,
+  "printed_page": "97",
+  "title": "幽灵如何定义 · Napstablook 的说话方式",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 7,
+  "updated_at": "2026-10-22T16:48:26.249477+00:00",
+  "reference_size": [
+    978.7756474941136,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    713.52
+  ],
+  "image_url": "/assets/p0097.jpg",
+  "image_sha256": "0b87500bd0b3962dfb3c924d1cb67431646ed276c8996bcbb74eb46ab1975604",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0097/page.json",
+  "blocks": [
+    {
+      "id": "p0097-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Ghostly Definition",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0888866,
+          0.0607143,
+          0.7090491,
+          0.08
+        ],
+        "mask_bbox": [
+          0.0888866,
+          0.0607143,
+          0.7090491,
+          0.08
+        ]
+      },
+      "translation": {
+        "text": "幽灵如何定义",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0919516,
+          0.0564286,
+          0.7059841,
+          0.08357144285714287
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0919516,
+          0.0564286,
+          0.7059841,
+          0.08357144285714287
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Big game companies spend tons of money to make awesome, realistic-looking characters with spiffy designs and outfits… and then Toby comes along and makes a round rectangle with eyes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7264177,
+          0.0907143,
+          0.8960174,
+          0.2321429
+        ],
+        "mask_bbox": [
+          0.7264177,
+          0.0907143,
+          0.8960174,
+          0.2321429
+        ]
+      },
+      "translation": {
+        "text": "大游戏公司花大钱塑造炫酷逼真的角色，精心设计造型和服装……然后 Toby 来了，画了个长着眼睛的圆角矩形。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7315262,
+          0.0914286,
+          0.9011258,
+          0.2378571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7315262,
+          0.0914286,
+          0.9011258,
+          0.2378571
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Napstablook’s identity was also a concern for the localization staff. First, because the English script refers to Napstablook as “them” rather than “him” or “her”, the localization team kept Napstablook’s gender unstated and unclear as much as possible in the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0888866,
+          0.2442857,
+          0.7090491,
+          0.3178571
+        ],
+        "mask_bbox": [
+          0.0888866,
+          0.2442857,
+          0.7090491,
+          0.3178571
+        ]
+      },
+      "translation": {
+        "text": "本地化团队也很在意 Napstablook 的身份。首先，英文台词用 them（此处不指明性别），而不用 him（他）或 her（她），因此日文也尽量不说明或暗示其性别。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0919516,
+          0.2421429,
+          0.7059841,
+          0.3221429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0919516,
+          0.2421429,
+          0.7059841,
+          0.3221429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Secondly, Napstablook is referred to as a “ghost” in English, but there are many words for “ghost” in Japanese. Unfortunately, these words have their own unique nuances and definitions, none of which are a 100% match with the Western-style “sheet ghost”. As a result, Napstablook’s ghost classification changed throughout Undertale’s localization. These classifications included:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0878649,
+          0.3264286,
+          0.7090491,
+          0.4185714
+        ],
+        "mask_bbox": [
+          0.0878649,
+          0.3264286,
+          0.7090491,
+          0.4185714
+        ]
+      },
+      "translation": {
+        "text": "其次，英文称 Napstablook 为 ghost（幽灵），但日语中有许多表示“幽灵”的词。遗憾的是，这些词各有细微差别和定义，没有一个能与西方式的“床单幽灵”完全对应。因此，在 Undertale 的本地化过程中，对 Napstablook 的分类曾多次变更，考虑过的词包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 91,
+            "end": 100,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0919516,
+          0.3242857,
+          0.7059841,
+          0.4235714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0919516,
+          0.3242857,
+          0.7059841,
+          0.4235714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "yūrei – the ghost of a dead person with a grudge or lingering regrets",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1317973,
+          0.4271429,
+          0.7059841,
+          0.4457143
+        ],
+        "mask_bbox": [
+          0.1317973,
+          0.4271429,
+          0.7059841,
+          0.4457143
+        ]
+      },
+      "translation": {
+        "text": "yūrei——心怀怨恨或仍有遗憾的死者之魂",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1369057355922884,
+          0.4257142857142857,
+          0.704962369840888,
+          0.4442857142857143
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1369057355922884,
+          0.4257142857142857,
+          0.704962369840888,
+          0.4442857142857143
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0097-list1",
+        "index": 0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "bōrei – the ghost of a dead person that can’t rest in peace",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.132819,
+          0.4457143,
+          0.7059841,
+          0.4642857
+        ],
+        "mask_bbox": [
+          0.132819,
+          0.4457143,
+          0.7059841,
+          0.4642857
+        ]
+      },
+      "translation": {
+        "text": "bōrei——无法安息的死者之魂",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1369057355922884,
+          0.4442857142857143,
+          0.704962369840888,
+          0.46285714285714286
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1369057355922884,
+          0.4442857142857143,
+          0.704962369840888,
+          0.46285714285714286
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0097-list1",
+        "index": 1
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "obake – a ghost, monster, or supernatural creature that scares people",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.132819,
+          0.4642857,
+          0.7070057,
+          0.4828571
+        ],
+        "mask_bbox": [
+          0.132819,
+          0.4642857,
+          0.7070057,
+          0.4828571
+        ]
+      },
+      "translation": {
+        "text": "obake——会吓人的幽灵、怪物或超自然生物",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1369057355922884,
+          0.46285714285714286,
+          0.704962369840888,
+          0.48142857142857143
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1369057355922884,
+          0.46285714285714286,
+          0.704962369840888,
+          0.48142857142857143
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "list-item",
+        "group": "p0097-list1",
+        "index": 2
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "After stepping back and looking at the finished Japanese script as a whole, the localizers chose to classify Napstablook as an obake.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0868432,
+          0.4914286,
+          0.7090491,
+          0.5285714
+        ],
+        "mask_bbox": [
+          0.0868432,
+          0.4914286,
+          0.7090491,
+          0.5285714
+        ]
+      },
+      "translation": {
+        "text": "退后一步，通看完成后的日文稿，团队最终选择把 Napstablook 归为 obake。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.0919516,
+          0.4928571,
+          0.7059841,
+          0.5357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0919516,
+          0.4928571,
+          0.7059841,
+          0.5357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Napstablook Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0888866,
+          0.5442857,
+          0.7090491,
+          0.5635714
+        ],
+        "mask_bbox": [
+          0.0888866,
+          0.5442857,
+          0.7090491,
+          0.5635714
+        ]
+      },
+      "translation": {
+        "text": "Napstablook 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0929733,
+          0.54,
+          0.7059841,
+          0.5671428428571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0929733,
+          0.54,
+          0.7059841,
+          0.5671428428571429
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b010",
+      "kind": "aside",
+      "source": {
+        "text": "I remember when they had to explain the meaning of “:)” in movies, so it’s been fascinating to see other online speech patterns – such as using all-lowercase text – show up more and more in popular media",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7264177,
+          0.575,
+          0.9011258,
+          0.7164286
+        ],
+        "mask_bbox": [
+          0.7264177,
+          0.575,
+          0.9011258,
+          0.7164286
+        ]
+      },
+      "translation": {
+        "text": "我还记得电影里需要解释“:)”含义的年代。如今，其他网络说话方式——比如全小写文字——越来越多地出现在大众媒体中，实在很有意思。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7315262,
+          0.575,
+          0.9031692,
+          0.725
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7315262,
+          0.575,
+          0.9031692,
+          0.725
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Napstablook is insecure and has little self-worth, which is partially conveyed by a unique speech style: all of their text is written with lowercase characters. This not only supplements Napstablook’s dialogue, but also allows the player to identify anonymous messages from Napstablook elsewhere in the game.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0878649,
+          0.7285714,
+          0.7100708,
+          0.8035714
+        ],
+        "mask_bbox": [
+          0.0878649,
+          0.7285714,
+          0.7100708,
+          0.8035714
+        ]
+      },
+      "translation": {
+        "text": "Napstablook 缺乏安全感，也没什么自我价值感。一种独特的说话方式部分传达了这种性格：全部台词都用小写字母。这不仅补充了对话的表达，也让玩家能认出游戏其他地方来自 Napstablook 的匿名消息。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.09297329805147944,
+          0.7264285714285714,
+          0.7070057390288327,
+          0.8114285714285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.09297329805147944,
+          0.7264285714285714,
+          0.7070057390288327,
+          0.8114285714285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the Japanese language doesn’t have uppercase and lowercase letters, the translator compensated by giving Napstablook an “I’m worthless, what does anything matter” tone, along with a speaking style that mixes hiragana and katakana in an unusual manner. In this way, the Japanese version of Napstablook parallels the English version in style and substance.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0888866,
+          0.8121429,
+          0.7100708,
+          0.905
+        ],
+        "mask_bbox": [
+          0.0888866,
+          0.8121429,
+          0.7100708,
+          0.905
+        ]
+      },
+      "translation": {
+        "text": "日语没有字母的大小写之分，译者便给 Napstablook 安排了“我一无是处，一切又有什么意义”的口吻，同时以不同寻常的方式混用平假名和片假名。这样，日版 Napstablook 在说话风格和内在性格上，都与英文版形成了对应。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.09297329805147944,
+          0.8185714285714286,
+          0.7070057390288327,
+          0.9142857142857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.09297329805147944,
+          0.8185714285714286,
+          0.7070057390288327,
+          0.9142857142857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0097-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6618354582631706,
+          0.9362817043670815,
+          0.7074981056050037,
+          0.9508574695873977
+        ],
+        "mask_bbox": [
+          0.6618354582631706,
+          0.9362817043670815,
+          0.7074981056050037,
+          0.9508574695873977
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6618354582631706,
+          0.9362817043670815,
+          0.7074981056050037,
+          0.9508574695873977
+        ],
+        "font_size": 14,
+        "line_height": 1.2857142857142858,
+        "font_weight": 700,
+        "text_align": "right",
+        "color": "#555555",
+        "mask_color": "#ffffff",
+        "background": "transparent",
+        "resize_anchor": "right"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.6618354582631706,
+          0.9362817043670815,
+          0.7074981056050037,
+          0.9508574695873977
+        ],
+        "font_size": 14,
+        "leading": 18
+      },
+      "structure": {
+        "role": "running-footer",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.961758+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 12
+    }
+  },
+  "chapter_id": "chapter-80"
+}

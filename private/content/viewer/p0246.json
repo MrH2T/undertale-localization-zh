@@ -1,0 +1,909 @@
+{
+  "schema_version": 3,
+  "pdf_page": 246,
+  "printed_page": "246",
+  "title": "一度采用的重排名字",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.320563+00:00",
+  "reference_size": [
+    981.839623,
+    1400
+  ],
+  "physical_size_pt": [
+    499.56,
+    712.32
+  ],
+  "image_url": "/assets/p0246.jpg",
+  "image_sha256": "103c5ff0edfa79780d9acac256b177be17cb70863a5a953f7085142288b95d2c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0246/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0246-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Temporary Arrangement",
+        "raw": "Temporary Arrangement",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29101494,
+          0.06622857,
+          0.549713,
+          0.07914286
+        ],
+        "mask_bbox": [
+          0.2896909,
+          0.06551429,
+          0.55103704,
+          0.08021429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "一度采用的重排名字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.05585714,
+          0.90314139,
+          0.08
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.05585714,
+          0.90314139,
+          0.08
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 116.0
+    },
+    {
+      "id": "p0246-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Books and schools usually only prep you to translate old historical novels and stuff, not bad-guy anagrams",
+        "raw": "Books and schools\nusually only prep\nyou to translate old\nhistorical novels and\nstuff, not bad-guy\nanagrams",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13761922,
+          0.09553571,
+          0.2669988,
+          0.18382857
+        ],
+        "mask_bbox": [
+          0.13629517,
+          0.09482143,
+          0.26832284,
+          0.1849
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "书本和学校通常只教你怎么翻译历史小说之类的东西，可不会教你怎么翻反派名字里的字母重排。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11712707,
+          0.09410714,
+          0.26757425,
+          0.1874
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3626571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11712707,
+          0.09410714,
+          0.26757425,
+          0.1874
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "It turns out that Torie! and Asgore once had a kindhearted child named Asriel. But through a series of tragic events, Asriel was transformed into the wrathful Flowey. Now, near the end of the game, Asriel gains immense, godlike power - enough for him to destroy everything and everyone for good.",
+        "raw": "It turns out that Torie! and Asgore once had a kindhearted child named Asriel.\nBut through a series of tragic events, Asriel was transformed into the wrathful\nFlowey. Now, near the end of the game, Asriel gains immense, godlike power -\nenough for him to destroy everything and everyone for good.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29195196,
+          0.22303571,
+          0.89371011,
+          0.28943571
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.22232143,
+          0.90517838,
+          0.29050714
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "原来，Toriel 和 Asgore 曾有个心地善良的孩子，名叫 Asriel。一连串悲剧却把他变成了满怀怨恨的 Flowey。如今游戏将近结尾，Asriel 获得了近乎神明的强大力量，足以彻底摧毁一切。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.22160714,
+          0.90314139,
+          0.29300714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.36428571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.22160714,
+          0.90314139,
+          0.29300714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "As Asgore's son, Asriel's full name is \"Asriel Dreemur\". Keen-eyed players have noticed that \"Asriel Dreemur\" is an anagram of\"Serial Murderer\", and Toby has confirmed that this was intentional:",
+        "raw": "As Asgore's son, Asriel's full name is \"Asriel Dreemur\". Keen-eyed players have\nnoticed that \"Asriel Dreemur\" is an anagram of\"Serial Murderer\", and Toby\nhas confirmed that this was intentional:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29109642,
+          0.30489286,
+          0.89698967,
+          0.35445
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.30417857,
+          0.90517838,
+          0.35552143
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "作为 Asgore 的儿子，Asriel 全名是“Asriel Dreemurr”。细心的玩家发现，把这些字母重新排列，就会得到“Serial Murderer”（连环杀人犯）。Toby 也确认，这是刻意设计的：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.30346429,
+          0.90314139,
+          0.35802143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.36428571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0246-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.30346429,
+          0.90314139,
+          0.35802143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [
+        "书中正文将姓拼作 Dreemur，示意图为 Dreemurr；译文按可成立的字母重排与角色标准拼写使用 Dreemurr。"
+      ]
+    },
+    {
+      "id": "p0246-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Toby's fondness for anagrams continues to reveal itself",
+        "raw": "Toby's fondness for\nanagrams continues to\nreveal itself",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1242871,
+          0.3698,
+          0.2666627,
+          0.41057857
+        ],
+        "mask_bbox": [
+          0.12296306,
+          0.36908571,
+          0.26798674,
+          0.41165
+        ],
+        "line_ids": [
+          15,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Toby 对字母重排的喜爱，又一次显露出来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11712707,
+          0.36837143,
+          0.26757425,
+          0.41415
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5543642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11712707,
+          0.36837143,
+          0.26757425,
+          0.41415
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "To preserve this hidden aspect of Asriel’s character, the localization team considered giving Asriel a new Japanese name with a similarly frightening anagram. Thus, in early drafts of the Japanese script, Asriel Dreemur was named アシリル・ラーキ (Ashiriru Rāki, roughly \"Aseril Lerki\"), which could be rearranged to spell シリアル・キラー (shiriaru kirā, \"serial killer\").",
+        "raw": "To preserve this hidden aspect of Asriel's character, the localization team\nconsidered giving Asriel a new Japanese name with a similarly frightening\nanagram. Thus, in early drafts of the Japanese script, Asriel Dreemur was\nnamed\nJv· 7-:\\'-(Ashiriru Riiki, roughly \"Aseril Lerki\"), which could be\n7~1)\nrearranged to\n7 Jv · :¥-7- (shiriaru kirii, \"serial killer\").\nspell~ 1)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29289916,
+          0.46022857,
+          0.89235551,
+          0.54602143
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.45951429,
+          0.90517838,
+          0.54709286
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "为了保留 Asriel 隐藏的这一面，团队曾考虑替他另取一个日文名字，同样暗藏骇人的重排结果。因此，日文早期草稿曾用「アシリル・ラーキ」（Ashiriru Rāki，约相当于“Aseril Lerki”），可以重排成「シリアル・キラー」（shiriaru kirā，连环杀手）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 69,
+            "end": 82,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 119,
+            "end": 132,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.4588,
+          0.90314139,
+          0.54959286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.4588,
+          0.90314139,
+          0.54959286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Dots are sometimes used in Japanese to separate parts of names",
+        "raw": "Dots are sometimes\nused in Japanese\nto separate parts of\nnames",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1437913,
+          0.56150714,
+          0.26683584,
+          0.61812857
+        ],
+        "mask_bbox": [
+          0.14246726,
+          0.56079286,
+          0.26815988,
+          0.6192
+        ],
+        "line_ids": [
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "日语有时会用间隔号分开姓名的不同部分。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11712707,
+          0.56007857,
+          0.26757425,
+          0.6217
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11712707,
+          0.56007857,
+          0.26757425,
+          0.6217
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This localization choice offered two benefits: it retained the murderous anagram, and it kept the first name roughly similar in both languages.",
+        "raw": "This localization choice offered two benefits: it retained the murderous\nanagram, and it kept the first name roughly similar in both languages.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29337785,
+          0.65192857,
+          0.84129829,
+          0.68227857
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.65121429,
+          0.90517838,
+          0.68335
+        ],
+        "line_ids": [
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "这个方案有两个好处：既保留了暗示杀人的重排，也让两种语言里的名字大致相近。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.6505,
+          0.90314139,
+          0.68585
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.6505,
+          0.90314139,
+          0.68585
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Of course, this localization choice had downsides too: players in Japan would know this important character by a very different last name, and the name Riiki doesn't evoke the same whimsical feeling that \"Dreemur\" does. More importantly, however, Toby chose the name \"Asriel\" with two other special meanings in mind:",
+        "raw": "Of course, this localization choice had downsides too: players in Japan would\nknow this important character by a very different last name, and the name\nRiiki doesn't evoke the same whimsical feeling that \"Dreemur\" does. More\nimportantly, however, Toby chose the name \"Asriel\" with two other special\nmeanings in mind:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29317415,
+          0.69741429,
+          0.88647879,
+          0.78302143
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.6967,
+          0.90517838,
+          0.78409286
+        ],
+        "line_ids": [
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "但它也有缺点：日本玩家会以一个完全不同的姓氏认识这位重要角色，而 Rāki 也没有“Dreemurr”那种梦幻感。更重要的是，Toby 取名“Asriel”时，还考虑了另外两层特殊含义：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.69598571,
+          0.90314139,
+          0.78659286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0246-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.69598571,
+          0.90314139,
+          0.78659286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0246-b010",
+      "kind": "quote",
+      "source": {
+        "text": "\"Asriel\" is a reference to Azrael, the mythological angel of death",
+        "raw": "\"Asriel\" is a reference to Azrael, the mythological angel of death",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34316195,
+          0.79815714,
+          0.83375124,
+          0.81065
+        ],
+        "mask_bbox": [
+          0.30619054,
+          0.79744286,
+          0.83507528,
+          0.81172143
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "• “Asriel”呼应神话中的死亡天使 Azrael。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34316195,
+          0.79672857,
+          0.90314139,
+          0.81731786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0246-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.34316195,
+          0.79672857,
+          0.90314139,
+          0.81731786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0246-b011",
+      "kind": "quote",
+      "source": {
+        "text": "\"Asriel\" is a combination of the names \"Asgore\" and \"Torie]\"",
+        "raw": "\"Asriel\" is a combination of the names \"Asgore\" and \"Torie]\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34316195,
+          0.81703571,
+          0.80587499,
+          0.82952857
+        ],
+        "mask_bbox": [
+          0.30619054,
+          0.81632143,
+          0.80719904,
+          0.8306
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "• “Asriel”由“Asgore”和“Toriel”两个名字组合而成。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34316195,
+          0.81560714,
+          0.90314139,
+          0.83619643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0246-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.34316195,
+          0.81560714,
+          0.90314139,
+          0.83619643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0246-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Everyone agreed that localizing \"Asriel Dreemur\" into a Japanese anagram brought more downsides than benefits. For this reason, the localization team dropped the anagrnm aspect of Asriel's name and kept his name in line with his original English name.",
+        "raw": "Everyone agreed that localizing \"Asriel Dreemur\" into a Japanese anagram\nbrought more downsides than benefits. For this reason, the localization team\ndropped the anagrnm aspect of Asriel's name and kept his name in line with his\noriginal English name.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29439635,
+          0.84466429,
+          0.90314139,
+          0.91140714
+        ],
+        "mask_bbox": [
+          0.28905943,
+          0.84395,
+          0.90517838,
+          0.91247857
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "大家一致认为，为“Asriel Dreemurr”另造日语重排名字弊大于利。因此，团队放弃了这一层文字游戏，让日文名与原来的英文名保持一致。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29303666,
+          0.84323571,
+          0.90314139,
+          0.91497857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0246-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29303666,
+          0.84323571,
+          0.90314139,
+          0.91497857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5c4de32eb5b380fcc1eda2026ab87ab7119ab04111f898300954448aadd2706d"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.71,
+      886.74
+    ],
+    "text_runs": [
+      {
+        "id": "p0246-b003",
+        "blocks": [
+          "p0246-b003",
+          "p0246-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 510.0
+      },
+      {
+        "id": "p0246-b008",
+        "blocks": [
+          "p0246-b008",
+          "p0246-b009",
+          "p0246-b010",
+          "p0246-b011",
+          "p0246-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

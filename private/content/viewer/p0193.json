@@ -1,0 +1,442 @@
+{
+  "schema_version": 3,
+  "pdf_page": 193,
+  "printed_page": "193",
+  "title": "“超过九千！”的来历",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    984.625759,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    711.84
+  ],
+  "image_url": "/assets/p0193.jpg",
+  "image_sha256": "141d124dac9607498d674cb45006a276598472d563a8fdf29db0cf3d511a47fb",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0193/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0193-b001",
+      "kind": "heading",
+      "source": {
+        "text": "\"It's Over 9000!\" Explained",
+        "raw": "\"It's Over 9000!\" Explained",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.25471607,
+          0.06921429,
+          0.53686387,
+          0.08312143
+        ],
+        "mask_bbox": [
+          0.25339577,
+          0.0685,
+          0.53818417,
+          0.08419286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "“超过九千！”的来历",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1208581,
+          0.05942857,
+          0.67436789,
+          0.08357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.08357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.1208581,
+          0.05942857,
+          0.67436789,
+          0.08357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 121.0
+    },
+    {
+      "id": "p0193-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In a 1997 English dub of a Dragon Ball Z episode, a villain angrily shouts, \"It's over 9000!\" after checking his opponent's power level. In 2006, the humorous delivery of this English line transformed the quote into an online meme. The quote \"It's over 9000!\" could suddenly be found in countless articles, videos, message boards, and chat rooms. Over time, the quote also began to appear in mainstream English-language entertainment. It also began to appear in video games, including:",
+        "raw": "In a 1997 English dub of a Dragon Ball Z episode, a villain angrily shouts,\n\"It's over 9000!\" after checking his opponent's power level. In 2006, the\nhumorous delivery of this English line transformed the quote into an\nonline meme. The quote \"It's over 9000!\" could suddenly be found\nin countless articles, videos, message boards, and chat rooms. Over\ntime, the quote also began to appear in mainstream English-language\nentertainment. It also began to appear in video games, including:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1177097,
+          0.36329286,
+          0.66799999,
+          0.47592857
+        ],
+        "mask_bbox": [
+          0.11567847,
+          0.36257857,
+          0.67003122,
+          0.477
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "在《龙珠 Z》1997 年的一集英语配音中，反派测完对手的战斗力后，愤怒地大喊：“It’s over 9000!”（超过九千了！）2006 年，这句英语台词滑稽的演绎让它变成了网络梗。一时间，无数文章、视频、论坛和聊天室都能看到这句话。后来，它也逐渐出现在英语主流娱乐作品中，包括以下电子游戏：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1177097,
+          0.36186429,
+          0.66799999,
+          0.4795
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1177097,
+          0.36186429,
+          0.66799999,
+          0.4795
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0193-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Ninjatown (2008)",
+        "raw": "Ninjatown (2008)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20114241,
+          0.62413571,
+          0.30888893,
+          0.63467143
+        ],
+        "mask_bbox": [
+          0.19982211,
+          0.62342143,
+          0.31020923,
+          0.63574286
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "《Ninjatown》（2008）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1177097,
+          0.62270714,
+          0.39095818,
+          0.64070714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.1177097,
+          0.62270714,
+          0.39095818,
+          0.64070714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0193-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Pokemon XIY (2013)",
+        "raw": "Pokemon XIY (2013)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48447849,
+          0.62413571,
+          0.60994748,
+          0.63467143
+        ],
+        "mask_bbox": [
+          0.48315819,
+          0.62342143,
+          0.61126778,
+          0.63574286
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "《宝可梦 X／Y》（2013）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41127047,
+          0.62270714,
+          0.66799999,
+          0.64070714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41127047,
+          0.62270714,
+          0.66799999,
+          0.64070714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0193-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Fate/Grand Order (2017)",
+        "raw": "Fate/Grand Order (2017)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32579891,
+          0.87431429,
+          0.4752364,
+          0.88485
+        ],
+        "mask_bbox": [
+          0.32447861,
+          0.8736,
+          0.4765567,
+          0.88592143
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "《Fate/Grand Order》（2017）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1177097,
+          0.87288571,
+          0.66799999,
+          0.89088571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8971428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.1177097,
+          0.87288571,
+          0.66799999,
+          0.89088571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0193-b006",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64927207,
+          0.93668571,
+          0.70701989,
+          0.94637857
+        ],
+        "mask_bbox": [
+          0.64795177,
+          0.93597143,
+          0.70834019,
+          0.94745
+        ],
+        "line_ids": [
+          13
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64927207,
+          0.93525714,
+          0.70701989,
+          0.95325714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9532571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64927207,
+          0.93525714,
+          0.70701989,
+          0.95325714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "ae6c0aef4826771eae26d4f1e1f5a332d20a2a9758eb70dc257c44bf619c22c6"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          12
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      115.9,
+      657.73
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

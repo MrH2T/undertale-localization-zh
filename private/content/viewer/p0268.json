@@ -1,0 +1,3146 @@
+{
+  "schema_version": 3,
+  "pdf_page": 268,
+  "printed_page": "268",
+  "title": "特别鸣谢",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    993.631641,
+    1400
+  ],
+  "physical_size_pt": [
+    508.2,
+    716.04
+  ],
+  "image_url": "/assets/p0268.jpg",
+  "image_sha256": "3084e875e337c6b6bb12cbc27fae21f342e7fe91cb3f573d84401b2ab8ca8f14",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0268/page.json",
+  "page_role": "credits",
+  "blocks": [
+    {
+      "id": "p0268-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Special Thanks",
+        "raw": "Special Thanks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29213039,
+          0.06376429,
+          0.44174318,
+          0.07717143
+        ],
+        "mask_bbox": [
+          0.29082206,
+          0.06305,
+          0.44305151,
+          0.07824286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "特别鸣谢",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213039,
+          0.05371429,
+          0.89517077,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213039,
+          0.05371429,
+          0.89517077,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113
+    },
+    {
+      "id": "p0268-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "This book, as you see it now, would not exist without the help of so, so many people. Thank you to everyone who helped make this impossible book possible!",
+        "raw": "This book, as you see it now, would not exist without the help of so, so many\npeople. Thank you to everyone who helped make this impossible book possible!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29217065,
+          0.09182143,
+          0.89517077,
+          0.12343571
+        ],
+        "mask_bbox": [
+          0.29015783,
+          0.09110714,
+          0.89718359,
+          0.12450714
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "没有许许多多人的帮助，就不会有你现在看到的这本书。感谢每一位把这本“不可能的书”变为可能的人！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29217065,
+          0.09039286,
+          0.89517077,
+          0.14
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.14,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29217065,
+          0.09039286,
+          0.89517077,
+          0.14
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "credits-introduction"
+    },
+    {
+      "id": "p0268-b003",
+      "kind": "table-cell",
+      "source": {
+        "text": "All Undertale fans",
+        "raw": "All Undertale fans",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29234174,
+          0.14900714,
+          0.42677787,
+          0.15975714
+        ],
+        "mask_bbox": [
+          0.29103341,
+          0.14829286,
+          0.42808621,
+          0.16082857
+        ],
+        "line_ids": [
+          4
+        ]
+      },
+      "translation": {
+        "text": "所有《Undertale》粉丝",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.14757857,
+          0.58271091,
+          0.17310714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.17310714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.14757857,
+          0.58271091,
+          0.17310714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "Lindsay Moore",
+        "raw": "Lindsay Moore",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60605961,
+          0.14765,
+          0.71440962,
+          0.15840714
+        ],
+        "mask_bbox": [
+          0.60475127,
+          0.14693571,
+          0.71571795,
+          0.15947857
+        ],
+        "line_ids": [
+          5
+        ]
+      },
+      "translation": {
+        "text": "Lindsay Moore",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.14622143,
+          0.89671057,
+          0.17245
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.17245,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.14622143,
+          0.89671057,
+          0.17245
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese fan translators (I tip my hat to you all)",
+        "raw": "Japanese fan translators\n(I tip my hat to you all)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2922109,
+          0.17882143,
+          0.47267013,
+          0.2097
+        ],
+        "mask_bbox": [
+          0.29090257,
+          0.17810714,
+          0.47397847,
+          0.21077143
+        ],
+        "line_ids": [
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "日语民间翻译者\n（向各位致敬）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.17739286,
+          0.58271091,
+          0.22440714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.22440714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.17739286,
+          0.58271091,
+          0.22440714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Eman",
+        "raw": "Eman",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60603948,
+          0.17816429,
+          0.64614488,
+          0.18892143
+        ],
+        "mask_bbox": [
+          0.60473115,
+          0.17745,
+          0.64745321,
+          0.18999286
+        ],
+        "line_ids": [
+          7
+        ]
+      },
+      "translation": {
+        "text": "Eman",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.17673571,
+          0.89671057,
+          0.20327143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.20327142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.17673571,
+          0.89671057,
+          0.20327143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Masaya Tokuhiro",
+        "raw": "Masaya Tokuhiro",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60603948,
+          0.20898571,
+          0.73169973,
+          0.21974286
+        ],
+        "mask_bbox": [
+          0.60473115,
+          0.20827143,
+          0.73300806,
+          0.22081429
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "Masaya Tokuhiro",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.20755714,
+          0.89671057,
+          0.23479286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.23479285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.20755714,
+          0.89671057,
+          0.23479286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "Korean fan translators (I hope to learn Korean someday and play your translation)",
+        "raw": "Korean fan translators (I hope to\nlearn Korean someday and play\nyour translation)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29273424,
+          0.23012143,
+          0.5356009,
+          0.28175
+        ],
+        "mask_bbox": [
+          0.2914259,
+          0.22940714,
+          0.53690923,
+          0.28282143
+        ],
+        "line_ids": [
+          10,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "韩语民间翻译者（希望有一天能学会韩语，体验你们的译本）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.22869286,
+          0.58271091,
+          0.29578571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2957857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.22869286,
+          0.58271091,
+          0.29578571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "Andrew Davis",
+        "raw": "Andrew Davis",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6054457,
+          0.24050714,
+          0.71062552,
+          0.25126429
+        ],
+        "mask_bbox": [
+          0.60413736,
+          0.23979286,
+          0.71193385,
+          0.25233571
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "Andrew Davis",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.23907857,
+          0.89671057,
+          0.26561429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.26561428571428575,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.23907857,
+          0.89671057,
+          0.26561429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Laurel Lake",
+        "raw": "Laurel Lake",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60653262,
+          0.27132857,
+          0.69111124,
+          0.28208571
+        ],
+        "mask_bbox": [
+          0.60522429,
+          0.27061429,
+          0.69241958,
+          0.28315714
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "Laurel Lake",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.2699,
+          0.89671057,
+          0.29678571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.29678571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.2699,
+          0.89671057,
+          0.29678571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Ade",
+        "raw": "Ade",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29328776,
+          0.3015,
+          0.32210126,
+          0.31225
+        ],
+        "mask_bbox": [
+          0.29197943,
+          0.30078571,
+          0.32340959,
+          0.31332143
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "Ade",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.30007143,
+          0.58271091,
+          0.32763571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3276357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.30007143,
+          0.58271091,
+          0.32763571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Las Vegas",
+        "raw": "Las Vegas",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60653262,
+          0.3025,
+          0.67993004,
+          0.31325714
+        ],
+        "mask_bbox": [
+          0.60522429,
+          0.30178571,
+          0.68123837,
+          0.31432857
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "拉斯维加斯",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.30107143,
+          0.89671057,
+          0.32864286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3286428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.30107143,
+          0.89671057,
+          0.32864286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Cocoa",
+        "raw": "Cocoa",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2935293,
+          0.33335,
+          0.33737855,
+          0.34410714
+        ],
+        "mask_bbox": [
+          0.29222097,
+          0.33263571,
+          0.33868688,
+          0.34517857
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "Cocoa",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.33192143,
+          0.58271091,
+          0.35647857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3564785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.33192143,
+          0.58271091,
+          0.35647857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "Plains, Georgia",
+        "raw": "Plains, Georgia",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60651249,
+          0.33435714,
+          0.71673442,
+          0.34511429
+        ],
+        "mask_bbox": [
+          0.60520416,
+          0.33364286,
+          0.71804275,
+          0.34618571
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "佐治亚州普莱恩斯",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.33292857,
+          0.89671057,
+          0.35946429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.35946428571428574,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.33292857,
+          0.89671057,
+          0.35946429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "さよよん（Sayoyon）",
+        "raw": "~ J: J: Iv (Sayoyon)",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29515968,
+          0.36219286,
+          0.42853909,
+          0.37475714
+        ],
+        "mask_bbox": [
+          0.29385135,
+          0.36147857,
+          0.42984742,
+          0.37582857
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "さよよん（Sayoyon）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.36076429,
+          0.58271091,
+          0.38695
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38695,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.36076429,
+          0.58271091,
+          0.38695
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "Djsmell",
+        "raw": "Djsmell",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6069855,
+          0.36517857,
+          0.65953012,
+          0.37593571
+        ],
+        "mask_bbox": [
+          0.60567717,
+          0.36446429,
+          0.66083846,
+          0.37700714
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "Djsmell",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.36375,
+          0.89671057,
+          0.38896429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3889642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.36375,
+          0.89671057,
+          0.38896429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "Maki",
+        "raw": "Maki",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29388154,
+          0.39266429,
+          0.33034375,
+          0.40342143
+        ],
+        "mask_bbox": [
+          0.29257321,
+          0.39195,
+          0.33165208,
+          0.40449286
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "Maki",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.39123571,
+          0.58271091,
+          0.41711429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4171142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.39123571,
+          0.58271091,
+          0.41711429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "Hideyuki Watanabe",
+        "raw": "Hideyuki Watanabe",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60696537,
+          0.39467857,
+          0.75334759,
+          0.40542857
+        ],
+        "mask_bbox": [
+          0.60565704,
+          0.39396429,
+          0.75465592,
+          0.4065
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "Hideyuki Watanabe",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.39325,
+          0.89671057,
+          0.42015
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42015,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.39325,
+          0.89671057,
+          0.42015
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Fangamer Japan staff",
+        "raw": "Fangamer Japan staff",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29386141,
+          0.42282857,
+          0.45489695,
+          0.43358571
+        ],
+        "mask_bbox": [
+          0.29255308,
+          0.42211429,
+          0.45620528,
+          0.43465714
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "Fangamer Japan 全体成员",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.4214,
+          0.58271091,
+          0.44862143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4486214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.4214,
+          0.58271091,
+          0.44862143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "Satoru Iwata",
+        "raw": "Satoru Iwata",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60665339,
+          0.42586429,
+          0.70089354,
+          0.43661429
+        ],
+        "mask_bbox": [
+          0.60534505,
+          0.42515,
+          0.70220187,
+          0.43768571
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "Satoru Iwata",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.42443571,
+          0.89671057,
+          0.45197857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4519785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.42443571,
+          0.89671057,
+          0.45197857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Napster",
+        "raw": "Napster",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29435456,
+          0.45433571,
+          0.35186078,
+          0.46509286
+        ],
+        "mask_bbox": [
+          0.29304622,
+          0.45362143,
+          0.35316911,
+          0.46616429
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "Napster",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.45290714,
+          0.58271091,
+          0.47947143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47947142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.45290714,
+          0.58271091,
+          0.47947143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "Four out of five dentists",
+        "raw": "Four out of five dentists",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60743839,
+          0.45769286,
+          0.7857439,
+          0.46844286
+        ],
+        "mask_bbox": [
+          0.60613005,
+          0.45697857,
+          0.78705223,
+          0.46951429
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "五位牙医中的四位",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.45626429,
+          0.89671057,
+          0.48281429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48281428571428575,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.45626429,
+          0.89671057,
+          0.48281429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "Winny",
+        "raw": "Winny",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29370039,
+          0.48518571,
+          0.34152495,
+          0.49594286
+        ],
+        "mask_bbox": [
+          0.29239206,
+          0.48447143,
+          0.34283329,
+          0.49701429
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "Winny",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.48375714,
+          0.58271091,
+          0.50929286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5092928571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.48375714,
+          0.58271091,
+          0.50929286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "Luis \"Eight Blackey\" Guerrero",
+        "raw": "Luis \"Eight Blackey\" Guerrero",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60747864,
+          0.48852857,
+          0.82807347,
+          0.49927857
+        ],
+        "mask_bbox": [
+          0.60617031,
+          0.48781429,
+          0.8293818,
+          0.50035
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "Luis “Eight Blackey” Guerrero",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.4871,
+          0.89671057,
+          0.51365
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.51365,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.4871,
+          0.89671057,
+          0.51365
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "Games&Symphonies",
+        "raw": "Games&Symphonies",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29398218,
+          0.51500714,
+          0.44471209,
+          0.52575714
+        ],
+        "mask_bbox": [
+          0.29267385,
+          0.51429286,
+          0.44602042,
+          0.52682857
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "Games&Symphonies",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.51357857,
+          0.58271091,
+          0.54014286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5401428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.51357857,
+          0.58271091,
+          0.54014286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "Riot Games",
+        "raw": "Riot Games",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60743839,
+          0.51936429,
+          0.6916849,
+          0.53011429
+        ],
+        "mask_bbox": [
+          0.60613005,
+          0.51865,
+          0.69299323,
+          0.53118571
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "Riot Games",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.51793571,
+          0.89671057,
+          0.54482143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5448214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.51793571,
+          0.89671057,
+          0.54482143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b027",
+      "kind": "table-cell",
+      "source": {
+        "text": "USDA",
+        "raw": "USDA",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29480744,
+          0.54585714,
+          0.33605009,
+          0.55660714
+        ],
+        "mask_bbox": [
+          0.29349911,
+          0.54514286,
+          0.33735842,
+          0.55767857
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "USDA",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.54442857,
+          0.58271091,
+          0.57064286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5706428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.54442857,
+          0.58271091,
+          0.57064286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b028",
+      "kind": "table-cell",
+      "source": {
+        "text": "Kathy-chan",
+        "raw": "Kathy-ch an",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60793153,
+          0.55053571,
+          0.69195663,
+          0.56128571
+        ],
+        "mask_bbox": [
+          0.60662319,
+          0.54982143,
+          0.69326496,
+          0.56235714
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "Kathy-chan",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.54910714,
+          0.89671057,
+          0.57600714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5760071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.54910714,
+          0.89671057,
+          0.57600714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b029",
+      "kind": "table-cell",
+      "source": {
+        "text": "8-4 All Staff",
+        "raw": "8-4 All Staff",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29450552,
+          0.57635714,
+          0.38427722,
+          0.58710714
+        ],
+        "mask_bbox": [
+          0.29319718,
+          0.57564286,
+          0.38558555,
+          0.58817857
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "8-4 全体成员",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.57492857,
+          0.58271091,
+          0.60079286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6007928571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.57492857,
+          0.58271091,
+          0.60079286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b030",
+      "kind": "table-cell",
+      "source": {
+        "text": "Thomas Moon Kang",
+        "raw": "Thomas Moon Kang",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60721698,
+          0.58172143,
+          0.75659829,
+          0.59247143
+        ],
+        "mask_bbox": [
+          0.60590864,
+          0.58100714,
+          0.75790662,
+          0.59354286
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "Thomas Moon Kang",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.58029286,
+          0.89671057,
+          0.60682857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6068285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.58029286,
+          0.89671057,
+          0.60682857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b031",
+      "kind": "table-cell",
+      "source": {
+        "text": "256graph",
+        "raw": "256graph",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29503891,
+          0.60650714,
+          0.36484345,
+          0.61726429
+        ],
+        "mask_bbox": [
+          0.29373058,
+          0.60579286,
+          0.36615179,
+          0.61833571
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "256graph",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.60507857,
+          0.58271091,
+          0.63196429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6319642857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.60507857,
+          0.58271091,
+          0.63196429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b032",
+      "kind": "table-cell",
+      "source": {
+        "text": "Bandai Namco Entertainment Inc.",
+        "raw": "Bandai Namco Entertainment Inc.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60795165,
+          0.61254286,
+          0.85815504,
+          0.62329286
+        ],
+        "mask_bbox": [
+          0.60664332,
+          0.61182857,
+          0.85946337,
+          0.62436429
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "Bandai Namco Entertainment Inc.",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.61111429,
+          0.89671057,
+          0.63835
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6383500000000001,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.61111429,
+          0.89671057,
+          0.63835
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b033",
+      "kind": "table-cell",
+      "source": {
+        "text": "Tony Kuchar",
+        "raw": "Tony Kuchar",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29458603,
+          0.63767857,
+          0.38634035,
+          0.64843571
+        ],
+        "mask_bbox": [
+          0.2932777,
+          0.63696429,
+          0.38764869,
+          0.64950714
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "Tony Kuchar",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.63625,
+          0.58271091,
+          0.66246429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6624642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.63625,
+          0.58271091,
+          0.66246429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b034",
+      "kind": "table-cell",
+      "source": {
+        "text": "Lulu",
+        "raw": "Lulu",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60842467,
+          0.64406429,
+          0.63866726,
+          0.65481429
+        ],
+        "mask_bbox": [
+          0.60711633,
+          0.64335,
+          0.63997559,
+          0.65588571
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "Lulu",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.64263571,
+          0.89671057,
+          0.66950714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6695071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.64263571,
+          0.89671057,
+          0.66950714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b035",
+      "kind": "table-cell",
+      "source": {
+        "text": "YoYo Games",
+        "raw": "YoYo Games",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29468667,
+          0.66817857,
+          0.38602837,
+          0.67893571
+        ],
+        "mask_bbox": [
+          0.29337834,
+          0.66746429,
+          0.3873367,
+          0.68000714
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "YoYo Games",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.66675,
+          0.58271091,
+          0.69296429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6929642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.66675,
+          0.58271091,
+          0.69296429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b036",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toymate",
+        "raw": "Toy mate",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60768999,
+          0.67522143,
+          0.67139569,
+          0.68597143
+        ],
+        "mask_bbox": [
+          0.60638166,
+          0.67450714,
+          0.67270402,
+          0.68704286
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "Toymate",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.67379286,
+          0.89671057,
+          0.70034286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7003428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.67379286,
+          0.89671057,
+          0.70034286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b037",
+      "kind": "table-cell",
+      "source": {
+        "text": "Brian Jaworski",
+        "raw": "Brian Jaworski",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29532071,
+          0.69867857,
+          0.40259386,
+          0.70943571
+        ],
+        "mask_bbox": [
+          0.29401238,
+          0.69796429,
+          0.40390219,
+          0.71050714
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "Brian Jaworski",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.69725,
+          0.58271091,
+          0.7238
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7238,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.69725,
+          0.58271091,
+          0.7238
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b038",
+      "kind": "table-cell",
+      "source": {
+        "text": "Jonathan E",
+        "raw": "Jonathan E",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60814287,
+          0.70605714,
+          0.69310393,
+          0.71680714
+        ],
+        "mask_bbox": [
+          0.60683454,
+          0.70534286,
+          0.69441227,
+          0.71787857
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "Jonathan E",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.70462857,
+          0.89671057,
+          0.73152857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7315285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.70462857,
+          0.89671057,
+          0.73152857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b039",
+      "kind": "table-cell",
+      "source": {
+        "text": "Dr. Steve Brule",
+        "raw": "Dr. Steve Brule",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29577359,
+          0.72951429,
+          0.40358014,
+          0.74027143
+        ],
+        "mask_bbox": [
+          0.29446526,
+          0.7288,
+          0.40488848,
+          0.74134286
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "Dr. Steve Brule",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.72808571,
+          0.58271091,
+          0.75430714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7543071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.72808571,
+          0.58271091,
+          0.75430714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b040",
+      "kind": "table-cell",
+      "source": {
+        "text": "That white dog that always blocks Toby's face",
+        "raw": "That white dog that always blocks\nToby's face",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60768999,
+          0.73724286,
+          0.85324376,
+          0.7691
+        ],
+        "mask_bbox": [
+          0.60638166,
+          0.73652857,
+          0.85455209,
+          0.77017143
+        ],
+        "line_ids": [
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "那只总挡住 Toby 脸的白狗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.73581429,
+          0.89671057,
+          0.78346429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7834642857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.73581429,
+          0.89671057,
+          0.78346429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b041",
+      "kind": "table-cell",
+      "source": {
+        "text": "Yuya Satō",
+        "raw": "Yuya Sato",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2956327,
+          0.76002143,
+          0.36842627,
+          0.77077143
+        ],
+        "mask_bbox": [
+          0.29432436,
+          0.75930714,
+          0.3697346,
+          0.77184286
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "Yuya Satō",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.75859286,
+          0.58271091,
+          0.78480714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7848071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.75859286,
+          0.58271091,
+          0.78480714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b042",
+      "kind": "table-cell",
+      "source": {
+        "text": "Mark Reichwein",
+        "raw": "Mark Reichwein",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29575346,
+          0.79052143,
+          0.41447955,
+          0.80127143
+        ],
+        "mask_bbox": [
+          0.29444513,
+          0.78980714,
+          0.41578789,
+          0.80234286
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "Mark Reichwein",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.78909286,
+          0.58271091,
+          0.81599286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8159928571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.78909286,
+          0.58271091,
+          0.81599286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b043",
+      "kind": "table-cell",
+      "source": {
+        "text": "Makoto Yamashita",
+        "raw": "Makoto Yamashita",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60887755,
+          0.78917857,
+          0.74747016,
+          0.79993571
+        ],
+        "mask_bbox": [
+          0.60756922,
+          0.78846429,
+          0.74877849,
+          0.80100714
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "Makoto Yamashita",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.78775,
+          0.89671057,
+          0.81532143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8153214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.78775,
+          0.89671057,
+          0.81532143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b044",
+      "kind": "table-cell",
+      "source": {
+        "text": "Lynn Johnston",
+        "raw": "Lynn Johnston",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29625667,
+          0.82170714,
+          0.40257373,
+          0.83245714
+        ],
+        "mask_bbox": [
+          0.29494834,
+          0.82099286,
+          0.40388207,
+          0.83352857
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "Lynn Johnston",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.82027857,
+          0.58271091,
+          0.84681429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8468142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.82027857,
+          0.58271091,
+          0.84681429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b045",
+      "kind": "table-cell",
+      "source": {
+        "text": "Derek Carmody",
+        "raw": "Derek Carmody",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60887755,
+          0.82103571,
+          0.7247857,
+          0.83178571
+        ],
+        "mask_bbox": [
+          0.60756922,
+          0.82032143,
+          0.72609403,
+          0.83285714
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "Derek Carmody",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.81960714,
+          0.89671057,
+          0.84615714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8461571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.81960714,
+          0.89671057,
+          0.84615714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b046",
+      "kind": "table-cell",
+      "source": {
+        "text": "The city of Osaka",
+        "raw": "The city of Osaka",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29553205,
+          0.85252857,
+          0.42383916,
+          0.86327857
+        ],
+        "mask_bbox": [
+          0.29422372,
+          0.85181429,
+          0.42514749,
+          0.86435
+        ],
+        "line_ids": [
+          51
+        ]
+      },
+      "translation": {
+        "text": "大阪市",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.8511,
+          0.58271091,
+          0.87732857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8773285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.8511,
+          0.58271091,
+          0.87732857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b047",
+      "kind": "table-cell",
+      "source": {
+        "text": "Carter Jaworski",
+        "raw": "Carter Jaworski",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60898826,
+          0.85187143,
+          0.72467499,
+          0.86262143
+        ],
+        "mask_bbox": [
+          0.60767992,
+          0.85115714,
+          0.72598332,
+          0.86369286
+        ],
+        "line_ids": [
+          52
+        ]
+      },
+      "translation": {
+        "text": "Carter Jaworski",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.85044286,
+          0.89671057,
+          0.87699286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8769928571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.85044286,
+          0.89671057,
+          0.87699286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    },
+    {
+      "id": "p0268-b048",
+      "kind": "table-cell",
+      "source": {
+        "text": "Junior Jumble #18",
+        "raw": "Junior Jumble #18",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29598494,
+          0.88304286,
+          0.4304412,
+          0.89379286
+        ],
+        "mask_bbox": [
+          0.29467661,
+          0.88232857,
+          0.43174954,
+          0.89486429
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "Junior Jumble #18",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29286507,
+          0.88161429,
+          0.58271091,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29286507,
+          0.88161429,
+          0.58271091,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-left"
+    },
+    {
+      "id": "p0268-b049",
+      "kind": "table-cell",
+      "source": {
+        "text": "Diana Gundacker",
+        "raw": "Diana Gundacker",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60935056,
+          0.88270714,
+          0.73749664,
+          0.89346429
+        ],
+        "mask_bbox": [
+          0.60804223,
+          0.88199286,
+          0.73880498,
+          0.89453571
+        ],
+        "line_ids": [
+          54
+        ]
+      },
+      "translation": {
+        "text": "Diana Gundacker",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60686473,
+          0.88127857,
+          0.89671057,
+          0.91428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60686473,
+          0.88127857,
+          0.89671057,
+          0.91428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "credits-right"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "a32079317ae96ca11946e3ad55a6335d6f700d23d27b4ea7d659a0fa3aad7a3b"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          55
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

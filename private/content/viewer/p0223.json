@@ -1,0 +1,406 @@
+{
+  "schema_version": 3,
+  "pdf_page": 223,
+  "printed_page": "223",
+  "title": "关键词触发的新台词",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    977.425342,
+    1400
+  ],
+  "physical_size_pt": [
+    496.56,
+    711.24
+  ],
+  "image_url": "/assets/p0223.jpg",
+  "image_sha256": "70615d765203709fc49e1898e9d74a36aa4b96363f2b3328e2db0e54d1d02d1b",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0223/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0223-b001",
+      "kind": "caption",
+      "source": {
+        "text": "If the player includes the word omoshiroi (\"fun; funny; interesting\"), Mettaton EX responds by saying, \"Being funny and cool is the secret to being popular!\"",
+        "raw": "If the player includes the word omoshiroi (\"fun; funny; interesting\"), Mettaton EX responds by\nsaying, \"Being funny and cool is the secret to being popular!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10495942,
+          0.23709286,
+          0.69133669,
+          0.26267143
+        ],
+        "mask_bbox": [
+          0.1036294,
+          0.23637857,
+          0.69266671,
+          0.26374286
+        ],
+        "line_ids": [
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "text": "如果玩家写到 omoshiroi（有趣、好笑），Mettaton EX 会说：“又有趣又帅气，才是受欢迎的秘诀！”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08491697,
+          0.23566429,
+          0.69979769,
+          0.26624286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.27714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08491697,
+          0.23566429,
+          0.69979769,
+          0.26624286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0223-b002",
+      "kind": "caption",
+      "source": {
+        "text": "If the player uses the wordyabai (\"sick; crazy; awesome\", can be used as slang to describe something good or bad}, Mettaton EX will reply, \"Sick? You mean that in the positive sense, I assume?\"",
+        "raw": "If the player uses the wordyabai (\"sick; crazy; awesome\", can be used as slang to describe something\ngood or bad}, Mettaton EX will reply, \"Sick? You mean that in the positive sense, I assume?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09529117,
+          0.44763571,
+          0.70440163,
+          0.47358571
+        ],
+        "mask_bbox": [
+          0.09396114,
+          0.44692143,
+          0.70573165,
+          0.47465714
+        ],
+        "line_ids": [
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "如果玩家用 yabai（不得了、疯狂、厉害，可褒可贬的俚语），Mettaton EX 会回答：“不得了？我想你说的当然是好的那种吧？”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08491697,
+          0.44620714,
+          0.70440163,
+          0.47715714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08491697,
+          0.44620714,
+          0.70440163,
+          0.47715714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0223-b003",
+      "kind": "caption",
+      "source": {
+        "text": "If the player uses the slang word emoi (\"emotional\"), Mettaton EX will say, \"Thanks! .. Uhh, you meant that as a compliment, right?\"",
+        "raw": "If the player uses the slang word emoi (\"emotional\"), Mettaton EX will say, \"Thanks! .. Uhh, you\nmeant that as a compliment, right?\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09481031,
+          0.65921429,
+          0.69940892,
+          0.68514286
+        ],
+        "mask_bbox": [
+          0.09348029,
+          0.6585,
+          0.70073894,
+          0.68621429
+        ],
+        "line_ids": [
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "如果玩家用俚语 emoi（触动情绪的、令人感慨的），Mettaton EX 会说：“谢谢！……呃，你是在夸我，对吧？”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08491697,
+          0.65778571,
+          0.69979769,
+          0.68871429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08491697,
+          0.65778571,
+          0.69979769,
+          0.68871429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0223-b004",
+      "kind": "caption",
+      "source": {
+        "text": "If the player uses the word nihongo (\"the Japanese language\"}, Mettaton EX will respond with, \"But of course! Any true star is well-versed in the language arts!\"",
+        "raw": "If the player uses the word nihongo (\"the Japanese language\"}, Mettaton EX will respond with,\n\"But of course! Any true star is well-versed in the language arts!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10351686,
+          0.87113571,
+          0.69655448,
+          0.89673571
+        ],
+        "mask_bbox": [
+          0.10218683,
+          0.87042143,
+          0.6978845,
+          0.89780714
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "如果玩家写到 nihongo（日语），Mettaton EX 会回答：“那当然！真正的明星都精通语言艺术！”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08491697,
+          0.86970714,
+          0.69979769,
+          0.90030714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08491697,
+          0.86970714,
+          0.69979769,
+          0.90030714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0223-b005",
+      "kind": "footer",
+      "source": {
+        "text": "The Core",
+        "raw": "The Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64032512,
+          0.93982143,
+          0.70493364,
+          0.94952143
+        ],
+        "mask_bbox": [
+          0.6389951,
+          0.93910714,
+          0.70626366,
+          0.95059286
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "核心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64032512,
+          0.93839286,
+          0.70493364,
+          0.95639286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9563928571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64032512,
+          0.93839286,
+          0.70493364,
+          0.95639286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "The Core",
+        "chapter_id": "chapter-214"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d84d492578350e5c71499cea9418c15214763857b2b0d0a3553602fa5b20d4d7"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "schema_version": 3,
+  "pdf_page": 16,
+  "printed_page": "16",
+  "title": "什么是本地化？",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    989.304993,
+    1400
+  ],
+  "physical_size_pt": [
+    502.68,
+    711.36
+  ],
+  "image_url": "/assets/p0016.jpg",
+  "image_sha256": "71e1a66688f998a29f110662335160ca75025b51498b556d40aa1a97f18fe9bd",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0016/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0016-b001",
+      "kind": "heading",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28682762,
+          0.04430714,
+          0.76618435,
+          0.07818571
+        ],
+        "mask_bbox": [
+          0.28551357,
+          0.04359286,
+          0.7674984,
+          0.07925714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.04285714,
+          0.89828719,
+          0.08
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.04285714,
+          0.89828719,
+          0.08
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "rule_y": 116.0
+    },
+    {
+      "id": "p0016-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before we dive into Undertale's English-to-Japanese localization, there's one big question that needs answering: what exactly is localization, anyway?",
+        "raw": "Before we dive into Underta/e's English-to-Japanese localization, there's one\nbig question that needs answering: what exactly is localization, anyway?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29211416,
+          0.10085714,
+          0.87653454,
+          0.13188571
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.10014286,
+          0.90030881,
+          0.13295714
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "在深入探讨 Undertale 的英译日本地化之前，先得回答一个大问题：本地化究竟是什么？",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.09942857,
+          0.89828719,
+          0.13545714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3213428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.09942857,
+          0.89828719,
+          0.13545714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The word \"localization\" is actually relatively new in the translation world, so different people use it to mean different things. Here's how I would define it in simple terms, though:",
+        "raw": "The word \"localization\" is actually relatively new in the translation world, so\ndifferent people use it to mean different things. Here's how I would define it in\nsimple terms, though:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29155822,
+          0.14652143,
+          0.89154508,
+          0.19497857
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.14580714,
+          0.90030881,
+          0.19605
+        ],
+        "line_ids": [
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "“本地化”在翻译界其实还是个相对年轻的词，不同的人用它表达不同的意思。简单来说，我会这样定义：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.14509286,
+          0.89828719,
+          0.19855
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3213428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0016-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.14509286,
+          0.89828719,
+          0.19855
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Basically, localization is translation. Localization just changes things a bit when a literal translation doesn't quite work.",
+        "raw": "Basically, localization is translation. Localization just changes things a bit\nwhen a literal translation doesn't quite work.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29169973,
+          0.20885,
+          0.89354649,
+          0.24165714
+        ],
+        "mask_bbox": [
+          0.29038568,
+          0.20813571,
+          0.89486054,
+          0.24272857
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "本地化说到底就是翻译，只是在直译行不通的时候，稍微改动一下。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29169973,
+          0.20742143,
+          0.89828719,
+          0.24522857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3213428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0016-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29169973,
+          0.20742143,
+          0.89828719,
+          0.24522857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "If you're unfamiliar with translation, this idea probably sounds odd at first. Why should anything be changed at all? Shouldn't a literal translation work all the time? Let's find out.",
+        "raw": "If you're unfamiliar with translation, this idea probably sounds odd at first.\nWhy should anything be changed at all? Shouldn't a literal translation work all\nthe time? Let's find out.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2916593,
+          0.25650714,
+          0.89010973,
+          0.30531429
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.25579286,
+          0.90030881,
+          0.30638571
+        ],
+        "line_ids": [
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "如果你不熟悉翻译，乍听之下可能觉得奇怪。为什么要改？难道不是任何时候都能直译吗？我们来看看。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.25507857,
+          0.89828719,
+          0.30888571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3213428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0016-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.25507857,
+          0.89828719,
+          0.30888571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Getting Literal",
+        "raw": "Getting Literal",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29287227,
+          0.32848571,
+          0.44283614,
+          0.34268571
+        ],
+        "mask_bbox": [
+          0.29155822,
+          0.32777143,
+          0.44415019,
+          0.34375714
+        ],
+        "line_ids": [
+          12
+        ]
+      },
+      "translation": {
+        "text": "只按字面理解",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.31942857,
+          0.89828719,
+          0.34357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3435714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.31942857,
+          0.89828719,
+          0.34357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 485.0
+    },
+    {
+      "id": "p0016-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Imagine you're talking to a grumpy genie who takes everything literally. You want to be rich, so you immediately wish to be \"made of money\". Unfortunately, instead of becoming rich, you transform into a pile of coins. Oops, that's not what you meant at all!",
+        "raw": "Imagine you're talking to a grumpy genie who takes everything literally.\nYou want to be rich, so you immediately wish to be \"made of money\".\nUnfortunately, instead of becoming rich, you transform into a pile of coins.\nOops, that's not what you meant at all!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29119433,
+          0.35738571,
+          0.86150379,
+          0.42372143
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.35667143,
+          0.90030881,
+          0.42479286
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "设想你遇到一个暴躁、凡事照字面理解的精灵。你想发财，立刻许愿让自己 made of money（富得流油，字面为“由钱构成”）。结果却变成了一堆硬币。哎呀，这可不是你想要的！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.35595714,
+          0.89828719,
+          0.42729286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5442857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.35595714,
+          0.89828719,
+          0.42729286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "\"Ugh, whatever! I just wish I had lots of dough!\" you somehow say. You expect to become rich for sure this time, but instead, you suddenly find yourself covered in bread dough. Oops again!",
+        "raw": "\"Ugh, whatever! I just wish I had lots of dough!\" you somehow say. You expect\nto become rich for sure this time, but instead, you suddenly find yourself\ncovered in bread dough. Oops again!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28660525,
+          0.43970714,
+          0.88588454,
+          0.4885
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.43899286,
+          0.90030881,
+          0.48957143
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "“唉，随便吧！我只想要一大堆 dough！”不知怎么，你又开口了。dough 可以指“钱”，也可以指“面团”。你以为这次总该发财了，结果浑身糊满了面团。又糟了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.43827857,
+          0.89828719,
+          0.49207143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5442857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0016-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.43827857,
+          0.89828719,
+          0.49207143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "These examples, as ridiculous as they are, show how a literal interpretation can completely miss the point of what's being said.",
+        "raw": "These examples, as ridiculous as they are, show how a literal interpretation can\ncompletely miss the point of what's being said.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2925286,
+          0.5028,
+          0.89828719,
+          0.53370714
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.50208571,
+          0.90030881,
+          0.53477857
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "这些例子虽然荒唐，却说明了按字面理解可以完全错过说话人的意思。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.50137143,
+          0.89828719,
+          0.53727857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5442857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0016-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.50137143,
+          0.89828719,
+          0.53727857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "When we communicate, words are our tools. They're like paintbrushes that we use to paint pictures for others to see. The problem is that if you focus too hard on someone's tools, you risk missing the full picture of what they're actually saying.",
+        "raw": "When we communicate, words are our tools. They're like paintbrushes that\nwe use to paint pictures for others to see. The problem is that if you focus\ntoo hard on someone's tools, you risk missing the full picture of what they're\nactually saying.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29308454,
+          0.83377143,
+          0.87749481,
+          0.90012143
+        ],
+        "mask_bbox": [
+          0.28458362,
+          0.83305714,
+          0.90030881,
+          0.90119286
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "交流时，词语是我们的工具，好比画笔，用来画出图景让别人看见。问题在于，如果你一味盯着别人的工具，就可能看不见他们真正想表达的整幅图景。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2916593,
+          0.83234286,
+          0.89828719,
+          0.90369286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2916593,
+          0.83234286,
+          0.89828719,
+          0.90369286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0016-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Literal translation can • have hilarious side effects. In this scene, the English sentence \"this work is killing me\" was translated literally into Japanese as \"this work of art is murdering me\" (Game: Girls and Quiz)",
+        "raw": "Literal translation can •\nhave hilarious side\neffects. In this scene,\nthe English sentence\n\"this work is killing\nme\" was translated\nliterally into Japanese\nas \"this work of art is\nmurdering me\" (Game:\nGirls and Quiz)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12528998,
+          0.55010714,
+          0.28251146,
+          0.70024286
+        ],
+        "mask_bbox": [
+          0.12397592,
+          0.54939286,
+          0.28382552,
+          0.70131429
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "直译可能产生滑稽的副作用。这里的“this work is killing me”（这工作快累死我了）被直译成日语，成了“这件艺术品正在杀我”。（游戏：Girls and Quiz）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 76,
+            "end": 90,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12528998,
+          0.54867857,
+          0.28251146,
+          0.70381429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12528998,
+          0.54867857,
+          0.28251146,
+          0.70381429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "59c3de1207ff64192a73ac5301a9a3f2617a9a62454c50b104c1d13874ded0aa"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          36
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.54,
+      888.68
+    ],
+    "text_runs": [
+      {
+        "id": "p0016-b002",
+        "blocks": [
+          "p0016-b002",
+          "p0016-b003",
+          "p0016-b004",
+          "p0016-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 449.88
+      },
+      {
+        "id": "p0016-b007",
+        "blocks": [
+          "p0016-b007",
+          "p0016-b008",
+          "p0016-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 762.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

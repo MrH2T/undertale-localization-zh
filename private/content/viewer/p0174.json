@@ -1,0 +1,862 @@
+{
+  "schema_version": 3,
+  "pdf_page": 174,
+  "printed_page": "174",
+  "title": "决心的变形",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:49:29.219511+00:00",
+  "reference_size": [
+    979.786694,
+    1400
+  ],
+  "physical_size_pt": [
+    496.08,
+    708.84
+  ],
+  "image_url": "/assets/p0174.jpg",
+  "image_sha256": "e5a975b7a000082c81194df01a25af389b718f317ae17b955aae75ca956bb788",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0174/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0174-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Determination Migration",
+        "raw": "Determination Migration",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29563578,
+          0.05673571,
+          0.55886654,
+          0.07013571
+        ],
+        "mask_bbox": [
+          0.29430896,
+          0.05602143,
+          0.56019336,
+          0.07120714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "决心的变形",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.04728571,
+          0.91311712,
+          0.07142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07142857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.04728571,
+          0.91311712,
+          0.07142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 104.0
+    },
+    {
+      "id": "p0174-b002",
+      "kind": "aside",
+      "source": {
+        "text": "As per Temminese grammar rules, the word ケツイ (ketsui) in this line is spelled improperly as ケッィ. It’s such a weird spelling that I’m not even sure how to pronounce it!",
+        "raw": "As per Temminese ~\ngrammar rules, the word\n7\"J-( (ketsui) in this\nline is spelled improperly\nas 7\"·:;1. It's such a\nw e ir d s p e ll in g t h a t I ' m\nn o t e v e n s u re h o w t o\npronounce it!",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.11195294,
+          0.08754286,
+          0.28350048,
+          0.2064
+        ],
+        "mask_bbox": [
+          0.11062612,
+          0.08682857,
+          0.2848273,
+          0.20747143
+        ],
+        "line_ids": [
+          2,
+          7,
+          11,
+          13,
+          16,
+          26,
+          34,
+          40
+        ]
+      },
+      "translation": {
+        "text": "按照 Temmie 语的规则，这句中的“ケツイ”（ketsui，决心）被写错成“ケッィ”。这写法太怪，我都不确定该怎么念！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11195294,
+          0.08611429,
+          0.28350048,
+          0.20997143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5205571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11195294,
+          0.08611429,
+          0.28350048,
+          0.20997143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, using the save point in Temmie Village results in the message:",
+        "raw": "In English, using the save point in Temmie Village results in the message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29499278,
+          0.25132857,
+          0.8632185,
+          0.26374286
+        ],
+        "mask_bbox": [
+          0.28691959,
+          0.25061429,
+          0.91515838,
+          0.26481429
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "英语版中，使用 Temmie 村的存档点，会看到：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.2499,
+          0.91311712,
+          0.27204286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.49144285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.2499,
+          0.91311712,
+          0.27204286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b004",
+      "kind": "quote",
+      "source": {
+        "text": "(You feel ... something.) (You're filled with detemmienation.)",
+        "raw": "(You feel ... something.)\n(You're filled with detemmienation.)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34022711,
+          0.2784,
+          0.61064312,
+          0.30945
+        ],
+        "mask_bbox": [
+          0.3389003,
+          0.27768571,
+          0.61196994,
+          0.31052143
+        ],
+        "line_ids": [
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "（你感觉到了……某种东西。）\n（你充满了 detemmienation。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34022711,
+          0.27697143,
+          0.91311712,
+          0.31302143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49144285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0174-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34022711,
+          0.27697143,
+          0.91311712,
+          0.31302143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The word \"detemmienation\" in this message is a combination of the word \"determination\" - a key term in Underta/e's story - and the name \"Temmie\".",
+        "raw": "The word \"detemmienation\" in this message is a combination of the word\n\"determination\" - a key term in Underta/e's story - and the name \"Temmie\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28896085,
+          0.32512143,
+          0.87737464,
+          0.35583571
+        ],
+        "mask_bbox": [
+          0.28691959,
+          0.32440714,
+          0.91515838,
+          0.35690714
+        ],
+        "line_ids": [
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "这里的“detemmienation”结合了 Undertale 故事的关键词 determination（决心），以及名字 Temmie。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.32369286,
+          0.91311712,
+          0.35940714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.49144285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0174-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.32369286,
+          0.91311712,
+          0.35940714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the Japanese script translates \"determination\" as ketsui, this line's wordplay would be lost in a straightforward translation. To get around this obstacle, the translator replaced \"you're filled with detemmienation\" with the Japanese Temminese equivalent of \"you're filled with determination\". The resulting Japanese line no longer relies on wordplay, but it does remain humorous and Temmie-themed.",
+        "raw": "Because the Japanese script translates \"determination\" as ketsui, this line's\nwordplay would be lost in a straightforward translation. To get around this\nobstacle, the translator replaced \"you're filled with detemmienation\" with\nthe Japanese Temminese equivalent of \"you're filled with determination\".\nThe resulting Japanese line no longer relies on wordplay, but it does remain\nhumorous and Temmie-themed.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29495195,
+          0.37117143,
+          0.87958941,
+          0.475
+        ],
+        "mask_bbox": [
+          0.28691959,
+          0.37045714,
+          0.91515838,
+          0.47607143
+        ],
+        "line_ids": [
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "日文把 determination 译作 ketsui（决心），因此直接翻译就会失去文字游戏。为解决这个问题，译者把“你充满了 detemmienation”换成了用日语 Temmie 语写的“你充满了决心”。新版不再依赖双关，却仍然好笑，也仍然与 Temmie 有关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 21,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.36974286,
+          0.91311712,
+          0.47857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.49144285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0174-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.36974286,
+          0.91311712,
+          0.47857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b007",
+      "kind": "heading",
+      "source": {
+        "text": "Flaking Out",
+        "raw": "Flaking Out",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29662579,
+          0.49858571,
+          0.41586603,
+          0.51198571
+        ],
+        "mask_bbox": [
+          0.29529897,
+          0.49787143,
+          0.41719285,
+          0.51305714
+        ],
+        "line_ids": [
+          52
+        ]
+      },
+      "translation": {
+        "text": "麦片没讨到",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.48871429,
+          0.91311712,
+          0.51285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5128571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.48871429,
+          0.91311712,
+          0.51285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 722.0
+    },
+    {
+      "id": "p0174-b008",
+      "kind": "aside",
+      "source": {
+        "text": "This English text is ~ actually a hand-drawn image and not normal text, so a Japanese image had to be created and added to the game too",
+        "raw": "This English text is ~\nactually a hand-drawn\nimage and not normal\ntext, so a Japanese\nimage had to be\ncreated and added to\nthe game too",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12707868,
+          0.5277,
+          0.28449049,
+          0.63268571
+        ],
+        "mask_bbox": [
+          0.12575186,
+          0.52698571,
+          0.28581731,
+          0.63375714
+        ],
+        "line_ids": [
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      "translation": {
+        "text": "这里的英文其实是一张手绘图片，而不是普通文字。因此还得另做一张日文图片，加入游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11737249,
+          0.52627143,
+          0.28449049,
+          0.63625714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11737249,
+          0.52627143,
+          0.28449049,
+          0.63625714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "If the player refuses to give Temmie Flakes to a Temmie in battle, Temmie says \"can't blame a BARK for tryin' ...\" in English as a funny tune plays. In his notes, Toby explained this line and his vision for the Japanese equivalent:",
+        "raw": "If the player refuses to give Temmie Flakes to a Temmie in battle, Temmie says\n\"can't blame a BARK for tryin' ...\" in English as a funny tune plays. In his notes,\nToby explained this line and his vision for the Japanese equivalent:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28947117,
+          0.68276429,
+          0.90375794,
+          0.733
+        ],
+        "mask_bbox": [
+          0.28691959,
+          0.68205,
+          0.91515838,
+          0.73407143
+        ],
+        "line_ids": [
+          60,
+          61,
+          62
+        ]
+      },
+      "translation": {
+        "text": "战斗中，如果玩家拒绝给 Temmie 吃 Temmie Flakes（Temmie 麦片），它会伴着滑稽的曲调说“can’t blame a BARK for tryin’…”（不能怪一声“汪”想试试嘛……）。Toby 在注释中解释了这句话，以及他对日文版本的设想：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.68133571,
+          0.91311712,
+          0.73657143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.68133571,
+          0.91311712,
+          0.73657143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b010",
+      "kind": "quote",
+      "source": {
+        "text": "'' Pretty much a meaningless/nonsense phrase, though the idea is \"you can't blame me for trying (to get those temmie flakes).\" temmie makes a special face during this action. Honestly it might be interesting if this was completely changed, including her face,for absolutely no reason, as one of those translation mysteries like, if her face became very manly and she just says \"You have entered the pit ofh ell ...\"",
+        "raw": "'' Pretty much a meaningless/nonsense phrase, though the idea is \"you\ncan't blame me for trying (to get those temmie flakes).\" temmie makes a\nspecial face during this action. Honestly it might be interesting if this was\ncompletely changed, including her face,for absolutely no reason, as one of\nthose translation mysteries like, if her face became very manly and she just\nsays \"You have entered the pit ofh ell ...\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29691156,
+          0.74904286,
+          0.90071646,
+          0.85219286
+        ],
+        "mask_bbox": [
+          0.29558474,
+          0.74832857,
+          0.90204328,
+          0.85326429
+        ],
+        "line_ids": [
+          63,
+          64,
+          65,
+          66,
+          67,
+          68
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295982791,
+            0.745714286,
+            0.320477918,
+            0.759285714
+          ],
+          "offset": [
+            -43.37,
+            3.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "基本上是句没什么意义的胡话，不过意思是“不能怪我想试着弄到那些 Temmie 麦片”。Temmie 做这个动作时会露出特殊表情。说真的，要是毫无理由地把它全改了，连表情一起改，或许挺有趣，变成那种让人摸不着头脑的翻译谜团。比如她突然长出一张特别硬汉的脸，只说：“你已踏入地狱深渊……”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34024754,
+          0.74761429,
+          0.91311712,
+          0.85576429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0174-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.34024754,
+          0.74761429,
+          0.91311712,
+          0.85576429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0174-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Using this information, the translator changed the Temrnie line to say \"heh ... you've just opened the gates to hell\" in an assertive, masculine tone in Japanese.",
+        "raw": "Using this information, the translator changed the Temrnie line to say \"heh ...\nyou've just opened the gates to hell\" in an assertive, masculine tone in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29654414,
+          0.86685,
+          0.91311712,
+          0.8979
+        ],
+        "mask_bbox": [
+          0.28691959,
+          0.86613571,
+          0.91515838,
+          0.89897143
+        ],
+        "line_ids": [
+          69,
+          70
+        ]
+      },
+      "translation": {
+        "text": "根据这段说明，译者把日文台词改成了“呵……你刚刚打开了地狱之门”，用强硬、男性化的语气说出。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29495195,
+          0.86542143,
+          0.91311712,
+          0.90147143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0174-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29495195,
+          0.86542143,
+          0.91311712,
+          0.90147143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "40d853914d825129de665abeda4df08d44f5f2ad0874bbda703c4e088bf5936a"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          10,
+          12,
+          14,
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          35,
+          36,
+          37,
+          38,
+          39,
+          71
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.99,
+      894.66
+    ],
+    "text_runs": [
+      {
+        "id": "p0174-b003",
+        "blocks": [
+          "p0174-b003",
+          "p0174-b004",
+          "p0174-b005",
+          "p0174-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 688.02
+      },
+      {
+        "id": "p0174-b009",
+        "blocks": [
+          "p0174-b009",
+          "p0174-b010",
+          "p0174-b011"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

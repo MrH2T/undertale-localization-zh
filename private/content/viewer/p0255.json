@@ -1,0 +1,936 @@
+{
+  "schema_version": 3,
+  "pdf_page": 255,
+  "printed_page": "255",
+  "title": "一起组乐队",
+  "subtitle": "结局 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.327059+00:00",
+  "reference_size": [
+    985.263868,
+    1400
+  ],
+  "physical_size_pt": [
+    500.88,
+    711.72
+  ],
+  "image_url": "/assets/p0255.jpg",
+  "image_sha256": "b90232ea1badcedf0ca05a4fefa8907ab89f8a27243868c199c7cf6ab5d95b57",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0255/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0255-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Banding Together",
+        "raw": "Banding Together",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09589309,
+          0.05661429,
+          0.28060503,
+          0.06982143
+        ],
+        "mask_bbox": [
+          0.09457365,
+          0.0559,
+          0.28192448,
+          0.07089286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "一起组乐队",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09498471,
+          0.04657143,
+          0.70310099,
+          0.07071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09498471,
+          0.04657143,
+          0.70310099,
+          0.07071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 103.0
+    },
+    {
+      "id": "p0255-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Now that I think about it, the \"CHITEI NO OWARI\" name nicely fits the context of nearing the end of Underta/e",
+        "raw": "Now that I think about\nit, the \"CHITEI NO\nOWARI\" name nicely\nfits the context of\nnearing the end of\nUnderta/e",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73210845,
+          0.08548571,
+          0.87275097,
+          0.17389286
+        ],
+        "mask_bbox": [
+          0.730789,
+          0.08477143,
+          0.87407042,
+          0.17496429
+        ],
+        "line_ids": [
+          4,
+          6,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "现在想想，“CHITEI NO OWARI”（地下世界的终结）还挺契合《Undertale》即将结束的情境。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 36,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73151977,
+          0.08405714,
+          0.87767351,
+          0.17746429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.51,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73151977,
+          0.08405714,
+          0.87767351,
+          0.17746429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, Torie! sends the main character a bad joke via text message:",
+        "raw": "In the English script, Torie! sends the main character a bad joke via text\nmessage:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09521307,
+          0.24017857,
+          0.64595894,
+          0.27076429
+        ],
+        "mask_bbox": [
+          0.09274673,
+          0.23946429,
+          0.7051309,
+          0.27183571
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "英文剧本中，Toriel 发短信给主角，讲了一个烂笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09498471,
+          0.23875,
+          0.70310099,
+          0.27433571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09498471,
+          0.23875,
+          0.70310099,
+          0.27433571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b004",
+      "kind": "quote",
+      "source": {
+        "text": "If Sans and I started a band, do you know what we could call it? \"Dreemurr\" and \"Femur.\" L-0-L! PS - That is only a joke. Do not refer to me as Dreenmrr",
+        "raw": "If Sans and I started a band, do you know what we could call it?\n\"Dreemurr\" and \"Femur.\"\nL-0-L!\nPS - That is only a joke. Do not refer to me as Dreenmrr",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13342619,
+          0.28581429,
+          0.61342958,
+          0.35367857
+        ],
+        "mask_bbox": [
+          0.13210674,
+          0.2851,
+          0.61474902,
+          0.35475
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "如果我和 Sans 组个乐队，你知道可以叫什么吗？“Dreemurr and Femur”（Dreemurr 与股骨）。笑—死—啦！附言：只是开玩笑。别叫我 Dreemurr。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13342619,
+          0.28438571,
+          0.70310099,
+          0.35725
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0255-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13342619,
+          0.28438571,
+          0.70310099,
+          0.35725
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The joke here is that Toriel's last name, \"Dreemurr\", rhymes with \"Femur\", which is a type oflarge bone. This joke would be lost in a literal translation into Japanese, so the translator replaced it with something new:",
+        "raw": "The joke here is that Toriel's last name, \"Dreemurr\", rhymes with \"Femur\",\nwhich is a type oflarge bone. This joke would be lost in a literal translation into\nJapanese, so the translator replaced it with something new:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09477664,
+          0.36865714,
+          0.70310099,
+          0.41745
+        ],
+        "mask_bbox": [
+          0.09274673,
+          0.36794286,
+          0.7051309,
+          0.41852143
+        ],
+        "line_ids": [
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "笑点在于，Toriel 的姓 Dreemurr 和 femur（股骨，一种大骨头）押韵。直译成日文就没了笑点，因此译者换了个新笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09498471,
+          0.36722857,
+          0.70310099,
+          0.42102143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0255-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09498471,
+          0.36722857,
+          0.70310099,
+          0.42102143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b006",
+      "kind": "quote",
+      "source": {
+        "text": "If Sans and I started a band, what do you think its name would be? \"CHITEI NO OWARI'' LOL! PS - I'm thinking of having Sans be our DJ.",
+        "raw": "If Sans and I started a band, what do you think its name would be?\n\"CHITEI NO OWARI''\nLOL!\nPS - I'm thinking of having Sans be our DJ.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13340589,
+          0.43283571,
+          0.63779869,
+          0.50002857
+        ],
+        "mask_bbox": [
+          0.13208644,
+          0.43212143,
+          0.63911813,
+          0.5011
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "如果我和 Sans 组个乐队，你觉得会叫什么？“CHITEI NO OWARI”（地下世界的终结）。哈哈哈！附言：我想让 Sans 当我们的 DJ。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13340589,
+          0.43140714,
+          0.70310099,
+          0.5036
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0255-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.13340589,
+          0.43140714,
+          0.70310099,
+          0.5036
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The name \"CHITEI NO OWARI\" (\"End of the Underground\"), is a reference to \"SEKAI NO OWARI\" (\"End of the World\"), a Japanese band that achieved incredible popularity in the 2010s. In this way, the untranslatable joke of the original text was replaced with a comedic reference to a real-life band.",
+        "raw": "The name \"CHITEI NO OWARI\" (\"End of the Underground\"), is a reference\nto \"SEKAI NO OWARI\" (\"End of the World\"), a Japanese band that achieved\nincredible popularity in the 2010s. In this way, the untranslatable joke of the\noriginal text was replaced with a comedic reference to a real-life band.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09519277,
+          0.51534286,
+          0.68470998,
+          0.58302143
+        ],
+        "mask_bbox": [
+          0.09274673,
+          0.51462857,
+          0.7051309,
+          0.58409286
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "“CHITEI NO OWARI”（地下世界的终结）是在致敬日本乐队“SEKAI NO OWARI”（世界末日）；这支乐队在 2010 年代大受欢迎。原本无法直译的笑话，就这样换成了对现实乐队的幽默引用。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09498471,
+          0.51391429,
+          0.70310099,
+          0.58659286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0255-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09498471,
+          0.51391429,
+          0.70310099,
+          0.58659286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This small change in this small line has resulted in an unexpected side effect: Japanese fans now associate Sans with being a DJ. So while English-speaking fans might draw Sans playing musical instruments as part of\"Dreemur and Femur\", Japanese fans often portray him as the DJ for \"CHITEI NO OWARI\".",
+        "raw": "This small change in this small line has resulted in an unexpected side effect:\nJapanese fans now associate Sans with being a DJ. So while English-speaking\nfans might draw Sans playing musical instruments as part of\"Dreemur and\nFemur\", Japanese fans often portray him as the DJ for \"CHITEI NO OWARI\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09477664,
+          0.59762143,
+          0.69369234,
+          0.66596429
+        ],
+        "mask_bbox": [
+          0.09274673,
+          0.59690714,
+          0.7051309,
+          0.66703571
+        ],
+        "line_ids": [
+          37,
+          38,
+          40,
+          42
+        ]
+      },
+      "translation": {
+        "text": "这一小句里的小改动，产生了意想不到的影响：日本粉丝开始把 Sans 与 DJ 联系起来。因此，英语圈粉丝可能会画他作为“Dreemurr and Femur”的成员演奏乐器，日本粉丝却常把他画成“CHITEI NO OWARI”的 DJ。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09498471,
+          0.59619286,
+          0.70310099,
+          0.66953571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0255-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.09498471,
+          0.59619286,
+          0.70310099,
+          0.66953571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Say hello to the members of SEKAI NO OWARI",
+        "raw": "Say hello to the members\nof SEKAI NO OWARI",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73249413,
+          0.62639286,
+          0.88862489,
+          0.65337857
+        ],
+        "mask_bbox": [
+          0.73117469,
+          0.62567857,
+          0.88994434,
+          0.65445
+        ],
+        "line_ids": [
+          39,
+          41
+        ]
+      },
+      "translation": {
+        "text": "来认识一下 SEKAI NO OWARI 的成员们。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73249413,
+          0.62496429,
+          0.88862489,
+          0.65695
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6748714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73249413,
+          0.62496429,
+          0.88862489,
+          0.65695
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b010",
+      "kind": "caption",
+      "source": {
+        "text": "LEFT: An illustration of \"Dreemur and Femur\" by an American fan",
+        "raw": "LEFT: An illustration of\n\"Dreemur and Femur\" by\nan American fan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7262014,
+          0.68201429,
+          0.88182468,
+          0.72352143
+        ],
+        "mask_bbox": [
+          0.72488196,
+          0.6813,
+          0.88314413,
+          0.72459286
+        ],
+        "line_ids": [
+          43,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "左：美国粉丝画的“Dreemurr and Femur”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7262014,
+          0.68058571,
+          0.88182468,
+          0.72709286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7278142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7262014,
+          0.68058571,
+          0.88182468,
+          0.72709286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b011",
+      "kind": "caption",
+      "source": {
+        "text": "RIGHT: An illustration of \"CHITEI NO OWARI\" by a Japanese fan",
+        "raw": "RIGHT: An illustration of\n\"CHITEI NO OWARI\" by a\nJapanese fan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72669873,
+          0.73495714,
+          0.88380385,
+          0.77747143
+        ],
+        "mask_bbox": [
+          0.72537928,
+          0.73424286,
+          0.88512329,
+          0.77854286
+        ],
+        "line_ids": [
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "右：日本粉丝画的“CHITEI NO OWARI”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72669873,
+          0.73352857,
+          0.88380385,
+          0.78104286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72669873,
+          0.73352857,
+          0.88380385,
+          0.78104286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0255-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Ending",
+        "raw": "Ending",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65470786,
+          0.93334286,
+          0.70514105,
+          0.94317857
+        ],
+        "mask_bbox": [
+          0.65338842,
+          0.93262857,
+          0.7064605,
+          0.94425
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "结局",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65470786,
+          0.93191429,
+          0.70514105,
+          0.94991429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9499142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65470786,
+          0.93191429,
+          0.70514105,
+          0.94991429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ending",
+        "chapter_id": "chapter-252"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "36662cea8e36949c8a198ef92701d1dbbfba1e53729e7af2e43c39ac243b46dc"
+  },
+  "chapter_id": "chapter-252",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      93.58,
+      692.74
+    ],
+    "text_runs": [
+      {
+        "id": "p0255-b003",
+        "blocks": [
+          "p0255-b003",
+          "p0255-b004",
+          "p0255-b005",
+          "p0255-b006",
+          "p0255-b007",
+          "p0255-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 946.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

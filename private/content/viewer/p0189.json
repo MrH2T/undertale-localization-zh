@@ -1,0 +1,986 @@
+{
+  "schema_version": 3,
+  "pdf_page": 189,
+  "printed_page": "189",
+  "title": "机器人的节目改名",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    979.835322,
+    1400
+  ],
+  "physical_size_pt": [
+    499.8,
+    714.12
+  ],
+  "image_url": "/assets/p0189.jpg",
+  "image_sha256": "df905c918951cecb043a4bb1b4045120d516090914ce6590fff889a5df7ad7f7",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0189/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0189-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Robot Rebranding",
+        "raw": "Robot Rebranding",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09465876,
+          0.05743571,
+          0.28299653,
+          0.07102143
+        ],
+        "mask_bbox": [
+          0.09333201,
+          0.05672143,
+          0.28432329,
+          0.07209286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "机器人的节目改名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09389333,
+          0.05071429,
+          0.70419997,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09389333,
+          0.05071429,
+          0.70419997,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "region_id": "title"
+    },
+    {
+      "id": "p0189-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Mettaton refers to this game show as a \"quiz show\" in English, so the updated Japanese sign is actually more consistent with the game's dialogue",
+        "raw": "Mettaton refers to\nthis game show as\na \"quiz show\" in\nEnglish, so the\nupdated Japanese\nsign is actually more\nconsistent with the\ngame's dialogue",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73117389,
+          0.08756429,
+          0.85837893,
+          0.20589286
+        ],
+        "mask_bbox": [
+          0.72984713,
+          0.08685,
+          0.85970569,
+          0.20696429
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 在英文台词里也把节目称作“quiz show”（问答节目），因此日版的新招牌反而与台词更一致。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73073504,
+          0.08642857,
+          0.87973967,
+          0.21285714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2985285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73073504,
+          0.08642857,
+          0.87973967,
+          0.21285714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-2"
+    },
+    {
+      "id": "p0189-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton forces the main character to participate in a television game show. In the English version of Underta/e, the game show begins with a flashing sign that says \"GAME SHOW''. Game shows are usually called \"quiz shows\" in Japan, though, so the sign was updated to say \"QUIZ SHOW\" in the Japanese release.",
+        "raw": "Mettaton forces the main character to participate in a television game show. In\nthe English version of Underta/e, the game show begins with a flashing sign that\nsays \"GAME SHOW''. Game shows are usually called \"quiz shows\" in Japan,\nthough, so the sign was updated to say \"QUIZ SHOW\" in the Japanese release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09403621,
+          0.22222857,
+          0.699689,
+          0.28935
+        ],
+        "mask_bbox": [
+          0.09095406,
+          0.22151429,
+          0.70560837,
+          0.29042143
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 强迫主角参加电视游戏节目。在英文版《Undertale》中，节目开场有一块闪烁的“GAME SHOW”（游戏节目）招牌。不过日本通常把这类节目叫作“quiz show”（问答节目），因此日文版把招牌改成了“QUIZ SHOW”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09299522,
+          0.21785714,
+          0.70419997,
+          0.30142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09299522,
+          0.21785714,
+          0.70419997,
+          0.30142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-top"
+    },
+    {
+      "id": "p0189-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Toby's Japanese friend Moa (the developer behind Hatoful Boyfriend) drew this Japanese game show title card and helped check Underta/e's localization in general",
+        "raw": "Toby's Japanese friend\nMoa (the developer\nbehind Hatoful\nBoyfriend) drew this\nJapanese game show\ntitle card and helped\ncheck Underta/e's\nlocalization in general",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73027578,
+          0.30567143,
+          0.86948284,
+          0.42467143
+        ],
+        "mask_bbox": [
+          0.72894902,
+          0.30495714,
+          0.8708096,
+          0.42574286
+        ],
+        "line_ids": [
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "Toby 的日本朋友 Moa（《Hatoful Boyfriend》的开发者）绘制了这张日文节目标题画面，也帮助检查了《Undertale》的整体本地化。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 60,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73073504,
+          0.30428571,
+          0.90015126,
+          0.43214286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5731000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73073504,
+          0.30428571,
+          0.90015126,
+          0.43214286
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-4"
+    },
+    {
+      "id": "p0189-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Later, Mettaton forces the main character to participate in a cooking show. This show begins with a hand-drawn title card that says \"COOKING WITH A KILLER ROBOT''. Toby asked a Japanese artist named Moa to redraw this title card with a new, localized Japanese name that roughly translates as \"The Killer Robot's Kitchen of Sparkles\".",
+        "raw": "Later, Mettaton forces the main character to participate in a cooking show.\nThis show begins with a hand-drawn title card that says \"COOKING WITH A\nKILLER ROBOT''. Toby asked a Japanese artist named Moa to redraw this title\ncard with a new, localized Japanese name that roughly translates as \"The Killer\nRobot's Kitchen of Sparkles\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09299522,
+          0.44170714,
+          0.70356721,
+          0.52694286
+        ],
+        "mask_bbox": [
+          0.09095406,
+          0.44099286,
+          0.70560837,
+          0.52801429
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "后来，Mettaton 又强迫主角参加烹饪节目。开场手绘标题写着“COOKING WITH A KILLER ROBOT”（和杀人机器人一起做饭）。Toby 请日本画师 Moa 重新绘制标题，换上本地化后的日文名字，大意是“杀人机器人的闪亮厨房”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09299522,
+          0.43785714,
+          0.70419997,
+          0.53642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5427642828571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09299522,
+          0.43785714,
+          0.70419997,
+          0.53642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-middle"
+    },
+    {
+      "id": "p0189-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "On the Fly",
+        "raw": "On the Fly",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0943628,
+          0.54990714,
+          0.19960497,
+          0.56377143
+        ],
+        "mask_bbox": [
+          0.09303604,
+          0.54919286,
+          0.20093172,
+          0.56484286
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "苍蝇双关",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09389333,
+          0.54071429,
+          0.70419997,
+          0.565
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.565,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09389333,
+          0.54071429,
+          0.70419997,
+          0.565
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 795.0,
+      "region_id": "section-title"
+    },
+    {
+      "id": "p0189-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #7: Come up with a different English pun that could fit this fly counting game show scene!",
+        "raw": "Reader Challenge #7:\nCome up with a\ndifferent English pun\nthat could fit this fly\ncounting game show\nscene!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73069421,
+          0.58024286,
+          0.86249187,
+          0.66865714
+        ],
+        "mask_bbox": [
+          0.72936746,
+          0.57952857,
+          0.86381862,
+          0.66972857
+        ],
+        "line_ids": [
+          30,
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 7：再想一个适合这场数苍蝇节目的英语双关吧！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73073504,
+          0.57857143,
+          0.87973967,
+          0.68571429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73073504,
+          0.57857143,
+          0.87973967,
+          0.68571429
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-7"
+    },
+    {
+      "id": "p0189-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton challenges the player to count the number of flies in a jar, then says:",
+        "raw": "Mettaton challenges the player to count the number of flies in a jar, then says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09403621,
+          0.69812857,
+          0.68920765,
+          0.71045714
+        ],
+        "mask_bbox": [
+          0.09095406,
+          0.69741429,
+          0.70560837,
+          0.71152857
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 让玩家数罐子里有多少只苍蝇，然后说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09299522,
+          0.69642857,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.915,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09299522,
+          0.69642857,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    },
+    {
+      "id": "p0189-b009",
+      "kind": "quote",
+      "source": {
+        "text": "DON'T 'COUNT' ON YOUR VICTORY ..",
+        "raw": "DON'T 'COUNT' ON YOUR VICTORY ..",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13797216,
+          0.72544286,
+          0.44374804,
+          0.73720714
+        ],
+        "mask_bbox": [
+          0.13664541,
+          0.72472857,
+          0.44507479,
+          0.73827857
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "别“指望”（COUNT ON）自己会赢……",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13777825,
+          0.72357143,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.915,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0189-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.13777825,
+          0.72357143,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    },
+    {
+      "id": "p0189-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This pun on the English word \"count\" is lost in a literal translation, so the translator adjusted it slightly:",
+        "raw": "This pun on the English word \"count\" is lost in a literal translation, so the\ntranslator adjusted it slightly:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09301563,
+          0.7529,
+          0.65733495,
+          0.78370714
+        ],
+        "mask_bbox": [
+          0.09095406,
+          0.75218571,
+          0.70560837,
+          0.78477857
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "这里的 count 既可指“数数”，count on 又是“指望”。直译会丢掉双关，所以译者稍作调整：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09299522,
+          0.75142857,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.915,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0189-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.09299522,
+          0.75142857,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    },
+    {
+      "id": "p0189-b011",
+      "kind": "quote",
+      "source": {
+        "text": "But a \"hae aru\" victory won't be so easy to achieve.",
+        "raw": "But a \"hae aru\" victory won't be so easy to achieve.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13747208,
+          0.79860714,
+          0.51769924,
+          0.81092857
+        ],
+        "mask_bbox": [
+          0.13614533,
+          0.79789286,
+          0.51902599,
+          0.812
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "不过，想取得“hae aru”的胜利可没那么容易。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13777825,
+          0.79714286,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.915,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0189-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.13777825,
+          0.79714286,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    },
+    {
+      "id": "p0189-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "The joke here is that hae aru usually means \"glorious\" or \"honorable\", but hae by itself can mean \"fly\" or \"flies\". Additionally, hae aru can be interpreted as a way of saying \"there are flies\". The result is a Japanese pun that uses completely different words to fit the scene seamlessly.",
+        "raw": "The joke here is that hae arn usually means \"glorious\" or \"honorable\", but\nhae by itself can mean \"fly\" or \"flies\". Additionally, /we aru can be interpreted\nas a way of saying \"there are Aies''. The result is a Japanese pun that uses\ncompletely different words to fit the scene seamlessly.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09299522,
+          0.82617857,
+          0.68571727,
+          0.89395
+        ],
+        "mask_bbox": [
+          0.09095406,
+          0.82546429,
+          0.70560837,
+          0.89502143
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "笑点在于，hae aru 通常表示“光荣的”或“荣耀的”，但 hae 单独也可以指“苍蝇”。此外，hae aru 还可以理解为“有苍蝇”。日语用了完全不同的词，构成了同样贴合场景的双关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 31,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 56,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09299522,
+          0.82428571,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.915,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0189-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09299522,
+          0.82428571,
+          0.70419997,
+          0.915
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    },
+    {
+      "id": "p0189-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64603713,
+          0.93099286,
+          0.70437346,
+          0.94065
+        ],
+        "mask_bbox": [
+          0.64471038,
+          0.93027857,
+          0.70570022,
+          0.94172143
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64603713,
+          0.92956429,
+          0.70437346,
+          0.94857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9485714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64603713,
+          0.92956429,
+          0.70437346,
+          0.94857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      },
+      "region_id": "footer"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "561b85846ed6025a7e548fef827ca5ca4a636d300e71feb5694c9ef1f480d32c"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      91.14,
+      689.38
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "pdf_page": 14,
+  "printed_page": "14",
+  "title": "什么是本地化？",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    991.932489,
+    1400
+  ],
+  "physical_size_pt": [
+    503.76,
+    711.0
+  ],
+  "image_url": "/assets/p0014.jpg",
+  "image_sha256": "e552b5c6b83d7b726de1ade555cec01f41c7141de0c882119d32ed6b48a542b5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0014/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0c0d40a4d2f94644ae291792d8eaf3113f62d3a3c511d0a1c751fafe5c09d4e4"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "schema_version": 3,
+  "pdf_page": 26,
+  "printed_page": "26",
+  "title": "语言的独特之处",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    990.272835,
+    1400
+  ],
+  "physical_size_pt": [
+    500.88,
+    708.12
+  ],
+  "image_url": "/assets/p0026.jpg",
+  "image_sha256": "db5a046367dab565171db3c622376ace84cc3aa83a96323e73f7d02ee8956d6c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0026/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0026-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Language Peculiarities",
+        "raw": "Language Peculiarities",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28801154,
+          0.06007143,
+          0.52170471,
+          0.07362857
+        ],
+        "mask_bbox": [
+          0.28669877,
+          0.05935714,
+          0.52301748,
+          0.0747
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "语言的独特之处",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.05014286,
+          0.89693463,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.05014286,
+          0.89693463,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0026-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Despite their differences, DVDs, Blu-rays, and VHS tapes can all hold the same movie. These formats aren't compatible with each other, though - you can't just stick a VHS tape into a DVD player. Languages are very similar - they can say roughly the same things, but you can't just shove text from one language into another and hope it'll work right.",
+        "raw": "Despite their differences, DVDs, Blu-rays, and VHS tapes can all hold the same\nmovie. These formats aren't compatible with each other, though - you can't\njust stick a VHS tape into a DVD player. Languages are very similar - they can\nsay roughly the same things, but you can't just shove text from one language\ninto another and hope it'll work right.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28741574,
+          0.08888571,
+          0.89004764,
+          0.17419286
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.08817143,
+          0.89895428,
+          0.17526429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "DVD、蓝光和 VHS 录像带虽各不相同，却都能装下同一部电影。不过，它们彼此并不兼容：你不能把 VHS 录像带塞进 DVD 播放器。语言也很相似，能表达大致相同的内容，却不能把一种语言的文字硬塞进另一种，就指望一切正常。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.08745714,
+          0.89693463,
+          0.17776429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.23278571285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.08745714,
+          0.89693463,
+          0.17776429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Here are some examples of how a language's uniqueness can cause literal translations to miss the mark.",
+        "raw": "Here are some examples of how a language's uniqueness can cause literal\ntranslations to miss the mark.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28789036,
+          0.18988571,
+          0.84668585,
+          0.22062857
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.18917143,
+          0.89895428,
+          0.2217
+        ],
+        "line_ids": [
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "下面几个例子说明，语言的独特之处如何让直译偏离原意。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.18845714,
+          0.89693463,
+          0.2242
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.23278571285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0026-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.18845714,
+          0.89693463,
+          0.2242
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "Sound Effects",
+        "raw": "Sound Effects",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28874871,
+          0.23992857,
+          0.41572381,
+          0.25193571
+        ],
+        "mask_bbox": [
+          0.28743594,
+          0.23921429,
+          0.41703658,
+          0.25300714
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "拟声词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.22993571,
+          0.89693463,
+          0.25407857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.25407856714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.22993571,
+          0.89693463,
+          0.25407857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Some sound-effect words, such as animal sounds, are generally easy to convert between languages. But some languages use sound-effect words more than others, and some languages have sound-effect words that don't even exist in other languages. For example, the Japanese language has a sound for staring. It even has a sound effect for silence. When it comes to sound effects, sometimes a literal translation isn't even possible.",
+        "raw": "Some sound-effect words, such as animal sounds, are generally easy to convert\nbetween languages. But some languages use sound-effect words more than\nothers, and some languages have sound-effect words that don't even exist in\nother languages. For example, the Japanese language has a sound for staring. It\neven has a sound effect for silence. When it comes to sound effects, sometimes\na literal translation isn't even possible.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28847605,
+          0.26310714,
+          0.89280446,
+          0.36770714
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.26239286,
+          0.89895428,
+          0.36877857
+        ],
+        "line_ids": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "动物叫声之类的拟声词，通常很容易在语言之间转换。但有的语言比别的语言更常用这类词，有的语言还有别的语言根本没有的拟声、拟态词。例如日语有表示盯着看的“声音”，甚至连寂静也有“声音”。碰到这类词，有时连直译都不可能。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.26167857,
+          0.89693463,
+          0.37127857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.38054285285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.26167857,
+          0.89693463,
+          0.37127857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Punctuation",
+        "raw": "Punctuation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28999079,
+          0.38768571,
+          0.40095011,
+          0.39969286
+        ],
+        "mask_bbox": [
+          0.28867802,
+          0.38697143,
+          0.40226288,
+          0.40076429
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "标点",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.37769286,
+          0.89693463,
+          0.40183572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4018357171428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.37769286,
+          0.89693463,
+          0.40183572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Not every language uses punctuation the same way. Some languages have similar-looking punctuation marks that serve different purposes. And some languages have punctuation marks that don't exist in other languages. Because of this, a literal translation with all of the original punctuation intact can have unintended effects.",
+        "raw": "Not every language uses punctuation the same way. Some languages have\nsimilar-looking punctuation marks that serve different purposes. And some\nlanguages have punctuation marks that don't exist in other languages. Because\nof this, a literal translation with all of the original punctuation intact can have\nunintended effects.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28901126,
+          0.40985714,
+          0.89018902,
+          0.49683571
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.40914286,
+          0.89895428,
+          0.49790714
+        ],
+        "line_ids": [
+          19,
+          21,
+          23,
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "不是所有语言都以同样方式使用标点。有些标点看起来相似，用途却不同；有些标点在其他语言里根本不存在。因此，直译时照搬原来的全部标点，可能产生意料之外的效果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.40842857,
+          0.89693463,
+          0.50040714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5086571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.40842857,
+          0.89693463,
+          0.50040714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "Writing Systems",
+        "raw": "Writing Systems",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28988981,
+          0.5158,
+          0.44061594,
+          0.52780714
+        ],
+        "mask_bbox": [
+          0.28857704,
+          0.51508571,
+          0.44192871,
+          0.52887857
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "文字系统",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.50580714,
+          0.89693463,
+          0.52995
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5299499971428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.50580714,
+          0.89693463,
+          0.52995
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unlike English, the Japanese language has three distinct writing systems. This lets you spell the same word in multiple ways - sometimes dozens of ways - to achieve different effects. What's more, the Japanese language even allows you to write words on top of other words to achieve various effects not possible in other languages. Unsurprisingly, these effects tend to get flattened in a literal translation.",
+        "raw": "Unlike English, the Japanese\nlanguage has three distinct writing\nsystems. This lets you spell the same\nword in multiple ways - sometimes\ndozens of ways - to achieve different\neffects. What's more, the Japanese\nlanguage even allows you to write\nwords on top of other words to\nachieve various effects not possible\nin other languages. Unsurprisingly,\nthese effects tend to get flattened in a\nliteral translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28939499,
+          0.53865,
+          0.57637651,
+          0.75409286
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.53793571,
+          0.57768928,
+          0.75516429
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          42,
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "与英语不同，日语有三套不同的文字系统。同一个词可以有多种写法，有时甚至几十种，能产生不同效果。日语还可以在词语上面再写一层文字，做到其他语言做不到的事。这些效果往往在直译中被磨平，也就不奇怪了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28741574,
+          0.53722143,
+          0.57637651,
+          0.75766429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7669214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28741574,
+          0.53722143,
+          0.57637651,
+          0.75766429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese text can have extra text on top to change meanings or pronunciations (Game: Tales of Vesperia)",
+        "raw": "Japanese text can have extra text on top to\nchange meanings or pronunciations\n(Game: Tales of Vesperia)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60836769,
+          0.71180714,
+          0.87641503,
+          0.7529
+        ],
+        "mask_bbox": [
+          0.60705492,
+          0.71109286,
+          0.8777278,
+          0.75397143
+        ],
+        "line_ids": [
+          43,
+          45,
+          47
+        ]
+      },
+      "translation": {
+        "text": "日语文字上方还能加字，改变意思或读音。（游戏：Tales of Vesperia）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.71037857,
+          0.89693463,
+          0.75647143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7669214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.71037857,
+          0.89693463,
+          0.75647143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b011",
+      "kind": "subheading",
+      "source": {
+        "text": "Numbers",
+        "raw": "Numbers",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29190945,
+          0.77406429,
+          0.3742201,
+          0.78606429
+        ],
+        "mask_bbox": [
+          0.29059668,
+          0.77335,
+          0.37553287,
+          0.78713571
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "数字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.76406429,
+          0.89693463,
+          0.78820715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7882071471428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.76406429,
+          0.89693463,
+          0.78820715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "If you type \"58008\" on a calculator and turn it upside down, it makes English speaking schoolchildren laugh because it spells \"BOOBS\". This numberplay would make little sense to non-English speakers, however. Similarly, the Japanese language has its own unique forms of numberplay that make zero sense in other languages - November 4•h can be interpreted as \"Nice Butt Day\", for example. When language is involved, numbers lose their literal predictability.",
+        "raw": "If you type \"58008\" on a calculator and turn it upside down, it makes English\nspeaking schoolchildren laugh because it spells \"BOOBS\". This numberplay\nwould make little sense to non-English speakers, however. Similarly, the\nJapanese language has its own unique forms of numberplay that make zero sense\nin other languages - November 4•h can be interpreted as \"Nice Butt Day\", for\nexample. When language is involved, numbers lose their literal predictability.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28978882,
+          0.79734286,
+          0.89693463,
+          0.90219286
+        ],
+        "mask_bbox": [
+          0.28539609,
+          0.79662857,
+          0.89895428,
+          0.90326429
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      },
+      "translation": {
+        "text": "在计算器上输入“58008”，再上下颠倒，会让英语国家的小学生发笑，因为它看起来像“BOOBS”（胸部）。不过，不懂英语的人恐怕不明白这个数字游戏。日语同样有别的语言完全看不懂的数字游戏，例如11月4日可以解作“美臀日”。一旦牵涉语言，数字也不再总能按字面理解。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28847605,
+          0.79591429,
+          0.89693463,
+          0.90576429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28847605,
+          0.79591429,
+          0.89693463,
+          0.90576429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0026-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Sound effect translation can lead to humorous results if done poorly. Here, the Japanese sound effect for chewing food hilariously became \"CHUCK, CHUCK\" in English (Game: Battle Rangers)",
+        "raw": "Sound effect translation\ncan lead to humorous\nresults if done poorly.\nHere, the Japanese\nsound effect for chewing\nfood hilariously became\n\"CHUCK, CHUCK\" in\nEnglish (Game: Battle\nRangers)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10721288,
+          0.39355,
+          0.26326078,
+          0.52813571
+        ],
+        "mask_bbox": [
+          0.10590011,
+          0.39283571,
+          0.26457355,
+          0.52920714
+        ],
+        "line_ids": [
+          17,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "拟声词翻译得不好，可能产生滑稽的结果。这里的日语咀嚼声就莫名变成了英语“CHUCK, CHUCK”。（游戏：Battle Rangers）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10721288,
+          0.39212143,
+          0.26326078,
+          0.53170714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.10721288,
+          0.39212143,
+          0.26326078,
+          0.53170714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c95af28006f3b59ac77174034909e92bba30791f81ec9f0715062960e7f53d92"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      285.67,
+      888.21
+    ],
+    "text_runs": [
+      {
+        "id": "p0026-b002",
+        "blocks": [
+          "p0026-b002",
+          "p0026-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 325.9
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "schema_version": 3,
+  "pdf_page": 60,
+  "printed_page": "60",
+  "title": "Getting it Localized",
+  "subtitle": "正文 · 双图与图注",
+  "revision": 13,
+  "updated_at": "2026-10-22T16:28:22.423329+00:00",
+  "reference_size": [
+    988.567585743107,
+    1400
+  ],
+  "image_url": "/assets/p0060.jpg",
+  "blocks": [
+    {
+      "id": "p0060-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.044286,
+          0.898888,
+          0.079286
+        ],
+        "mask_bbox": [
+          0.2882959183673469,
+          0.045,
+          0.7384421768707483,
+          0.08071428571428571
+        ]
+      },
+      "translation": {
+        "text": "让游戏走向本地化",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.039285714285714285,
+          0.8992809523809523,
+          0.08357142857142857
+        ],
+        "font_size": 46,
+        "line_height": 1.2608695652173914,
+        "background": "transparent",
+        "font_weight": 750,
+        "style": "chapter-heading"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.039285714285714285,
+          0.8992809523809523,
+          0.08357142857142857
+        ],
+        "font_size": 46,
+        "leading": 58
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before Undertale’s English release, Toby told me that he intended to release the game in Japanese sometime. He faced some big questions, though. How do you get a game translated and localized? And how do you ensure the final product is good if you don’t even know the language yourself?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.097143,
+          0.897877,
+          0.167857
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.09880714285714287,
+          0.904338775510204,
+          0.17047857142857142
+        ]
+      },
+      "translation": {
+        "text": "在 Undertale 英文版发售之前，Toby 告诉我，他打算日后推出日文版。不过，他面临着几个大问题：该怎样找人翻译并完成游戏的本地化？如果自己连那门语言都不懂，又该如何确保最终成品的质量？",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.09571428571428571,
+          0.8992809523809523,
+          0.16285714285714287
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.09571428571428571,
+          0.8992809523809523,
+          0.16285714285714287
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In this chapter, we’ll briefly look at how game developers approach localization, who Toby hired to localize Undertale, and how Undertale’s localization process worked on the inside.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.177857,
+          0.897877,
+          0.231429
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.1797642857142857,
+          0.904338775510204,
+          0.2323785714285714
+        ]
+      },
+      "translation": {
+        "text": "本章将简要介绍游戏开发者如何开展本地化、Toby 聘请了谁来为 Undertale 做本地化，以及这个过程在团队内部是如何运作的。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 32,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.17785714285714285,
+          0.8992809523809523,
+          0.22357142857142856
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.17785714285714285,
+          0.8992809523809523,
+          0.22357142857142856
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "Who to Turn to",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.25,
+          0.897877,
+          0.269286
+        ],
+        "mask_bbox": [
+          0.2881644149659864,
+          0.2526214285714286,
+          0.8988864421768707,
+          0.2664285714285714
+        ]
+      },
+      "translation": {
+        "text": "该找谁帮忙",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.24785714285714286,
+          0.8992809523809523,
+          0.275
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "background": "transparent",
+        "font_weight": 700
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.24785714285714286,
+          0.8992809523809523,
+          0.275
+        ],
+        "font_size": 26,
+        "leading": 34
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Let’s say you’re just like Toby and have finished developing your own game. It’s entirely in English, but you’d like to release it in Japan and other countries too. Where do you even start?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.28,
+          0.897877,
+          0.333571
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.2807142857142857,
+          0.904338775510204,
+          0.33285714285714285
+        ]
+      },
+      "translation": {
+        "text": "假设你和 Toby 一样，刚刚完成自己的游戏。游戏完全是英文的，但你也想在日本和其他国家发行。该从哪里开始呢？",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.2792857142857143,
+          0.8992809523809523,
+          0.325
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.2792857142857143,
+          0.8992809523809523,
+          0.325
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "The answer is pretty simple: translation and localization are no different from any other professional service, like plumbing, computer repair, or accounting. If you’re a big company, chances are you already have in-house staff members – or possibly an entire department – dedicated to handling such matters. Alternatively, you might already have contracts with outside agencies who can handle everything for you.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.342857,
+          0.897877,
+          0.450714
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.34405,
+          0.904338775510204,
+          0.45
+        ]
+      },
+      "translation": {
+        "text": "答案很简单：翻译和本地化与水管维修、电脑维修、会计等专业服务并没有什么不同。如果你是一家大公司，很可能已经有内部员工，甚至整个部门，专门处理这类事务。或者，你可能已经与外部机构签有合同，可以将相关工作全部交给他们。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.3492857142857143,
+          0.8992809523809523,
+          0.43642857142857144
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.3492857142857143,
+          0.8992809523809523,
+          0.43642857142857144
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "But if you’re a small company, or just a single person, you’ll need to seek outside help. In this situation, your first thought might be, “Do I personally know anyone who can do this for me?” If the answer is no, then you might ask around for recommendations instead. And if that yields no leads, then there’s usually only one choice left: find someone on the Internet.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.460714,
+          0.897877,
+          0.550714
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.46214285714285713,
+          0.904338775510204,
+          0.5504785714285714
+        ]
+      },
+      "translation": {
+        "text": "但如果你是一家小公司，或者只有一个人，就需要寻求外部帮助。这时，你首先可能会想：“我认识的人里，有谁能帮我做这件事吗？”如果没有，就可以向周围的人打听推荐。如果仍无线索，通常就只剩下一条路：上网找人。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.4607142857142857,
+          0.8992809523809523,
+          0.5478571428571428
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.4607142857142857,
+          0.8992809523809523,
+          0.5478571428571428
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b008",
+      "kind": "caption",
+      "source": {
+        "text": "As a huge video game company, Nintendo has a dedicated department for localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290192,
+          0.701429,
+          0.584429,
+          0.729286
+        ],
+        "mask_bbox": [
+          0.2891759795918367,
+          0.7021428571428572,
+          0.5854430272108844,
+          0.73
+        ]
+      },
+      "translation": {
+        "text": "任天堂是一家大型游戏公司，设有专门的本地化部门。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.7,
+          0.5836727891156462,
+          0.7342857142857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "background": "transparent",
+        "font_weight": 400
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.7,
+          0.5836727891156462,
+          0.7342857142857143
+        ],
+        "font_size": 16,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b009",
+      "kind": "caption",
+      "source": {
+        "text": "“Bob Johnson” the single developer doesn’t have a dedicated localization department",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.610718,
+          0.701429,
+          0.899899,
+          0.729286
+        ],
+        "mask_bbox": [
+          0.609710462585034,
+          0.7016642857142857,
+          0.9009095714285714,
+          0.73
+        ]
+      },
+      "translation": {
+        "text": "“Bob Johnson”这位独立开发者没有专门的本地化部门。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6099734693877551,
+          0.7,
+          0.8992809523809523,
+          0.7342857142857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "background": "transparent",
+        "font_weight": 400,
+        "break_after": "开发者"
+      },
+      "notes": "照片中的名字及文字不覆盖；此处只翻译书中图注。",
+      "calibration": {
+        "bbox": [
+          0.6099734693877551,
+          0.7,
+          0.8992809523809523,
+          0.7342857142857143
+        ],
+        "font_size": 16,
+        "leading": 23
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, searching for “hire a translator” or “hire a localizer” online will result in an avalanche of ads, sites, and companies begging for your business. Many of these services will offer to translate business documents, medical patents, video games, underwear packaging, and everything else you can think of.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.744286,
+          0.897877,
+          0.816429
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.74595,
+          0.904338775510204,
+          0.8195214285714285
+        ]
+      },
+      "translation": {
+        "text": "然而，在网上搜索“聘请译者”或“聘请本地化人员”，会迎来铺天盖地的广告、网站和招揽生意的公司。这些服务商中，许多都声称可以翻译商务文件、医疗专利、电子游戏、内衣包装，以及你能想到的其他各种内容。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.7442857142857143,
+          0.8992809523809523,
+          0.8285714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.7442857142857143,
+          0.8992809523809523,
+          0.8285714285714286
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0060-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "So, with a million different companies claiming to be experts at every type of translation and localization, how do you know who to pick? In Undertale’s case, Toby experienced it all: he asked friends, he looked around online, and he even received unsolicited offers from companies with in-house localization teams.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.289181,
+          0.827143,
+          0.897877,
+          0.898571
+        ],
+        "mask_bbox": [
+          0.2872843537414966,
+          0.8288071428571429,
+          0.904338775510204,
+          0.8995214285714285
+        ]
+      },
+      "translation": {
+        "text": "面对无数自称精通各种翻译和本地化业务的公司，该怎么选呢？在 Undertale 的案例中，Toby 把这些途径都试过了：向朋友打听、上网寻找，甚至还有设有内部本地化团队的公司主动找上门来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.29234217687074826,
+          0.8421428571428572,
+          0.8992809523809523,
+          0.9085714285714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "background": "transparent",
+        "font_weight": 450,
+        "text_align": "justify"
+      },
+      "notes": "",
+      "calibration": {
+        "bbox": [
+          0.29234217687074826,
+          0.8421428571428572,
+          0.8992809523809523,
+          0.9085714285714286
+        ],
+        "font_size": 20,
+        "leading": 29
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "calibrated_at": "20261022T124100Z",
+    "pdf_page_pt": [
+      504.0,
+      713.76
+    ],
+    "reference_height": 1400,
+    "body_font": "Noto Serif SC",
+    "caption_font": "Noto Sans SC",
+    "japanese_font": "Noto Serif JP",
+    "body_size": 20,
+    "body_leading": 29,
+    "method": "Original PDF rendered at 2100px, measured text ink rows, fixed paragraph starts and unchanged illustrations; visual comparison required.",
+    "body_weight": 450,
+    "body_alignment": "justify",
+    "revised_at": "20261022T130627Z",
+    "visual_reference": "Two user-provided generated pages: chapter introduction and localization note; matching type rhythm, not copying their wording.",
+    "latin_font": "Source Serif 4 Text",
+    "line_break": "Paragraph dynamic programming; measured fonts; punctuation trimming; CJK/word expansion only",
+    "linebreak_revised_at": "20261022T133957Z"
+  },
+  "physical_size_pt": [
+    504.0,
+    713.76
+  ],
+  "image_sha256": "b84b82925a3fbbecbd1722afa473e2d493381347cb3c9997e9c8200d28a70b65",
+  "review": {
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 11
+    }
+  }
+}

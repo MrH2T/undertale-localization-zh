@@ -1,0 +1,325 @@
+{
+  "schema_version": 3,
+  "pdf_page": 213,
+  "printed_page": "213",
+  "title": "Sans 台词的翻译记录",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.288035+00:00",
+  "reference_size": [
+    981.790643,
+    1400
+  ],
+  "physical_size_pt": [
+    500.04,
+    713.04
+  ],
+  "image_url": "/assets/p0213.jpg",
+  "image_sha256": "cc95e8dd1db732a773108ea90d953fbb2336fd38439eb015c7afb6a527ffbeeb",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0213/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0213-b001",
+      "kind": "aside",
+      "source": {
+        "text": "~ From some of his personal notes-to-self, we can see that Toby cared a great deal about this Sans scene in particular",
+        "raw": "~ From some of his personal\nnotes-to-self, we can see\nthat Toby cared a great\ndeal about this Sans scene\nin particular",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51837935,
+          0.07725,
+          0.69898812,
+          0.14897143
+        ],
+        "mask_bbox": [
+          0.51705524,
+          0.07653571,
+          0.70031224,
+          0.15004286
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "从 Toby 写给自己的几条私人笔记可以看出，他格外重视 Sans 的这场戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51837935,
+          0.07582143,
+          0.69898812,
+          0.15254286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.51837935,
+          0.07582143,
+          0.69898812,
+          0.15254286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0213-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Toby actively consulted ~ outside sources for second opinions about the nuances of localized lines",
+        "raw": "Toby actively consulted ~\noutside sources for second\nopinions about the nuances\nof localized lines",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11313003,
+          0.50673571,
+          0.30096029,
+          0.56365
+        ],
+        "mask_bbox": [
+          0.11180591,
+          0.50602143,
+          0.3022844,
+          0.56472143
+        ],
+        "line_ids": [
+          6,
+          10,
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Toby 主动向团队之外的人征求意见，核对本地化台词的细微含义。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11313003,
+          0.50530714,
+          0.30096029,
+          0.56722143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11313003,
+          0.50530714,
+          0.30096029,
+          0.56722143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0213-b003",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64375232,
+          0.94126429,
+          0.70260397,
+          0.9508
+        ],
+        "mask_bbox": [
+          0.6424282,
+          0.94055,
+          0.70392808,
+          0.95187143
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64375232,
+          0.93983571,
+          0.70260397,
+          0.95783571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9578357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64375232,
+          0.93983571,
+          0.70260397,
+          0.95783571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4b99eea7a5e4282273e935bd872e233b6f9f914e7932cd9a29ae03793bdc099a"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

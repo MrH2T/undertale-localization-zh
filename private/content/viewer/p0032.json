@@ -1,0 +1,739 @@
+{
+  "schema_version": 3,
+  "pdf_page": 32,
+  "printed_page": "32",
+  "title": "外部因素",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    986.982249,
+    1400
+  ],
+  "physical_size_pt": [
+    500.4,
+    709.8
+  ],
+  "image_url": "/assets/p0032.jpg",
+  "image_sha256": "8ac2a7c941cea8af27320ef43c7dd5e35f50828ee71c4c595feb1bec5f9916d2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0032/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0032-b001",
+      "kind": "heading",
+      "source": {
+        "text": "External Influences",
+        "raw": "External Influences",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29070432,
+          0.05981429,
+          0.49065725,
+          0.07348571
+        ],
+        "mask_bbox": [
+          0.28938717,
+          0.0591,
+          0.4919744,
+          0.07455714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "外部因素",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.05014286,
+          0.89792902,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.05014286,
+          0.89792902,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0032-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Being a professional translator is a lot like being a professional chef- a customer hires you to create something that needs to follow custom specifications. For example, a restaurant customer can order a hamburger, but ask that it be cooked a certain way and include specific toppings. Similarly, a translation client can order something to be translated according to their custom requirements, like \"each line of text can only be 22 letters long\" or \"use these specific terms in these situations\".",
+        "raw": "Being a professional translator is a lot like being a professional chef- a customer\nhires you to create something that needs to follow custom specifications.\nFor example, a restaurant customer can order a hamburger, but ask that it be\ncooked a certain way and include specific toppings. Similarly, a translation\nclient can order something to be translated according to their custom\nrequirements, like \"each line of text can only be 22 letters long\" or \"use these\nspecific terms in these situations\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28961007,
+          0.08867143,
+          0.8926503,
+          0.22010714
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.08795714,
+          0.8999554,
+          0.22117857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "职业译者很像职业厨师：客户雇你制作符合具体要求的东西。例如，餐厅顾客可以点汉堡，同时指定做法和配料。翻译客户也可以要求按自己的规定来译，比如“每行只能有22个字母”，或“在这些情形下使用指定术语”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.08724286,
+          0.89792902,
+          0.22367857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.08724286,
+          0.89792902,
+          0.22367857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "What's more, customers are also free to modify the final product as they see fit. If a restaurant customer wants to set their hamburger on fire or turn it into a horrifying birthday cake, they can do that. Likewise, a translation client can edit the final product however they want. Basically, clients have direct influence over how a translation is performed and how it's ultimately presented.",
+        "raw": "What's more, customers are also free to modify the final product as they\nsee fit. If a restaurant customer wants to set their hamburger on fire or turn\nit into a horrifying birthday cake, they can do that. Likewise, a translation\nclient can edit the final product however they want. Basically, clients have\ndirect influence over how a translation is performed and how it's ultimately\npresented.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28963034,
+          0.23509286,
+          0.87112002,
+          0.33912143
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.23437857,
+          0.8999554,
+          0.34019286
+        ],
+        "line_ids": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "而且，顾客可以随意改动成品。餐厅顾客想把汉堡点着，或把它变成恐怖的生日蛋糕，都是他的自由。翻译客户也一样，可以随意编辑交付稿。客户能直接影响翻译如何进行，以及最后如何呈现。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.23366429,
+          0.89792902,
+          0.34269286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.23366429,
+          0.89792902,
+          0.34269286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "When it comes to entertainment translation, clients are one part of the equation, but there are other parts too. The original creator, for example, might demand that certain names be spelled certain ways, or that certain terms be translated in certain ways. Industry and corporate guidelines might also demand that certain things be handled in certain ways. And, of course, local laws and cultural values can have an effect on the final product.",
+        "raw": "When it comes to entertainment translation, clients are one part of the\nequation, but there are other parts too. The original creator, for example, might\ndemand that certain names be spelled certain ways, or that certain terms\nbe translated in certain ways. Industry and corporate guidelines might also\ndemand that certain things be handled in certain ways. And, of course, local\nlaws and cultural values can have an effect on the final product.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29010653,
+          0.35443571,
+          0.89792902,
+          0.45779286
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.35372143,
+          0.8999554,
+          0.45886429
+        ],
+        "line_ids": [
+          15,
+          18,
+          20,
+          22,
+          24,
+          26
+        ]
+      },
+      "translation": {
+        "text": "在娱乐作品翻译中，客户只是影响因素之一。原作者可能要求某些名字按指定方式拼写，某些词按指定方式翻译。行业准则、公司规定也可能要求按特定方式处理内容。当然，当地法律和文化价值观同样会影响成品。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.35300714,
+          0.89792902,
+          0.46136429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.35300714,
+          0.89792902,
+          0.46136429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Video game localizations, in particular, have undergone such content changes for decades. These changes have famously included:",
+        "raw": "Video game localizations, in particular, have undergone such content changes\nfor decades. These changes have famously included:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290603,
+          0.47379286,
+          0.8851223,
+          0.50512857
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.47307857,
+          0.8999554,
+          0.5062
+        ],
+        "line_ids": [
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "游戏本地化尤其如此，几十年来一直有这类内容改动。广为人知的例子包括：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.47236429,
+          0.89792902,
+          0.5087
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.47236429,
+          0.89792902,
+          0.5087
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b006",
+      "kind": "quote",
+      "source": {
+        "text": "Removal of religious content Removal of sexual content Removal of drug, alcohol, and tobacco use Removal of racial and sexual stereotypes Removal of profanity and excessive violence Removal of blood, gore, and graphic illustrations of death",
+        "raw": "Removal of religious content\nRemoval of sexual content\nRemoval of drug, alcohol, and tobacco use\nRemoval of racial and sexual stereotypes\nRemoval of profanity and excessive violence\nRemoval of blood, gore, and graphic illustrations of death",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33661193,
+          0.51979286,
+          0.77511019,
+          0.62416429
+        ],
+        "mask_bbox": [
+          0.29983315,
+          0.51907857,
+          0.77642734,
+          0.62523571
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "• 删除宗教内容\n• 删除性内容\n• 删除药物、酒精及烟草使用\n• 删除种族与性别刻板印象\n• 删除脏话和过度暴力\n• 删除血液、血腥场面及直观的死亡描绘",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33661193,
+          0.51836429,
+          0.89792902,
+          0.62773571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.33661193,
+          0.51836429,
+          0.89792902,
+          0.62773571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0032-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "These changes were especially common in video game localizations during the 1990s and 2000s. However, as the times change, the external influences on the localization process can change too.",
+        "raw": "These changes were especially common in video game localizations during the\n1990s and 2000s. However, as the times change, the external influences on the\nlocalization process can change too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29240647,
+          0.63913571,
+          0.89588237,
+          0.68839286
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.63842143,
+          0.8999554,
+          0.68946429
+        ],
+        "line_ids": [
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "这些改动在20世纪90年代和21世纪头十年的游戏本地化中尤其常见。不过，时代变了，影响本地化的外部因素也会变化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.63770714,
+          0.89792902,
+          0.69196429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.63770714,
+          0.89792902,
+          0.69196429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, professional entertainment localization rarely happens in a vacuum - there are almost always external factors that might cause something to deviate from a straightforward, literal translation.",
+        "raw": "In short, professional entertainment localization rarely happens in a vacuum -\nthere are almost always external factors that might cause something to deviate\nfrom a straightforward, literal translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2929232,
+          0.70337857,
+          0.89539604,
+          0.75229286
+        ],
+        "mask_bbox": [
+          0.28758369,
+          0.70266429,
+          0.8999554,
+          0.75336429
+        ],
+        "line_ids": [
+          38,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "总之，职业娱乐本地化很少独立进行：几乎总有外部因素，可能让译文偏离直接的字面翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29035477,
+          0.70195,
+          0.89792902,
+          0.75586429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0032-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29035477,
+          0.70195,
+          0.89792902,
+          0.75586429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b009",
+      "kind": "caption",
+      "source": {
+        "text": "\"The translated script MUST be half the length of the original text, oh, and after you're done we'll insert some memes!\"",
+        "raw": "\"The translated script\nMUST be half the\nlength of the original\ntext, oh, and after\nyou're done we'll\ninsert some memes!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1307521,
+          0.35589286,
+          0.26746175,
+          0.44348571
+        ],
+        "mask_bbox": [
+          0.12943495,
+          0.35517857,
+          0.2687789,
+          0.44455714
+        ],
+        "line_ids": [
+          16,
+          17,
+          19,
+          21,
+          23,
+          25
+        ]
+      },
+      "translation": {
+        "text": "“译稿长度必须只有原文的一半！哦，对了，你译完我们还要塞几个梗进去！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10739808,
+          0.35446429,
+          0.27761391,
+          0.44705714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.10739808,
+          0.35446429,
+          0.27761391,
+          0.44705714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0032-b010",
+      "kind": "aside",
+      "source": {
+        "text": "It's common to see jokes, references, and text changes added to translated games. When such added content is unwarranted, it technically ceases to be a translation or a localization. Because the result no longer reflects the original's intention, it becomes more of a \"transformation\" or \"alteration\". I'm not fond of this practice myself, and as a professional translator I don't feel comfortable tinkering with others' creativity.",
+        "raw": "It's common to see jokes, references, and text changes added to translated\ngames. When such added content is unwarranted, it technically ceases to\nbe a translation or a localization. Because the result no longer reflects the\noriginal's intention, it becomes more of a \"transformation\" or \"alteration\".\nI'm not fond of this practice myself, and as a professional translator I don't\nfeel comfortable tinkering with others' creativity.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31113022,
+          0.78124286,
+          0.87743219,
+          0.86952857
+        ],
+        "mask_bbox": [
+          0.30981307,
+          0.78052857,
+          0.87874934,
+          0.8706
+        ],
+        "line_ids": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "游戏译版里常会新增笑话、典故或文字改动。如果这种添加没有正当理由，严格来说就不再是翻译或本地化了。结果不再体现原作意图，更像是“变形”或“改造”。我个人不喜欢这样做；作为职业译者，随意摆弄别人的创作，也让我不自在。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31113022,
+          0.77981429,
+          0.87743219,
+          0.8731
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8771428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.31113022,
+          0.77981429,
+          0.87743219,
+          0.8731
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3077b567c0a4daaf2b0e3337cba2977101ee1866d82583dfb3ff72f7973bd886"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          47
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.57,
+      886.24
+    ],
+    "text_runs": [
+      {
+        "id": "p0032-b002",
+        "blocks": [
+          "p0032-b002",
+          "p0032-b003",
+          "p0032-b004",
+          "p0032-b005",
+          "p0032-b006",
+          "p0032-b007",
+          "p0032-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 1068.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

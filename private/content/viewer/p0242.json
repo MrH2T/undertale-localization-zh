@@ -1,0 +1,939 @@
+{
+  "schema_version": 3,
+  "pdf_page": 242,
+  "printed_page": "242",
+  "title": "来尝尝扣篮的滋味",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:49:29.225866+00:00",
+  "reference_size": [
+    989.944323,
+    1400
+  ],
+  "physical_size_pt": [
+    502.92,
+    711.24
+  ],
+  "image_url": "/assets/p0242.jpg",
+  "image_sha256": "f7adb82c22255b99a2215e9bec9fed474fda19d6f14811772ca242400230951e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0242/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0242-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Come On and Jam",
+        "raw": "Come On and Jam",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29368318,
+          0.06330714,
+          0.47913806,
+          0.07666429
+        ],
+        "mask_bbox": [
+          0.29236998,
+          0.06259286,
+          0.48045126,
+          0.07773571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "来尝尝扣篮的滋味",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.053,
+          0.90071732,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.053,
+          0.90071732,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0242-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The phrase \"to I> get dunked on\" is still new enough that many English speaking players have probably never heard of it before",
+        "raw": "The phrase \"to I>\nget dunked on\" is\nstill new enough\nthat many English\nspeaking players have\nprobably never heard\nof it before",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13159326,
+          0.09275714,
+          0.2841978,
+          0.19581429
+        ],
+        "mask_bbox": [
+          0.13028005,
+          0.09204286,
+          0.28551101,
+          0.19688571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "“get dunked on”还是个相当新的说法，许多英语玩家此前可能也没听过。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11616815,
+          0.09132857,
+          0.2841978,
+          0.19938571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3792857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11616815,
+          0.09132857,
+          0.2841978,
+          0.19938571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "If the player can survive against Sans for long enough, Sans will grow visibly exhausted. At this point, the player can choose to spare Sans rather than defeat him. It's all a trick, though - Sans isn't actually tired and will launch a lethal surprise attack upon being spared. On the resulting game over screen, Sans shouts in English:",
+        "raw": "If the player can survive against Sans for long enough, Sans will grow visibly\nexhausted. At this point, the player can choose to spare Sans rather than defeat\nhim. It's all a trick, though - Sans isn't actually tired and will launch a lethal\nsurprise attack upon being spared. On the resulting game over screen, Sans\nshouts in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29423877,
+          0.2562,
+          0.89577765,
+          0.34215
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.25548571,
+          0.90273764,
+          0.34322143
+        ],
+        "line_ids": [
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "如果玩家能在 Sans 的攻击下撑得足够久，他就会显得疲惫不堪。这时，玩家可以选择饶恕他，而不是击败他。但这全是圈套：Sans 其实并没累，一被饶恕就会突然发动致命攻击。接着，在游戏结束画面里，他会用英文大喊：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.25477143,
+          0.90071732,
+          0.34572143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.25477143,
+          0.90071732,
+          0.34572143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b004",
+      "kind": "quote",
+      "source": {
+        "text": "geeettttttt dunked on!!!",
+        "raw": "geeettttttt dunked on!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33850389,
+          0.35732143,
+          0.51134189,
+          0.36983571
+        ],
+        "mask_bbox": [
+          0.33719068,
+          0.35660714,
+          0.51265509,
+          0.37090714
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "geeettttttt dunked on!!!（被——隔扣了吧！！！）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33850389,
+          0.35589286,
+          0.90071732,
+          0.37648214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0242-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33850389,
+          0.35589286,
+          0.90071732,
+          0.37648214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In basketball, it's humiliating if someone performs a slam dunk over you. Thus the phrase \"to be dunked on\" is a humorous way of saying \"you've been completely dominated\" or \"you're nothing to me\". As it's a relatively new slang phrase and isn't often seen in video games, this surprise appearance adds extra humor to the line.",
+        "raw": "In basketball, it's humiliating if someone performs a slam dunk over you.\nThus the phrase \"to be dunked on\" is a humorous way of saying \"you've been\ncompletely dominated\" or \"you're nothing to me\". As it's a relatively new slang\nphrase and isn't often seen in video games, this surprise appearance adds extra\nhumor to the line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29475395,
+          0.38376429,
+          0.89622212,
+          0.47036429
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.38305,
+          0.90273764,
+          0.47143571
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "篮球比赛中，被人隔着自己扣篮很丢脸。因此，“be dunked on”（被隔扣）也成了调侃人的说法，意思是“你被彻底碾压了”或“你在我眼里什么也不是”。这句俚语比较新，在游戏里又不常见，突然冒出来就更好笑了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.38233571,
+          0.90071732,
+          0.47393571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.38233571,
+          0.90071732,
+          0.47393571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In his the translation spreadsheet, Toby included a note about Sans' \"get dunked on\" quote:",
+        "raw": "In his the translation spreadsheet, Toby included a note about Sans' \"get\ndunked on\" quote:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29575401,
+          0.485,
+          0.84624961,
+          0.5149
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.48428571,
+          0.90273764,
+          0.51597143
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译表格中，为 Sans 的这句“get dunked on”写了说明：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.48357143,
+          0.90071732,
+          0.51847143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.48357143,
+          0.90071732,
+          0.51847143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b007",
+      "kind": "quote",
+      "source": {
+        "text": "'' Famous line, always makes people laugh really hard the first time",
+        "raw": "'' Famous line, always makes people laugh really hard the first time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29666315,
+          0.53076429,
+          0.82268263,
+          0.54327857
+        ],
+        "mask_bbox": [
+          0.29534994,
+          0.53005,
+          0.82399584,
+          0.54435
+        ],
+        "line_ids": [
+          24
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.294966084,
+            0.527857143,
+            0.320220029,
+            0.542857143
+          ],
+          "offset": [
+            -44.0244,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "名台词，大家第一次看到总会笑得很厉害。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33943768,
+          0.52933571,
+          0.90071732,
+          0.549925
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33943768,
+          0.52933571,
+          0.90071732,
+          0.549925
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b008",
+      "kind": "aside",
+      "source": {
+        "text": "Getting \"dunked on\" is humiliating in the human sport of basketball",
+        "raw": "Getting \"dunked\non\" is humiliating in\nthe human sport of\nbasketball",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14350302,
+          0.50407857,
+          0.26932828,
+          0.56193571
+        ],
+        "mask_bbox": [
+          0.14218981,
+          0.50336429,
+          0.27064148,
+          0.56300714
+        ],
+        "line_ids": [
+          22,
+          23,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "在人类的篮球运动中，被“隔扣”很丢脸。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11616815,
+          0.50265,
+          0.26953031,
+          0.56550714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11616815,
+          0.50265,
+          0.26953031,
+          0.56550714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, there's no direct equivalent of the phrase \"get dunked on\" in Japanese. The localization team cycled through a number of potential Japanese replacements, most of which were variations on \"ha, I fooled you\" or insults based on Internet slang. Nothing quite had the same \"bite\" as the original English quote, however.",
+        "raw": "Unfortunately, there's no direct equivalent of the phrase \"get dunked on\" in\nJapanese. The localization team cycled through a number of potential Japanese\nreplacements, most of which were variations on \"ha, I fooled you\" or insults\nbased on Internet slang. Nothing quite had the same \"bite\" as the original\nEnglish quote, however.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29481456,
+          0.55855714,
+          0.90071732,
+          0.64380714
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.55784286,
+          0.90273764,
+          0.64487857
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "可惜，日语没有直接对应“get dunked on”的说法。团队尝试了好几个替代方案，多半是“哈，被我骗了吧”的各种变体，或来自网络用语的嘲讽。但都没有英文原句那股损劲儿。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.55712857,
+          0.90071732,
+          0.64737857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.55712857,
+          0.90071732,
+          0.64737857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "As the project neared completion, Toby worked with the localization team to finally solve this conundrum. At Toby's suggestion, the team dropped Sans' English quote entirely and replaced it with something different but still suitable:",
+        "raw": "As the project neared completion, Toby worked with the localization team\nto finally solve this conundrum. At Toby's suggestion, the team dropped\nSans' English quote entirely and replaced it with something different but still\nsuitable:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2944004,
+          0.6591,
+          0.88406992,
+          0.72615714
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.65838571,
+          0.90273764,
+          0.72722857
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "项目临近完成时，Toby 和团队终于解决了这个难题。按照 Toby 的建议，他们完全舍弃英文原句，换成意思不同、但同样合适的一句：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.65767143,
+          0.90071732,
+          0.72972857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.65767143,
+          0.90071732,
+          0.72972857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Huh? You died? That's weird. All I did was try to hug you ...",
+        "raw": "Huh? You died? That's weird. All I did was try to hug you ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34041308,
+          0.74134286,
+          0.7763972,
+          0.75385714
+        ],
+        "mask_bbox": [
+          0.33909988,
+          0.74062857,
+          0.7777104,
+          0.75492857
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "咦？你死了？奇怪，我只是想抱抱你啊……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34041308,
+          0.73991429,
+          0.90071732,
+          0.76050357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.34041308,
+          0.73991429,
+          0.90071732,
+          0.76050357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Even though this new line uses completely different wording to say something completely different, the reward is still the same for the player: a funny, memorable insult after a humiliating defeat.",
+        "raw": "Even though this new line uses completely different wording to say something\ncompletely different, the reward is still the same for the player: a funny,\nmemorable insult after a humiliating defeat.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29712782,
+          0.76944286,
+          0.8947978,
+          0.81793571
+        ],
+        "mask_bbox": [
+          0.29221845,
+          0.76872857,
+          0.90273764,
+          0.81900714
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "新台词的措辞与内容都完全变了，玩家得到的效果却一样：惨遭羞辱性失败后，又听到一句好笑、难忘的嘲讽。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29478425,
+          0.76801429,
+          0.90071732,
+          0.82150714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8278571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0242-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29478425,
+          0.76801429,
+          0.90071732,
+          0.82150714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0242-b013",
+      "kind": "aside",
+      "source": {
+        "text": "Incidentally, when translators and creators work together like this to invent something new, some professional circles refer to the process as \"transcreation\" rather than \"localization\".",
+        "raw": "Incidentally, when translators and creators work together like this to\ninvent something new, some professional circles refer to the process as\n\"transcreation\" rather than \"localization\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30901738,
+          0.84692857,
+          0.84964374,
+          0.8879
+        ],
+        "mask_bbox": [
+          0.30770417,
+          0.84621429,
+          0.85095695,
+          0.88897143
+        ],
+        "line_ids": [
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "顺带一提，译者和创作者像这样一起构思新内容，有些专业领域会称之为“创译”（transcreation），而不只是“本地化”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30901738,
+          0.8455,
+          0.84964374,
+          0.89147143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.895,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.30901738,
+          0.8455,
+          0.84964374,
+          0.89147143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f735487da2d8e5d1e5af710dde9a0ea8826aeeed1fe260a436bf1838e45cc1d5"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          43
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.82,
+      891.66
+    ],
+    "text_runs": [
+      {
+        "id": "p0242-b003",
+        "blocks": [
+          "p0242-b003",
+          "p0242-b004",
+          "p0242-b005",
+          "p0242-b006",
+          "p0242-b007",
+          "p0242-b009",
+          "p0242-b010",
+          "p0242-b011",
+          "p0242-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1159.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

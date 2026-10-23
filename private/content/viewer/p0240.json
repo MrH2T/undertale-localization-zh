@@ -1,0 +1,764 @@
+{
+  "schema_version": 3,
+  "pdf_page": 240,
+  "printed_page": "240",
+  "title": "一段坏时光",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.314254+00:00",
+  "reference_size": [
+    986.823529,
+    1400
+  ],
+  "physical_size_pt": [
+    503.28,
+    714.0
+  ],
+  "image_url": "/assets/p0240.jpg",
+  "image_sha256": "2deaa9688727a2dc6718c636db2748a2daaf473c00c4e7753801742feaa1c310",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0240/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0240-b001",
+      "kind": "heading",
+      "source": {
+        "text": "A Bad Time",
+        "raw": "A Bad Time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29234204,
+          0.06037143,
+          0.40741834,
+          0.07367857
+        ],
+        "mask_bbox": [
+          0.29102468,
+          0.05965714,
+          0.40873569,
+          0.07475
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "一段坏时光",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.05014286,
+          0.90447783,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.05014286,
+          0.90447783,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0240-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In the translation spreadsheet. Toby labeled this text the \"Famous Meme Line Of Game\"",
+        "raw": "In the translation\nspreadsheet. Toby\nlabeled this text the\n\"Famous Meme Line\nOf Game\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14050131,
+          0.08926429,
+          0.26973414,
+          0.16155714
+        ],
+        "mask_bbox": [
+          0.13918395,
+          0.08855,
+          0.2710515,
+          0.16262857
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译表格里把这句标为“游戏里那句著名的梗台词”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11653553,
+          0.08783571,
+          0.27064616,
+          0.16512857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3920214328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11653553,
+          0.08783571,
+          0.27064616,
+          0.16512857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before Sans challenges the murderous main character in battle, he asks:",
+        "raw": "Before Sans challenges the murderous main character in battle, he asks:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29463221,
+          0.26082857,
+          0.84233906,
+          0.27329286
+        ],
+        "mask_bbox": [
+          0.29260551,
+          0.26011429,
+          0.90650453,
+          0.27436429
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "向杀戮成性的主角发起战斗前，Sans 会问：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.2594,
+          0.90447783,
+          0.28154286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.39285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.2594,
+          0.90447783,
+          0.28154286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b004",
+      "kind": "quote",
+      "source": {
+        "text": "do you wanna have a bad time?",
+        "raw": "do you wanna have a bad time?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33897651,
+          0.28893571,
+          0.57105448,
+          0.30111429
+        ],
+        "mask_bbox": [
+          0.33765916,
+          0.28822143,
+          0.57237184,
+          0.30218571
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "do you wanna have a bad time?（想度过一段坏时光吗？）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33897651,
+          0.28750714,
+          0.90447783,
+          0.30809643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.39285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0240-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33897651,
+          0.28750714,
+          0.90447783,
+          0.30809643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Despite his laid-back attitude throughout the game, it turns out that Sans is extremely powerful. In fact, Sans is so difficult to fight that it usually takes players dozens of attempts to defeat him. Sometimes, the battle is so tough that some players just give up entirely.",
+        "raw": "Despite his laid-back attitude throughout the game, it turns out that Sans is\nextremely powerful. In fact, Sans is so difficult to fight that it usually takes\nplayers dozens of attempts to defeat him. Sometimes, the battle is so tough that\nsome players just give up entirely.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29510849,
+          0.31562143,
+          0.89852945,
+          0.38319286
+        ],
+        "mask_bbox": [
+          0.29260551,
+          0.31490714,
+          0.90650453,
+          0.38426429
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Sans 虽然一路都懒懒散散，实力却极其强大。事实上，他难打到玩家通常要尝试几十次才能取胜。有时战斗太难，甚至有人干脆彻底放弃。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.31419286,
+          0.90447783,
+          0.38676429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.39285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0240-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.31419286,
+          0.90447783,
+          0.38676429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Players who murder every monster they see are rewarded with one of the most frustrating boss battles of all time",
+        "raw": "Players who murder\nevery monster they\nsee are rewarded\nwith one of the most\nfrustrating boss\nbattles of all time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14067358,
+          0.39916429,
+          0.26829518,
+          0.48727143
+        ],
+        "mask_bbox": [
+          0.13935622,
+          0.39845,
+          0.26961254,
+          0.48834286
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "见到怪物就杀的玩家，得到的“奖励”是史上最令人抓狂的头目战之一。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11653553,
+          0.39773571,
+          0.27064616,
+          0.49084286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11653553,
+          0.39773571,
+          0.27064616,
+          0.49084286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "This battle with Sans is memorable, epic, and frustrating, so his casual question has become one of the most famous lines in the game. As such, \"do you wanna have a bad time\" has spawned countless English-language fan drawings, videos, and meme images over the years.",
+        "raw": "This battle with Sans is memorable, epic, and frustrating, so his casual question\nhas become one of the most famous lines in the game. As such, \"do you wanna\nhave a bad time\" has spawned countless English-language fan drawings, videos,\nand meme images over the years.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29597997,
+          0.5714,
+          0.90447783,
+          0.63832143
+        ],
+        "mask_bbox": [
+          0.29260551,
+          0.57068571,
+          0.90650453,
+          0.63939286
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "这场 Sans 战气势十足、令人难忘，也令人抓狂，于是他这句随口的问话成了游戏最著名的台词之一。多年来，“do you wanna have a bad time”催生了无数英语圈同人画、视频和梗图。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.56997143,
+          0.90447783,
+          0.64189286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.56997143,
+          0.90447783,
+          0.64189286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, Toby commented on this line's importance and worked with the localization team to get it just right. Because Sans' English line isn't technically a direct threat, the Japanese line needed to achieve a similar \"you have to read between the lines\" effect. Eventually, the team settled on a relatively straightforward translation:",
+        "raw": "Naturally, Toby commented on this line's importance and worked with the\nlocalization team to get it just right. Because Sans' English line isn't technically\na direct threat, the Japanese line needed to achieve a similar \"you have to\nread between the lines\" effect. Eventually, the team settled on a relatively\nstraightforward translation:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.297652,
+          0.65275,
+          0.90010014,
+          0.73916429
+        ],
+        "mask_bbox": [
+          0.29260551,
+          0.65203571,
+          0.90650453,
+          0.74023571
+        ],
+        "line_ids": [
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "Toby 自然也特地说明了这句的重要性，与本地化团队一同斟酌。严格说来，Sans 的英文台词并非直接威胁，日文也要让玩家自己听出弦外之音。团队最后采用了比较直接的译法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.65132143,
+          0.90447783,
+          0.74273571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0240-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.65132143,
+          0.90447783,
+          0.74273571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b009",
+      "kind": "quote",
+      "source": {
+        "text": "omae saiaku na me ni awasaretai ka? (roughly, \"do you want to suffer a terrible fate?\" or \"do you want to have a terrible time?\")",
+        "raw": "omae saiaku na me ni awasaretai ka?\n(roughly, \"do you want to suffer a terrible fate?\" or \"do you want to have\na terrible time?\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34219897,
+          0.75447857,
+          0.89226693,
+          0.80336429
+        ],
+        "mask_bbox": [
+          0.34088162,
+          0.75376429,
+          0.89358429,
+          0.80443571
+        ],
+        "line_ids": [
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "omae saiaku na me ni awasaretai ka?（大致是“你想遭遇最糟的下场吗？”或“你想尝尝最难熬的滋味吗？”）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34219897,
+          0.75305,
+          0.90447783,
+          0.80693571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0240-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.34219897,
+          0.75305,
+          0.90447783,
+          0.80693571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0240-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This final Japanese line conveys everything found in the English line, but rolls off the tongue differently. Even so, Japanese fans do quote the line regularly, although it's usually only the saiaku name (\"terrible time\") portion rather than the full quote itself.",
+        "raw": "This final Japanese line conveys everything found in the English line, but rolls\noff the tongue differently. Even so, Japanese fans do quote the line regularly,\nalthough it's usually only the saiaku name (\"terrible time\") portion rather than\nthe full quote itself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2974088,
+          0.81813571,
+          0.89989747,
+          0.88572857
+        ],
+        "mask_bbox": [
+          0.29260551,
+          0.81742143,
+          0.90650453,
+          0.8868
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "最终的日文传达了英文原句的全部内容，只是读起来的节奏不同。日本粉丝也常引用它，但通常只说 saiaku na me（最糟的遭遇）这一部分，而非整句。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29597997,
+          0.81670714,
+          0.90447783,
+          0.8893
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0240-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29597997,
+          0.81670714,
+          0.90447783,
+          0.8893
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "8594a165a1374fa651526747487046d2b40adefd294db329ce003d7e61bdfd54"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292.08,
+      892.56
+    ],
+    "text_runs": [
+      {
+        "id": "p0240-b003",
+        "blocks": [
+          "p0240-b003",
+          "p0240-b004",
+          "p0240-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 550.0
+      },
+      {
+        "id": "p0240-b007",
+        "blocks": [
+          "p0240-b007",
+          "p0240-b008",
+          "p0240-b009",
+          "p0240-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

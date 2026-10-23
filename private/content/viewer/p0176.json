@@ -1,0 +1,810 @@
+{
+  "schema_version": 3,
+  "pdf_page": 176,
+  "printed_page": "176",
+  "title": "大学与红薯",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    982.016075,
+    1400
+  ],
+  "physical_size_pt": [
+    502.68,
+    716.64
+  ],
+  "image_url": "/assets/p0176.jpg",
+  "image_sha256": "f364bf0c2201aeecc243c5a7337d776289aa78343dfe6e8106645ca5cd07eb89",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0176/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0176-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Diploma Meal",
+        "raw": "Diploma Meal",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29366118,
+          0.06058571,
+          0.43685639,
+          0.0737
+        ],
+        "mask_bbox": [
+          0.29233737,
+          0.05987143,
+          0.4381802,
+          0.07477143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "大学与红薯",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.050857143,
+          0.89619714,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.050857143,
+          0.89619714,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "标题 Diploma Meal 借 diploma mill（出售文凭的野鸡大学）作谐音双关；中文标题以本页内容为准，未另造中文双关。"
+      ],
+      "rule_y": 109
+    },
+    {
+      "id": "p0176-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Here's hoping they release Underta/e-brand cool legs and sweet potatoes someday",
+        "raw": "Here's hoping they\nrelease Underta/e-brand\ncool legs and sweet\npotatoes someday",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11572112,
+          0.09025714,
+          0.26620745,
+          0.14790714
+        ],
+        "mask_bbox": [
+          0.11439731,
+          0.08954286,
+          0.26753126,
+          0.14897857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "真希望哪天能买到 Undertale 牌的酷腿和红薯。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11572112,
+          0.08882857,
+          0.26803024,
+          0.15147857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6551357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11572112,
+          0.08882857,
+          0.26803024,
+          0.15147857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "One Temmie has opened a shop to earn enough money to attend college someday. But, because Temmies are scatterbrained and speak oddly, this Temmie regularly misspells the English word \"college\".",
+        "raw": "One Temmie has opened a shop to earn enough money to attend college\nsomeday. But, because Temmies are scatterbrained and speak oddly, this\nTemmie regularly misspells the English word \"college\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29298909,
+          0.24344286,
+          0.84558697,
+          0.29202857
+        ],
+        "mask_bbox": [
+          0.29095247,
+          0.24272857,
+          0.89823377,
+          0.2931
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "有只 Temmie 开了商店，想攒钱上大学。但 Temmie 们迷迷糊糊，说话又古怪，因此这只 Temmie 经常拼错 college（大学）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.24201429,
+          0.89619714,
+          0.2956
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.24201429,
+          0.89619714,
+          0.2956
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In one scene, purchasing an expensive item results in this text:",
+        "raw": "In one scene, purchasing an expensive item results in this text:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29348807,
+          0.30742143,
+          0.77081223,
+          0.31984286
+        ],
+        "mask_bbox": [
+          0.29095247,
+          0.30670714,
+          0.89823377,
+          0.32091429
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "在一段情节中，买下昂贵的商品后，会看到这些台词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.30599286,
+          0.89619714,
+          0.32813571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0176-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.30599286,
+          0.89619714,
+          0.32813571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b005",
+      "kind": "quote",
+      "source": {
+        "text": "WOA!! thas ALOT o muns... can tem realy acepts... OKs!!!! tem go to colleg and make u prouds!!! [...] tem bak from cool leg, tem learn MANY THINs, learn to sell new ITEM! yayA!!!",
+        "raw": "WOA!! thas ALOT o muns ... can tem realy acepts. ..\nOKs!!!! tem go to co/leg and make u prouds!!!\n[..]\ntem bakfrom cool leg, tem learn MANY THINs, learn to sell new ITEM!\nyayA!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33701078,
+          0.33564286,
+          0.8752708,
+          0.4185
+        ],
+        "mask_bbox": [
+          0.33568697,
+          0.33492857,
+          0.87659461,
+          0.41957143
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "哇！！这么多钱……tem 真的能收吗……\n好哒！！！！tem 要去 colleg（大学），让你骄傲！！！\n［……］\ntem 从 cool leg（酷腿）回来啦，tem 学了好多东西，学会卖新商品！\n耶呀！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33701078,
+          0.33421429,
+          0.89619714,
+          0.42207143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0176-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.33701078,
+          0.33421429,
+          0.89619714,
+          0.42207143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This bizarre misspelling of \"college\" as \"cool leg\" quickly became a fan favorite quote among English-speaking players. The joke would be lost in a straightforward translation, however, so the translator replaced it with a funny cultural reference that would make sense to Japanese players:",
+        "raw": "This bizarre misspelling of \"college\" as \"cool leg\" quickly became a fan\nfavorite quote among English-speaking players. The joke would be lost in a\nstraightforward translation, however, so the translator replaced it with a funny\ncultural reference that would make sense to Japanese players:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2934677,
+          0.43435,
+          0.89619714,
+          0.50167857
+        ],
+        "mask_bbox": [
+          0.29095247,
+          0.43363571,
+          0.89823377,
+          0.50275
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "把 college（大学）错拼成 cool leg（酷腿），很快成了英语玩家津津乐道的台词。不过，直接翻译就会失去笑点，于是译者换成了日本玩家能理解的文化笑料：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.43292143,
+          0.89619714,
+          0.50525
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0176-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.43292143,
+          0.89619714,
+          0.50525
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b007",
+      "kind": "quote",
+      "source": {
+        "text": "wENt to co/LEge. poTAtOes not there.",
+        "raw": "wENt to co/LEge. poTAtOes not there.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33938345,
+          0.51682143,
+          0.62063139,
+          0.52867857
+        ],
+        "mask_bbox": [
+          0.33805964,
+          0.51610714,
+          0.6219552,
+          0.52975
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "去大学了。没有红薯。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33938345,
+          0.51539286,
+          0.89619714,
+          0.53598214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0176-b006",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33938345,
+          0.51539286,
+          0.89619714,
+          0.53598214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This is a humorous reference to a famous food in Japan called daigaku imo, which translates as \"college potato\" or \"university potato\". Daigaku imo is basically deep-fried sweet potato covered with a hard sugar coating. It first gained popularity in the 1900s as an inexpensive, but filling meal for Japanese university students, and has since become a standard dish that can be found in countless recipe books, restaurants, and food stalls throughout Japan.",
+        "raw": "This is a humorous reference to a famous food in Japan called daigaku imo,\nwhich translates as \"college potato\" or \"university potato\". Daigaku imo is\nbasically deep-fried sweet potato covered with a hard sugar coating. It first\ngained popularity in the 1900s as an inexpensive, but filling meal for Japanese\nuniversity students, and has since become a standard dish that can be found in\ncountless recipe books, restaurants, and food stalls throughout Japan.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29394631,
+          0.54384286,
+          0.89297927,
+          0.64735714
+        ],
+        "mask_bbox": [
+          0.29095247,
+          0.54312857,
+          0.89823377,
+          0.64842857
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "这句打趣的是日本名吃“大学芋”（daigaku imo），字面意思就是“大学的薯”。它是炸过后裹上硬糖衣的红薯。20 世纪初，这种便宜又顶饱的食物在日本大学生中流行起来，此后成为常见小吃，日本各地无数食谱、餐馆和摊位上都能见到。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.54241429,
+          0.89619714,
+          0.65092857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6571428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0176-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.54241429,
+          0.89619714,
+          0.65092857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b009",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: Daigaku imo is a type of candied sweet potato that can be found all over Japan",
+        "raw": "LEFT: Daigaku imo is a\ntype of candied sweet\npotato that can be found\nall over Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11430566,
+          0.66227857,
+          0.26852921,
+          0.71989286
+        ],
+        "mask_bbox": [
+          0.11298186,
+          0.66156429,
+          0.26985302,
+          0.72096429
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "左：大学芋是一种裹糖的红薯，日本各地都有。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11430566,
+          0.66085,
+          0.26852921,
+          0.72346429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7241071428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11430566,
+          0.66085,
+          0.26852921,
+          0.72346429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b010",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Daigaku imo is popular enough that daigaku imo-flavored snacks and candies exist",
+        "raw": "RIGHT: Daigaku imo is\npopular enough that\ndaigaku imo-flavored\nsnacks and candies exist",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11733005,
+          0.73125,
+          0.26853939,
+          0.78754286
+        ],
+        "mask_bbox": [
+          0.11600625,
+          0.73053571,
+          0.2698632,
+          0.78861429
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "右：大学芋非常受欢迎，甚至有这种口味的零食和糖果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11710603,
+          0.72982143,
+          0.26853939,
+          0.79111429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11710603,
+          0.72982143,
+          0.26853939,
+          0.79111429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0176-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, although this \"cool leg\" line is completely different in Japanese, it remains as silly as the original line. This change is also why fans outside of Japan draw art about Temmie and legs, while fans in Japan draw Temmie and sweet potatoes.",
+        "raw": "As we can see, although this \"cool leg\" line is completely different in Japanese,\nit remains as silly as the original line. This change is also why fans outside of\nJapan draw art about Temmie and legs, while fans in Japan draw Temmie and\nsweet potatoes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2935899,
+          0.82651429,
+          0.8931422,
+          0.89285
+        ],
+        "mask_bbox": [
+          0.29095247,
+          0.8258,
+          0.89823377,
+          0.89392143
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "可见，日文这句虽然与“cool leg”完全不同，却同样傻气。也正因为这处改动，日本以外的爱好者会画 Temmie 和腿，日本爱好者则画 Temmie 和红薯。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29348807,
+          0.82508571,
+          0.89619714,
+          0.89642143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29348807,
+          0.82508571,
+          0.89619714,
+          0.89642143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "915643b1a77dca00059fe4676fe049f3ee95720aae9a881e5dd9ebccc3e00b5d"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          46
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.21,
+      880.08
+    ],
+    "text_runs": [
+      {
+        "id": "p0176-b003",
+        "blocks": [
+          "p0176-b003",
+          "p0176-b004",
+          "p0176-b005",
+          "p0176-b006",
+          "p0176-b007",
+          "p0176-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 920.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

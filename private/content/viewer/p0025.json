@@ -1,0 +1,424 @@
+{
+  "schema_version": 3,
+  "pdf_page": 25,
+  "printed_page": "25",
+  "title": "说话方式的本地化",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    992.869213,
+    1400
+  ],
+  "physical_size_pt": [
+    503.64,
+    710.16
+  ],
+  "image_url": "/assets/p0025.jpg",
+  "image_sha256": "b92a06a7d7c714d8147e6b9901e3a16b7e7be5f80d7dc9510ae119391062bd0c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0025/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0025-b001",
+      "kind": "caption",
+      "source": {
+        "text": "This Japanese line features a strong \"rural, country bumpkin\" speech pattern. The localized line, despite being in a completely different language, uses a roughly similar English dialect to provide the same vibe and details that would've otherwise been lost in a literal translation (Game: Blaster Master Zero 2)",
+        "raw": "This Japanese line\nfeatures a strong \"rural,\ncountry bumpkin\"\nspeech pattern. The\nlocalized line, despite\nbeing in a completely\ndifferent language, uses\na roughly similar English\ndialect to provide the\nsame vibe and details\nthat would've otherwise\nbeen lost in a literal\ntranslation (Game:\nBlaster Master Zero 2)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73613925,
+          0.07283571,
+          0.88710576,
+          0.28436429
+        ],
+        "mask_bbox": [
+          0.73482992,
+          0.07212143,
+          0.8884151,
+          0.28543571
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "这句日语带着浓重的“乡下土包子”口吻。译文虽然换了一种语言，却使用了大体相似的英语方言，传达同样的感觉和细节，免得它们在直译中流失。（游戏：Blaster Master Zero 2）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73613925,
+          0.07140714,
+          0.88710576,
+          0.28793571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3871000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73613925,
+          0.07140714,
+          0.88710576,
+          0.28793571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0025-b002",
+      "kind": "caption",
+      "source": {
+        "text": "~ In the Japanese Animal Crossing games, Mr. Resetti speaks with a very thick Osaka dialect. Because this dialect doesn't exist in English, the localization team approximated it by giving him a distinctive, gruff New York accent instead",
+        "raw": "~ In the Japanese Animal\nCrossing games, Mr.\nResetti speaks with a\nvery thick Osaka dialect.\nBecause this dialect\ndoesn't exist in English,\nthe localization team\napproximated it by\ngiving him a distinctive,\ngruff New York accent\ninstead",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72101138,
+          0.39424286,
+          0.88815323,
+          0.56054286
+        ],
+        "mask_bbox": [
+          0.71970204,
+          0.39352857,
+          0.88946257,
+          0.56161429
+        ],
+        "line_ids": [
+          15,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "日版《Animal Crossing》中，Mr. Resetti 操着极浓的大阪方言。英语里没有这种方言，因此本地化团队改用鲜明、粗犷的纽约口音，近似传达原来的感觉。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72101138,
+          0.39281429,
+          0.88815323,
+          0.56411429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5885000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72101138,
+          0.39281429,
+          0.88815323,
+          0.56411429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0025-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Imagine someone asked you to translate this game into English. What happens when you run into text like this?",
+        "raw": "Imagine someone asked\nyou to translate this\ngame into English. What\nhappens when you run\ninto text like this?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73802268,
+          0.59564286,
+          0.88881797,
+          0.66968571
+        ],
+        "mask_bbox": [
+          0.73671335,
+          0.59492857,
+          0.89012731,
+          0.67075714
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "想象有人请你把这个游戏译成英语。遇到这样的台词，你会怎么办？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73802268,
+          0.59421429,
+          0.88881797,
+          0.67325714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6733285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73802268,
+          0.59421429,
+          0.88881797,
+          0.67325714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0025-b004",
+      "kind": "caption",
+      "source": {
+        "text": "If a bilingual character sometimes speaks a foreign language, a literal translation of their dialogue into that foreign language will flatten their speech and effectively turn the character monolingual (Game: Tokimeki Memorial)",
+        "raw": "If a bilingual character\nsometimes speaks a\nforeign language, a\nliteral translation of\ntheir dialogue into that\nforeign language will\nflatten their speech\nand effectively turn the\ncharacter monolingual\n(Game: Tokimeki\nMemorial)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73799247,
+          0.68047143,
+          0.88164684,
+          0.84740714
+        ],
+        "mask_bbox": [
+          0.73668313,
+          0.67975714,
+          0.88295617,
+          0.84847857
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "如果一个双语角色偶尔说外语，而你又要把对白译成那种外语，直译就会抹平这种特点，让角色实际上变成只说一种语言。（游戏：Tokimeki Memorial）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73799247,
+          0.67904286,
+          0.88164684,
+          0.85097857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73799247,
+          0.67904286,
+          0.88164684,
+          0.85097857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0025-b005",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55754574,
+          0.94035,
+          0.71331651,
+          0.94992143
+        ],
+        "mask_bbox": [
+          0.5562364,
+          0.93963571,
+          0.71462584,
+          0.95099286
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55754574,
+          0.93892143,
+          0.71331651,
+          0.95692143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9569214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55754574,
+          0.93892143,
+          0.71331651,
+          0.95692143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b1682334b0a82b6bc9a228e26d422a8fc4179eaea442945f6cca9d62bd5fa761"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,920 @@
+{
+  "schema_version": 3,
+  "pdf_page": 241,
+  "printed_page": "241",
+  "title": "在这样的日子里",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.315254+00:00",
+  "reference_size": [
+    993.616664,
+    1400
+  ],
+  "physical_size_pt": [
+    507.0,
+    714.36
+  ],
+  "image_url": "/assets/p0241.jpg",
+  "image_sha256": "9d045c268e8e8021a967c80542cbc1d9bbce8ada60c51ef1fd01047ae0909239",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0241/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0241-b001",
+      "kind": "heading",
+      "source": {
+        "text": "On Days Like This",
+        "raw": "On Days Like This",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09917305,
+          0.06391429,
+          0.27616284,
+          0.07777143
+        ],
+        "mask_bbox": [
+          0.0978647,
+          0.0632,
+          0.27747119,
+          0.07884286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "在这样的日子里",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997317,
+          0.05442857,
+          0.69836792,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09997317,
+          0.05442857,
+          0.69836792,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114.0
+    },
+    {
+      "id": "p0241-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Sans suddenly starts speaking with dead eyes, a different font, and proper capitalization",
+        "raw": "Sans suddenly starts\nspeaking with dead\neyes, a different\nfont, and proper\ncapitalization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72741332,
+          0.09436429,
+          0.85488703,
+          0.16470714
+        ],
+        "mask_bbox": [
+          0.72610497,
+          0.09365,
+          0.85619538,
+          0.16577857
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Sans 突然双眼空洞，换了一种字体，也开始规范使用大写字母。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7265478,
+          0.09293571,
+          0.87147291,
+          0.16827857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7265478,
+          0.09293571,
+          0.87147291,
+          0.16827857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans gives a short speech before the battle begins. His speech begins pleasantly enough, but takes a sudden turn at the end:",
+        "raw": "Sans gives a short speech before the battle begins. His speech begins pleasantly\nenough, but takes a sudden turn at the end:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09970646,
+          0.22922857,
+          0.69836792,
+          0.25935
+        ],
+        "mask_bbox": [
+          0.09769361,
+          0.22851429,
+          0.70038077,
+          0.26042143
+        ],
+        "line_ids": [
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "战斗开始前，Sans 会说一小段话。开头还很和气，末尾却陡然一转：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997317,
+          0.2278,
+          0.69836792,
+          0.26292143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09997317,
+          0.2278,
+          0.69836792,
+          0.26292143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b004",
+      "kind": "quote",
+      "source": {
+        "text": "it's a beautiful day outside. birds are singing, flowers are blooming. .. on days like these, kids like you ... Should be burning in hell.",
+        "raw": "it's a beautiful day outside.\nbirds are singing, flowers are blooming. ..\non days like these, kids like you ...\nShould be burning in hell.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14376772,
+          0.27467857,
+          0.43839844,
+          0.34196429
+        ],
+        "mask_bbox": [
+          0.14245937,
+          0.27396429,
+          0.4397068,
+          0.34303571
+        ],
+        "line_ids": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "外面真是美好的一天。鸟儿歌唱，花儿绽放……在这样的日子里，像你这样的孩子……就该在地狱里焚烧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14376772,
+          0.27325,
+          0.69836792,
+          0.34553571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0241-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.14376772,
+          0.27325,
+          0.69836792,
+          0.34553571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This scene has two important elements to it. First, it contains an \"extreme tonal shift\", as Toby puts it. Second, the scene is an indirect reference to a popular quote from EarthBound:",
+        "raw": "This scene has two important elements to it. First, it contains an \"extreme\ntonal shift\", as Toby puts it. Second, the scene is an indirect reference to a\npopular quote from EarthBound:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09972659,
+          0.35654286,
+          0.65888589,
+          0.40582857
+        ],
+        "mask_bbox": [
+          0.09769361,
+          0.35582857,
+          0.70038077,
+          0.4069
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "这个场景有两个重点。一是 Toby 所说的“语气剧变”。二是它间接引用了《EarthBound》的一句著名台词：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 37,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997317,
+          0.35511429,
+          0.69836792,
+          0.4094
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0241-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09997317,
+          0.35511429,
+          0.69836792,
+          0.4094
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b006",
+      "kind": "quote",
+      "source": {
+        "text": "At times like this, kids like you should be playing Nintendo games.",
+        "raw": "At times like this, kids like you should be playing Nintendo games.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14185551,
+          0.42117143,
+          0.62347988,
+          0.43335
+        ],
+        "mask_bbox": [
+          0.14054716,
+          0.42045714,
+          0.62478823,
+          0.43442143
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "这种时候，像你这样的孩子就该去玩任天堂游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14185551,
+          0.41974286,
+          0.69836792,
+          0.44033214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0241-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.14185551,
+          0.41974286,
+          0.69836792,
+          0.44033214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "To preserve Toby's intentional reference, the localization team replaced the English EarthBound reference with its equivalent Japanese line:",
+        "raw": "To preserve Toby's intentional reference, the localization team replaced the\nEnglish EarthBound reference with its equivalent Japanese line:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10021974,
+          0.44792143,
+          0.67166748,
+          0.47872143
+        ],
+        "mask_bbox": [
+          0.09769361,
+          0.44720714,
+          0.70038077,
+          0.47979286
+        ],
+        "line_ids": [
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "为保留 Toby 有意埋下的典故，团队找来了《EarthBound》对应的日文原句：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997317,
+          0.44649286,
+          0.69836792,
+          0.48229286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0241-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09997317,
+          0.44649286,
+          0.69836792,
+          0.48229286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b008",
+      "kind": "caption",
+      "source": {
+        "text": "\"There's an emergency going on. Kids like you should be playing Nintendo at home or something.\" (MOTHER 2, 1994)",
+        "raw": "\"There's an emergency going on. Kids like\nyou should be playing Nintendo at home or\nsomething.\" (MOTHER 2, 1994)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11308184,
+          0.65037143,
+          0.3769663,
+          0.68929286
+        ],
+        "mask_bbox": [
+          0.11177349,
+          0.64965714,
+          0.37827465,
+          0.69036429
+        ],
+        "line_ids": [
+          25,
+          27,
+          29
+        ]
+      },
+      "translation": {
+        "text": "“现在可是紧急时刻。你们这些孩子就该待在家里玩任天堂什么的。”（《MOTHER 2》，1994）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997819,
+          0.64642857,
+          0.39268665,
+          0.69714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6971428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09997819,
+          0.64642857,
+          0.39268665,
+          0.69714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "left-game-caption"
+    },
+    {
+      "id": "p0241-b009",
+      "kind": "caption",
+      "source": {
+        "text": "\"At times like this, kids like you should be playing Nintendo games.\" (EarthBound, 1995)",
+        "raw": "\"At times like this, kids like you should be\nplaying Nintendo games.\" (EarthBound, 1995)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41913548,
+          0.65037143,
+          0.70181995,
+          0.67482143
+        ],
+        "mask_bbox": [
+          0.41782713,
+          0.64965714,
+          0.7031283,
+          0.67589286
+        ],
+        "line_ids": [
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "“这种时候，像你这样的孩子就该去玩任天堂游戏。”（《EarthBound》，1995）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41281514,
+          0.64642857,
+          0.70181995,
+          0.69714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6971428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.41281514,
+          0.64642857,
+          0.70181995,
+          0.69714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "right-game-caption"
+    },
+    {
+      "id": "p0241-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, the original Japanese version of this EarthBound quote is spoken by a cranky, middle-aged police chief with a different speech pattern than Sans', so the translator was forced to adjust the quote to match Sans' character. Thus, Toby's EarthBound reference still lives on in the Japanese script, just in a less recognizable form.",
+        "raw": "Unfortunately, the original Japanese version of this EarthBound quote is\nspoken by a cranky, middle-aged police chief with a different speech pattern\nthan Sans', so the translator was forced to adjust the quote to match Sans'\ncharacter. Thus, Toby's EarthBound reference still lives on in the Japanese\nscript, just in a less recognizable form.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10128655,
+          0.70426429,
+          0.67833001,
+          0.78949286
+        ],
+        "mask_bbox": [
+          0.09769361,
+          0.70355,
+          0.70038077,
+          0.79056429
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "可惜，日文原句是个脾气暴躁的中年警察局长说的，语气和 Sans 不同。译者只好调整措辞，让它符合 Sans 的性格。因此，日文剧本仍保留了 Toby 对《EarthBound》的致敬，只是没那么容易认出来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 77,
+            "end": 87,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09997317,
+          0.70283571,
+          0.69836792,
+          0.79306429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09997317,
+          0.70283571,
+          0.69836792,
+          0.79306429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Sans has many intimidating lines during this scene in the game. What's more, most players probably end up seeing this scene dozens of times before defeating Sans. So it's no surprise that this section of the game is where some imprinted fan-translation players criticize the official translation the most, and vice-versa.",
+        "raw": "Sans has many intimidating lines during this scene in the game. What's\nmore, most players probably end up seeing this scene dozens of times\nbefore defeating Sans. So it's no surprise that this section of the game\nis where some imprinted fan-translation players criticize the official\ntranslation the most, and vice-versa.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12017713,
+          0.81803571,
+          0.64827818,
+          0.89107857
+        ],
+        "mask_bbox": [
+          0.11886878,
+          0.81732143,
+          0.64958653,
+          0.89215
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Sans 在这个场景里有许多气势逼人的台词。多数玩家打败他之前，大概还得看上几十遍。因此，这一段往往是先入为主的民间译本玩家批评官译最多的地方；先接触官译的玩家也会反过来批评民间译本，并不奇怪。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12017713,
+          0.81660714,
+          0.64827818,
+          0.89465
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8978571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12017713,
+          0.81660714,
+          0.64827818,
+          0.89465
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0241-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61414026,
+          0.93717143,
+          0.70509083,
+          0.94711429
+        ],
+        "mask_bbox": [
+          0.61283191,
+          0.93645714,
+          0.70639918,
+          0.94818571
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61414026,
+          0.93574286,
+          0.70509083,
+          0.95374286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9537428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61414026,
+          0.93574286,
+          0.70509083,
+          0.95374286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0dcee0c9d2d02c16a8deba12e4731e014a4dda5f612479a2ddbc6efffc560d94"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      99.34,
+      693.91
+    ],
+    "text_runs": [
+      {
+        "id": "p0241-b003",
+        "blocks": [
+          "p0241-b003",
+          "p0241-b004",
+          "p0241-b005",
+          "p0241-b006",
+          "p0241-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 684.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

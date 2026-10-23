@@ -1,0 +1,797 @@
+{
+  "schema_version": 3,
+  "pdf_page": 113,
+  "printed_page": "113",
+  "title": "日语人称代词：oira",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    979.550448,
+    1400
+  ],
+  "physical_size_pt": [
+    496.8,
+    710.04
+  ],
+  "image_url": "/assets/p0113.jpg",
+  "image_sha256": "1b41ded59a377c0bba85694c7fd05d64f82f73b41e9cc4e5e0613dfbd32ff5c2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0113/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0113-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Personal Pronouns: oira",
+        "raw": "Japanese Personal Pronouns: oira",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.22214272,
+          0.08842857,
+          0.573069,
+          0.10222857
+        ],
+        "mask_bbox": [
+          0.22081558,
+          0.08771429,
+          0.57439614,
+          0.1033
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：oira",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.117400794,
+          0.079428571,
+          0.67888285,
+          0.103571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.103571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.117400794,
+          0.079428571,
+          0.67888285,
+          0.103571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 149
+    },
+    {
+      "id": "p0113-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Traditionally, the Japanese personal pronoun oira suggests that the speaker is from a rural or uncultured area. Oira is slowly fading from everyday use, however, and is used far less commonly than pronouns like watashi, boku, and ore.",
+        "raw": "Traditionally, the Japanese personal pronoun oira suggests that the\nspeaker is from a rural or uncultured area. Oira is slowly fading from\neveryday use, however, and is used far less commonly than pronouns like\nwatashi, boku, and ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11777852,
+          0.11881429,
+          0.67549354,
+          0.18036429
+        ],
+        "mask_bbox": [
+          0.11573676,
+          0.1181,
+          0.67753529,
+          0.18143571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "传统上，日语人称代词 oira（我）暗示说话者来自乡下或文化不发达的地方。不过，oira 正逐渐淡出日常用语，远不如 watashi、boku、ore 这些表示“我”的代词常用。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 40,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 59,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 67,
+            "end": 71,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 72,
+            "end": 75,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11847272,
+          0.11738571,
+          0.67549354,
+          0.18393571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2671428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11847272,
+          0.11738571,
+          0.67549354,
+          0.18393571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In modern Japanese entertainment, oira can still be used to lend characters a rural, unsophisticated vibe, but oira is more commonly associated with lovable rascals, rambunctious pranksters, and friendly mascots. Other fictional characters who use oira include:",
+        "raw": "In modern Japanese entertainment, oira can still be used to lend\ncharacters a rural, unsophisticated vibe, but oira is more commonly\nassociated with lovable rascals, rambunctious pranksters, and friendly\nmascots. Other fictional characters who use oira include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11916691,
+          0.19385714,
+          0.65202359,
+          0.25709286
+        ],
+        "mask_bbox": [
+          0.11573676,
+          0.19314286,
+          0.67753529,
+          0.25816429
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "现代日本娱乐作品仍会用 oira 赋予角色乡土、质朴的气息，但它更常让人想到讨人喜欢的小淘气、活泼的捣蛋鬼和亲切的吉祥物。其他用 oira 自称的虚构角色包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 65,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11847272,
+          0.19242857,
+          0.67549354,
+          0.26066429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2671428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0113-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.11847272,
+          0.19242857,
+          0.67549354,
+          0.26066429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Shishimaru (Oira wa Shishimaru)",
+        "raw": "Shishimaru\n(Oira wa Shishimaru)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.18757584,
+          0.44003571,
+          0.31546104,
+          0.46457143
+        ],
+        "mask_bbox": [
+          0.1862487,
+          0.43932143,
+          0.31678818,
+          0.46564286
+        ],
+        "line_ids": [
+          10,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Shishimaru\n（Oira wa Shishimaru）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 30,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11847272,
+          0.43860714,
+          0.38836183,
+          0.46814286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11847272,
+          0.43860714,
+          0.38836183,
+          0.46814286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Stalkid/Skull Kid (The Legend of Zelda series)",
+        "raw": "Stalkid/Skull Kid\n(The Legend of Zelda series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45957817,
+          0.44037143,
+          0.63166731,
+          0.46493571
+        ],
+        "mask_bbox": [
+          0.45825103,
+          0.43965714,
+          0.63299445,
+          0.46600714
+        ],
+        "line_ids": [
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Stalkid／Skull Kid\n（The Legend of Zelda 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40877935,
+          0.43894286,
+          0.67549354,
+          0.46850714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4757142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40877935,
+          0.43894286,
+          0.67549354,
+          0.46850714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Teba/Atsuo (Dragon Quest XI)",
+        "raw": "Teba/Atsuo\n(Dragon Quest XI)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19625329,
+          0.64791429,
+          0.30636503,
+          0.67278571
+        ],
+        "mask_bbox": [
+          0.19492615,
+          0.6472,
+          0.30769217,
+          0.67385714
+        ],
+        "line_ids": [
+          14,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Teba／Atsuo\n（Dragon Quest XI）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11847272,
+          0.64648571,
+          0.38822401,
+          0.67635714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11847272,
+          0.64648571,
+          0.38822401,
+          0.67635714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Diddy Kong (Donkey Kong Country series)",
+        "raw": "Diddy Kong\n(Donkey Kong Country series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45470859,
+          0.64825,
+          0.63640418,
+          0.67281429
+        ],
+        "mask_bbox": [
+          0.45338145,
+          0.64753571,
+          0.63773132,
+          0.67388571
+        ],
+        "line_ids": [
+          15,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Diddy Kong\n（Donkey Kong Country 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40864154,
+          0.64682143,
+          0.67549354,
+          0.67638571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40864154,
+          0.64682143,
+          0.67549354,
+          0.67638571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Nyarth/Meowth (Pokemon series, early era only)",
+        "raw": "Nyarth/Meowth\n(Pokemon series, early era only)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15279458,
+          0.85612857,
+          0.34981353,
+          0.88104286
+        ],
+        "mask_bbox": [
+          0.15146744,
+          0.85541429,
+          0.35114067,
+          0.88211429
+        ],
+        "line_ids": [
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Nyarth／Meowth\n（Pokémon 系列，仅早期）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11847272,
+          0.8547,
+          0.38865788,
+          0.88461429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11847272,
+          0.8547,
+          0.38865788,
+          0.88461429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Cartman (South Park series)",
+        "raw": "Cartman\n(South Park series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48850981,
+          0.85612857,
+          0.60434866,
+          0.88104286
+        ],
+        "mask_bbox": [
+          0.48718267,
+          0.85541429,
+          0.6056758,
+          0.88211429
+        ],
+        "line_ids": [
+          19,
+          21
+        ]
+      },
+      "translation": {
+        "text": "Cartman\n（South Park 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.40907541,
+          0.8547,
+          0.67549354,
+          0.88461429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.40907541,
+          0.8547,
+          0.67549354,
+          0.88461429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0113-b010",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64130439,
+          0.93994286,
+          0.70552773,
+          0.95036429
+        ],
+        "mask_bbox": [
+          0.63997725,
+          0.93922857,
+          0.70685487,
+          0.95143571
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64130439,
+          0.93851429,
+          0.70552773,
+          0.95651429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9565142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64130439,
+          0.93851429,
+          0.70552773,
+          0.95651429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "837d536119c01237218f410c43106fe63f0d63b727c80d6119a981bd1e3be55c"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      116.05,
+      661.68
+    ],
+    "text_runs": [
+      {
+        "id": "p0113-b002",
+        "blocks": [
+          "p0113-b002",
+          "p0113-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 374.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

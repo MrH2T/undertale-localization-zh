@@ -1,0 +1,1973 @@
+{
+  "schema_version": 3,
+  "pdf_page": 122,
+  "printed_page": "122",
+  "title": "Snowdrake 喜剧时间",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.190928+00:00",
+  "reference_size": [
+    982.968697,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    713.04
+  ],
+  "image_url": "/assets/p0122.jpg",
+  "image_sha256": "c4fab2bd7b2d33d1d196d195e1b4b0a58ade2d60b1430bedc5f88f3966cc04db",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0122/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0122-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Snowdrake Comedy Hour",
+        "raw": "Snowdrake Comedy Hour",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29270515,
+          0.06483571,
+          0.5556535,
+          0.07857857
+        ],
+        "mask_bbox": [
+          0.29138263,
+          0.06412143,
+          0.55697603,
+          0.07965
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Snowdrake 喜剧时间",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29215579,
+          0.05514286,
+          0.89424007,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29215579,
+          0.05514286,
+          0.89424007,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0122-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Between Snowdrake's Japanese name, dialect, and puns, it almost feels like this monster is from a Japanese game to begin with!",
+        "raw": "Between Snowdrake's\nJapanese name, dialect,\nand puns, it almost\nfeels like this monster is\nfrom a Japanese game\nto begin with!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11645335,
+          0.09521429,
+          0.26879798,
+          0.18184286
+        ],
+        "mask_bbox": [
+          0.11513083,
+          0.0945,
+          0.2701205,
+          0.18291429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "看看 Snowdrake 的日文名字、方言和双关，简直让人觉得他原本就来自日本游戏！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11645335,
+          0.09378571,
+          0.26879798,
+          0.18541429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6720357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11645335,
+          0.09378571,
+          0.26879798,
+          0.18541429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0122-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As a teenage comedian-in-training, Snowdrake makes many snow and ice puns in English. Some English puns didn't need to be changed, but most had to be replaced with Japanese puns instead. Some examples include:",
+        "raw": "As a teenage comedian-in-training, Snowdrake makes many snow and ice puns\nin English. Some English puns didn't need to be changed, but most had to be\nreplaced with Japanese puns instead. Some examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29096552,
+          0.21247143,
+          0.89424007,
+          0.26049286
+        ],
+        "mask_bbox": [
+          0.28893087,
+          0.21175714,
+          0.89627473,
+          0.26156429
+        ],
+        "line_ids": [
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "少年 Snowdrake 正学着当喜剧演员，在英语里讲了许多冰雪双关。有些不必改，但大多须换成日语双关。例如：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29096552,
+          0.21214286,
+          0.90236851,
+          0.26071429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.26071428571428573,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29096552,
+          0.21214286,
+          0.90236851,
+          0.26071429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0122-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "Original English Pun",
+        "raw": "Original English Pun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31186141,
+          0.2892,
+          0.4652844,
+          0.3014
+        ],
+        "mask_bbox": [
+          0.29400733,
+          0.27142857,
+          0.59615327,
+          0.29857143
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "英文笑话（释义）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.27571429,
+          0.58292802,
+          0.29571429
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.2957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.27571429,
+          0.58292802,
+          0.29571429
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Approximate Japanese Localization",
+        "raw": "Approximate Japanese Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61555368,
+          0.2892,
+          0.88234753,
+          0.3014
+        ],
+        "mask_bbox": [
+          0.59818792,
+          0.27142857,
+          0.90135119,
+          0.29857143
+        ],
+        "line_ids": [
+          12
+        ]
+      },
+      "translation": {
+        "text": "日版笑话（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.27571429,
+          0.88812594,
+          0.29571429
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.2957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.27571429,
+          0.88812594,
+          0.29571429
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "I ran away from home. Why? 'Cause my father was so \"cold\" to me ...",
+        "raw": "I ran away from home. Why? 'Cause\nmy father was so \"cold\" to me ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31264475,
+          0.3214,
+          0.56543001,
+          0.3461
+        ],
+        "mask_bbox": [
+          0.31132222,
+          0.32068571,
+          0.56675253,
+          0.34717143
+        ],
+        "line_ids": [
+          13,
+          15
+        ]
+      },
+      "translation": {
+        "text": "我离家出走了。为什么？\n爸爸太 cold（冷／冷淡）……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.30214286,
+          0.58292802,
+          0.33357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3335714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.30214286,
+          0.58292802,
+          0.33357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "I ran away from home. Why? Because my dad was \"cold\" to me.",
+        "raw": "I ran away from home. Why? Because\nmy dad was \"cold\" to me.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61704915,
+          0.3214,
+          0.88183886,
+          0.3461
+        ],
+        "mask_bbox": [
+          0.61572663,
+          0.32068571,
+          0.88316139,
+          0.34717143
+        ],
+        "line_ids": [
+          14,
+          16
+        ]
+      },
+      "translation": {
+        "text": "我离家出走了。为什么？\n爸爸对我太“冷”了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.30214286,
+          0.88812594,
+          0.33357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3335714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.30214286,
+          0.88812594,
+          0.33357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "But she's still my mom. And that's \"cool!\"",
+        "raw": "But she's still my mom. And that's\n\"cool!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30564554,
+          0.36413571,
+          0.55139091,
+          0.38884286
+        ],
+        "mask_bbox": [
+          0.30432302,
+          0.36342143,
+          0.55271343,
+          0.38991429
+        ],
+        "line_ids": [
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "但她还是我妈妈。这很 cool！\n（冷／棒）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.33928571,
+          0.58292802,
+          0.37071429
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.33928571,
+          0.58292802,
+          0.37071429
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "But she's still my mom. We'll \"chill\" always be family, no matter what!",
+        "raw": "But she's still my mom. We'll \"chill\"\nalways be family, no matter what!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6163472,
+          0.36379286,
+          0.86555147,
+          0.38917857
+        ],
+        "mask_bbox": [
+          0.61502467,
+          0.36307857,
+          0.86687399,
+          0.39025
+        ],
+        "line_ids": [
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "她还是我妈妈，总归是一家人！\n（chill 冷；音近 still“仍然”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.33928571,
+          0.88812594,
+          0.37071429
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.33928571,
+          0.88812594,
+          0.37071429
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"Ice\" to meet you.",
+        "raw": "\"Ice\" to meet you.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30612369,
+          0.40655714,
+          0.43391005,
+          0.41679286
+        ],
+        "mask_bbox": [
+          0.30480116,
+          0.40584286,
+          0.43523258,
+          0.41786429
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "Ice to meet you（很高兴见你）。\n（ice 冰；音近 nice“好”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.37642857,
+          0.58292802,
+          0.40785714
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.37642857,
+          0.58292802,
+          0.40785714
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "It's \"ice\" to be here!",
+        "raw": "It's \"ice\" to be here!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6174866,
+          0.40655714,
+          0.75918999,
+          0.41679286
+        ],
+        "mask_bbox": [
+          0.61616408,
+          0.40584286,
+          0.76051252,
+          0.41786429
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "来这儿真 ice！\n（冰；音近 nice“好”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.37642857,
+          0.88812594,
+          0.40785714
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.37642857,
+          0.88812594,
+          0.40785714
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Ice puns are \"snow\" problem",
+        "raw": "Ice puns are \"snow\" problem",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31312289,
+          0.43447857,
+          0.51953842,
+          0.44471429
+        ],
+        "mask_bbox": [
+          0.31180037,
+          0.43376429,
+          0.52086094,
+          0.44578571
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "冰雪双关 snow problem。\n（snow 雪；音近 no“没有”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.41357143,
+          0.58292802,
+          0.445
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.445,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.41357143,
+          0.58292802,
+          0.445
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Ice jokes tend to \"slip\" and fall flat!",
+        "raw": "Ice jokes tend to \"slip\" and fall flat!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61752729,
+          0.43447857,
+          0.86805409,
+          0.44471429
+        ],
+        "mask_bbox": [
+          0.61620477,
+          0.43376429,
+          0.86937662,
+          0.44578571
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "冰笑话容易“滑倒”、冷场。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.41357143,
+          0.88812594,
+          0.445
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.445,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.41357143,
+          0.88812594,
+          0.445
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "Fights you in \"cold\" blood.",
+        "raw": "Fights you in \"cold\" blood.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31366207,
+          0.46308571,
+          0.50415644,
+          0.47332857
+        ],
+        "mask_bbox": [
+          0.31233955,
+          0.46237143,
+          0.50547897,
+          0.4744
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "以 cold blood（冷血）与你战斗。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.45071429,
+          0.58292802,
+          0.48214286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.45071429,
+          0.58292802,
+          0.48214286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "I'm \"chilly\" gonna hurt you!",
+        "raw": "I'm \"chilly\" gonna hurt you!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61800544,
+          0.46308571,
+          0.81454272,
+          0.47332857
+        ],
+        "mask_bbox": [
+          0.61668291,
+          0.46237143,
+          0.81586525,
+          0.4744
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "我真的要伤到你！\n（chilly 冷；音近 really“真的”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.45071429,
+          0.88812594,
+          0.48214286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.45071429,
+          0.88812594,
+          0.48214286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "Better not snow \"flake\" out!",
+        "raw": "Better not snow \"flake\" out!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31368242,
+          0.49205,
+          0.51602864,
+          0.50228571
+        ],
+        "mask_bbox": [
+          0.3123599,
+          0.49133571,
+          0.51735116,
+          0.50335714
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "可别 flake out（退缩／累垮）！\n（snowflake：雪花）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.48785714,
+          0.58292802,
+          0.51928571
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5192857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.48785714,
+          0.58292802,
+          0.51928571
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "There's \"snow\" way out for you now!",
+        "raw": "There's \"snow\" way out for you now!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61590975,
+          0.4917,
+          0.88336485,
+          0.50193571
+        ],
+        "mask_bbox": [
+          0.61458722,
+          0.49098571,
+          0.88468738,
+          0.50300714
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "现在无路可逃了！\n（snow 雪；音近 no“没有”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.48785714,
+          0.88812594,
+          0.51928571
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5192857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.48785714,
+          0.88812594,
+          0.51928571
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "My fave ice cereals: \"frosted\"",
+        "raw": "My fave ice cereals: \"frosted\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31368242,
+          0.51963571,
+          0.52091181,
+          0.52987143
+        ],
+        "mask_bbox": [
+          0.3123599,
+          0.51892143,
+          0.52223433,
+          0.53094286
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "我最爱的冰麦片：frosted。\n（结霜／裹糖霜）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.525,
+          0.58292802,
+          0.55642857
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5564285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.525,
+          0.58292802,
+          0.55642857
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Breakfast? Gotta have that \"frosted\" cereal!",
+        "raw": "Breakfast? Gotta have that \"frosted\"\ncereal!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61681517,
+          0.51963571,
+          0.88101483,
+          0.54400714
+        ],
+        "mask_bbox": [
+          0.61549264,
+          0.51892143,
+          0.88233735,
+          0.54507857
+        ],
+        "line_ids": [
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "早餐得吃糖霜麦片！\n（frosted：裹糖霜／结霜）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.525,
+          0.88812594,
+          0.55642857
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5564285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.525,
+          0.88812594,
+          0.55642857
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"Chill\" out ...",
+        "raw": "\"Chill\" out ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.306612,
+          0.56170714,
+          0.39545512,
+          0.57195
+        ],
+        "mask_bbox": [
+          0.30528948,
+          0.56099286,
+          0.39677764,
+          0.57302143
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "Chill out……（冷静／凉下来）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.56214286,
+          0.58292802,
+          0.59357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.56214286,
+          0.58292802,
+          0.59357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Keep \"slippin\"' up ...",
+        "raw": "Keep \"slippin\"' up ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61856497,
+          0.56170714,
+          0.76171296,
+          0.57195
+        ],
+        "mask_bbox": [
+          0.61724244,
+          0.56099286,
+          0.76303549,
+          0.57302143
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "继续失误吧……\n（slip up 失误；slip 滑倒）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.56214286,
+          0.88812594,
+          0.59357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.56214286,
+          0.88812594,
+          0.59357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "M .. m .. macaroni and \"freeze\"",
+        "raw": "M .. m .. macaroni and \"freeze\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31416056,
+          0.59067143,
+          0.52807378,
+          0.60090714
+        ],
+        "mask_bbox": [
+          0.31283804,
+          0.58995714,
+          0.52939631,
+          0.60197857
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "通、通心粉配 freeze……\n（冰冻；音近 cheese“奶酪”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30723257,
+          0.59928571,
+          0.58292802,
+          0.63071429
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6307142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30723257,
+          0.59928571,
+          0.58292802,
+          0.63071429
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "Ma ... ma .. macaroni \"freeze\" cheese ...",
+        "raw": "Ma ... ma .. macaroni \"freeze\"\ncheese ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61729331,
+          0.59067143,
+          0.83089116,
+          0.61604286
+        ],
+        "mask_bbox": [
+          0.61597079,
+          0.58995714,
+          0.83221368,
+          0.61711429
+        ],
+        "line_ids": [
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "通、通心粉配“冰冻”奶酪……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61141316,
+          0.59928571,
+          0.88812594,
+          0.63071429
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6307142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61141316,
+          0.59928571,
+          0.88812594,
+          0.63071429
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0122-table1"
+    },
+    {
+      "id": "p0122-b024",
+      "kind": "heading",
+      "source": {
+        "text": "Icy What You Did",
+        "raw": "Icy What You Did",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29585886,
+          0.64915,
+          0.47110351,
+          0.66289286
+        ],
+        "mask_bbox": [
+          0.29453634,
+          0.64843571,
+          0.47242603,
+          0.66396429
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "Icy：看穿了你的把戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29215579,
+          0.63942857,
+          0.89424007,
+          0.66357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6635714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29215579,
+          0.63942857,
+          0.89424007,
+          0.66357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [
+        "标题 Icy What You Did 将 icy（冰的）与 I see（我看出）谐音；中文标题保留关键原词，读音双关仍待人工审校。"
+      ],
+      "rule_y": 933.0
+    },
+    {
+      "id": "p0122-b025",
+      "kind": "aside",
+      "source": {
+        "text": "Icecap’s Japanese name plays with the words 帽 (bō, \"hat; cap\") and 坊 (bō, \"boy; lad\").",
+        "raw": "Icecap's Japanese ~\nname plays with the\nwords ~ii (bo, \"hat;\ncap\") and :lfi (bo,\n\"boy; lad\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14259864,
+          0.67917857,
+          0.28381372,
+          0.75168571
+        ],
+        "mask_bbox": [
+          0.14127612,
+          0.67846429,
+          0.28513624,
+          0.75275714
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Icecap 的日文名利用了“帽”（bō，帽子）与“坊”（bō，小子）的同音。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 29,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14259864,
+          0.67775,
+          0.28381372,
+          0.75525714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.14259864,
+          0.67775,
+          0.28381372,
+          0.75525714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0122-b026",
+      "kind": "paragraph",
+      "source": {
+        "text": "A monster named \"Icecap\" sometimes appears in battle. He wears a hat made of ice that he considers his pride and joy. In Japanese, Icecap’s name became hyōbō - hyō means \"ice\", while bō is a play on the Japanese words for \"cap\" and \"boy\". This is an interesting, rare example of a name that works perfectly in a straightforward translation. Not only that, the Japanese name naturally contains an extra layer of wordplay not found in the English version.",
+        "raw": "A monster named \"Icecap\" sometimes appears in battle. He wears a hat made\nof ice that he considers his pride and joy. In Japanese, Icecap's name became\nhy6b6 - hyo means \"ice\", while bo is a play on the Japanese words for \"cap\"\nand \"boy\". This is an interesting, rare example of a name that works perfectly\nin a straightforward translation. Not only that, the Japanese name naturally\ncontains an extra layer of wordplay not found in the English version.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29334607,
+          0.80688571,
+          0.88857357,
+          0.91045
+        ],
+        "mask_bbox": [
+          0.28893087,
+          0.80617143,
+          0.89627473,
+          0.91152143
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "战斗中有时会出现名叫“Icecap”的怪物。他戴着一顶冰做的帽子，对此引以为傲、爱不释手。日语中，Icecap 的名字变成了 hyōbō：hyō 是“冰”，bō 则同时指“帽子”和“小子”。这是个有趣而少见的例子，名字直译就能完美成立。不仅如此，日文名还自然地多出了一层英语版没有的双关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 63,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 69,
+            "end": 72,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 78,
+            "end": 80,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29096552,
+          0.80642857,
+          0.90236851,
+          0.92642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29096552,
+          0.80642857,
+          0.90236851,
+          0.92642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "14f91f47e57736a3487054f014e65a8d08e86687721d83dcb06dde202b7b9b53"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          43,
+          50
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.18,
+      879.01
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "layout_review": {
+    "status": "targeted-draft-layout",
+    "reference": "layout-review-100-183.json",
+    "tables": "shared measured row frames; no automatic font shrinking",
+    "annotations": "disabled"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        287,
+        378,
+        888,
+        888
+      ],
+      "fill": "#ffffff"
+    }
+  ],
+  "vector_shapes": [
+    {
+      "type": "rect",
+      "bbox": [
+        288,
+        379,
+        887,
+        419
+      ],
+      "fill": "#414141"
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          379
+        ],
+        [
+          288,
+          887
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          587,
+          379
+        ],
+        [
+          587,
+          887
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          887,
+          379
+        ],
+        [
+          887,
+          887
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          379
+        ],
+        [
+          887,
+          379
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          419
+        ],
+        [
+          887,
+          419
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          471
+        ],
+        [
+          887,
+          471
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          523
+        ],
+        [
+          887,
+          523
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          575
+        ],
+        [
+          887,
+          575
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          627
+        ],
+        [
+          887,
+          627
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          679
+        ],
+        [
+          887,
+          679
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          731
+        ],
+        [
+          887,
+          731
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          783
+        ],
+        [
+          887,
+          783
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          835
+        ],
+        [
+          887,
+          835
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          288,
+          887
+        ],
+        [
+          887,
+          887
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    }
+  ]
+}

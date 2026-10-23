@@ -1,0 +1,726 @@
+{
+  "schema_version": 3,
+  "pdf_page": 134,
+  "printed_page": "134",
+  "title": "双份甜点",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.203021+00:00",
+  "reference_size": [
+    980.638621,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    710.28
+  ],
+  "image_url": "/assets/p0134.jpg",
+  "image_sha256": "f9786afdef914d83325eefd48545c6176c1795bfeae27a13aa7a6ae15827b416",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0134/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0134-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Double the Dessert",
+        "raw": "Double the Dessert",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29576645,
+          0.06225714,
+          0.49621745,
+          0.07619286
+        ],
+        "mask_bbox": [
+          0.29444078,
+          0.06154286,
+          0.49754312,
+          0.07726429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "双份甜点",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.053,
+          0.90900968,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.053,
+          0.90900968,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0134-b002",
+      "kind": "aside",
+      "source": {
+        "text": "\"Popsicle\" is one of ~ those weird words that's technically a brand name, but has transformed over time into a general-use word",
+        "raw": "\"Popsicle\" is one of ~\nthose weird words\nthat's technically a\nbrand name, but has\ntransformed over time\ninto a general-use\nword",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12825316,
+          0.09219286,
+          0.28268314,
+          0.19615
+        ],
+        "mask_bbox": [
+          0.12692749,
+          0.09147857,
+          0.2840088,
+          0.19722143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          12
+        ]
+      },
+      "translation": {
+        "text": "严格来说，“Popsicle”是一个商标名，后来逐渐成了冰棒的通称。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11727052,
+          0.09076429,
+          0.28268314,
+          0.19972143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6716357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11727052,
+          0.09076429,
+          0.28268314,
+          0.19972143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A food item called the \"Bisicle\" is available for purchase in Snowdin. In English, the item is described as a \"two-pronged popsicle, so you can eat it twice\".",
+        "raw": "A food item called the \"Bisicle\" is available for purchase in Snowdin. In English,\nthe item is described as a \"two-pronged popsicle, so you can eat it twice\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29325788,
+          0.2649,
+          0.90900968,
+          0.29601429
+        ],
+        "mask_bbox": [
+          0.28656836,
+          0.26418571,
+          0.91104917,
+          0.29708571
+        ],
+        "line_ids": [
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Snowdin 商店出售一种叫“Bisicle”的食物，说明写着：“双头冰棒，所以可以吃两次。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.26347143,
+          0.90900968,
+          0.29958571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.38857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.26347143,
+          0.90900968,
+          0.29958571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Normally, a food item disappears after being used, but the Bisicle becomes the \"Unisicle\" after one use. As we can see, there's wordplay at work here: the two item names sound like the words \"bicycle\" and \"unicycle'', while also sounding like the word \"popsicle\".",
+        "raw": "Normally, a food item disappears after being used, but the Bisicle becomes the\n\"Unisicle\" after one use. As we can see, there's wordplay at work here: the two\nitem names sound like the words \"bicycle\" and \"unicycle'', while also sounding\nlike the word \"popsicle\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28860785,
+          0.31085,
+          0.90412511,
+          0.37877857
+        ],
+        "mask_bbox": [
+          0.28656836,
+          0.31013571,
+          0.91104917,
+          0.37985
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "食物一般用过就会消失，Bisicle 吃过一次却会变成“Unisicle”。这两个名称既像 bicycle（自行车）与 unicycle（独轮车），也像 popsicle（冰棒）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.30942143,
+          0.90900968,
+          0.38235
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.38857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0134-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.30942143,
+          0.90900968,
+          0.38235
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b005",
+      "kind": "caption",
+      "source": {
+        "text": "The Bisicle item before being used",
+        "raw": "The Bisicle item before being used",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33517954,
+          0.55004286,
+          0.54685792,
+          0.56074286
+        ],
+        "mask_bbox": [
+          0.33385387,
+          0.54932857,
+          0.54818359,
+          0.56181429
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "使用前的 Bisicle",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.54861429,
+          0.59109695,
+          0.56661429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5696142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.54861429,
+          0.59109695,
+          0.56661429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b006",
+      "kind": "caption",
+      "source": {
+        "text": "The Bisicle item after being used",
+        "raw": "The Bisicle item after being used",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.66079388,
+          0.55004286,
+          0.86234621,
+          0.56074286
+        ],
+        "mask_bbox": [
+          0.65946821,
+          0.54932857,
+          0.86367188,
+          0.56181429
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "使用后的 Bisicle",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61149182,
+          0.54861429,
+          0.90900968,
+          0.56661429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5696142828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61149182,
+          0.54861429,
+          0.90900968,
+          0.56661429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "This wordplay would be lost in a literal translation into Japanese, so the translator compensated by referring to a different, but similar Japanese ice cream treat known as \"Papico\". Papico packages generally contain two plastic, ice cream-filled bottles. And just like double popsicles, they're designed to be broken apart and eaten separately or shared with someone else.",
+        "raw": "This wordplay would be lost in a literal translation into Japanese, so the\ntranslator compensated by referring to a different, but similar Japanese ice\ncream treat known as \"Papico\". Papico packages generally contain two plastic,\nice cream-filled bottles. And just like double popsicles, they're designed to be\nbroken apart and eaten separately or shared with someone else.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2955421,
+          0.57675714,
+          0.89951587,
+          0.66227857
+        ],
+        "mask_bbox": [
+          0.28656836,
+          0.57604286,
+          0.91104917,
+          0.66335
+        ],
+        "line_ids": [
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "直译会让日语失去这个文字游戏，因此译者换成了一种不同却相似的日本冰品：Papico。每包 Papico 有两个装着冰淇淋的塑料瓶，和双头冰棒一样，可以掰开分别吃，也可以分给别人。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.57532857,
+          0.90900968,
+          0.66585
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6721428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.57532857,
+          0.90900968,
+          0.66585
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b008",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: A \"two- ~ pronged\" popsicle",
+        "raw": "LEFT: A \"two- ~\npronged\" popsicle",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15360398,
+          0.67877857,
+          0.28415157,
+          0.70603571
+        ],
+        "mask_bbox": [
+          0.15227832,
+          0.67806429,
+          0.28547723,
+          0.70710714
+        ],
+        "line_ids": [
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "左：双头冰棒。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.15360398,
+          0.67735,
+          0.28415157,
+          0.70960714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7098357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.15360398,
+          0.67735,
+          0.28415157,
+          0.70960714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b009",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: A \"two pronged\" Papico ice cream treat",
+        "raw": "RIGHT: A \"two\npronged\" Papico ice\ncream treat",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14250917,
+          0.71697857,
+          0.26827416,
+          0.75840714
+        ],
+        "mask_bbox": [
+          0.14118351,
+          0.71626429,
+          0.26959982,
+          0.75947857
+        ],
+        "line_ids": [
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "右：双支装的 Papico。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11727052,
+          0.71555,
+          0.26827416,
+          0.76197857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11727052,
+          0.71555,
+          0.26827416,
+          0.76197857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0134-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "However, because \"Pa pico\" is a trademarked name in Japan, the translator chose a parody name rather than a direct reference. Thus the original \"Bisicle\" and \"Unisicle\" items are known as the \"Babico\" and \"Single Babico\" in Japanese.",
+        "raw": "However, because \"Pa pico\" is a trademarked name in Japan, the translator chose\na parody name rather than a direct reference. Thus the original \"Bisicle\" and\n\"Unisicle\" items are known as the \"Babico\" and \"Single Babico\" in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29054536,
+          0.84303571,
+          0.90469617,
+          0.89272143
+        ],
+        "mask_bbox": [
+          0.28656836,
+          0.84232143,
+          0.91104917,
+          0.89379286
+        ],
+        "line_ids": [
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "Papico 是商标名，因此日版没有直接照用，而是作了戏仿。Bisicle 和 Unisicle 分别成了“Babico”和“Single Babico”（单支 Babico）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29190162,
+          0.84160714,
+          0.90900968,
+          0.89629286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29190162,
+          0.84160714,
+          0.90900968,
+          0.89629286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "596579b8f6445fbcd96e8dbacaae6d75c4daf5eedec0c402585e2c98f4aaa048"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          50
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.25,
+      891.41
+    ],
+    "text_runs": [
+      {
+        "id": "p0134-b003",
+        "blocks": [
+          "p0134-b003",
+          "p0134-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 544.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

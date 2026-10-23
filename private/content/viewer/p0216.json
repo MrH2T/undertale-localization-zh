@@ -1,0 +1,1041 @@
+{
+  "schema_version": 3,
+  "pdf_page": 216,
+  "printed_page": "216",
+  "title": "核心：不屈的人类威胁重要设施",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.780929+00:00",
+  "reference_size": [
+    981.698686,
+    1400
+  ],
+  "physical_size_pt": [
+    499.32,
+    712.08
+  ],
+  "image_url": "/assets/p0216.jpg",
+  "image_sha256": "72be1dfe2a4370d36e75e2f0484e771c497e9ece502730484e429860ab997c2a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0216/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0216-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Core",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29133175,
+          0.04857143,
+          0.48589247,
+          0.075
+        ],
+        "mask_bbox": [
+          0.29000752,
+          0.04785714,
+          0.48721671,
+          0.07607143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "核心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29133175,
+          0.045,
+          0.90557318,
+          0.08214286
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08214285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29133175,
+          0.045,
+          0.90557318,
+          0.08214286
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-band"
+    },
+    {
+      "id": "p0216-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Relentless Human Threatens Vital Infrastructure",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2923504,
+          0.09142857,
+          0.7120311,
+          0.10357143
+        ],
+        "mask_bbox": [
+          0.29102616,
+          0.09071429,
+          0.71335534,
+          0.10464286
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "不屈的人类威胁重要设施",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.08157143,
+          0.90609269,
+          0.10571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10571428714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.08157143,
+          0.90609269,
+          0.10571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character now enters the Core, an advanced energy generation facility. Extreme temperatures and enhanced foes wait inside.",
+        "raw": "The main character now enters the Core, an advanced energy generation facility.\nExtreme temperatures and enhanced foes wait inside.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29213648,
+          0.13005714,
+          0.90609269,
+          0.15471429
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.12934286,
+          0.90812997,
+          0.15578571
+        ],
+        "line_ids": [
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "text": "主角现在进入了核心，一座先进的能源设施。极端高温和更强的敌人正在里面等待。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28900925,
+          0.12,
+          0.90609269,
+          0.16428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28900925,
+          0.12,
+          0.90609269,
+          0.16428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-introduction"
+    },
+    {
+      "id": "p0216-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "Works Like a Charm",
+        "raw": "Works Like a Charm",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29366445,
+          0.17165,
+          0.49876811,
+          0.18512857
+        ],
+        "mask_bbox": [
+          0.29234021,
+          0.17093571,
+          0.50009235,
+          0.1862
+        ],
+        "line_ids": [
+          3
+        ]
+      },
+      "translation": {
+        "text": "咒语也要本地化",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.16157143,
+          0.90609269,
+          0.18571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.18571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.16157143,
+          0.90609269,
+          0.18571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 264
+    },
+    {
+      "id": "p0216-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Localizing magic spells ~ into other languages sounds like a fictional Hogwarts class or something, but nope, it's a real thing",
+        "raw": "Localizing magic spells ~\ninto other languages\nsounds like a fictional\nHogwarts class or\nsomething, but nope,\nit's a real thing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12562918,
+          0.20250714,
+          0.2831215,
+          0.29019286
+        ],
+        "mask_bbox": [
+          0.12430494,
+          0.20179286,
+          0.28444573,
+          0.29126429
+        ],
+        "line_ids": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "把魔法咒语本地化成别的语言，听起来像霍格沃茨的虚构课程，但这确实是一项真实工作。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12562918,
+          0.20107857,
+          0.2831215,
+          0.29376429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.12562918,
+          0.20107857,
+          0.2831215,
+          0.29376429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "A monster named Madjick occasionally chants magic words during battle. Some of these magic words remained unchanged during the translation process, while others were localized to make more sense for Japanese players.",
+        "raw": "A monster named Madjick occasionally chants magic words during battle.\nSome of these magic words remained unchanged during the translation\nprocess, while others were localized to make more sense for Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29267636,
+          0.32016429,
+          0.89571272,
+          0.36906429
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.31945,
+          0.90812997,
+          0.37013571
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "怪物 Madjick 会在战斗中偶尔念出咒语。翻译时，一部分咒语保持不变，另一部分则经过本地化，让日本玩家更容易理解。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.31873571,
+          0.90609269,
+          0.37263571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3807500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.31873571,
+          0.90609269,
+          0.37263571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Abra Cadabra",
+        "raw": "Abra Cadabra",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29418395,
+          0.38789286,
+          0.42088271,
+          0.40025
+        ],
+        "mask_bbox": [
+          0.29285972,
+          0.38717857,
+          0.42220694,
+          0.40132143
+        ],
+        "line_ids": [
+          13
+        ]
+      },
+      "translation": {
+        "text": "Abra Cadabra",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.37825,
+          0.90609269,
+          0.40239286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40239285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.37825,
+          0.90609269,
+          0.40239286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, \"abracadabra\" is a customary, well-known magic word that can be used in just about any magic-related situation. Because \"abracadabra\" is well known in Japan too, this magic word remained the same in Underta/e's Japanese script.",
+        "raw": "In English, \"abracadabra\" is a customary, well-known magic word that can\nbe used in just about any magic-related situation. Because \"abracadabra\" is\nwell known in Japan too, this magic word remained the same in Underta/e's\nJapanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29406172,
+          0.41015,
+          0.87441291,
+          0.47895
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.40943571,
+          0.90812997,
+          0.48002143
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "英语中的 abra cadabra 是耳熟能详的常见咒语，几乎任何与魔法有关的场合都能用。日本也熟悉这个咒语，因此《Undertale》日文版保留了它。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 58,
+            "end": 67,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.40872143,
+          0.90609269,
+          0.48252143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.49029285285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.40872143,
+          0.90609269,
+          0.48252143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Alakazam",
+        "raw": "Alakazam",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29466271,
+          0.49743571,
+          0.38506724,
+          0.50979286
+        ],
+        "mask_bbox": [
+          0.29333848,
+          0.49672143,
+          0.38639147,
+          0.51086429
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "Alakazam",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.48779286,
+          0.90609269,
+          0.51193572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5119357171428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.48779286,
+          0.90609269,
+          0.51193572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, \"alakazam\" is another standard, well-known magic word. This word is less known in Japan, however, so the localization team replaced \"alakazam\" with chichinpui, a magic-like Japanese phrase often said to children to soothe their pain after getting hurt.",
+        "raw": "In English, \"alakazam\" is another standard, well-known magic word. This\nword is less known in Japan, however, so the localization team replaced\n\"alakazam\" with chichinpui, a magic-like Japanese phrase often said to children\nto soothe their pain after getting hurt.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28900925,
+          0.52036429,
+          0.89906405,
+          0.58813571
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.51965,
+          0.90812997,
+          0.58920714
+        ],
+        "line_ids": [
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Alakazam 也是英语里熟悉的标准咒语。不过日本人对它较陌生，所以团队换成了 chichinpui——一种像咒语的日语说法，常用来安抚受伤的孩子，意在让疼痛消失。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 41,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.51893571,
+          0.90609269,
+          0.59170714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5998285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.51893571,
+          0.90609269,
+          0.59170714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b011",
+      "kind": "subheading",
+      "source": {
+        "text": "Tinkle Tinkle Hoy",
+        "raw": "Tinkle Tinkle Hoy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.295498,
+          0.60697143,
+          0.45466089,
+          0.61932857
+        ],
+        "mask_bbox": [
+          0.29417377,
+          0.60625714,
+          0.45598513,
+          0.6204
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "Tinkle Tinkle Hoy",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.59732857,
+          0.90609269,
+          0.62147143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6214714271428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.59732857,
+          0.90609269,
+          0.62147143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Another of Madjick's phrases, \"tinkle tinkle hoy\", isn't a commonly known magic word in English. In the translation spreadsheet, Toby noted that \"tinkle tinkle hoy\" is actually a reference to a magic phrase in the Japanese manga series, Oyasumi Pun Pun. Naturally, the localization team ensured that this reference remained intact in the Japanese script.",
+        "raw": "Another of Madjick's phrases, \"tinkle\ntinkle hoy\", isn't a commonly known\nmagic word in English. In the\ntranslation spreadsheet, Toby noted\nthat \"tinkle tinkle hoy\" is actually a\nreference to a magic phrase in the\nJapanese manga series, Oyasumi Pun\nPun. Naturally, the localization team\nensured that this reference remained\nintact in the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29412283,
+          0.63059286,
+          0.5816958,
+          0.80755
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.62987857,
+          0.58302003,
+          0.80862143
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          34
+        ]
+      },
+      "translation": {
+        "text": "Madjick 的另一句“tinkle tinkle hoy”并不是英语里常见的咒语。Toby 在翻译表格中注明，它其实引用了日本漫画《Oyasumi Pun Pun》（晚安，布布）里的魔法短句。团队自然确保日文版保留了这个引用。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 68,
+            "end": 83,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28900925,
+          0.62916429,
+          0.5816958,
+          0.81112143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8199142828571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28900925,
+          0.62916429,
+          0.5816958,
+          0.81112143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Toby included the magic phrase \"tinkle tinkle hoy\" as a reference to the Oyasumi Pun Pun series",
+        "raw": "Toby included the magic phrase \"tinkle tinkle hoy\"\nas a reference to the Oyasumi Pun Pun series",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61511746,
+          0.78067143,
+          0.91067658,
+          0.80747143
+        ],
+        "mask_bbox": [
+          0.61379322,
+          0.77995714,
+          0.91200081,
+          0.80854286
+        ],
+        "line_ids": [
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "Toby 用“tinkle tinkle hoy”这句咒语引用了《晚安，布布》。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60289375,
+          0.77924286,
+          0.91067658,
+          0.81104286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8432000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.60289375,
+          0.77924286,
+          0.91067658,
+          0.81104286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b014",
+      "kind": "subheading",
+      "source": {
+        "text": "Hocus Pocus",
+        "raw": "Hocus Pocus",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29810573,
+          0.82705714,
+          0.41125653,
+          0.83941429
+        ],
+        "mask_bbox": [
+          0.29678149,
+          0.82634286,
+          0.41258077,
+          0.84048571
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "Hocus Pocus",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.81741429,
+          0.90609269,
+          0.84155715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8415571471428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.81741429,
+          0.90609269,
+          0.84155715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0216-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "\"Hocus pocus\" is one of the most classic magic phrases in English. Although it's less known in Japan, it does appear occasionally in Japanese entertainment. For this reason, \"hocus pocus\" remained as-is in the Japanese script.",
+        "raw": "\"Hocus pocus\" is one of the most classic magic phrases in English. Although it's\nless known in Japan, it does appear occasionally in Japanese entertainment.\nFor this reason, \"hocus pocus\" remained as-is in the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29045572,
+          0.85034286,
+          0.9009791,
+          0.89924286
+        ],
+        "mask_bbox": [
+          0.28697196,
+          0.84962857,
+          0.90812997,
+          0.90031429
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Hocus pocus 是英语中最经典的咒语之一。虽然日本人不太熟悉，但日本娱乐作品中偶尔也会出现，所以日文剧本仍保留原样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29213648,
+          0.84891429,
+          0.90609269,
+          0.90281429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29213648,
+          0.84891429,
+          0.90609269,
+          0.90281429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3259d175336d837d18cd5f632cf5ab2275d03dd008a31eba96e45c0e84c88256"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          40
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.79,
+      889.51
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        262,
+        0,
+        887,
+        116
+      ],
+      "fill": "#000000"
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "schema_version": 3,
+  "pdf_page": 63,
+  "printed_page": "63",
+  "title": "认识主译者",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.719217+00:00",
+  "reference_size": [
+    980.54291,
+    1400
+  ],
+  "physical_size_pt": [
+    498.48,
+    711.72
+  ],
+  "image_url": "/assets/p0063.jpg",
+  "image_sha256": "3ebbb54fa6d0671ea9e90f8939cc8630300a90c67cb7b73d2abb6e3bcba1c61f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0063/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0063-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Meet Undertale's Head Translator",
+        "raw": "Meet Undertale's Head Translator",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.22148954,
+          0.08652857,
+          0.57074504,
+          0.09987857
+        ],
+        "mask_bbox": [
+          0.22016375,
+          0.08581429,
+          0.57207083,
+          0.10095
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "认识 Undertale 的主译者",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11728197,
+          0.07657143,
+          0.67207666,
+          0.10071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11728197,
+          0.07657143,
+          0.67207666,
+          0.10071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 145.0
+    },
+    {
+      "id": "p0063-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Keiko Fukuichi, a freelance English-to-Japanese translator, specializes in localizing games of every size into Japanese. As a huge fan of Undertale herself, she naturally jumped at the chance to localize the game into Japanese. Some of her other professional indie localizations include:",
+        "raw": "Keiko Fukuichi, a freelance English-to-Japanese translator, specializes in\nlocalizing games of every size into Japanese. As a huge fan of Undertale\nherself, she naturally jumped at the chance to localize the game into\nJapanese. Some of her other professional indie localizations include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11786328,
+          0.11685714,
+          0.668548,
+          0.1775
+        ],
+        "mask_bbox": [
+          0.11582359,
+          0.11614286,
+          0.67058768,
+          0.17857143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "自由英译日译者 Keiko Fukuichi 专门将各种规模的游戏本地化为日语。她自己也是 Undertale 的忠实玩家，自然立刻抓住了翻译这款游戏的机会。她的其他商业独立游戏本地化项目包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 46,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11786328,
+          0.10642857,
+          0.668548,
+          0.18928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.18928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11786328,
+          0.10642857,
+          0.668548,
+          0.18928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "translator-profile-introduction"
+    },
+    {
+      "id": "p0063-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Enter the Gungeon (2016)",
+        "raw": "Enter the Gungeon (2016)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17025262,
+          0.33626429,
+          0.32949093,
+          0.34722143
+        ],
+        "mask_bbox": [
+          0.16892682,
+          0.33555,
+          0.33081673,
+          0.34829286
+        ],
+        "line_ids": [
+          6
+        ]
+      },
+      "translation": {
+        "text": "Enter the Gungeon（2016）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12340102,
+          0.33483571,
+          0.37428245,
+          0.35283571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12340102,
+          0.33483571,
+          0.37428245,
+          0.35283571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0063-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Return of the Obra Dinn (2019)",
+        "raw": "Return of the Obra Dinn (2019)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.44565107,
+          0.33626429,
+          0.63568865,
+          0.34722143
+        ],
+        "mask_bbox": [
+          0.44432528,
+          0.33555,
+          0.63701445,
+          0.34829286
+        ],
+        "line_ids": [
+          7
+        ]
+      },
+      "translation": {
+        "text": "Return of the Obra Dinn（2019）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41609602,
+          0.33483571,
+          0.6659576,
+          0.35283571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41609602,
+          0.33483571,
+          0.6659576,
+          0.35283571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0063-b005",
+      "kind": "caption",
+      "source": {
+        "text": "My Friend Pedro (2019)",
+        "raw": "My Friend Pedro (2019)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17844196,
+          0.50048571,
+          0.32178092,
+          0.51144286
+        ],
+        "mask_bbox": [
+          0.17711617,
+          0.49977143,
+          0.32310672,
+          0.51251429
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "My Friend Pedro（2019）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12340102,
+          0.49905714,
+          0.37530229,
+          0.51705714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12340102,
+          0.49905714,
+          0.37530229,
+          0.51705714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0063-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Hades (2021)",
+        "raw": "Hades (2021)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50103876,
+          0.50048571,
+          0.58129022,
+          0.51144286
+        ],
+        "mask_bbox": [
+          0.49971296,
+          0.49977143,
+          0.58261601,
+          0.51251429
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "Hades（2021）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41609602,
+          0.49905714,
+          0.66697744,
+          0.51705714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41609602,
+          0.49905714,
+          0.66697744,
+          0.51705714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0063-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Toby hangs out with Keiko Fukuichi (head translator) and Brian Gray (localization support staff) in Tokyo during Undertale's localization",
+        "raw": "Toby hangs out with Keiko Fukuichi (head translator) and Brian Gray (localization\nsupport staff) in Tokyo during Underta/e's localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1443588,
+          0.85029286,
+          0.64727407,
+          0.87497143
+        ],
+        "mask_bbox": [
+          0.14303301,
+          0.84957857,
+          0.64859987,
+          0.87604286
+        ],
+        "line_ids": [
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Undertale 本地化期间，Toby 在东京与主译 Keiko Fukuichi 和本地化支持人员 Brian Gray 一起闲逛。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1443588,
+          0.84886429,
+          0.64727407,
+          0.87854286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.885,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.1443588,
+          0.84886429,
+          0.64727407,
+          0.87854286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0063-b008",
+      "kind": "footer",
+      "source": {
+        "text": "Getting it Localized",
+        "raw": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55781343,
+          0.93615,
+          0.70280453,
+          0.94542143
+        ],
+        "mask_bbox": [
+          0.55648763,
+          0.93543571,
+          0.70413033,
+          0.94649286
+        ],
+        "line_ids": [
+          13
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55781343,
+          0.93472143,
+          0.70280453,
+          0.95272143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9527214285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55781343,
+          0.93472143,
+          0.70280453,
+          0.95272143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Getting it Localized",
+        "chapter_id": "chapter-58"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bbe62f8a01067671637bde42f0405c45a128f00d6bf34f3e1690b2a2848a4592"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          12
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      115.57,
+      655.54
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

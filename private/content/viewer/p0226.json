@@ -1,0 +1,1181 @@
+{
+  "schema_version": 3,
+  "pdf_page": 226,
+  "printed_page": "226",
+  "title": "新家：镜中的自己",
+  "subtitle": "新家 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:37:49.131765+00:00",
+  "reference_size": [
+    982.261865,
+    1400
+  ],
+  "physical_size_pt": [
+    500.28,
+    713.04
+  ],
+  "image_url": "/assets/p0226.jpg",
+  "image_sha256": "dec5d4e1f2ed9cdf79051f7d2a28b74bb279d24c2ab123ef157508121a8f15e5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0226/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0226-b001",
+      "kind": "heading",
+      "source": {
+        "text": "New Home",
+        "raw": "New Home",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29779228,
+          0.04689286,
+          0.54318509,
+          0.07816429
+        ],
+        "mask_bbox": [
+          0.2964688,
+          0.04617857,
+          0.54450857,
+          0.07923571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "新家",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29779228,
+          0.04285714,
+          0.91014426,
+          0.08
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.29779228,
+          0.04285714,
+          0.91014426,
+          0.08
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-band"
+    },
+    {
+      "id": "p0226-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Human Enters Royal Abode",
+        "raw": "Human Enters Royal Abode",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29865763,
+          0.08995,
+          0.53280089,
+          0.10172857
+        ],
+        "mask_bbox": [
+          0.29733415,
+          0.08923571,
+          0.53412437,
+          0.1028
+        ],
+        "line_ids": [
+          2
+        ]
+      },
+      "translation": {
+        "text": "人类走进王室居所",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.07972857,
+          0.91024607,
+          0.10387143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.10387142714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.07972857,
+          0.91024607,
+          0.10387143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character passes through New Home, the royal capital of the Underground. A look around the castle reveals details about the royal family's tragic past.",
+        "raw": "The main character passes through New Home, the royal capital of the Underground.\nA look around the castle reveals details about the royal family's tragic past.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29733415,
+          0.12696429,
+          0.91024607,
+          0.15252857
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.12625,
+          0.91228218,
+          0.1536
+        ],
+        "line_ids": [
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "主角来到地下世界的王都——新家。查看城堡里的物品，王室悲惨的往事也渐渐浮现。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29733415,
+          0.11285714,
+          0.91024607,
+          0.15785714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.15785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29733415,
+          0.11285714,
+          0.91024607,
+          0.15785714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-introduction"
+    },
+    {
+      "id": "p0226-b004",
+      "kind": "heading",
+      "source": {
+        "text": "Self Reflection",
+        "raw": "Self Reflection",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29963497,
+          0.17052143,
+          0.45059267,
+          0.18426429
+        ],
+        "mask_bbox": [
+          0.29831149,
+          0.16980714,
+          0.45191615,
+          0.18533571
+        ],
+        "line_ids": [
+          5
+        ]
+      },
+      "translation": {
+        "text": "镜中的自己",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.16085714,
+          0.91024607,
+          0.185
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.185,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.16085714,
+          0.91024607,
+          0.185
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 263.0
+    },
+    {
+      "id": "p0226-b005",
+      "kind": "aside",
+      "source": {
+        "text": "A lot gets lost when translated back into English, but this Japanese line basically says \"a lot of things have happened, but self is self after all\"",
+        "raw": "A lot gets lost when\ntranslated back into\nEnglish, but this\nJapanese line basically\nsays \"a lot of things\nhave happened, but\nself is self after all\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13230688,
+          0.2,
+          0.27605673,
+          0.30367143
+        ],
+        "mask_bbox": [
+          0.1309834,
+          0.19928571,
+          0.27738021,
+          0.30474286
+        ],
+        "line_ids": [
+          6,
+          8,
+          9,
+          10,
+          11,
+          13,
+          18
+        ]
+      },
+      "translation": {
+        "text": "回译成英文会损失许多意味，不过日文这句大致是说：“虽然发生了很多事，自己终究还是自己。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11707672,
+          0.19857143,
+          0.27605673,
+          0.30724286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11707672,
+          0.19857143,
+          0.27605673,
+          0.30724286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, checking a mirror in New Home produces the message:",
+        "raw": "In the English version of Undertale, checking a mirror in New Home produces\nthe message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29969605,
+          0.34531429,
+          0.8996888,
+          0.37665714
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.3446,
+          0.91228218,
+          0.37772857
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "在《Undertale》英文版里，查看新家的一面镜子，会出现这句话：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.34388571,
+          0.91024607,
+          0.38022857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.34388571,
+          0.91024607,
+          0.38022857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Despite everything, it's still you.",
+        "raw": "Despite everything; it's still you.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34364563,
+          0.39065,
+          0.58051729,
+          0.40285
+        ],
+        "mask_bbox": [
+          0.34232216,
+          0.38993571,
+          0.58184077,
+          0.40392143
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "Despite everything, it’s still you.（尽管如此，你依然是你。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34364563,
+          0.38922143,
+          0.91024607,
+          0.40981071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0226-b006",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34364563,
+          0.38922143,
+          0.91024607,
+          0.40981071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This short, five-word sentence is one of the most famous quotes in Underta/e's English script, largely because its intentional ambiguity can mean very different things to different players. Some possible interpretations include:",
+        "raw": "This short, five-word sentence is one of the most famous quotes in Underta/e's\nEnglish script, largely because its intentional ambiguity can mean very\ndifferent things to different players. Some possible interpretations include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2991972,
+          0.41632857,
+          0.89768323,
+          0.46651429
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.41561429,
+          0.91228218,
+          0.46758571
+        ],
+        "line_ids": [
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "这句短短五个词的话，是《Undertale》英文剧本里最著名的台词之一。它刻意留下了模糊空间，不同玩家可以读出截然不同的意味。例如：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.4149,
+          0.91024607,
+          0.47008571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.4149,
+          0.91024607,
+          0.47008571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b009",
+      "kind": "quote",
+      "source": {
+        "text": "\"A lot's happened, but you've made it this far intact\"",
+        "raw": "\"A lot's happened, but you've made it this far intact\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34460261,
+          0.48264286,
+          0.74330484,
+          0.49512143
+        ],
+        "mask_bbox": [
+          0.30764709,
+          0.48192857,
+          0.74462832,
+          0.49619286
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "• “经历了这么多，你仍然好好地走到了这里。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34460261,
+          0.48121429,
+          0.91024607,
+          0.50180357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.34460261,
+          0.48121429,
+          0.91024607,
+          0.50180357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0226-b010",
+      "kind": "quote",
+      "source": {
+        "text": "\"The main character/player has endured a lot, yet is unchanged deep down\"",
+        "raw": "\"The main character/player has endured a lot, yet is unchanged deep down\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34458225,
+          0.50889286,
+          0.90977776,
+          0.52137857
+        ],
+        "mask_bbox": [
+          0.30762672,
+          0.50817857,
+          0.91110124,
+          0.52245
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "• “主角／玩家承受了许多，内心深处却没有改变。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34458225,
+          0.50746429,
+          0.91024607,
+          0.52805357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.34458225,
+          0.50746429,
+          0.91024607,
+          0.52805357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0226-b011",
+      "kind": "quote",
+      "source": {
+        "text": "\"The main character/player has caused a lot to happen, yet is the same deep down\"",
+        "raw": "\"The main character/player has caused a lot to happen, yet is the same\ndeep down\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34457207,
+          0.5355,
+          0.88582285,
+          0.56647857
+        ],
+        "mask_bbox": [
+          0.30761654,
+          0.53478571,
+          0.88714632,
+          0.56755
+        ],
+        "line_ids": [
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "• “主角／玩家造成了许多事，内心深处却仍然一样。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34457207,
+          0.53407143,
+          0.91024607,
+          0.57005
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.34457207,
+          0.53407143,
+          0.91024607,
+          0.57005
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0226-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "This line could arguably be referencing the player's inner personality as well:",
+        "raw": "This line could arguably be referencing the player's inner personality as well:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30015418,
+          0.58260714,
+          0.89153415,
+          0.59508571
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.58189286,
+          0.91228218,
+          0.59615714
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "这句话也可以理解为在说玩家内在的性情：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.58117857,
+          0.91024607,
+          0.60332143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.58117857,
+          0.91024607,
+          0.60332143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b013",
+      "kind": "quote",
+      "source": {
+        "text": "\"See, despite believing you're a good person, your choices show that you also have a dark side to you.\" (When a normally gentle player murders some monsters in the game just to see what happens)",
+        "raw": "\"See, despite believing you're a good person, your choices show that you\nalso have a dark side to you.\" (When a normally gentle player murders\nsome monsters in the game just to see what happens)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34507091,
+          0.60953571,
+          0.89783594,
+          0.65836429
+        ],
+        "mask_bbox": [
+          0.30811539,
+          0.60882143,
+          0.89915941,
+          0.65943571
+        ],
+        "line_ids": [
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "• “看吧，尽管你相信自己是好人，你的选择却说明你也有阴暗的一面。”（平时温和的玩家，只为看看结果而在游戏里杀害一些怪物。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34507091,
+          0.60810714,
+          0.91024607,
+          0.66193571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.34507091,
+          0.60810714,
+          0.91024607,
+          0.66193571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0226-b014",
+      "kind": "quote",
+      "source": {
+        "text": "\"See, despite acting like a tough guy on the exterior, you do have a caring side to you.\" (When a normally hot-tempered player spares every monster in the game)",
+        "raw": "\"See, despite acting like a tough guy on the exterior, you do have a\ncaring side to you.\" (When a normally hot-tempered player spares every\nmonster in the game)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3455494,
+          0.67449286,
+          0.89708257,
+          0.72299286
+        ],
+        "mask_bbox": [
+          0.30859388,
+          0.67377857,
+          0.89840605,
+          0.72406429
+        ],
+        "line_ids": [
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "• “看吧，尽管你外表强硬，你也有温柔体贴的一面。”（平时脾气暴躁的玩家，在游戏里饶恕每一个怪物。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3455494,
+          0.67306429,
+          0.91024607,
+          0.72656429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.3455494,
+          0.67306429,
+          0.91024607,
+          0.72656429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0226-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "Many other potential interpretations exist too, of course. In short, with its simplicity and emotional depth, this \"despite everything, it's still you\" line has spawned countless pieces of fan fiction, fan art, and even permanent tattoos.",
+        "raw": "Many other potential interpretations exist too, of course. In short, with its\nsimplicity and emotional depth, this \"despite everything, it's still you\" line has\nspawned countless pieces of fan fiction, fan art, and even permanent tattoos.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30148783,
+          0.7371,
+          0.89859948,
+          0.78694286
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.73638571,
+          0.91228218,
+          0.78801429
+        ],
+        "line_ids": [
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "当然，还可以有许多其他解读。“尽管如此，你依然是你”简单却情感深厚，因此催生了无数同人小说、同人画，甚至成了永不褪去的文身。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.73567143,
+          0.91024607,
+          0.79051429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.73567143,
+          0.91024607,
+          0.79051429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0226-b016",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, Toby and the localization team put a lot of thought into this line to preserve its many potential nuances. In the end, the team decided to prioritize the content of the message over its sheer memorability. So although the resulting literal translation is less celebrated than its English counterpart, it does retain the intent of the original line, while still flowing naturally in Japanese.",
+        "raw": "Naturally, Toby and the localization team put a lot of thought into this line to\npreserve its many potential nuances. In the end, the team decided to prioritize\nthe content of the message over its sheer memorability. So although the\nresulting literal translation is less celebrated than its English counterpart, it does\nretain the intent of the original line, while still flowing naturally in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30183397,
+          0.80173571,
+          0.91006282,
+          0.88793571
+        ],
+        "mask_bbox": [
+          0.29529804,
+          0.80102143,
+          0.91228218,
+          0.88900714
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "Toby 和本地化团队自然也在这句台词上花了很多心思，希望保留各种潜在含义。最后，他们决定优先传达这句话的内容，而非单纯追求令人难忘的表达。最终的直译虽然不像英文原句那样广受传颂，却保留了原意，日语读来也很自然。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29992512,
+          0.80030714,
+          0.91024607,
+          0.89150714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0226-b015"
+      },
+      "calibration": {
+        "bbox": [
+          0.29992512,
+          0.80030714,
+          0.91024607,
+          0.89150714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "ce6be2779ebd8b2597c192497acdff7a0af6ac4af78de4c62b18b7e8fbf0b1d3"
+  },
+  "chapter_id": "chapter-224",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      294.61,
+      894.1
+    ],
+    "text_runs": [
+      {
+        "id": "p0226-b006",
+        "blocks": [
+          "p0226-b006",
+          "p0226-b007",
+          "p0226-b008",
+          "p0226-b009",
+          "p0226-b010",
+          "p0226-b011",
+          "p0226-b012",
+          "p0226-b013",
+          "p0226-b014",
+          "p0226-b015",
+          "p0226-b016"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        268,
+        0,
+        892,
+        113
+      ],
+      "fill": "#000000"
+    }
+  ]
+}

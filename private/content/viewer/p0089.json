@@ -1,0 +1,872 @@
+{
+  "schema_version": 3,
+  "pdf_page": 89,
+  "printed_page": "89",
+  "title": "本地化笔记：“决心”的重要性",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    982.410533,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    710.88
+  ],
+  "image_url": "/assets/p0089.jpg",
+  "image_sha256": "e571c55a4d55766079196a7a49aa42a5482003dee663b79465913c49e12669e7",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0089/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0089-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Localization Notes: Determination's Importance",
+        "raw": "Localization Notes: Determination's Importance",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15110791,
+          0.09101429,
+          0.65144863,
+          0.1048
+        ],
+        "mask_bbox": [
+          0.14978463,
+          0.0903,
+          0.65277191,
+          0.10587143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "本地化笔记：“决心”的重要性",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12011272,
+          0.08157143,
+          0.68199595,
+          0.10571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10694285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12011272,
+          0.08157143,
+          0.68199595,
+          0.10571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 152.0,
+      "region_id": "determination-box-heading"
+    },
+    {
+      "id": "p0089-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby began by defining what \"determination\" is in the game and how it factors into the story in different ways:",
+        "raw": "Toby began by defining what \"determination\" is in the game and how it\nfactors into the story in different ways:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12017379,
+          0.12036429,
+          0.66910928,
+          0.14707857
+        ],
+        "mask_bbox": [
+          0.11813798,
+          0.11965,
+          0.67114508,
+          0.14815
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "Toby 先解释了游戏中“决心”的含义，以及它如何以不同方式影响故事：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12017379,
+          0.11892857,
+          0.68199595,
+          0.16035714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12017379,
+          0.11892857,
+          0.68199595,
+          0.16035714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "determination-introduction"
+    },
+    {
+      "id": "p0089-b003",
+      "kind": "quote",
+      "source": {
+        "text": "\"Determination\" - Possibly THE most important key word in the entire game. Should you change it, choosing a good word for this is really important. Meaning of the word determination as most commonly used in the game:",
+        "raw": "\"Determination\" - Possibly THE most important key word in the entire\ngame. Should you change it, choosing a good word for this is really\nimportant. Meaning of the word determination as most commonly\nused in the game:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19281145,
+          0.17506429,
+          0.66485444,
+          0.23155714
+        ],
+        "mask_bbox": [
+          0.19148817,
+          0.17435,
+          0.66617771,
+          0.23262857
+        ],
+        "line_ids": [
+          4,
+          5,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "“决心”（determination）——可能是整部游戏最重要的关键词。如果要换个词，选得好不好就非常关键。游戏里，这个词最常见的含义有：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19238393,
+          0.17364286,
+          0.67283481,
+          0.231125
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5417857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.19238393,
+          0.17364286,
+          0.67283481,
+          0.231125
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-one"
+    },
+    {
+      "id": "p0089-b004",
+      "kind": "quote",
+      "source": {
+        "text": "• Resolve to continue • Will to live • Refusal to give up/die (appears to be related to fighting spirit in some cases)",
+        "raw": "• Resolve to continue\n• Will to live\n• Refusal to give up/die (appears to be related to fighting spirit in\nsome cases)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20234921,
+          0.24292143,
+          0.63728958,
+          0.31257857
+        ],
+        "mask_bbox": [
+          0.20102594,
+          0.24220714,
+          0.63861286,
+          0.31365
+        ],
+        "line_ids": [
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "• 坚持下去的决心\n• 求生意志\n• 拒绝放弃／死亡（有时似乎与斗志有关）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.20256297,
+          0.23683929,
+          0.67283481,
+          0.29432143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5417857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0089-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.20256297,
+          0.23683929,
+          0.67283481,
+          0.29432143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-one"
+    },
+    {
+      "id": "p0089-b005",
+      "kind": "quote",
+      "source": {
+        "text": "\"Determination\" also turns out to be Al phys' code word for an actual physical substance that she injects into monsters, one that humans produce naturally in large quantities. This substance has the following properties:",
+        "raw": "\"Determination\" also turns out to be Al phys' code word for an actual\nphysical substance that she injects into monsters, one that humans\nproduce naturally in large quantities. This substance has the following\nproperties:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.193127,
+          0.32494286,
+          0.66266594,
+          0.3801
+        ],
+        "mask_bbox": [
+          0.19180373,
+          0.32422857,
+          0.66398922,
+          0.38117143
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "“决心”同时也是 Alphys 为一种真实物质起的代号。她把这种物质注入怪物体内，而人类能自然产生大量这种物质。它有以下性质：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19238393,
+          0.30003571,
+          0.67283481,
+          0.35751786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5417857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0089-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.19238393,
+          0.30003571,
+          0.67283481,
+          0.35751786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-one"
+    },
+    {
+      "id": "p0089-b006",
+      "kind": "quote",
+      "source": {
+        "text": "• Creatures with too much are unable to die (de - termination) • The being with the most \"Determination\" in the underground has the power to change fate and use the in-game save/load system",
+        "raw": "• Creatures with too much are unable to die (de - termination)\n• The being with the most \"Determination\" in the underground has\nthe power to change fate and use the in-game save/load system",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20234921,
+          0.39315714,
+          0.65412572,
+          0.4402
+        ],
+        "mask_bbox": [
+          0.20102594,
+          0.39244286,
+          0.655449,
+          0.44127143
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "• 体内这种物质过多的生物将无法死亡（de-termination，把词拆成“去除终结”）。\n• 地下世界中“决心”最强的存在，能够改变命运，并使用游戏内的存档／读档系统。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.20256297,
+          0.36323214,
+          0.67283481,
+          0.439875
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5417857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0089-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.20256297,
+          0.36323214,
+          0.67283481,
+          0.439875
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-one"
+    },
+    {
+      "id": "p0089-b007",
+      "kind": "quote",
+      "source": {
+        "text": "I think there are a few words like this in JP, right? You'll have to strike a good balance between what's the best fit. But also, \"determination\" is an unusual word, and thus it's really increased the quotability of the save point line (\"It fills you with determination ... \") So if there's a way to get the meaning while also being a bit more iconic/quotable, go for that.",
+        "raw": "I think there are a few words like this in JP, right? You'll have to strike\na good balance between what's the best fit. But also, \"determination\"\nis an unusual word, and thus it's really increased the quotability of the\nsave point line (\"It fills you with determination ... \") So if there's a way\nto get the meaning while also being a bit more iconic/quotable, go\nfor that.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19236357,
+          0.45223571,
+          0.66524124,
+          0.53977857
+        ],
+        "mask_bbox": [
+          0.1910403,
+          0.45152143,
+          0.66656451,
+          0.54085
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "我记得日语里有几个类似的词，对吧？你得权衡一下，找出最合适的。不过，“决心”也是个不太常见的词，因此存档点那句“它使你充满了决心……”才变得特别容易被人记住和引用。所以，要是能找到既传达含义、又更有辨识度、更适合引用的说法，就用吧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19238393,
+          0.44558929,
+          0.67283481,
+          0.54139286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5417857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 8,
+        "flow_after": "p0089-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.19238393,
+          0.44558929,
+          0.67283481,
+          0.54139286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-one"
+    },
+    {
+      "id": "p0089-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby frequently repeated the need to properly handle \"determination\" in translation:",
+        "raw": "Toby frequently repeated the need to properly handle \"determination\"\nin translation:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12017379,
+          0.56533571,
+          0.66335812,
+          0.59338571
+        ],
+        "mask_bbox": [
+          0.11813798,
+          0.56462143,
+          0.67114508,
+          0.59445714
+        ],
+        "line_ids": [
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "Toby 多次强调，翻译时必须妥善处理“决心”这个词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12017379,
+          0.56390714,
+          0.69624661,
+          0.59695714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6035714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12017379,
+          0.56390714,
+          0.69624661,
+          0.59695714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0089-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Mentioned elsewhere, but use the same word for \"determination\" throughout the entire game",
+        "raw": "Mentioned elsewhere, but use the same word for \"determination\"\nthroughout the entire game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19287252,
+          0.61900714,
+          0.63919307,
+          0.64411429
+        ],
+        "mask_bbox": [
+          0.19154925,
+          0.61829286,
+          0.64051634,
+          0.64518571
+        ],
+        "line_ids": [
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "别处也提到过，整部游戏里的“决心”都要用同一个词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19238393,
+          0.61428571,
+          0.67283481,
+          0.65357143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6535714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.19238393,
+          0.61428571,
+          0.67283481,
+          0.65357143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-two"
+    },
+    {
+      "id": "p0089-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby clarified how to handle atypical instances of the word \"determination\" in translation:",
+        "raw": "Toby clarified how to handle atypical instances of the word\n\"determination\" in translation:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11524714,
+          0.67607143,
+          0.56921214,
+          0.70412143
+        ],
+        "mask_bbox": [
+          0.11392386,
+          0.67535714,
+          0.57053541,
+          0.70519286
+        ],
+        "line_ids": [
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Toby 进一步解释了“决心”在特殊用法下该怎样翻译：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11524714,
+          0.67464286,
+          0.69624661,
+          0.70769286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11524714,
+          0.67464286,
+          0.69624661,
+          0.70769286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0089-b011",
+      "kind": "quote",
+      "source": {
+        "text": "All “determinations” are determination. However, I think depending on the context, (please tell me if this is a dumb idea) it could be put in hiragana or kanji instead of katakana instead? Because it’s literally the same thing here (foreshadowing how she will melt when defeated due to her determination) but its meaning is more in a normal, less conspicuous sense, even though it’s pronounced the same way. So just 決意 [ketsui in kanji] or whatever. 決意 vs ケツイ [ketsui in katakana] IDK if there are other instances of this.",
+        "raw": "All \"determinations\" are determination. However, I think depending\non the context, (please tell me if this is a dumb idea) it could be put\nin hiragana or kanji instead of katakana instead? Because it's literally\nthe same thing here (foreshadowing how she will melt when defeated\ndue to her determination) but its meaning is more in a normal, less\nconspicuous sense, even though it's pronounced the same way. So just\n;;R'.@'. [ketsui in kanji] or whatever. ;:R'.@'. vs 'T';J-( [ketsui in katakana]\nIDK if there are other instances of this.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.19287252,
+          0.73110714,
+          0.66476282,
+          0.85207857
+        ],
+        "mask_bbox": [
+          0.19154925,
+          0.73039286,
+          0.6660861,
+          0.85315
+        ],
+        "line_ids": [
+          33,
+          34,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "所有“决心”都是同一种决心。不过，能否按语境改用平假名或汉字，而不是片假名？（若这想法很蠢，请告诉我。）这里字面上指的是同一事物，也在暗示她会因自身的决心，在被击败后融化。但这里用的是更日常、更不显眼的含义，读音却相同。所以写成「決意」之类就好；汉字「決意」与片假名「ケツイ」，都读 ketsui（决心）。我不确定还有没有其他这样的例子。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 142,
+            "end": 148,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19238393,
+          0.72714286,
+          0.67283481,
+          0.86214286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8621428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.19238393,
+          0.72714286,
+          0.67283481,
+          0.86214286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "determination-quote-three"
+    },
+    {
+      "id": "p0089-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "raw": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.66701239,
+          0.93995714,
+          0.70731123,
+          0.94966429
+        ],
+        "mask_bbox": [
+          0.66568912,
+          0.93924286,
+          0.7086345,
+          0.95073571
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.66701239,
+          0.93852857,
+          0.70731123,
+          0.95652857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9565285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.66701239,
+          0.93852857,
+          0.70731123,
+          0.95652857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ruins",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3dae00df50066927dcf1bf1d6b25693d5cf3811432470a3f9f05d08404419d00"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

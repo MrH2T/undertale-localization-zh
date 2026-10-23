@@ -1,0 +1,634 @@
+{
+  "schema_version": 3,
+  "pdf_page": 212,
+  "printed_page": "212",
+  "title": "Sans 突然变脸",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.288035+00:00",
+  "reference_size": [
+    977.897756,
+    1400
+  ],
+  "physical_size_pt": [
+    496.8,
+    711.24
+  ],
+  "image_url": "/assets/p0212.jpg",
+  "image_sha256": "e04222c96cf3681c71e11d9dc93a6f2b879d0d403d87fad391051fe5e1afc318",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0212/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0212-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Sans Surprise",
+        "raw": "Sans Surprise",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29677949,
+          0.06266429,
+          0.43657938,
+          0.07742857
+        ],
+        "mask_bbox": [
+          0.29545011,
+          0.06195,
+          0.43790877,
+          0.0785
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Sans 突然变脸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29633466,
+          0.05371429,
+          0.90922593,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29633466,
+          0.05371429,
+          0.90922593,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0212-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Imagine being longtime ~ friends with the kindest, funniest person alive - like maybe Mr. Rogers from American TV - then suddenly hearing them say, ''I'll kill you if I have to.\"",
+        "raw": "Imagine being longtime ~\nfriends with the kindest,\nfunniest person alive -\nlike maybe Mr. Rogers\nfrom American TV -\nthen suddenly hearing\nthem say, ''I'll kill you if\nI have to.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12072837,
+          0.09375714,
+          0.28553087,
+          0.21208571
+        ],
+        "mask_bbox": [
+          0.11939899,
+          0.09304286,
+          0.28686026,
+          0.21315714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          10
+        ]
+      },
+      "translation": {
+        "text": "想象一下，你多年的好友是世上最友善、最风趣的人——比如美国电视上的 Mr. Rogers——却突然听见他说：“必要的话，我会杀了你。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11759921,
+          0.09232857,
+          0.28553087,
+          0.21565714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11759921,
+          0.09232857,
+          0.28553087,
+          0.21565714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Throughout the story so far, Sans has been a friendly, joke-loving goofball. But suddenly, with a terrifying look on his face, he says in a completely different font and tone of voice:",
+        "raw": "Throughout the story so far, Sans has been a friendly, joke-loving goofball. But\nsuddenly, with a terrifying look on his face, he says in a completely different\nfont and tone of voice:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29597164,
+          0.26553571,
+          0.89858065,
+          0.31518571
+        ],
+        "mask_bbox": [
+          0.29392643,
+          0.26482143,
+          0.91127114,
+          0.31625714
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "到目前为止，Sans 一直是友善、爱讲笑话的活宝。但他突然露出可怕的神情，用完全不同的字体和语气说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29633466,
+          0.26410714,
+          0.90922593,
+          0.31875714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29633466,
+          0.26410714,
+          0.90922593,
+          0.31875714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b004",
+      "kind": "quote",
+      "source": {
+        "text": "that promise i made to her. .. you /mow what would have happened ifs he hadn't said anything? ... buddy. You'd be dead where you stand.",
+        "raw": "that promise i made to her. .. you /mow what would have happened ifs he\nhadn't said anything? ... buddy. You'd be dead where you stand.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34279657,
+          0.33043571,
+          0.88016359,
+          0.36104286
+        ],
+        "mask_bbox": [
+          0.34146719,
+          0.32972143,
+          0.88149297,
+          0.36211429
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "我答应过她……你知道，要是她什么都没说，会发生什么吗？……伙计。你现在就死在这里了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34279657,
+          0.32900714,
+          0.90922593,
+          0.36461429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0212-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34279657,
+          0.32900714,
+          0.90922593,
+          0.36461429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby intended this line to emotionally shock the player, as it's the first real time that Sans shows that he has a dark, frightening side. Naturally, Toby considers this scene - and this specific line - very important to the Undertale experience. As such, he was very particular about how this line was handled in translation. After a lot of trial-and-error, Toby and the translation team went with a straightforward approach:",
+        "raw": "Toby intended this line to emotionally shock the player, as it's the first real time\nthat Sans shows that he has a dark, frightening side. Naturally, Toby considers\nthis scene - and this specific line - very important to the Undertale experience.\nAs such, he was very particular about how this line was handled in translation.\nAfter a lot of trial-and-error, Toby and the translation team went with a\nstraightforward approach:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29609435,
+          0.37554286,
+          0.90922593,
+          0.47917857
+        ],
+        "mask_bbox": [
+          0.29392643,
+          0.37482857,
+          0.91127114,
+          0.48025
+        ],
+        "line_ids": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "Toby 希望这句话让玩家受到震动，因为这是 Sans 第一次真正展露黑暗、可怕的一面。因此，他认为这场戏，尤其是这句台词，对《Undertale》的体验非常重要，翻译时也格外讲究。经过多次尝试，Toby 与团队最终选择了直接的处理：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 64,
+            "end": 73,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29633466,
+          0.37411429,
+          0.90922593,
+          0.48275
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0212-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29633466,
+          0.37411429,
+          0.90922593,
+          0.48275
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b006",
+      "kind": "quote",
+      "source": {
+        "text": "おまえは いまごろ とっくに しんでいた。 [Literally: \"You’d be long dead by now.\" or \"You’d already be dead by now.\"]",
+        "raw": "t.>ixJ;.J:\nc-:J<t;:: Llvl''v>fco\nv>i~\"J)\n[Literally: \"You'd be long dead by now.\" or \"You'd already be dead by now.\"]",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.3415081,
+          0.49207143,
+          0.90598429,
+          0.52505714
+        ],
+        "mask_bbox": [
+          0.34017871,
+          0.49135714,
+          0.90731367,
+          0.52612857
+        ],
+        "line_ids": [
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "おまえは いまごろ とっくに しんでいた。\n［直译：“你现在早就死了。”或“到现在你已经死了。”］",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3415081,
+          0.49064286,
+          0.90922593,
+          0.52862857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0212-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.3415081,
+          0.49064286,
+          0.90922593,
+          0.52862857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The original English line leaves it unclear why the main character would be dead by now. It's left to the player's interpretation: would Sans have killed the main character himself, would he have captured the main character for the king to kill later, or possibly something else? This Japanese line achieves a similar vagueness through careful wording.",
+        "raw": "The original English line leaves it unclear why the main character would be\ndead by now. It's left to the player's interpretation: would Sans have killed the\nmain character himself, would he have captured the main character for the\nking to kill later, or possibly something else? This Japanese line achieves a\nsimilar vagueness through careful wording.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29694311,
+          0.53987857,
+          0.89665816,
+          0.62596429
+        ],
+        "mask_bbox": [
+          0.29392643,
+          0.53916429,
+          0.91127114,
+          0.62703571
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "英文原句没有说明主角为什么会死，留给玩家自行理解：Sans 会亲手杀死主角，还是抓住主角交给国王杀掉，又或者另有原因？日语通过谨慎措辞，保住了相近的模糊性。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29633466,
+          0.53845,
+          0.90922593,
+          0.62953571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0212-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29633466,
+          0.53845,
+          0.90922593,
+          0.62953571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0212-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "After the official translation's release, Japanese players indeed found this scene shocking, and the vagueness of the translated line left players with different interpretations. Given this, there's no doubt that Toby's persistence with this line led to a superior, more faithful translation in the end.",
+        "raw": "After the official translation's release, Japanese players indeed found this scene\nshocking, and the vagueness of the translated line left players with different\ninterpretations. Given this, there's no doubt that Toby's persistence with this\nline led to a superior, more faithful translation in the end.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29657497,
+          0.64110714,
+          0.90652626,
+          0.70896429
+        ],
+        "mask_bbox": [
+          0.29392643,
+          0.64039286,
+          0.91127114,
+          0.71003571
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "官方译版发行后，日本玩家确实被这一幕震住了，模糊的台词也引发了不同解读。由此可见，Toby 对这句话的坚持，最终带来了更出色、更忠实的翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29633466,
+          0.63967857,
+          0.90922593,
+          0.71253571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0212-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29633466,
+          0.63967857,
+          0.90922593,
+          0.71253571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4dcd91555792c00d43cc9a67a3637907dd7871d99d9486380f9554a176dd4ade"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.78,
+      889.13
+    ],
+    "text_runs": [
+      {
+        "id": "p0212-b003",
+        "blocks": [
+          "p0212-b003",
+          "p0212-b004",
+          "p0212-b005",
+          "p0212-b006",
+          "p0212-b007",
+          "p0212-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

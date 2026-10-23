@@ -1,0 +1,500 @@
+{
+  "schema_version": 3,
+  "pdf_page": 43,
+  "printed_page": "43",
+  "title": "音乐与故事",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.121402+00:00",
+  "reference_size": [
+    985.908862,
+    1400
+  ],
+  "physical_size_pt": [
+    502.56,
+    713.64
+  ],
+  "image_url": "/assets/p0043.jpg",
+  "image_sha256": "8b8036f716a72a8c9e3c61ab3a1cf630e3336b0571f7776b17b8ea828213d042",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0043/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0043-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Late 2000s:",
+        "raw": "Late 2000s:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10271741,
+          0.06332143,
+          0.21568931,
+          0.07719286
+        ],
+        "mask_bbox": [
+          0.10139882,
+          0.06260714,
+          0.21700789,
+          0.07826429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "2000年代末期：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1015814,
+          0.05519286,
+          0.70536946,
+          0.07933572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07933571714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1015814,
+          0.05519286,
+          0.70536946,
+          0.07933572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0043-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby joins a community for fans of Homestuck, a popular multimedia comic series. For fun, he remixes Homes tuck music and shares it with other fans. The series creators, impressed by Toby's work, bring him on as an official music producer in 2010. Despite being entirely self-taught, Toby quickly becomes a revered musician in the Homestuck community. As a hobby, Toby also begins to design a video game that will eventually be known as Undertale.",
+        "raw": "Toby joins a community for fans of Homestuck, a popular multimedia comic\nseries. For fun, he remixes Homes tuck music and shares it with other fans. The\nseries creators, impressed by Toby's work, bring him on as an official music\nproducer in 2010. Despite being entirely self-taught, Toby quickly becomes a\nrevered musician in the Homestuck community. As a hobby, Toby also begins to\ndesign a video game that will eventually be known as Undertale.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1015814,
+          0.08864286,
+          0.70536946,
+          0.1903
+        ],
+        "mask_bbox": [
+          0.09955281,
+          0.08792857,
+          0.70739804,
+          0.19137143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Toby 加入了热门多媒体漫画 Homestuck 的爱好者社区。他出于兴趣混音其中的音乐，与其他读者分享。作品创作者十分欣赏他的成果，2010年邀请他成为正式音乐制作人。虽然完全靠自学，Toby 很快就在 Homestuck 社区成为备受推崇的音乐人。他还开始业余设计一款游戏，后来它有了名字：Undertale。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 104,
+            "end": 113,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 148,
+            "end": 157,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1015814,
+          0.08721429,
+          0.70536946,
+          0.19387143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1015814,
+          0.08721429,
+          0.70536946,
+          0.19387143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0043-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Homestuck was partly inspired by EarthBound, making the Homestuck community a natural place for Toby to migrate to",
+        "raw": "Homestuck was\npartly inspired by\nEarthBound, making\nthe Homestuck\ncommunity a natural\nplace for Toby to\nmigrate to",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73669081,
+          0.20733571,
+          0.86328466,
+          0.31095
+        ],
+        "mask_bbox": [
+          0.73537223,
+          0.20662143,
+          0.86460324,
+          0.31202143
+        ],
+        "line_ids": [
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Homestuck 部分受到 EarthBound 启发，因此它的社区自然成了 Toby 接下来落脚的地方。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 15,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73669081,
+          0.20590714,
+          0.86328466,
+          0.31452143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4009642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73669081,
+          0.20590714,
+          0.86328466,
+          0.31452143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0043-b004",
+      "kind": "caption",
+      "source": {
+        "text": "By this point, Toby has learned how to use software to compose his own music",
+        "raw": "By this point, Toby has\nlearned how to use\nsoftware to compose\nhis own music",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73673138,
+          0.40810714,
+          0.87564889,
+          0.46530714
+        ],
+        "mask_bbox": [
+          0.7354128,
+          0.40739286,
+          0.87696747,
+          0.46637857
+        ],
+        "line_ids": [
+          16,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "这时，Toby 已学会用软件创作自己的音乐。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73673138,
+          0.40667857,
+          0.87564889,
+          0.46887857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6844714328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73673138,
+          0.40667857,
+          0.87564889,
+          0.46887857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0043-b005",
+      "kind": "caption",
+      "source": {
+        "text": "~ Toby begins to dabble in interactive storytelling and discovers his personal style of mixing surreal comedy, emotion, and unpredictable story developments",
+        "raw": "~ Toby begins to\ndabble in interactive\nstorytelling and\ndiscovers his personal\nstyle of mixing surreal\ncomedy, emotion, and\nunpredictable story\ndevelopments",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72065485,
+          0.69161429,
+          0.87420859,
+          0.81102857
+        ],
+        "mask_bbox": [
+          0.71933627,
+          0.6909,
+          0.87552717,
+          0.8121
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "Toby 开始尝试互动叙事，逐渐找到个人风格：将超现实喜剧、情感与难以预料的故事走向融在一起。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72065485,
+          0.69018571,
+          0.87420859,
+          0.8146
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72065485,
+          0.69018571,
+          0.87420859,
+          0.8146
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0043-b006",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65873229,
+          0.93275,
+          0.71095821,
+          0.94227857
+        ],
+        "mask_bbox": [
+          0.65741371,
+          0.93203571,
+          0.71227679,
+          0.94335
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65873229,
+          0.93132143,
+          0.71095821,
+          0.94932143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9493214285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65873229,
+          0.93132143,
+          0.71095821,
+          0.94932143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "a6cd5d8179c09544b142840f2eec2dd92cd3aa0e19b77847540cca531ebdfcc4"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      100.15,
+      695.43
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

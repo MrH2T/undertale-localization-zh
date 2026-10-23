@@ -1,0 +1,390 @@
+{
+  "schema_version": 3,
+  "pdf_page": 183,
+  "printed_page": "183",
+  "title": "冰淇淋车、烤红薯车与格力高",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    985.815603,
+    1400
+  ],
+  "physical_size_pt": [
+    500.4,
+    710.64
+  ],
+  "image_url": "/assets/p0183.jpg",
+  "image_sha256": "7d885968960cb5c9eed70de5f82bf0861d86ede95942685b6e29b059024db554",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0183/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0183-b001",
+      "kind": "aside",
+      "source": {
+        "text": "Nothing stops kids in their tracks like an approaching ice cream truck or the sound of someone yelling \"ice cream truck!\"",
+        "raw": "Nothing stops kids\nin their tracks like an\napproaching ice cream\ntruck or the sound of\nsomeone yelling \"ice\ncream truck!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73269281,
+          0.07448571,
+          0.87198863,
+          0.16165
+        ],
+        "mask_bbox": [
+          0.7313741,
+          0.07377143,
+          0.87330734,
+          0.16272143
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "没有什么比驶近的冰淇淋车，或者一声“冰淇淋车来了！”，更能让孩子们立刻停下脚步。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7222446,
+          0.07305714,
+          0.87198863,
+          0.16522143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3595928528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7222446,
+          0.07305714,
+          0.87198863,
+          0.16522143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0183-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In Japan, some yakiimo trucks drive around and sell roasted sweet potatoes to passersby",
+        "raw": "In Japan, some yakiimo\ntrucks drive around\nand sell roasted sweet\npotatoes to passersby",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73367676,
+          0.36673571,
+          0.87779094,
+          0.42473571
+        ],
+        "mask_bbox": [
+          0.73235806,
+          0.36602143,
+          0.87910964,
+          0.42580714
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "在日本，一些 yakiimo（烤红薯）车会沿街行驶，向路人售卖烤红薯。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7222446,
+          0.36530714,
+          0.87779094,
+          0.42830714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7222446,
+          0.36530714,
+          0.87779094,
+          0.42830714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0183-b003",
+      "kind": "caption",
+      "source": {
+        "text": "This classic Glico slogan says \"300 meters in a single piece\"",
+        "raw": "This classic Glico slogan says \"300 meters in a This other classic slogan says \"delicious, and\nsingle piece\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09738129,
+          0.87285714,
+          0.39053957,
+          0.90285714
+        ],
+        "mask_bbox": [
+          0.09606259,
+          0.87214286,
+          0.39185827,
+          0.90392857
+        ],
+        "line_ids": [
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "格力高这句经典广告词是“一粒跑 300 米”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08419424,
+          0.87142857,
+          0.39358273,
+          0.90642857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08419424,
+          0.87142857,
+          0.39358273,
+          0.90642857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0183-b004",
+      "kind": "caption",
+      "source": {
+        "text": "This other classic slogan says \"delicious, and makes you strong\"",
+        "raw": "makes you strong\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41792806,
+          0.87285714,
+          0.70905755,
+          0.90285714
+        ],
+        "mask_bbox": [
+          0.41660935,
+          0.87214286,
+          0.71037626,
+          0.90392857
+        ],
+        "line_ids": [
+          13
+        ]
+      },
+      "translation": {
+        "text": "另一句经典广告词是“美味，让你强壮”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41792806,
+          0.87142857,
+          0.70905755,
+          0.90642857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41792806,
+          0.87142857,
+          0.70905755,
+          0.90642857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0183-b005",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64029216,
+          0.94061429,
+          0.7079823,
+          0.95032143
+        ],
+        "mask_bbox": [
+          0.63897345,
+          0.9399,
+          0.70930101,
+          0.95139286
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64029216,
+          0.93918571,
+          0.7079823,
+          0.95718571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9571857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64029216,
+          0.93918571,
+          0.7079823,
+          0.95718571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "fad5b55f3f480c325a4b54b37e2a0a479255595e28caabf1226db1c0240429b8"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

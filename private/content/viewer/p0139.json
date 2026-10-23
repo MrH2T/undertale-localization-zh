@@ -1,0 +1,858 @@
+{
+  "schema_version": 3,
+  "pdf_page": 139,
+  "printed_page": "139",
+  "title": "风中的尘埃",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.203021+00:00",
+  "reference_size": [
+    977.024291,
+    1400
+  ],
+  "physical_size_pt": [
+    496.44,
+    711.36
+  ],
+  "image_url": "/assets/p0139.jpg",
+  "image_sha256": "59c1db373a6b8b5dc728cd7ba26fc8960befc569e5f959bbe17f0ebccf64516b",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0139/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0139-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Dust in the Wind",
+        "raw": "Dust in the Wind",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09046858,
+          0.06462857,
+          0.26551029,
+          0.07798571
+        ],
+        "mask_bbox": [
+          0.08913801,
+          0.06391429,
+          0.26684086,
+          0.07905714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "风中的尘埃",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.05442857,
+          0.7033909,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.05442857,
+          0.7033909,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114.0
+    },
+    {
+      "id": "p0139-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Never in my life did I imagine I'd be writing a book that explains how to translate dust",
+        "raw": "Never in my life did I\nimagine I'd be writing\na book that explains\nhow to translate dust",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73128172,
+          0.09431429,
+          0.86783922,
+          0.1517
+        ],
+        "mask_bbox": [
+          0.72995115,
+          0.0936,
+          0.86916979,
+          0.15277143
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "我这辈子也没想到，自己会写一本书，解释尘埃应该怎么翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73128172,
+          0.09288571,
+          0.87943565,
+          0.15527143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49910714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73128172,
+          0.09288571,
+          0.87943565,
+          0.15527143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's explained throughout Underta/e's story that when monsters die, they turn into dust. This simple fact became a little more complicated during the localization process, because there are multiple words in Japanese that mean \"dust'', each with its slightly different nuances. The localization team narrowed the choices down to three:",
+        "raw": "It's explained throughout Underta/e's story that when monsters die, they\nturn into dust. This simple fact became a little more complicated during the\nlocalization process, because there are multiple words in Japanese that mean\n\"dust'', each with its slightly different nuances. The localization team narrowed\nthe choices down to three:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08329373,
+          0.25775,
+          0.69671758,
+          0.34448571
+        ],
+        "mask_bbox": [
+          0.0812467,
+          0.25703571,
+          0.70543794,
+          0.34555714
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的故事多次说明，怪物死后会化为尘埃。这个简单的事实，到了本地化时却稍微复杂了一点：日语中有好几个表示“dust”的词，细微含义各不相同。团队最后把候选词缩小到三个：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.25632143,
+          0.7033909,
+          0.34805714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.47045714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.25632143,
+          0.7033909,
+          0.34805714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b004",
+      "kind": "quote",
+      "source": {
+        "text": "chiri (dust that Aoats in the air and thinly covers things) hokori (small, possibly fluffy clumps of dust) kona (\"powder\")",
+        "raw": "chiri (dust that Aoats in the air and thinly covers things)\nhokori (small, possibly fluffy clumps of dust)\nkona (\"powder\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13524741,
+          0.3593,
+          0.56566659,
+          0.40722143
+        ],
+        "mask_bbox": [
+          0.09809377,
+          0.35858571,
+          0.56699716,
+          0.40829286
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "• chiri（尘埃）：飘浮在空气中、薄薄落在物体表面的灰尘。\n• hokori（灰尘）：聚成小团、有时带绒絮的灰尘。\n• kona（粉）：粉末。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 34,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 62,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13524741,
+          0.35787143,
+          0.7033909,
+          0.41079286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47045714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0139-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13524741,
+          0.35787143,
+          0.7033909,
+          0.41079286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0139-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "After a lot of internal discussion, and after consulting with Toby, the team settled on using the term chiri to describe what monsters turn into after death.",
+        "raw": "After a lot of internal discussion, and after consulting with Toby, the team\nsettled on using the term chiri to describe what monsters turn into after death.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08843178,
+          0.42272857,
+          0.69717816,
+          0.45412857
+        ],
+        "mask_bbox": [
+          0.0812467,
+          0.42201429,
+          0.70543794,
+          0.4552
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "团队内部反复讨论，又征询了 Toby 的意见，最终决定用 chiri（尘埃）描述怪物死后化成的东西。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.4213,
+          0.7033909,
+          0.4577
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.47045714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0139-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.4213,
+          0.7033909,
+          0.4577
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Bug Busting",
+        "raw": "Bug Busting",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09143068,
+          0.4776,
+          0.21695469,
+          0.49095714
+        ],
+        "mask_bbox": [
+          0.09010011,
+          0.47688571,
+          0.21828526,
+          0.49202857
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "修复漏洞",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.46728571,
+          0.7033909,
+          0.49142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49142857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.46728571,
+          0.7033909,
+          0.49142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 692.0
+    },
+    {
+      "id": "p0139-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Sometimes, localization can strengthen the author's original work. This bug in the English version of Underta/e was found and fixed during its Japanese localization, for example",
+        "raw": "Sometimes, localization\ncan strengthen the\nauthor's original work.\nThis bug in the English\nversion of Underta/e was\nfound and fixed during\nits Japanese localization,\nfor example",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73086207,
+          0.50625,
+          0.88524923,
+          0.62570714
+        ],
+        "mask_bbox": [
+          0.7295315,
+          0.50553571,
+          0.8865798,
+          0.62677857
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "本地化有时也能完善作者的原作。比如，Undertale 英语版的这个漏洞，就是在日语本地化过程中发现并修好的。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73086207,
+          0.50482143,
+          0.88524923,
+          0.62927857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73086207,
+          0.50482143,
+          0.88524923,
+          0.62927857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "After the original English version of Underta/e was released, intrepid fans dissected the game's data and found a treasure trove of unused text, graphics, and more. As the localization team discovered, though, some of this unused text only went unused due to programming mistakes in the original release.",
+        "raw": "After the original English version of Underta/e was released, intrepid fans\ndissected the game's data and found a treasure trove of unused text, graphics,\nand more. As the localization team discovered, though, some of this unused\ntext only went unused due to programming mistakes in the original release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08891284,
+          0.67068571,
+          0.68762876,
+          0.73852857
+        ],
+        "mask_bbox": [
+          0.0812467,
+          0.66997143,
+          0.70543794,
+          0.7396
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "Undertale 原版英语游戏发行后，勇于探索的粉丝剖析了游戏数据，找出大量未使用的文本、图像等内容。但本地化团队发现，其中有些文字没能用上，只是因为原版程序出了错。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.66925714,
+          0.7033909,
+          0.7421
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.66925714,
+          0.7033909,
+          0.7421
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "One such mistake occurs during the dramatic pre-battle encounter with Papyrus. If the player has spared Papryus in a previous run through the game, Papyrus is designed to have alternate dialogue about their previous meeting. It turns out that this line had a bug in it, though, so it didn't trigger during normal gameplay.",
+        "raw": "One such mistake occurs during the dramatic pre-battle encounter with Papyrus.\nIf the player has spared Papryus in a previous run through the game, Papyrus is\ndesigned to have alternate dialogue about their previous meeting. It turns out\nthat this line had a bug in it, though, so it didn't trigger during normal gameplay.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09020247,
+          0.75368571,
+          0.7033909,
+          0.82119286
+        ],
+        "mask_bbox": [
+          0.0812467,
+          0.75297143,
+          0.70543794,
+          0.82226429
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "其中一处出现在与 Papyrus 开战前的戏剧性对峙。如果玩家在之前一轮游戏中饶恕过 Papyrus，按设计，他应该说出另一段台词，谈到两人之前的相遇。然而，这段台词存在漏洞，正常游玩时不会触发。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.75225714,
+          0.7033909,
+          0.82476429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0139-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.75225714,
+          0.7033909,
+          0.82476429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although the localization team members knew how to fix this bug, they waited until Toby gave his approval to implement it. Thus, Papyrus' alternate dialogue now appears as designed in all versions of the game, on all platforms, in both English and in Japanese.",
+        "raw": "Although the localization team members knew how to fix this bug, they waited\nuntil Toby gave his approval to implement it. Thus, Papyrus' alternate dialogue\nnow appears as designed in all versions of the game, on all platforms, in both\nEnglish and in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08891284,
+          0.83635714,
+          0.70024871,
+          0.90453571
+        ],
+        "mask_bbox": [
+          0.0812467,
+          0.83564286,
+          0.70543794,
+          0.90560714
+        ],
+        "line_ids": [
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "本地化团队虽然知道怎么修，仍然等 Toby 同意后才动手。因此，现在各平台的所有版本，无论英语还是日语，都会按原本的设计显示 Papyrus 的这段替代台词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08891284,
+          0.83492857,
+          0.7033909,
+          0.90810714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0139-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.08891284,
+          0.83492857,
+          0.7033909,
+          0.90810714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0139-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64132489,
+          0.94181429,
+          0.70610322,
+          0.95137143
+        ],
+        "mask_bbox": [
+          0.63999432,
+          0.9411,
+          0.70743379,
+          0.95244286
+        ],
+        "line_ids": [
+          51
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64132489,
+          0.94038571,
+          0.70610322,
+          0.95838571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9583857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64132489,
+          0.94038571,
+          0.70610322,
+          0.95838571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "2b6b500764362bba711e7525e1a4f2c11bfbfdb8dca35600c12cd4e2d7a92326"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          28,
+          35,
+          37,
+          50
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      86.87,
+      687.23
+    ],
+    "text_runs": [
+      {
+        "id": "p0139-b003",
+        "blocks": [
+          "p0139-b003",
+          "p0139-b004",
+          "p0139-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 658.64
+      },
+      {
+        "id": "p0139-b008",
+        "blocks": [
+          "p0139-b008",
+          "p0139-b009",
+          "p0139-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

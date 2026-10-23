@@ -1,0 +1,1342 @@
+{
+  "schema_version": 3,
+  "pdf_page": 154,
+  "printed_page": "154",
+  "title": "不像恶作剧的恶作剧",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.748829+00:00",
+  "reference_size": [
+    984.463087,
+    1400
+  ],
+  "physical_size_pt": [
+    502.92,
+    715.2
+  ],
+  "image_url": "/assets/p0154.jpg",
+  "image_sha256": "e194897b6d339c92e1b1d51787ab3d846592cfe87ddadf1ba1beafd7417463e9",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0154/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0154-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Pranking Bad",
+        "raw": "Pranking Bad",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2959278,
+          0.06227143,
+          0.43171756,
+          0.07597857
+        ],
+        "mask_bbox": [
+          0.29460729,
+          0.06155714,
+          0.43303807,
+          0.07705
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "不像恶作剧的恶作剧",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29601414,
+          0.052285714,
+          0.90545802,
+          0.076428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.076428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29601414,
+          0.052285714,
+          0.90545802,
+          0.076428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111
+    },
+    {
+      "id": "p0154-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The Licca-chan ~ reference in this Japanese line was meant to emulate the English line, but it did cause confusion for players unfamiliar with Licca-chan",
+        "raw": "The Licca-chan ~\nreference in this\nJapanese line was\nmeant to emulate the\nEnglish line, but it\ndid cause confusion\nfor players unfamiliar\nwith Licca-chan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13574912,
+          0.09190714,
+          0.28489641,
+          0.20882143
+        ],
+        "mask_bbox": [
+          0.13442861,
+          0.09119286,
+          0.28621693,
+          0.20989286
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "日文台词引用莉卡娃娃，原本是为了模仿英语版的效果，却让不熟悉莉卡的玩家感到困惑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681494,
+          0.09047857,
+          0.28489641,
+          0.21239286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.2957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681494,
+          0.09047857,
+          0.28489641,
+          0.21239286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A rare phone call from Sans can also occur during this section of the game. In English, Sans says:",
+        "raw": "A rare phone call from Sans can also occur during this section of the game. In\nEnglish, Sans says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29392671,
+          0.254,
+          0.88345618,
+          0.28457857
+        ],
+        "mask_bbox": [
+          0.28872591,
+          0.25328571,
+          0.90748959,
+          0.28565
+        ],
+        "line_ids": [
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "游戏这一段还可能出现一通罕见的 Sans 来电。英语中，他会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29601414,
+          0.25257143,
+          0.90545802,
+          0.28815
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2935714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29601414,
+          0.25257143,
+          0.90545802,
+          0.28815
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "English phone call",
+        "raw": "English phone call",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31557303,
+          0.31171429,
+          0.45257157,
+          0.3236
+        ],
+        "mask_bbox": [
+          0.31425251,
+          0.311,
+          0.45389208,
+          0.32467143
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "英语来电",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31557303,
+          0.31028571,
+          0.59556321,
+          0.32828571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.32685713857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#505050"
+      },
+      "calibration": {
+        "bbox": [
+          0.31557303,
+          0.31028571,
+          0.59556321,
+          0.32828571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese phone call",
+        "raw": "Japanese phone call",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61791042,
+          0.31136429,
+          0.77038947,
+          0.32325
+        ],
+        "mask_bbox": [
+          0.6165899,
+          0.31065,
+          0.77170999,
+          0.32432143
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "日语来电",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61791042,
+          0.30993571,
+          0.89733177,
+          0.32793571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.32650713857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#505050"
+      },
+      "calibration": {
+        "bbox": [
+          0.61791042,
+          0.30993571,
+          0.89733177,
+          0.32793571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "hey. is your refrigerator running?",
+        "raw": "hey. is your refrigerator running?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31563398,
+          0.34390714,
+          0.55006633,
+          0.35411429
+        ],
+        "mask_bbox": [
+          0.31431346,
+          0.34319286,
+          0.55138685,
+          0.35518571
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "嘿，你的冰箱在 running 吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31563398,
+          0.34247857,
+          0.59556321,
+          0.36047857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.35928571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31563398,
+          0.34247857,
+          0.59556321,
+          0.36047857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "hello? this is licca-chan?",
+        "raw": "hello? this is licca-chan?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61961693,
+          0.34390714,
+          0.78718035,
+          0.35411429
+        ],
+        "mask_bbox": [
+          0.61829642,
+          0.34319286,
+          0.78850087,
+          0.35518571
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "喂？我是莉卡吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61961693,
+          0.34247857,
+          0.89733177,
+          0.36047857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.35928571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61961693,
+          0.34247857,
+          0.89733177,
+          0.36047857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "(if you say yes)",
+        "raw": "(if you say yes)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31502451,
+          0.37231429,
+          0.41711061,
+          0.38224286
+        ],
+        "mask_bbox": [
+          0.31370399,
+          0.3716,
+          0.41843113,
+          0.38331429
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "（如果回答“是”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31502451,
+          0.37088571,
+          0.59556321,
+          0.38888571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38800000142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31502451,
+          0.37088571,
+          0.59556321,
+          0.38888571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "(if you say yes)",
+        "raw": "(if you say yes)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61850973,
+          0.37199286,
+          0.72014889,
+          0.38192143
+        ],
+        "mask_bbox": [
+          0.61718922,
+          0.37127857,
+          0.72146941,
+          0.38299286
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "（如果回答“是”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61850973,
+          0.37056429,
+          0.89733177,
+          0.38856429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38765000142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61850973,
+          0.37056429,
+          0.89733177,
+          0.38856429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "nice. i'll be over to deposit the brews- kis. thanks for letting me know. good communication is important.",
+        "raw": "nice. i'll be over to deposit the brews-\nkis. thanks for letting me know. good\ncommunication is important.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31480104,
+          0.39157143,
+          0.58214473,
+          0.43062143
+        ],
+        "mask_bbox": [
+          0.31348052,
+          0.39085714,
+          0.58346525,
+          0.43169286
+        ],
+        "line_ids": [
+          20,
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "不错。我这就来放点啤酒。谢谢你告诉我，良好的沟通很重要。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31480104,
+          0.39014286,
+          0.59556321,
+          0.43419286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4664285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31480104,
+          0.39014286,
+          0.59556321,
+          0.43419286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "oh, okay. you can call me by that name from now on then. it's import- ant to double-check from time to time. there's no telling when your name might change on you, after all.",
+        "raw": "oh, okay. you can call me by that\nname from now on then. it's import-\nant to double-check from time to\ntime. there's no telling when your\nname might change on you, after all.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61878399,
+          0.39122143,
+          0.88172935,
+          0.46115714
+        ],
+        "mask_bbox": [
+          0.61746348,
+          0.39050714,
+          0.88304987,
+          0.46222857
+        ],
+        "line_ids": [
+          21,
+          23,
+          25,
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "哦，好吧。那以后就这么叫我吧。偶尔确认一下很重要，毕竟谁也不知道名字什么时候会变。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61878399,
+          0.38979286,
+          0.89733177,
+          0.46472857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4664285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61878399,
+          0.38979286,
+          0.89733177,
+          0.46472857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b012",
+      "kind": "aside",
+      "source": {
+        "text": "If your refrigerator is literally running, cheer it on",
+        "raw": "If your refrigerator\nis literally running,\ncheer it on",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15660313,
+          0.43652143,
+          0.27278829,
+          0.47862143
+        ],
+        "mask_bbox": [
+          0.15528261,
+          0.43580714,
+          0.2741088,
+          0.47969286
+        ],
+        "line_ids": [
+          27,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "要是你的冰箱真的在跑，就给它加油吧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681494,
+          0.43509286,
+          0.27278829,
+          0.48219286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681494,
+          0.43509286,
+          0.27278829,
+          0.48219286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "(if you say no)",
+        "raw": "(if you say no)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31550193,
+          0.47936429,
+          0.41384995,
+          0.48929286
+        ],
+        "mask_bbox": [
+          0.31418141,
+          0.47865,
+          0.41517047,
+          0.49036429
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "（如果回答“否”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31550193,
+          0.47793571,
+          0.5969142,
+          0.49593571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49469286142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31550193,
+          0.47793571,
+          0.5969142,
+          0.49593571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "(if you say no)",
+        "raw": "(if you say no)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61954583,
+          0.47904286,
+          0.71735549,
+          0.48896429
+        ],
+        "mask_bbox": [
+          0.61822531,
+          0.47832857,
+          0.71867601,
+          0.49003571
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "（如果回答“否”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61954583,
+          0.47761429,
+          0.89733177,
+          0.49561429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49435714142857146,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61954583,
+          0.47761429,
+          0.89733177,
+          0.49561429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "ok. i'll send someone over to fix it. thanks for letting me know. good communication is important.",
+        "raw": "ok. i'll send someone over to fix it.\nthanks for letting me know. good\ncommunication is important.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31527845,
+          0.49826429,
+          0.5600921,
+          0.53767143
+        ],
+        "mask_bbox": [
+          0.31395794,
+          0.49755,
+          0.56141262,
+          0.53874286
+        ],
+        "line_ids": [
+          33,
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "好。我找个人过去修。谢谢你告诉我，良好的沟通很重要。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31527845,
+          0.49683571,
+          0.5969142,
+          0.54124286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31527845,
+          0.49683571,
+          0.5969142,
+          0.54124286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "oh, okay. you can keep on calling me \"sans\" then. it's important to make sure from time to time. there's no telling when your name might change on you, after all.",
+        "raw": "oh, okay. you can keep on calling\nme \"sans\" then. it's important to\nmake sure from time to time. there's\nno telling when your name might\nchange on you, after all.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61926141,
+          0.49792857,
+          0.87779828,
+          0.56820714
+        ],
+        "mask_bbox": [
+          0.61794089,
+          0.49721429,
+          0.87911879,
+          0.56927857
+        ],
+        "line_ids": [
+          34,
+          36,
+          38,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "哦，好吧。那就继续叫我“Sans”吧。偶尔确认一下很重要，毕竟谁也不知道名字什么时候会变。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61926141,
+          0.4965,
+          0.89733177,
+          0.57177857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61926141,
+          0.4965,
+          0.89733177,
+          0.57177857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b017",
+      "kind": "paragraph",
+      "source": {
+        "text": "\"Is your refrigerator running?\" is a classic telephone prank in some English speaking regions. The prank follows this pattern:",
+        "raw": "\"Is your refrigerator running?\" is a classic telephone prank in some English\nspeaking regions. The prank follows this pattern:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29075747,
+          0.59896429,
+          0.86542605,
+          0.62952857
+        ],
+        "mask_bbox": [
+          0.28872591,
+          0.59825,
+          0.90748959,
+          0.6306
+        ],
+        "line_ids": [
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "“你的冰箱在 running 吗？”是一些英语地区经典的电话恶作剧，利用 running 既指“运转”又指“跑”的双关，套路如下：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29601414,
+          0.59753571,
+          0.90545802,
+          0.6331
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29601414,
+          0.59753571,
+          0.90545802,
+          0.6331
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b018",
+      "kind": "quote",
+      "source": {
+        "text": "Receiver: Hello? Caller: Hey, is your refrigerator running? Receiver: Yes. Caller: Then you better go catch it!",
+        "raw": "Receiver: Hello?\nCaller: Hey, is your refrigerator running?\nReceiver: Yes.\nCaller: Then you better go catch it!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34132311,
+          0.64549286,
+          0.64809947,
+          0.71135
+        ],
+        "mask_bbox": [
+          0.34000259,
+          0.64477857,
+          0.64941998,
+          0.71242143
+        ],
+        "line_ids": [
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "接电话的人：喂？\n打电话的人：嘿，你的冰箱在跑吗？\n接电话的人：是啊。\n打电话的人：那还不快去追！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34132311,
+          0.64406429,
+          0.90545802,
+          0.71492143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0154-b017",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34132311,
+          0.64406429,
+          0.90545802,
+          0.71492143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b019",
+      "kind": "paragraph",
+      "source": {
+        "text": "In his translation notes, Toby explains that the joke in this scene is an anti-joke: it has no point, there's no punchline, and Sans just takes everything literally.",
+        "raw": "In his translation notes, Toby explains that the joke in this scene is an anti-joke:\nit has no point, there's no punchline, and Sans just takes everything literally.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29812189,
+          0.72683571,
+          0.90545802,
+          0.75805714
+        ],
+        "mask_bbox": [
+          0.28872591,
+          0.72612143,
+          0.90748959,
+          0.75912857
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译注释里解释，这一幕是个“反笑话”：没有寓意，也没有包袱，Sans 只是把一切都当真了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29601414,
+          0.72540714,
+          0.90545802,
+          0.76162857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0154-b018"
+      },
+      "calibration": {
+        "bbox": [
+          0.29601414,
+          0.72540714,
+          0.90545802,
+          0.76162857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0154-b020",
+      "kind": "paragraph",
+      "source": {
+        "text": "This prank call based on an English pun wouldn't work in Japanese, so the translator replaced it with a reference to Licca-chan, a classic Japanese toy doll famous for having a real-life telephone hotline. But instead of answering as Licca-chan, he asks if he's Licca-chan. And just like in the English scene, Sans isn't calling as a prank - he's asking a genuine question. Thus, through creative localization, Sans' English, pun-based anti-joke became a phone-themed anti joke with a cultural reference that Japanese players could recognize.",
+        "raw": "This prank call based on an English pun wouldn't work in Japanese, so the\ntranslator replaced it with a reference to Licca-chan, a classic Japanese toy doll\nfamous for having a real-life telephone hotline. But instead of answering as\nLicca-chan, he asks if he's Licca-chan. And just like in the English scene, Sans\nisn't calling as a prank - he's asking a genuine question. Thus, through creative\nlocalization, Sans' English, pun-based anti-joke became a phone-themed anti\njoke with a cultural reference that Japanese players could recognize.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29810158,
+          0.77312857,
+          0.90208563,
+          0.89465
+        ],
+        "mask_bbox": [
+          0.28872591,
+          0.77241429,
+          0.90748959,
+          0.89572143
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53,
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "这个基于英语双关的电话恶作剧，在日语中行不通，于是译者改为引用日本经典玩偶莉卡（Licca-chan），它以现实中的电话热线而闻名。但 Sans 并不是以莉卡的身份接电话，而是在问自己是不是莉卡。和英语版一样，他没有恶作剧，而是在认真提问。经过这样的创造性本地化，原本以英语双关构成的反笑话，变成了以电话为主题、包含日本玩家熟悉典故的反笑话。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29601414,
+          0.7717,
+          0.90545802,
+          0.89822143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0154-b019"
+      },
+      "calibration": {
+        "bbox": [
+          0.29601414,
+          0.7717,
+          0.90545802,
+          0.89822143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "9a8c920110a47e93affeeec533f199e4e843aa5de568fb7d1c6fe7a846053649"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          56
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.41,
+      891.39
+    ],
+    "text_runs": [
+      {
+        "id": "p0154-b017",
+        "blocks": [
+          "p0154-b017",
+          "p0154-b018",
+          "p0154-b019",
+          "p0154-b020"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

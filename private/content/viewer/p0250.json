@@ -1,0 +1,991 @@
+{
+  "schema_version": 3,
+  "pdf_page": 250,
+  "printed_page": "250",
+  "title": "SAVE 的多重含义",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.321316+00:00",
+  "reference_size": [
+    991.420368,
+    1400
+  ],
+  "physical_size_pt": [
+    503.16,
+    710.52
+  ],
+  "image_url": "/assets/p0250.jpg",
+  "image_sha256": "58429be14607e0685ec3b0f2dd0944a44abff4d23ae6f7c26e1064ff9f70c1f2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0250/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0250-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Multiple Saves",
+        "raw": "Multiple Saves",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29052258,
+          0.06099286,
+          0.44103391,
+          0.07436429
+        ],
+        "mask_bbox": [
+          0.28921133,
+          0.06027857,
+          0.44234516,
+          0.07543571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "SAVE 的多重含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2890096,
+          0.05236429,
+          0.89406071,
+          0.07650715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07650714714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2890096,
+          0.05236429,
+          0.89406071,
+          0.07650715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's revealed that whoever has the most \"determination\" in the Underground is able to use the in-game save menu functions. In other words, the most determined person in the Underground can freely load and save their progress. This is what allows the player to save and load their progress, just like in any other game. Except here, it's the actual, physical player's determination that enables this ability. The main character is just along for the ride.",
+        "raw": "It's revealed that whoever has the most \"determination\" in the Underground\nis able to use the in-game save menu functions. In other words, the most\ndetermined person in the Underground can freely load and save their progress.\nThis is what allows the player to save and load their progress, just like in any\nother game. Except here, it's the actual, physical player's determination that\nenables this ability. The main character is just along for the ride.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28889864,
+          0.08880714,
+          0.89316301,
+          0.19356429
+        ],
+        "mask_bbox": [
+          0.28651822,
+          0.08809286,
+          0.89607802,
+          0.19463571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "游戏揭晓，地下世界中“决心”最强的存在，能够使用存档菜单。换句话说，此人可以自由保存、读取进度。这也是玩家能像玩其他游戏一样存读档的原因；区别在于，这次赋予能力的是现实中玩家本人的决心，主角只是随之行动。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2890096,
+          0.08737857,
+          0.89406071,
+          0.19713571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.20357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2890096,
+          0.08737857,
+          0.89406071,
+          0.19713571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b003",
+      "kind": "aside",
+      "source": {
+        "text": "Toby begins by using \"save\" in a noun-like way related to computers",
+        "raw": "Toby begins by using\n\"save\" in a noun-like\nway related to\ncomputers",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13383828,
+          0.20927143,
+          0.26289555,
+          0.2657
+        ],
+        "mask_bbox": [
+          0.13252703,
+          0.20855714,
+          0.2642068,
+          0.26677143
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Toby 起初把 save 用作与电脑相关的名词，指存档。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1159952,
+          0.20784286,
+          0.26379325,
+          0.26927143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.35918571285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1159952,
+          0.20784286,
+          0.26379325,
+          0.26927143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "During this final battle, Asriel absorbs and corrupts the souls of Sans, Papyrus, Undyne, and every other important story character. With all this new power, Asriel immobilizes the main character and takes control over the save menu. This becomes clear when the player reaches out for the save file, only to fail.",
+        "raw": "During this final battle, Asriel absorbs and corrupts the souls of Sans, Papyrus,\nUndyne, and every other important story character. With all this new power,\nAsriel immobilizes the main character and takes control over the save menu.\nThis becomes clear when the player reaches out for the save file, only to fail.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28853553,
+          0.2817,
+          0.88704048,
+          0.34960714
+        ],
+        "mask_bbox": [
+          0.28651822,
+          0.28098571,
+          0.89607802,
+          0.35067857
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "这场最终战中，Asriel 吸收并扭曲了 Sans、Papyrus、Undyne 以及其他重要角色的灵魂。获得这些力量后，他让主角动弹不得，也夺走了存档菜单的控制权。玩家伸手试图触及存档却失败时，这一点便显露出来。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28853553,
+          0.27714286,
+          0.89406071,
+          0.36071429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28853553,
+          0.27714286,
+          0.89406071,
+          0.36071429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "save-explanation"
+    },
+    {
+      "id": "p0250-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Toby switches to using \"save\" as a verb and with a very different meaning",
+        "raw": "Toby switches to\nusing \"save\" as a\nverb and with a very\ndifferent meaning",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13781238,
+          0.36632857,
+          0.26496329,
+          0.41972857
+        ],
+        "mask_bbox": [
+          0.13650113,
+          0.36561429,
+          0.26627454,
+          0.4208
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "随后，Toby 把 save 改作动词，意义也大不相同：拯救。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1159952,
+          0.3649,
+          0.26496329,
+          0.4233
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7891785728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1159952,
+          0.3649,
+          0.26496329,
+          0.4233
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "After the player fails to reach the save file a second time, the game offers a hint about focusing on saving the characters whose souls have been absorbed:",
+        "raw": "After the player fails to reach the save file a second time, the game offers a hint\nabout focusing on saving the characters whose souls have been absorbed:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2890096,
+          0.43638571,
+          0.88823069,
+          0.46850714
+        ],
+        "mask_bbox": [
+          0.28651822,
+          0.43567143,
+          0.89607802,
+          0.46957857
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "玩家第二次试图触及存档又失败后，游戏提示玩家转而拯救那些灵魂被吸收的角色：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2890096,
+          0.43495714,
+          0.89406071,
+          0.47207857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.2890096,
+          0.43495714,
+          0.89406071,
+          0.47207857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b007",
+      "kind": "quote",
+      "source": {
+        "text": "You tried to reach your SAVE file. Nothing happened. You tried again to reach your SAVE file. Nothing happened.",
+        "raw": "You tried to reach your SAVE file. Nothing happened.\nYou tried again to reach your SAVE file. Nothing happened.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33438893,
+          0.48401429,
+          0.77316346,
+          0.51377857
+        ],
+        "mask_bbox": [
+          0.33307768,
+          0.4833,
+          0.77447471,
+          0.51485
+        ],
+        "line_ids": [
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "你试图触及自己的 SAVE 文件（存档）。什么也没有发生。你再次试图触及自己的 SAVE 文件。什么也没有发生。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33438893,
+          0.48258571,
+          0.89406071,
+          0.51735
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33438893,
+          0.48258571,
+          0.89406071,
+          0.51735
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b008",
+      "kind": "quote",
+      "source": {
+        "text": "But. .. Maybe, with what little power you have. .. You can SAVE something else.",
+        "raw": "But. .. Maybe, with what little power you have. ..\nYou can SAVE something else.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33450997,
+          0.53738571,
+          0.68587455,
+          0.56882143
+        ],
+        "mask_bbox": [
+          0.33319872,
+          0.53667143,
+          0.6871858,
+          0.56989286
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "但是……也许，凭你仅剩的一点力量……你可以 SAVE（拯救）别的什么。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33450997,
+          0.53595714,
+          0.89406071,
+          0.57239286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33450997,
+          0.53595714,
+          0.89406071,
+          0.57239286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the English word \"save\" in this scene carries multiple meanings:",
+        "raw": "As we can see, the English word \"save\" in this scene carries multiple meanings:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2890096,
+          0.58500714,
+          0.89406071,
+          0.59753571
+        ],
+        "mask_bbox": [
+          0.28651822,
+          0.58429286,
+          0.89607802,
+          0.59860714
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "可见，这里的英语词 save 承担了好几层含义：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2890096,
+          0.58357857,
+          0.89406071,
+          0.60572143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.2890096,
+          0.58357857,
+          0.89406071,
+          0.60572143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b010",
+      "kind": "quote",
+      "source": {
+        "text": "\"Save\" is used to refer to the player's save file and the ability to load it",
+        "raw": "\"Save\" is used to refer to the player's save file and the ability to load it",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33545811,
+          0.61169286,
+          0.86352876,
+          0.62422143
+        ],
+        "mask_bbox": [
+          0.29884397,
+          0.61097857,
+          0.86484001,
+          0.62529286
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "• 指玩家的存档，以及读取存档的能力。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33545811,
+          0.61026429,
+          0.89406071,
+          0.63085357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.33545811,
+          0.61026429,
+          0.89406071,
+          0.63085357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0250-b011",
+      "kind": "quote",
+      "source": {
+        "text": "\"Save\" is used to mean \"give salvation to someone's soul\"",
+        "raw": "\"Save\" is used to mean \"give salvation to someone's soul\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33545811,
+          0.63837857,
+          0.76815045,
+          0.65090714
+        ],
+        "mask_bbox": [
+          0.29884397,
+          0.63766429,
+          0.7694617,
+          0.65197857
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "• 指“救赎某人的灵魂”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33545811,
+          0.63695,
+          0.89406071,
+          0.65753929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.33545811,
+          0.63695,
+          0.89406071,
+          0.65753929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0250-b012",
+      "kind": "quote",
+      "source": {
+        "text": "\"Save\" is used to mean \"to physically rescue someone\"",
+        "raw": "\"Save\" is used to mean \"to physically rescue someone\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33545811,
+          0.66675,
+          0.74954078,
+          0.67927857
+        ],
+        "mask_bbox": [
+          0.29884397,
+          0.66603571,
+          0.75085203,
+          0.68035
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "• 指实际“救出某个人”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33545811,
+          0.66532143,
+          0.89406071,
+          0.68591071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.33545811,
+          0.66532143,
+          0.89406071,
+          0.68591071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0250-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby and the localization team spent a lot of time on preserving this wordplay in Japanese. After trying a number of solutions, the team settled on using the Japanese wordfukkatsu in place of\"save\". In general,fukkatsu means \"to revive\" or \"to restore\", but it can also be used to mean \"to restore/load a saved file\" and \"to restore something back to how it should be\".",
+        "raw": "Toby and the localization team spent a lot of time on preserving this wordplay\nin Japanese. After trying a number of solutions, the team settled on using\nthe Japanese wordfukkatsu in place of\"save\". In general,fukkatsu means \"to\nrevive\" or \"to restore\", but it can also be used to mean \"to restore/load a saved\nfile\" and \"to restore something back to how it should be\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290805,
+          0.69512857,
+          0.88727247,
+          0.78061429
+        ],
+        "mask_bbox": [
+          0.28651822,
+          0.69441429,
+          0.89607802,
+          0.78168571
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "Toby 和本地化团队花了很多时间，试图在日语里保住这个文字游戏。尝试多种方案后，团队决定用日语 fukkatsu 替代 save。fukkatsu 通常表示“复活”或“恢复”，也可以用来表示“恢复／读取存档”以及“让事物恢复应有的状态”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 49,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 66,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.2890096,
+          0.6937,
+          0.89406071,
+          0.78418571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0250-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.2890096,
+          0.6937,
+          0.89406071,
+          0.78418571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0250-b014",
+      "kind": "aside",
+      "source": {
+        "text": "A new menu icon had ~ to be created to work properly with the new Japanese wording of this scene",
+        "raw": "A new menu icon had ~\nto be created to work\nproperly with the new\nJapanese wording of\nthis scene",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12898666,
+          0.79632143,
+          0.28191876,
+          0.87
+        ],
+        "mask_bbox": [
+          0.12767541,
+          0.79560714,
+          0.28323001,
+          0.87107143
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "为了配合这个场景的新日语措辞，还得制作一个新的菜单图标。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12898666,
+          0.79489286,
+          0.28191876,
+          0.87357143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.12898666,
+          0.79489286,
+          0.28191876,
+          0.87357143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5c26e8ebb6ca9679b4fa1987c44625b271ad015d8e1460c0a082963340a87b18"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          40
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.53,
+      886.39
+    ],
+    "text_runs": [
+      {
+        "id": "p0250-b006",
+        "blocks": [
+          "p0250-b006",
+          "p0250-b007",
+          "p0250-b008",
+          "p0250-b009",
+          "p0250-b010",
+          "p0250-b011",
+          "p0250-b012",
+          "p0250-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1107.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

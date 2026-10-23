@@ -1,0 +1,118 @@
+{
+  "schema_version": 3,
+  "pdf_page": 59,
+  "printed_page": "59",
+  "title": "本地化的过程",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.138280+00:00",
+  "reference_size": [
+    987.472638,
+    1400
+  ],
+  "physical_size_pt": [
+    502.68,
+    712.68
+  ],
+  "image_url": "/assets/p0059.jpg",
+  "image_sha256": "1939e41cf01caf693201dba766dedc06f653b3fe5188ed8999c5c68541d87a6c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0059/page.json",
+  "page_role": "chapter-title",
+  "blocks": [
+    {
+      "id": "p0059-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Getting it Localized",
+        "raw": "Getting it\nLocalized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49218579,
+          0.8823,
+          0.7085766,
+          0.94985714
+        ],
+        "mask_bbox": [
+          0.4908693,
+          0.88158571,
+          0.70989309,
+          0.95092857
+        ],
+        "line_ids": [
+          1,
+          2
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.49218579,
+          0.89857143,
+          0.94179825,
+          0.93571429
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.49218579,
+          0.89857143,
+          0.94179825,
+          0.93571429
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "region_id": "chapter-title-white-panel"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6b138dabd98e0bd7545923409fdc491df5113ab41d29f95c988ebf19b81663d8"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

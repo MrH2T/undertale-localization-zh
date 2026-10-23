@@ -1,0 +1,1073 @@
+{
+  "schema_version": 3,
+  "pdf_page": 121,
+  "printed_page": "121",
+  "title": "Snowdrake 的说话方式",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    980.590717,
+    1400
+  ],
+  "physical_size_pt": [
+    498.0,
+    711.0
+  ],
+  "image_url": "/assets/p0121.jpg",
+  "image_sha256": "b3ea68aeedaf114df56451c8a9bf905312a9a1059156255e5780b8fbfc567c27",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0121/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0121-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Snowdrake Speaks",
+        "raw": "Snowdrake Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09521812,
+          0.06276429,
+          0.28996807,
+          0.07598571
+        ],
+        "mask_bbox": [
+          0.09389238,
+          0.06205,
+          0.2912938,
+          0.07705714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Snowdrake 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.05228571,
+          0.70611519,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.05228571,
+          0.70611519,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0121-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Snowdrake's new Japanese name suits him perfectly, although it does change him into a bird",
+        "raw": "Snowdrake's new\nJapanese name\nsuits him perfectly,\nalthough it does\nchange him into a bird",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73433287,
+          0.09131429,
+          0.8729636,
+          0.16426429
+        ],
+        "mask_bbox": [
+          0.73300714,
+          0.0906,
+          0.87428933,
+          0.16533571
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Snowdrake 的新日文名很适合他，尽管这也把他变成了一只鸟。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73433287,
+          0.08988571,
+          0.88151967,
+          0.16783571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.23285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73433287,
+          0.08988571,
+          0.88151967,
+          0.16783571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A young comedian monster named Snowdrake gets his name from the English words \"snowflake\" and \"drake'', a type of dragon. Toby knew this wordplay might be tough to translate, so he left a note: \"you can call him a bird if it makes it easier to make a pun [ ... ] the main thing about him is that he's a comedian\".",
+        "raw": "A young comedian monster named Snowdrake gets his name from the English\nwords \"snowflake\" and \"drake'', a type of dragon. Toby knew this wordplay\nmight be tough to translate, so he left a note: \"you can call him a bird if it makes\nit easier to make a pun [ ... ] the main thing about him is that he's a comedian\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09297457,
+          0.23805714,
+          0.70611519,
+          0.30377143
+        ],
+        "mask_bbox": [
+          0.09093498,
+          0.23734286,
+          0.70815478,
+          0.30484286
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "年轻的喜剧演员怪物 Snowdrake，名字来自英语 snowflake（雪花）与 drake（一种龙）。Toby 知道这个文字游戏可能难译，所以留了条说明：“如果把他叫作鸟能更方便地造双关，就这么办吧［……］最重要的是，他是个喜剧演员。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.23662857,
+          0.70611519,
+          0.30734286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.44285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.23662857,
+          0.70611519,
+          0.30734286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Based on Toby’s suggestion, the translator renamed the monster owaraichō, a combination of owarai (\"comedy\") and chō (\"bird\"). This name is also a play on the word raichō (\"rock ptarmigan\"), a bird associated with cold, snowy areas.",
+        "raw": "Based on Toby's suggestion, the translator renamed the monster owaraichO, a\ncombination of owarai (\"comedy\") and cha (\"bird\"). This name is also a play on\nthe word raich6 (\"rock ptarmigan\"), a bird associated with cold, snowy areas.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09486119,
+          0.31897857,
+          0.70333115,
+          0.36980714
+        ],
+        "mask_bbox": [
+          0.09093498,
+          0.31826429,
+          0.70815478,
+          0.37087857
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "根据 Toby 的建议，译者把这个怪物改名为 owaraichō，由 owarai（搞笑）和 chō（鸟）组合而成。这个名字也玩了 raichō（雷鸟）的双关——这种鸟让人联想到寒冷、多雪的地区。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 23,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 47,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 66,
+            "end": 72,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.31755,
+          0.70611519,
+          0.37337857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.44285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0121-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.31755,
+          0.70611519,
+          0.37337857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Raicho are iconic, culturally significant birds in Japan and are associated with deities, mountains, and snow",
+        "raw": "Raicho are iconic,\nculturally significant\nbirds in Japan and are\nassociated with deities,\nmountains, and snow",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73524049,
+          0.35799286,
+          0.879888,
+          0.42990714
+        ],
+        "mask_bbox": [
+          0.73391476,
+          0.35727857,
+          0.88121373,
+          0.43097857
+        ],
+        "line_ids": [
+          20,
+          21,
+          23,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "raichō（雷鸟）在日本具有代表性和文化意义，人们把它与神明、山岳和白雪联系在一起。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 6,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73466941,
+          0.35656429,
+          0.88151967,
+          0.43347857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.44285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73466941,
+          0.35656429,
+          0.88151967,
+          0.43347857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, Snowdrake speaks using a dialect associated with Osaka, the comedy capital of Japan. Snowdrake also uses the pronoun wate, which reinforces his connection to Osaka-style comedy.",
+        "raw": "In Japanese, Snowdrake speaks using a dialect associated with Osaka, the\ncomedy capital of Japan. Snowdrake also uses the pronoun wate, which\nreinforces his connection to Osaka-style comedy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09523851,
+          0.38422143,
+          0.66317169,
+          0.43272857
+        ],
+        "mask_bbox": [
+          0.09093498,
+          0.38350714,
+          0.70815478,
+          0.4338
+        ],
+        "line_ids": [
+          22,
+          24,
+          27
+        ]
+      },
+      "translation": {
+        "text": "日语中，Snowdrake 说的是大阪方言，大阪正是日本的喜剧之都。他还用 wate（我）自称，进一步强化了与大阪式喜剧的联系。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.38279286,
+          0.70611519,
+          0.4363
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.44285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0121-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.38279286,
+          0.70611519,
+          0.4363
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Personal Pronouns: wate",
+        "raw": "Japanese Personal Pronouns: wate",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.22161132,
+          0.46612857,
+          0.58182276,
+          0.47935
+        ],
+        "mask_bbox": [
+          0.22028559,
+          0.46541429,
+          0.58314849,
+          0.48042143
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：wate",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.122375215,
+          0.455857143,
+          0.682241825,
+          0.48
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.48,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.122375215,
+          0.455857143,
+          0.682241825,
+          0.48
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 676
+    },
+    {
+      "id": "p0121-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The pronoun wate is associated with people from the Osaka region. In entertainment, the Osaka dialect is associated with comedy, commerce, coarseness, and organized crime, among other things. Other fictional characters who use wate include:",
+        "raw": "The pronoun wate is associated with people from the Osaka region. In\nentertainment, the Osaka dialect is associated with comedy, commerce,\ncoarseness, and organized crime, among other things. Other fictional\ncharacters who use wate include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12279333,
+          0.49502857,
+          0.66946381,
+          0.55851429
+        ],
+        "mask_bbox": [
+          0.1214676,
+          0.49431429,
+          0.67078954,
+          0.55958571
+        ],
+        "line_ids": [
+          29,
+          30,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "wate 这个自称让人想到大阪地区的人。在娱乐作品中，大阪方言常与喜剧、商业、粗豪和黑社会等联系在一起。其他使用 wate 的虚构角色包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 4,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 57,
+            "end": 61,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12279333,
+          0.4936,
+          0.70611519,
+          0.56208571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.57,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12279333,
+          0.4936,
+          0.70611519,
+          0.56208571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b009",
+      "kind": "aside",
+      "source": {
+        "text": "The Japanese pronoun ワテ (wate) is less common in everyday Japanese these days, it’s another one that’s slowly fading away.",
+        "raw": "The Japanese pronoun\n'7 7 (wate) is less\ncommon in everyday\nJapanese these days,\nit's another one that's\nslowly fading away",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.73484277,
+          0.56896429,
+          0.8739324,
+          0.65741429
+        ],
+        "mask_bbox": [
+          0.73351704,
+          0.56825,
+          0.87525813,
+          0.65848571
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "日语自称“ワテ”（wate）如今在日常生活中已不太常用，也是一个正在逐渐淡出的代词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73466941,
+          0.56753571,
+          0.88151967,
+          0.66098571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73466941,
+          0.56753571,
+          0.88151967,
+          0.66098571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Ebisumaru (Mystical Ninja series)",
+        "raw": "Ebisumaru\n(Mystical Ninja series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.18759101,
+          0.70093571,
+          0.32209157,
+          0.72627857
+        ],
+        "mask_bbox": [
+          0.18626528,
+          0.70022143,
+          0.3234173,
+          0.72735
+        ],
+        "line_ids": [
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "Ebisumaru\n（Mystical Ninja 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.69950714,
+          0.3910857,
+          0.72985
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7371428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.69950714,
+          0.3910857,
+          0.72985
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Galactic Merchant Dongoros (Chikyii Sentai Fiveman)",
+        "raw": "Galactic Merchant Dongoros\n(Chikyii Sentai Fiveman)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45906003,
+          0.70093571,
+          0.63639191,
+          0.72594286
+        ],
+        "mask_bbox": [
+          0.45773429,
+          0.70022143,
+          0.63771764,
+          0.72701429
+        ],
+        "line_ids": [
+          45,
+          47
+        ]
+      },
+      "translation": {
+        "text": "银河商人 Dongoros\n（Chikyū Sentai Fiveman）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41148156,
+          0.69950714,
+          0.70611519,
+          0.72951429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7371428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41148156,
+          0.69950714,
+          0.70611519,
+          0.72951429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b012",
+      "kind": "caption",
+      "source": {
+        "text": "Dribble (WarioWare series)",
+        "raw": "Dribble\n(WarioWare series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19770736,
+          0.86736429,
+          0.31342332,
+          0.89202857
+        ],
+        "mask_bbox": [
+          0.19638163,
+          0.86665,
+          0.31474905,
+          0.8931
+        ],
+        "line_ids": [
+          48,
+          50
+        ]
+      },
+      "translation": {
+        "text": "Dribble\n（WarioWare 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09486119,
+          0.86593571,
+          0.39175621,
+          0.8956
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09486119,
+          0.86593571,
+          0.39175621,
+          0.8956
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Roy Koopa (Super Mario Bros. series)",
+        "raw": "Roy Koopa\n(Super Mario Bros. series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.4695333,
+          0.86736429,
+          0.62715258,
+          0.89202857
+        ],
+        "mask_bbox": [
+          0.46820757,
+          0.86665,
+          0.62847831,
+          0.8931
+        ],
+        "line_ids": [
+          49,
+          51
+        ]
+      },
+      "translation": {
+        "text": "Roy Koopa\n（Super Mario Bros. 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41215207,
+          0.86593571,
+          0.70611519,
+          0.8956
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41215207,
+          0.86593571,
+          0.70611519,
+          0.8956
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0121-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64510095,
+          0.94025,
+          0.70870546,
+          0.94981429
+        ],
+        "mask_bbox": [
+          0.64377522,
+          0.93953571,
+          0.7100312,
+          0.95088571
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64510095,
+          0.93882143,
+          0.70870546,
+          0.95682143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9568214285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64510095,
+          0.93882143,
+          0.70870546,
+          0.95682143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "39e93a6530dcdc3b5be89046bfb87b0366057dc964c6aa0a4a97897ce2663d82"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          8,
+          9,
+          10,
+          11,
+          12,
+          31,
+          32,
+          33,
+          34,
+          37,
+          52
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      93.02,
+      692.41
+    ],
+    "text_runs": [
+      {
+        "id": "p0121-b003",
+        "blocks": [
+          "p0121-b003",
+          "p0121-b004",
+          "p0121-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 620.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

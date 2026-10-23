@@ -1,0 +1,748 @@
+{
+  "schema_version": 3,
+  "pdf_page": 69,
+  "printed_page": "69",
+  "title": "技术工作",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.146442+00:00",
+  "reference_size": [
+    986.13828,
+    1400
+  ],
+  "physical_size_pt": [
+    501.24,
+    711.6
+  ],
+  "image_url": "/assets/p0069.jpg",
+  "image_sha256": "05850202ebec1657e309d3b1e52a3a5b1e303951d2960539cce3b22228b25219",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0069/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0069-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Technical Work",
+        "raw": "Technical Work",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09805927,
+          0.06921429,
+          0.23564647,
+          0.08186429
+        ],
+        "mask_bbox": [
+          0.096741,
+          0.0685,
+          0.23696474,
+          0.08293571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "技术工作",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09814039,
+          0.05986429,
+          0.70694954,
+          0.08400715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08400714714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09814039,
+          0.05986429,
+          0.70694954,
+          0.08400715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "For a number of reasons, the technical side of Undertale's Japanese release took far longer than the text translation itself.",
+        "raw": "For a number of reasons, the technical side of Underta/e's Japanese release took\nfar longer than the text translation itself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09807955,
+          0.09205,
+          0.70694954,
+          0.12242857
+        ],
+        "mask_bbox": [
+          0.09605144,
+          0.09133571,
+          0.70897765,
+          0.1235
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "由于种种原因，Undertale 日语版的技术工作，比文字翻译本身耗时长得多。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09814039,
+          0.09062143,
+          0.70694954,
+          0.126
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.215,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09814039,
+          0.09062143,
+          0.70694954,
+          0.126
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "8-4's first challenge was to get the English version of Undertale running on Sony's PlayStation 4 and Vita systems. Toby had originally developed Undertale with home computers in mind, so getting the game to run smoothly on these cutting-edge gaming systems took months of work between multiple parties.",
+        "raw": "8-4's first challenge was to get the English version of Underta/e running on\nSony's PlayStation 4 and Vita systems. Toby had originally developed Underta/e\nwith home computers in mind, so getting the game to run smoothly on these\ncutting-edge gaming systems took months of work between multiple parties.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09814039,
+          0.13656429,
+          0.70531691,
+          0.20472143
+        ],
+        "mask_bbox": [
+          0.09605144,
+          0.13585,
+          0.70897765,
+          0.20579286
+        ],
+        "line_ids": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "8-4 的第一个难题，是让英语版 Undertale 在索尼的 PlayStation 4 和 Vita 上运行。Toby 原本只考虑个人电脑，因此要让游戏在这些先进主机上流畅运行，需要多方合作数月。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09814039,
+          0.13513571,
+          0.70694954,
+          0.20829286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.215,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0069-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09814039,
+          0.13513571,
+          0.70694954,
+          0.20829286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b004",
+      "kind": "caption",
+      "source": {
+        "text": "A huge part of Undertale's localization process was simply getting Game Maker stuff to run properly on current game consoles",
+        "raw": "A huge part of\nUndertale's\nlocalization process\nwas simply getting\nGame Maker stuff to\nrun properly on current\ngame consoles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73308177,
+          0.22075,
+          0.87678373,
+          0.32432857
+        ],
+        "mask_bbox": [
+          0.7317635,
+          0.22003571,
+          0.878102,
+          0.3254
+        ],
+        "line_ids": [
+          8,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Undertale 本地化的一大部分工作，其实只是让 Game Maker 做出的东西能在当时的游戏主机上正常运行。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 27,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73308177,
+          0.21932143,
+          0.87678373,
+          0.3279
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4969214328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73308177,
+          0.21932143,
+          0.87678373,
+          0.3279
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "8-4's progTammer faced other technical challenges too. The game had to be reprogrammed to work with the new Japanese text. Further work was needed to allow the English and Japanese data to coexist inside the same game. And, of course, all of these changes resulted in countless new bugs that needed to be found and squashed.",
+        "raw": "8-4's progTammer faced other technical challenges too. The game had to be\nreprogrammed to work with the new Japanese text. Further work was needed\nto allow the English and Japanese data to coexist inside the same game. And, of\ncourse, all of these changes resulted in countless new bugs that needed to be\nfound and squashed.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09831278,
+          0.40268571,
+          0.70692926,
+          0.4887
+        ],
+        "mask_bbox": [
+          0.09605144,
+          0.40197143,
+          0.70897765,
+          0.48977143
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "8-4 的程序员还面临其他技术问题：要修改程序，让游戏支持新的日语文字；还要让英日数据在同一款游戏里共存。当然，所有这些改动又产生了无数新错误，必须找出并修好。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09814039,
+          0.40125714,
+          0.70694954,
+          0.49227143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.49857142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09814039,
+          0.40125714,
+          0.70694954,
+          0.49227143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Early builds of the Japanese localization included this goofy background border by Everdraed for testing purposes",
+        "raw": "Early builds of the\nJapanese localization\nincluded this goofy\nbackground border by\nEverdraed for testing\npurposes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73296009,
+          0.50406429,
+          0.87018222,
+          0.59379286
+        ],
+        "mask_bbox": [
+          0.73164181,
+          0.50335,
+          0.8715005,
+          0.59486429
+        ],
+        "line_ids": [
+          21,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "日语本地化早期测试版，用了 Everdraed 画的这个傻乎乎的背景边框。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73296009,
+          0.50263571,
+          0.87018222,
+          0.59736429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7552571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73296009,
+          0.50263571,
+          0.87018222,
+          0.59736429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0069-b007",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: An amusing font related bug appears during testing",
+        "raw": "LEFT: An amusing font\nrelated bug appears\nduring testing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73388288,
+          0.7624,
+          0.87151064,
+          0.80458571
+        ],
+        "mask_bbox": [
+          0.73256461,
+          0.76168571,
+          0.87282891,
+          0.80565714
+        ],
+        "line_ids": [
+          28,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "左：测试时冒出了一个有趣的字体错误。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73388288,
+          0.76097143,
+          0.89338384,
+          0.92357143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9235714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73388288,
+          0.76097143,
+          0.89338384,
+          0.92357143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "technical-bugs-side-note"
+    },
+    {
+      "id": "p0069-b008",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: The number of technical issues increased when Sony released the PlayStation 4 Pro halfway through Undertale's localization",
+        "raw": "RIGHT: The number\nof technical issues\nincreased when Sony\nreleased the PlayStation\n4 Pro halfway through\nUnderta/e's localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73339613,
+          0.81502857,
+          0.88271596,
+          0.90442857
+        ],
+        "mask_bbox": [
+          0.73207786,
+          0.81431429,
+          0.88403424,
+          0.9055
+        ],
+        "line_ids": [
+          32,
+          33,
+          35,
+          37,
+          41,
+          43
+        ]
+      },
+      "translation": {
+        "text": "右：Undertale 本地化进行到一半时，索尼发布了 PlayStation 4 Pro，技术问题又多了起来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73388288,
+          0.81357143,
+          0.89338384,
+          0.92357143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9235714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0069-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.73388288,
+          0.81357143,
+          0.89338384,
+          0.92357143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "technical-bugs-side-note"
+    },
+    {
+      "id": "p0069-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Getting it Localized",
+        "raw": "Getting it Localized",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56288252,
+          0.94047143,
+          0.707416,
+          0.95002143
+        ],
+        "mask_bbox": [
+          0.56156425,
+          0.93975714,
+          0.70873428,
+          0.95109286
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "本地化的过程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56288252,
+          0.93904286,
+          0.707416,
+          0.95704286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9570428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56288252,
+          0.93904286,
+          0.707416,
+          0.95704286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Getting it Localized",
+        "chapter_id": "chapter-58"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "eb6a13cd1e9cda8d08578629642e901f52d0fdc180739f9be3f64724cb2ffa27"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          9
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      96.78,
+      697.15
+    ],
+    "text_runs": [
+      {
+        "id": "p0069-b002",
+        "blocks": [
+          "p0069-b002",
+          "p0069-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 301.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

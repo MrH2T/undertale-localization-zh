@@ -1,0 +1,773 @@
+{
+  "schema_version": 3,
+  "pdf_page": 239,
+  "printed_page": "239",
+  "title": "态度转变与缩写真相",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    984.459801,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    711.96
+  ],
+  "image_url": "/assets/p0239.jpg",
+  "image_sha256": "d040fcb5a0b76f916833ab31d630dcb90d792805ddf521e916d947b0617580fa",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0239/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0239-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Attitude Adjustment",
+        "raw": "Attitude Adjustment",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09637773,
+          0.0556,
+          0.31314636,
+          0.06880714
+        ],
+        "mask_bbox": [
+          0.09505721,
+          0.05488571,
+          0.31446688,
+          0.06987857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "态度转变",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09625583,
+          0.04585714,
+          0.69822049,
+          0.07
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09625583,
+          0.04585714,
+          0.69822049,
+          0.07
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 102
+    },
+    {
+      "id": "p0239-b002",
+      "kind": "aside",
+      "source": {
+        "text": "When Sans says this out-of-character line during a No Mercy playthrough, he also switches to a very different font and uses proper punctuation",
+        "raw": "When Sans says this\nout-of-character line\nduring a No Mercy\nplaythrough, he also\nswitches to a very\ndifferent font and uses\nproper punctuation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73380345,
+          0.08558571,
+          0.87421548,
+          0.18828571
+        ],
+        "mask_bbox": [
+          0.73248293,
+          0.08487143,
+          0.875536,
+          0.18935714
+        ],
+        "line_ids": [
+          3,
+          5,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Sans 在屠杀路线说出这句一反常态的话时，字体也完全变了，并开始规范使用标点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72666248,
+          0.08415714,
+          0.87421548,
+          0.19185714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4077857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72666248,
+          0.08415714,
+          0.87421548,
+          0.19185714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0239-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans suddenly stops acting like a goofball, turns deadly serious, and begins to speak in an intimidating tone of voice. To preserve this attitude change in the Japanese script, the translator replaced his normal Japanese speech patterns with harsher speech patterns. For example, instead of his usual, laid-back personal pronoun oira, Sans now uses the more assertive pronoun ore. And instead of referring to the main character with the casual second-person pronoun an ta, he now uses the more condescending pronoun omae.",
+        "raw": "Sans suddenly stops acting like a goofball, turns deadly serious, and begins to\nspeak in an intimidating tone of voice. To preserve this attitude change in the\nJapanese script, the translator replaced his normal Japanese speech patterns\nwith harsher speech patterns. For example, instead of his usual, laid-back\npersonal pronoun oira, Sans now uses the more assertive pronoun ore. And\ninstead of referring to the main character with the casual second-person\npronoun an ta, he now uses the more condescending pronoun omae.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09625583,
+          0.23977143,
+          0.68795089,
+          0.36235
+        ],
+        "mask_bbox": [
+          0.09422426,
+          0.23905714,
+          0.70025206,
+          0.36342143
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Sans 突然收起嬉皮笑脸，变得严肃而可怕，话语里满是威慑。为了保留这种态度转变，译者把他平时的日语说话方式改得更强硬。例如，原本随意的自称 oira（我）换成了更强势的 ore（我）；称呼主角时，也从较随便的 anta（你）变成了更居高临下的 omae（你）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 71,
+            "end": 75,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 86,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 106,
+            "end": 110,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 123,
+            "end": 127,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09625583,
+          0.23834286,
+          0.69822049,
+          0.36592143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.37778571285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09625583,
+          0.23834286,
+          0.69822049,
+          0.36592143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0239-b004",
+      "kind": "heading",
+      "source": {
+        "text": "Abbreviation Revelation",
+        "raw": "Abbreviation Revelation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09637773,
+          0.38492857,
+          0.3486379,
+          0.39813571
+        ],
+        "mask_bbox": [
+          0.09505721,
+          0.38421429,
+          0.34995842,
+          0.39920714
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "缩写背后的真相",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09625583,
+          0.37442857,
+          0.69822049,
+          0.39857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.39857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09625583,
+          0.37442857,
+          0.69822049,
+          0.39857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 562
+    },
+    {
+      "id": "p0239-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Technically, \"execution points\" were renamed \"executor points\" in Japanese, but the \"EXP\" abbreviation still works the same way",
+        "raw": "Technically, \"execution\npoints\" were renamed\n\"executor points\" in\nJapanese, but the\n\"EXP\" abbreviation still\nworks the same way",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72750558,
+          0.41492857,
+          0.87465227,
+          0.50347143
+        ],
+        "mask_bbox": [
+          0.72618506,
+          0.41421429,
+          0.87597279,
+          0.50454286
+        ],
+        "line_ids": [
+          22,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "严格说来，日文把 execution points（处决点数）改成了 executor points（处决者点数），但缩写仍是 EXP。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72666248,
+          0.4135,
+          0.87465227,
+          0.50704286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6376714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72666248,
+          0.4135,
+          0.87465227,
+          0.50704286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0239-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In many role-playing games, the player must earn \"EXP\" (short for \"Experience Points\") to increase their \"LV\" (short for \"Level\"). These standard terms appear in Undertale too, but it's eventually revealed that \"EXP\" and \"LV\" actually stand for \"execution points\" and \"level of violence\" here in the Underground.",
+        "raw": "In many role-playing games, the player must earn \"EXP\" (short for \"Experience\nPoints\") to increase their \"LV\" (short for \"Level\"). These standard terms appear\nin Undertale too, but it's eventually revealed that \"EXP\" and \"LV\" actually stand\nfor \"execution points\" and \"level of violence\" here in the Underground.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0971802,
+          0.56034286,
+          0.69554897,
+          0.62798571
+        ],
+        "mask_bbox": [
+          0.09422426,
+          0.55962857,
+          0.70025206,
+          0.62905714
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "许多角色扮演游戏中，玩家要积累 EXP（Experience Points，经验值）来提升 LV（Level，等级）。《Undertale》也用了这些常见术语，但最后揭晓：在地下世界里，EXP 和 LV 其实分别代表 execution points（处决点数）和 level of violence（暴力等级）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 60,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09625583,
+          0.555,
+          0.69822049,
+          0.63857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6385714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.09625583,
+          0.555,
+          0.69822049,
+          0.63857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "exp-lv-explanation"
+    },
+    {
+      "id": "p0239-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Flowey says \"LV\" stands for \"Love\" at the start of the game, but the true meaning of \"LV\" is only revealed now",
+        "raw": "Flowey says \"LV\" stands\nfor \"Love\" at the start\nof the game, but the\ntrue meaning of \"LV\" is\nonly revealed now",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73380345,
+          0.64481429,
+          0.8856126,
+          0.71717857
+        ],
+        "mask_bbox": [
+          0.73248293,
+          0.6441,
+          0.88693312,
+          0.71825
+        ],
+        "line_ids": [
+          35,
+          38,
+          43,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "游戏开头，Flowey 说 LV 代表 Love（爱）；直到这里，LV 的真正含义才揭晓。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72666248,
+          0.64338571,
+          0.8856126,
+          0.72075
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72666248,
+          0.64338571,
+          0.8856126,
+          0.72075
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0239-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because both of these surprise meanings rely on English abbreviations and English spelling, this wordplay would likely be lost in a straightforward, literal translation. To compensate for this, the localization team kept the English words mostly as-is, then included their Japanese meanings afterward for clarification. This solution preserves Toby's original intent without forcing Japanese words to awkwardly fit the English abbreviations.",
+        "raw": "Because both of these surprise meanings rely on English abbreviations and\nEnglish spelling, this wordplay would likely be lost in a straightforward, literal\ntranslation. To compensate for this, the localization team kept the English\nwords mostly as-is, then included their Japanese meanings afterward for\nclarification. This solution preserves Toby's original intent without forcing\nJapanese words to awkwardly fit the English abbreviations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09625583,
+          0.78991429,
+          0.69822049,
+          0.89464286
+        ],
+        "mask_bbox": [
+          0.09422426,
+          0.7892,
+          0.70025206,
+          0.89571429
+        ],
+        "line_ids": [
+          47,
+          48,
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "这两处反转都依赖英语缩写和拼写，直接照字面翻译，很可能丢掉文字游戏。为此，团队基本保留了英文词语，再附上日语解释。这样既保留了 Toby 的意图，也不用勉强拼出能对应英语缩写的日语词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09625583,
+          0.78848571,
+          0.69822049,
+          0.89821429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09625583,
+          0.78848571,
+          0.69822049,
+          0.89821429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0239-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61570823,
+          0.93259286,
+          0.70636709,
+          0.94214286
+        ],
+        "mask_bbox": [
+          0.61438771,
+          0.93187857,
+          0.70768761,
+          0.94321429
+        ],
+        "line_ids": [
+          54
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61570823,
+          0.93116429,
+          0.70636709,
+          0.94916429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9491642857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61570823,
+          0.93116429,
+          0.70636709,
+          0.94916429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4b1325f713c2d25e1797fc6c7e08252203a852b99f50f9dcaecba77ec0fd713d"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      94.76,
+      687.37
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1074 @@
+{
+  "schema_version": 3,
+  "pdf_page": 79,
+  "printed_page": "79",
+  "title": "起名字",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    980.4952,
+    1400
+  ],
+  "physical_size_pt": [
+    498.96,
+    712.44
+  ],
+  "image_url": "/assets/p0079.jpg",
+  "image_sha256": "c54918fe801e0c805bb4d699ae691741196fe2d5f11eaab7989fed541007a4d8",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0079/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0079-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Naming Game",
+        "raw": "The Naming Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09031151,
+          0.06017143,
+          0.28081728,
+          0.0735
+        ],
+        "mask_bbox": [
+          0.08898565,
+          0.05945714,
+          0.28214315,
+          0.07457143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "起名字",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.05014286,
+          0.69946288,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.05014286,
+          0.69946288,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0079-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before starting, the player must name the main character. In the English version of Undertale, only uppercase and lowercase letters are available:",
+        "raw": "Before starting, the player must name the main character. In the English\nversion of Undertale, only uppercase and lowercase letters are available:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0903931,
+          0.08800714,
+          0.64616329,
+          0.11821429
+        ],
+        "mask_bbox": [
+          0.08829212,
+          0.08729286,
+          0.70150267,
+          0.11928571
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "开始前，玩家要给主角取名。Undertale 英语版只提供大写和小写字母：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.08657857,
+          0.69946288,
+          0.12178571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.12785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.08657857,
+          0.69946288,
+          0.12178571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The English version of Undertale understandably only lets you use English letters to name yourself",
+        "raw": "The English version\nof Undertale\nunderstandably only\nlets you use English\nletters to name\nyourself",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72912137,
+          0.13426429,
+          0.85854576,
+          0.22221429
+        ],
+        "mask_bbox": [
+          0.72779551,
+          0.13355,
+          0.85987162,
+          0.22328571
+        ],
+        "line_ids": [
+          5,
+          8,
+          10,
+          13,
+          16,
+          19
+        ]
+      },
+      "translation": {
+        "text": "英语版只允许用英文字母取名，这也不难理解。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72912137,
+          0.13283571,
+          0.85854576,
+          0.22578571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.38357142857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72912137,
+          0.13283571,
+          0.85854576,
+          0.22578571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "For the Japanese release, 8-4 modified the naming screen to add support for three character sets: hiragana, katakana, and the English alphabet. Adding these extra character sets required new programming, a new layout design, and a way to switch between each set:",
+        "raw": "For the Japanese release, 8-4 modified the naming screen to add support for\nthree character sets: hiragana, katakana, and the English alphabet. Adding\nthese extra character sets required new programming, a new layout design,\nand a way to switch between each set:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.091311,
+          0.26117143,
+          0.67478148,
+          0.32843571
+        ],
+        "mask_bbox": [
+          0.08829212,
+          0.26045714,
+          0.70150267,
+          0.32950714
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "日语版中，8-4 修改了取名界面，支持平假名、片假名、英文字母三套字符。为此，需要增加程序、重新设计布局，还得提供切换字符集的方法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.25974286,
+          0.69946288,
+          0.33200714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.33785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.25974286,
+          0.69946288,
+          0.33200714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese hiragana",
+        "raw": "Japanese hiragana",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12688486,
+          0.4536,
+          0.24113326,
+          0.46440714
+        ],
+        "mask_bbox": [
+          0.125559,
+          0.45288571,
+          0.24245912,
+          0.46547857
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "日语平假名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.45217143,
+          0.27977954,
+          0.47017143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4739928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.45217143,
+          0.27977954,
+          0.47017143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese katakana",
+        "raw": "Japanese katakana",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33804347,
+          0.4536,
+          0.4538523,
+          0.46440714
+        ],
+        "mask_bbox": [
+          0.33671761,
+          0.45288571,
+          0.45517816,
+          0.46547857
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "日语片假名",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3001774,
+          0.45217143,
+          0.49306208,
+          0.47017143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4739928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.3001774,
+          0.45217143,
+          0.49306208,
+          0.47017143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b007",
+      "kind": "caption",
+      "source": {
+        "text": "English alphabet",
+        "raw": "English alphabet",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55956419,
+          0.4536,
+          0.66158406,
+          0.46440714
+        ],
+        "mask_bbox": [
+          0.55823833,
+          0.45288571,
+          0.66290993,
+          0.46547857
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "英文字母",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.51345993,
+          0.45217143,
+          0.69946288,
+          0.47017143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4739928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.51345993,
+          0.45217143,
+          0.69946288,
+          0.47017143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Incidentally, it wasn't actually necessary to change the naming screen for the Japanese release. For technical, historical, and linguistic reasons, English-only naming screens are quite common in Japanese games. But because this naming screen is one of the first player interactions in Undertale, 8-4's team put the extra work into improving the user interface.",
+        "raw": "Incidentally, it wasn't actually necessary to change the naming screen for the\nJapanese release. For technical, historical, and linguistic reasons, English-only\nnaming screens are quite common in Japanese games. But because this naming\nscreen is one of the first player interactions in Undertale, 8-4's team put the\nextra work into improving the user interface.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09033191,
+          0.48113571,
+          0.69946288,
+          0.56625
+        ],
+        "mask_bbox": [
+          0.08829212,
+          0.48042143,
+          0.70150267,
+          0.56732143
+        ],
+        "line_ids": [
+          31,
+          32,
+          33,
+          36,
+          38
+        ]
+      },
+      "translation": {
+        "text": "其实日语版并非非改不可。出于技术、历史与语言方面的原因，只能输入英语的取名界面在日本游戏中很常见。但取名是玩家与 Undertale 最早的交互之一，8-4 团队因此额外投入精力，改善操作界面。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 57,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.47970714,
+          0.69946288,
+          0.56982143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5829214328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.47970714,
+          0.69946288,
+          0.56982143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese games have long included English only naming screens",
+        "raw": "Japanese games have\nlong included English\nonly naming screens",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73001887,
+          0.51861429,
+          0.86604198,
+          0.56009286
+        ],
+        "mask_bbox": [
+          0.72869301,
+          0.5179,
+          0.86736784,
+          0.56116429
+        ],
+        "line_ids": [
+          34,
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "日本游戏中只有英语可用的取名界面，早已存在多年。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73001887,
+          0.51718571,
+          0.86604198,
+          0.56366429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6122142828571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73001887,
+          0.51718571,
+          0.86604198,
+          0.56366429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b010",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Dog Poetry",
+        "raw": "Japanese Dog Poetry",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09083165,
+          0.59006429,
+          0.30913971,
+          0.6034
+        ],
+        "mask_bbox": [
+          0.08950579,
+          0.58935,
+          0.31046557,
+          0.60447143
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "日语狗狗诗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.58014286,
+          0.69946288,
+          0.60428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6042857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.58014286,
+          0.69946288,
+          0.60428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 850.0
+    },
+    {
+      "id": "p0079-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's option menu contains things you'd expect: screen size options, language options, controller options, and more. But the option menu also features a unique theme and text quote for each season of the year.",
+        "raw": "Underta/e's option menu contains things you'd expect: screen size options,\nlanguage options, controller options, and more. But the option menu also\nfeatures a unique theme and text quote for each season of the year.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0913314,
+          0.74694286,
+          0.66310371,
+          0.79635
+        ],
+        "mask_bbox": [
+          0.08829212,
+          0.74622857,
+          0.70150267,
+          0.79742143
+        ],
+        "line_ids": [
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的选项菜单，有画面大小、语言、控制器等预料之中的设置，但还会随一年四季改变主题，并显示独特的文字。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.74551429,
+          0.69946288,
+          0.79992143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.74551429,
+          0.69946288,
+          0.79992143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, these seasonal quotes feel like short, silly sentences and mini poems. With that in mind, the translator localized the quotes as funny haiku poems while retaining the meaning of the original English quotes. Because haiku poems traditionally include references to seasons and nature, this localization choice turned out to be a natural fit for the Japanese release.",
+        "raw": "In English, these seasonal quotes feel like short, silly sentences and mini\npoems. With that in mind, the translator localized the quotes as funny haiku\npoems while retaining the meaning of the original English quotes. Because\nhaiku poems traditionally include references to seasons and nature, this\nlocalization choice turned out to be a natural fit for the Japanese release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09124981,
+          0.81127857,
+          0.6764439,
+          0.89707143
+        ],
+        "mask_bbox": [
+          0.08829212,
+          0.81056429,
+          0.70150267,
+          0.89814286
+        ],
+        "line_ids": [
+          50,
+          51,
+          52,
+          53,
+          54
+        ]
+      },
+      "translation": {
+        "text": "英语里的季节短句，像简短、傻乎乎的句子和小诗。译者便保留原意，将它们改编成有趣的俳句。俳句传统上包含季节与自然意象，因此这种处理很适合日语版。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09124981,
+          0.80985,
+          0.69946288,
+          0.90064286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0079-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09124981,
+          0.80985,
+          0.69946288,
+          0.90064286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Reader Challenge #1: Read the dog's English text out loud, in a dog voice, but in a way that gives it a 5-7-5 syllable haiku pattern'",
+        "raw": "Reader Challenge #1:\nRead the dog's English\ntext out loud, in a dog\nvoice, but in a way that\ngives it a 5-7-5 syllable\nhaiku pattern'",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73001887,
+          0.61935714,
+          0.87466007,
+          0.70831429
+        ],
+        "mask_bbox": [
+          0.72869301,
+          0.61864286,
+          0.87598593,
+          0.70938571
+        ],
+        "line_ids": [
+          40,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "读者挑战1：用狗狗的声音，大声念出图中的英语，让它形成五—七—五音节的俳句节奏！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73001887,
+          0.61792857,
+          0.87466007,
+          0.71188571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73001887,
+          0.61792857,
+          0.87466007,
+          0.71188571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0079-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Starting the Game",
+        "raw": "Starting the Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.56647906,
+          0.93488571,
+          0.70302231,
+          0.94457143
+        ],
+        "mask_bbox": [
+          0.5651532,
+          0.93417143,
+          0.70434817,
+          0.94564286
+        ],
+        "line_ids": [
+          55
+        ]
+      },
+      "translation": {
+        "text": "开始游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.56647906,
+          0.93345714,
+          0.70302231,
+          0.95145714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9514571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.56647906,
+          0.93345714,
+          0.70302231,
+          0.95145714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Starting the Game",
+        "chapter_id": "chapter-72"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "fd6cafbb60831fe83b5c1c581efc88b467022eba8076f8e947153c293b1f8957"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          4
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      89.47,
+      685.82
+    ],
+    "text_runs": [
+      {
+        "id": "p0079-b011",
+        "blocks": [
+          "p0079-b011",
+          "p0079-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

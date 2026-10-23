@@ -1,0 +1,1206 @@
+{
+  "schema_version": 3,
+  "pdf_page": 41,
+  "printed_page": "41",
+  "title": "早期创作",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.120402+00:00",
+  "reference_size": [
+    982.662851,
+    1400
+  ],
+  "physical_size_pt": [
+    500.4,
+    712.92
+  ],
+  "image_url": "/assets/p0041.jpg",
+  "image_sha256": "0f1624ebfe41a569c37f27faba2f80d39e2b6430b2f272cdf68ae5348f4b0a38",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0041/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0041-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Early 2000s:",
+        "raw": "Early 2000s:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09838573,
+          0.06886429,
+          0.21947507,
+          0.08219286
+        ],
+        "mask_bbox": [
+          0.09706279,
+          0.06815,
+          0.22079801,
+          0.08326429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "21世纪初：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09674732,
+          0.06019286,
+          0.70572526,
+          0.08433572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08433571714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09674732,
+          0.06019286,
+          0.70572526,
+          0.08433572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0041-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby's fondness for RPGs leads him to tools like RPG Maker, which allow users to create their own games without any programming knowledge. While in middle school, he begins creating his own small RPGs inspired by his favorite games. Most of his early projects are never finished, but he learns firsthand just how difficult it is to create large-scale games.",
+        "raw": "Toby's fondness for RPGs leads him to tools like RPG Maker, which allow users\nto create their own games without any programming knowledge. While in\nmiddle school, he begins creating his own small RPGs inspired by his favorite\ngames. Most of his early projects are never finished, but he learns firsthand just\nhow difficult it is to create large-scale games.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09674732,
+          0.09312143,
+          0.70572526,
+          0.17702857
+        ],
+        "mask_bbox": [
+          0.09471204,
+          0.09240714,
+          0.70776055,
+          0.1781
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "对角色扮演游戏的喜爱，让 Toby 接触到 RPG Maker 之类的工具，即使不懂编程，也能制作游戏。中学时，他受自己喜爱的作品启发，开始制作小型角色扮演游戏。早期项目大多没能完成，却让他亲身体会到做大型游戏有多难。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 22,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09674732,
+          0.09169286,
+          0.70572526,
+          0.1806
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.18714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09674732,
+          0.09169286,
+          0.70572526,
+          0.1806
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0041-b003",
+      "kind": "caption",
+      "source": {
+        "text": "RPG Maker's easy to-use tools made game development accessible to the average person, and fostered a whole new generation of game developers",
+        "raw": "RPG Maker's easy\nto-use tools made\ngame development\naccessible to the\naverage person, and\nfostered a whole new\ngeneration of game\ndevelopers",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7346365,
+          0.19342143,
+          0.86841586,
+          0.31257857
+        ],
+        "mask_bbox": [
+          0.73331357,
+          0.19270714,
+          0.86973879,
+          0.31365
+        ],
+        "line_ids": [
+          7,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "RPG Maker 易用的工具让普通人也能开发游戏，带出新一代游戏开发者。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7346365,
+          0.19199286,
+          0.86841586,
+          0.31615
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5435571428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7346365,
+          0.19199286,
+          0.86841586,
+          0.31615
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0041-b004",
+      "kind": "caption",
+      "source": {
+        "text": "According to Toby, his early creations made heavy use of RPG Maker's pre-made, default assets to create games that looked something like these mock-up screenshots",
+        "raw": "According to Toby, his\nearly creations made\nheavy use of RPG\nMaker's pre-made,\ndefault assets to create\ngames that looked\nsomething like these\nmock-up screenshots",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73478915,
+          0.5507,
+          0.87872458,
+          0.66977143
+        ],
+        "mask_bbox": [
+          0.73346621,
+          0.54998571,
+          0.88004751,
+          0.67084286
+        ],
+        "line_ids": [
+          24,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "据 Toby 说，他早期大量使用 RPG Maker 自带的默认素材，作品看起来大致像这些模拟截图。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73478915,
+          0.54927143,
+          0.87872458,
+          0.67334286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7270285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73478915,
+          0.54927143,
+          0.87872458,
+          0.67334286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0041-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Toby became a fan of Japanese bullet hell games after discovering the popular but Japanese-only Touhou series",
+        "raw": "T o b y b e c a m e a f a n\no f J a p a n e s e b u l l e t\nh e l l g a m e s a f t e r\nd i s c o v e r i n g t h e\np o p u l a r b u t J a p a n e se\no n l y T o u h o u s e r i e s",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73517585,
+          0.73417143,
+          0.86844638,
+          0.82231429
+        ],
+        "mask_bbox": [
+          0.73385292,
+          0.73345714,
+          0.86976932,
+          0.82338571
+        ],
+        "line_ids": [
+          42,
+          54,
+          70,
+          79,
+          89,
+          101
+        ]
+      },
+      "translation": {
+        "text": "发现热门、却只有日语版的 Touhou（东方）系列后，Toby 成了日式弹幕游戏爱好者。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73517585,
+          0.73274286,
+          0.86844638,
+          0.82588571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73517585,
+          0.73274286,
+          0.86844638,
+          0.82588571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0041-b006",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65629834,
+          0.93906429,
+          0.70874766,
+          0.9486
+        ],
+        "mask_bbox": [
+          0.65497541,
+          0.93835,
+          0.7100706,
+          0.94967143
+        ],
+        "line_ids": [
+          150
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65629834,
+          0.93763571,
+          0.70874766,
+          0.95563571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9556357142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65629834,
+          0.93763571,
+          0.70874766,
+          0.95563571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1d76d03c41663eebadbc93703ddd4454dcc5edcf5abe5c5d6057335b28422ca2"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          69
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          73
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          75
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          76
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          77
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          78
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          80
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          81
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          82
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          83
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          84
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          85
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          86
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          87
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          88
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          90
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          91
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          92
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          93
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          94
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          95
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          96
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          97
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          98
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          99
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          100
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          102
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          103
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          104
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          105
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          106
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          107
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          108
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          109
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          110
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          111
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          112
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          113
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          114
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          115
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          116
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          117
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          118
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          119
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          120
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          121
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          122
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          123
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          124
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          125
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          126
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          127
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          128
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          129
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          130
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          131
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          132
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          133
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          134
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          135
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          136
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          137
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          138
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          139
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          140
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          141
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          142
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          143
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          144
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          145
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          146
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          147
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          148
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          149
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.07,
+      693.49
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,934 @@
+{
+  "schema_version": 3,
+  "pdf_page": 218,
+  "printed_page": "218",
+  "title": "骑士与晚安",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    985.654433,
+    1400
+  ],
+  "physical_size_pt": [
+    504.12,
+    716.04
+  ],
+  "image_url": "/assets/p0218.jpg",
+  "image_sha256": "ba6d0772e4694cde87c36a64988ecbc4bd28176c28d3cd4a5c338591418a9290",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0218/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0218-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Midknight Hour",
+        "raw": "Midknight Hour",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29377436,
+          0.06387857,
+          0.45705674,
+          0.07756429
+        ],
+        "mask_bbox": [
+          0.29245544,
+          0.06316429,
+          0.45837566,
+          0.07863571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "骑士与晚安",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29385552,
+          0.05442857,
+          0.89016999,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29385552,
+          0.05442857,
+          0.89016999,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114.0
+    },
+    {
+      "id": "p0218-b002",
+      "kind": "aside",
+      "source": {
+        "text": "On a side note, Knight ~ Knight sometimes says \"adieu\" in the English game, which became \"adios\" in the Japanese script",
+        "raw": "On a side note, Knight ~\nKnight sometimes says\n\"adieu\" in the English\ngame, which became\n\"adios\" in the\nJapanese script",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12584532,
+          0.09403571,
+          0.28280703,
+          0.18152857
+        ],
+        "mask_bbox": [
+          0.1245264,
+          0.09332143,
+          0.28412595,
+          0.1826
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "顺便说一句，Knight Knight 在英文版有时说“adieu”（法语“再见”），日文版改成了“adios”（西班牙语“再见”）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11667375,
+          0.09260714,
+          0.28280703,
+          0.1851
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3955785728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11667375,
+          0.09260714,
+          0.28280703,
+          0.1851
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A sleep-themed monster named \"Knight Knight\" appears in the Core. This name is a play on the phrase \"night-night\", which is a common way of saying \"good night\" to children.",
+        "raw": "A sleep-themed monster named \"Knight Knight\" appears in the Core. This\nname is a play on the phrase \"night-night\", which is a common way of saying\n\"good night\" to children.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28673335,
+          0.23807143,
+          0.87838087,
+          0.28722143
+        ],
+        "mask_bbox": [
+          0.28470424,
+          0.23735714,
+          0.8921991,
+          0.28829286
+        ],
+        "line_ids": [
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "核心里有一个以睡眠为主题的怪物，名叫 Knight Knight。这个名字用 knight（骑士）谐音 night，模仿英语中常对孩子说的“night-night”（晚安）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28673335,
+          0.23642857,
+          0.8958515,
+          0.35714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35714285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28673335,
+          0.23642857,
+          0.8958515,
+          0.35714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "knight-commentary"
+    },
+    {
+      "id": "p0218-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "While the English phrase \"night-night\" isn't well known in Japan, the English phrase \"good night\" has been absorbed into the Japanese language. Because of this, the translator renamed the monster \"Good Knight\" in Japanese.",
+        "raw": "While the English phrase \"night-night\" isn't well known in Japan, the English\nphrase \"good night\" has been absorbed into the Japanese language. Because of\nthis, the translator renamed the monster \"Good Knight\" in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29272937,
+          0.30241429,
+          0.89016999,
+          0.35091429
+        ],
+        "mask_bbox": [
+          0.28470424,
+          0.3017,
+          0.8921991,
+          0.35198571
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "日本人不太熟悉 night-night，但英语 good night 已成为日语借用的说法。因此，译者把这个怪物改名为“Good Knight”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28673335,
+          0.30142857,
+          0.8958515,
+          0.35714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35714285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0218-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.28673335,
+          0.30142857,
+          0.8958515,
+          0.35714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "knight-commentary"
+    },
+    {
+      "id": "p0218-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Not Losing It",
+        "raw": "Not Losing It",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29470775,
+          0.37392857,
+          0.42749262,
+          0.38761429
+        ],
+        "mask_bbox": [
+          0.29338883,
+          0.37321429,
+          0.42881154,
+          0.38868571
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "不让引用迷路",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29385552,
+          0.36442857,
+          0.89016999,
+          0.38857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29385552,
+          0.36442857,
+          0.89016999,
+          0.38857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 548.0
+    },
+    {
+      "id": "p0218-b006",
+      "kind": "aside",
+      "source": {
+        "text": "As a translator, my ~ internal \"this is probably a reference to something\" sense activates when I run across lone, carefully crafted lines like this",
+        "raw": "As a translator, my ~\ninternal \"this is\nprobably a reference\nto something\" sense\nactivates when I run\nacross lone, carefully\ncrafted lines like this",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13839536,
+          0.40272143,
+          0.28423755,
+          0.50665
+        ],
+        "mask_bbox": [
+          0.13707644,
+          0.40200714,
+          0.28555647,
+          0.50772143
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          28
+        ]
+      },
+      "translation": {
+        "text": "作为译者，每逢这种独立出现、措辞精心的句子，我内心“这大概在引用什么”的直觉就会启动。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11667375,
+          0.40129286,
+          0.28423755,
+          0.51022143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7066214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11667375,
+          0.40129286,
+          0.28423755,
+          0.51022143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, a sign in the Core taunts the player with the message:",
+        "raw": "In the English script, a sign in the Core taunts the player with the message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29457586,
+          0.54742857,
+          0.86470468,
+          0.55971429
+        ],
+        "mask_bbox": [
+          0.28470424,
+          0.54671429,
+          0.8921991,
+          0.56078571
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "英语剧本中，核心的一块牌子用下面的话嘲弄玩家：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29385552,
+          0.546,
+          0.89016999,
+          0.56814286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29385552,
+          0.546,
+          0.89016999,
+          0.56814286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b008",
+      "kind": "quote",
+      "source": {
+        "text": "(Get lost. .. ) (And stay that way.)",
+        "raw": "(Get lost. .. )\n(And stay that way.)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33910465,
+          0.57502143,
+          0.48906593,
+          0.60560714
+        ],
+        "mask_bbox": [
+          0.33778573,
+          0.57430714,
+          0.49038485,
+          0.60667857
+        ],
+        "line_ids": [
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "（迷路去吧……）\n（永远别找回来。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33910465,
+          0.57359286,
+          0.89016999,
+          0.60917857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0218-b007",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33910465,
+          0.57359286,
+          0.89016999,
+          0.60917857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this is another direct quote from the English version of Brandish. With this obscure information in hand, the translator looked up the original Japanese Brandish quote, which translates as:",
+        "raw": "Toby noted that this is another direct quote from the English version of\nBrandish. With this obscure information in hand, the translator looked up the\noriginal Japanese Brandish quote, which translates as:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29385552,
+          0.62082857,
+          0.88315942,
+          0.66898571
+        ],
+        "mask_bbox": [
+          0.28470424,
+          0.62011429,
+          0.8921991,
+          0.67005714
+        ],
+        "line_ids": [
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，这又是直接引用英文版《Brandish》。掌握这条冷门线索后，译者找出了它的日文原句，大意是：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29385552,
+          0.6194,
+          0.89016999,
+          0.67255714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0218-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29385552,
+          0.6194,
+          0.89016999,
+          0.67255714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b010",
+      "kind": "quote",
+      "source": {
+        "text": "(May you wander continuously.)",
+        "raw": "(May you wander continuously.)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33954091,
+          0.68497143,
+          0.57820467,
+          0.69712143
+        ],
+        "mask_bbox": [
+          0.33822199,
+          0.68425714,
+          0.57952359,
+          0.69819286
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "（你就一直徘徊下去吧。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33954091,
+          0.68354286,
+          0.89016999,
+          0.70413214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0218-b009",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33954091,
+          0.68354286,
+          0.89016999,
+          0.70413214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Random Life Tip: if ~ you lose something in your house, look in a 3-foot radius around where you normally expect it to be, it's likely there somewhere",
+        "raw": "Random Life Tip: if ~\nyou lose something\nin your house, look\nin a 3-foot radius\naround where you\nnormally expect it to\nbe, it's likely there\nsomewhere",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14206805,
+          0.71376429,
+          0.28519123,
+          0.83210714
+        ],
+        "mask_bbox": [
+          0.14074913,
+          0.71305,
+          0.28651015,
+          0.83317857
+        ],
+        "line_ids": [
+          38,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "随手生活小贴士：如果在家找不到东西，就在平时放它的位置周围三英尺（约一米）内找找，多半就在那里。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14206805,
+          0.71233571,
+          0.28519123,
+          0.83567857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.14206805,
+          0.71233571,
+          0.28519123,
+          0.83567857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0218-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Fortunately, this quote is consistent across the many Japanese versions of Brandish. This potentially makes it more recognizable than other Brandish references that were retained in Underta/e's Japanese script.",
+        "raw": "Fortunately, this quote is consistent across the many Japanese versions of\nBrandish. This potentially makes it more recognizable than other Brandish\nreferences that were retained in Underta/e's Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29480921,
+          0.84842857,
+          0.85973336,
+          0.89792143
+        ],
+        "mask_bbox": [
+          0.28470424,
+          0.84771429,
+          0.8921991,
+          0.89899286
+        ],
+        "line_ids": [
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "幸好，《Brandish》的多个日文版本都用了同一句话，因此这项引用可能比《Undertale》日版保留的其他《Brandish》引用更容易辨认。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 38,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 56,
+            "end": 64,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29385552,
+          0.847,
+          0.89016999,
+          0.90149286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29385552,
+          0.847,
+          0.89016999,
+          0.90149286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "026272b6693b3d000b1eba976c9d15ce9176eac6bed1a37abee603e43729a28e"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.64,
+      877.4
+    ],
+    "text_runs": [
+      {
+        "id": "p0218-b007",
+        "blocks": [
+          "p0218-b007",
+          "p0218-b008",
+          "p0218-b009",
+          "p0218-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 991.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

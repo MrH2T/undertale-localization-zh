@@ -1,0 +1,389 @@
+{
+  "schema_version": 3,
+  "pdf_page": 27,
+  "printed_page": "27",
+  "title": "标点、数字与语法",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    990.365112,
+    1400
+  ],
+  "physical_size_pt": [
+    502.2,
+    709.92
+  ],
+  "image_url": "/assets/p0027.jpg",
+  "image_sha256": "4d6a9d0da8c563c4fcb8b3ab5e31afd5d9dcea86376b4d3f08c1d6fa24efb6f3",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0027/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0027-b001",
+      "kind": "caption",
+      "source": {
+        "text": "In Japanese, quotation marks and similar characters are often used for emphasis. In English, however, such quotation marks often indicate sarcasm and/or dishonesty",
+        "raw": "In Japanese, quotation\nmarks and similar\ncharacters are often\nused for emphasis. In\nEnglish, however, such\nquotation marks often\nindicate sarcasm and/or\ndishonesty",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73293171,
+          0.07725714,
+          0.88097813,
+          0.19055
+        ],
+        "mask_bbox": [
+          0.73161907,
+          0.07654286,
+          0.88229077,
+          0.19162143
+        ],
+        "line_ids": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "日语常用引号及类似符号表示强调；英语里的这类引号却往往暗示讽刺，或所言不实。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73293171,
+          0.07582857,
+          0.88097813,
+          0.19412143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3260285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73293171,
+          0.07582857,
+          0.88097813,
+          0.19412143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0027-b002",
+      "kind": "caption",
+      "source": {
+        "text": "This bit of Japanese numberplay was left unlocalized for English-speaking players. Instead, a short translation note was added for clarification for those unfamiliar with Japanese (Game: Waku Waku Sweets)",
+        "raw": "This bit of Japanese\nnumberplay was\nleft unlocalized for\nEnglish-speaking\nplayers. Instead, a short\ntranslation note was\nadded for clarification\nfor those unfamiliar\nwith Japanese (Game:\nWaku Waku Sweets)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73301249,
+          0.33317143,
+          0.88253311,
+          0.48803571
+        ],
+        "mask_bbox": [
+          0.73169985,
+          0.33245714,
+          0.88384575,
+          0.48910714
+        ],
+        "line_ids": [
+          12,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "这个日语数字游戏没有为英语玩家改写，而是加了一条简短译注，向不懂日语的人说明。（游戏：Waku Waku Sweets）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73301249,
+          0.33174286,
+          0.88253311,
+          0.49160714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6052714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73301249,
+          0.33174286,
+          0.88253311,
+          0.49160714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0027-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Double-negatives are usually a no-no in proper English, but this same rule doesn't necessarily apply to other languages like Japanese. As a result, literal translations can end up breaking expected grammar rules (Game: Sword Art Online: Hollow Fragment)",
+        "raw": "Double-negatives are\nusually a no-no in\nproper English, but\nthis same rule doesn't\nnecessarily apply to\nother languages like\nJapanese. As a result,\nliteral translations\ncan end up breaking\nexpected grammar\nrules (Game: Sword\nArt Online: Hollow\nFragment)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73319424,
+          0.61241429,
+          0.87014374,
+          0.81082857
+        ],
+        "mask_bbox": [
+          0.7318816,
+          0.6117,
+          0.87145638,
+          0.8119
+        ],
+        "line_ids": [
+          26,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "规范英语通常不接受这样的双重否定，但这条规则不一定适用于日语等其他语言。因此，直译可能违反读者熟悉的语法规则。（游戏：Sword Art Online: Hollow Fragment）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73319424,
+          0.61098571,
+          0.87014374,
+          0.8144
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73319424,
+          0.61098571,
+          0.87014374,
+          0.8144
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0027-b004",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55340197,
+          0.93818571,
+          0.70853667,
+          0.94790714
+        ],
+        "mask_bbox": [
+          0.55208932,
+          0.93747143,
+          0.70984932,
+          0.94897857
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55340197,
+          0.93675714,
+          0.70853667,
+          0.95475714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.954757142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55340197,
+          0.93675714,
+          0.70853667,
+          0.95475714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "cff3bb2ccfb1540a0955d17a01479e9783040159ed6d04e74818776d6dfacca4"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

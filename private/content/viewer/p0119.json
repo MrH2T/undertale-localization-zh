@@ -1,0 +1,2021 @@
+{
+  "schema_version": 3,
+  "pdf_page": 119,
+  "printed_page": "119",
+  "title": "更多、更多的骷髅双关",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 4,
+  "updated_at": "2026-10-22T19:12:45.530513+00:00",
+  "reference_size": [
+    981.977135,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    713.76
+  ],
+  "image_url": "/assets/p0119.jpg",
+  "image_sha256": "dc5e642c9d8fced98e0a7e763fe1af8b8d61c0f3989e93b62f9c5e478e24bd18",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0119/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0119-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Yet Even More Skeleton Puns",
+        "raw": "Yet Even More Skeleton Puns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09350523,
+          0.06475714,
+          0.39583406,
+          0.07848571
+        ],
+        "mask_bbox": [
+          0.09218137,
+          0.06404286,
+          0.39715792,
+          0.07955714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "更多、更多的骷髅双关",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09691672,
+          0.05585714,
+          0.70764377,
+          0.08
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09691672,
+          0.05585714,
+          0.70764377,
+          0.08
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 116.0
+    },
+    {
+      "id": "p0119-b002",
+      "kind": "aside",
+      "source": {
+        "text": "If there's one thing you learn from this book, hopefully it's that it's hard to be \"humerus\" in a literal translation",
+        "raw": "If there's one thing\nyou learn from this\nbook, hopefully it's\nthat it's hard to be\n\"humerus\" in a literal\ntranslation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72549551,
+          0.09466429,
+          0.86053939,
+          0.18167143
+        ],
+        "mask_bbox": [
+          0.72417165,
+          0.09395,
+          0.86186324,
+          0.18274286
+        ],
+        "line_ids": [
+          3,
+          5,
+          7,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "希望你能从本书学到：直译很难“幽默”。这里用 humerus（肱骨），谐音 humorous（幽默）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73117792,
+          0.09428571,
+          0.88596768,
+          0.21857143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.21857142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73117792,
+          0.09428571,
+          0.88596768,
+          0.21857143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0119-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Skeleton jokes begin to flow freely in the English script. Most of these jokes would be lost in a straightforward translation into Japanese, so the translator replaced many of them with jokes that work in Japanese. Examples include:",
+        "raw": "Skeleton jokes begin to flow freely in the English script. Most of these jokes\nwould be lost in a straightforward translation into Japanese, so the translator\nreplaced many of them with jokes that work in Japanese. Examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.095379,
+          0.23152857,
+          0.68561678,
+          0.27817143
+        ],
+        "mask_bbox": [
+          0.0933423,
+          0.23081429,
+          0.70968048,
+          0.27924286
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "英文剧本的骷髅笑话越来越多。多数直译成日语便失去笑点，因此译者将许多笑话换成了日语里也说得通的版本，例如：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.095379,
+          0.23142857,
+          0.70764377,
+          0.28571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.095379,
+          0.23142857,
+          0.70764377,
+          0.28571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0119-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "Original English Pun",
+        "raw": "Original English Pun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11435093,
+          0.30773571,
+          0.26776591,
+          0.31992857
+        ],
+        "mask_bbox": [
+          0.11302707,
+          0.30702143,
+          0.26908977,
+          0.321
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "英文笑话（释义）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.30285714,
+          0.38697439,
+          0.32642857
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.30285714,
+          0.38697439,
+          0.32642857
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Approximate Japanese Localization",
+        "raw": "Approximate Japanese Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41852298,
+          0.3074,
+          0.68483265,
+          0.31959286
+        ],
+        "mask_bbox": [
+          0.41719912,
+          0.30668571,
+          0.68615651,
+          0.32066429
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "日版笑话（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.30285714,
+          0.69146213,
+          0.32642857
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3264285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.30285714,
+          0.69146213,
+          0.32642857
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "hey, take it easy. i've gotten a ton of work done today. a skele-ton.",
+        "raw": "hey, take it easy. i've gotten a ton of\nwork done today. a skele-ton.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1145546,
+          0.33912857,
+          0.37409221,
+          0.36492143
+        ],
+        "mask_bbox": [
+          0.11323074,
+          0.33841429,
+          0.37541607,
+          0.36599286
+        ],
+        "line_ids": [
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "放松，我今天干了好多活：\na skele-ton！\n（skeleton 骷髅；a ton 一大堆）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.33285714,
+          0.38697439,
+          0.38357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38357142857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.33285714,
+          0.38697439,
+          0.38357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "despite how it looks, work is going ton-ton [swimmingly] for me. a skele- ton amount.",
+        "raw": "despite how it looks, work is going\nton-ton [swimmingly] for me. a skele-\nton amount.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41882849,
+          0.33912857,
+          0.68519925,
+          0.37905714
+        ],
+        "mask_bbox": [
+          0.41750463,
+          0.33841429,
+          0.68652311,
+          0.38012857
+        ],
+        "line_ids": [
+          18,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "别看这样，工作可顺利了：\nton-ton（顺利），skele-ton！\n（skeleton：骷髅）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.33285714,
+          0.69146213,
+          0.38357143
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.38357142857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.33285714,
+          0.69146213,
+          0.38357143
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "wow, sounds like you're really work- ing yourself... down to the bone.",
+        "raw": "wow, sounds like you're really work-\ning yourself... down to the bone.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1145546,
+          0.39560714,
+          0.37337937,
+          0.4221
+        ],
+        "mask_bbox": [
+          0.11323074,
+          0.39489286,
+          0.37470323,
+          0.42317143
+        ],
+        "line_ids": [
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "哇，看来你真是干到骨头了！\n（down to the bone：累透了）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.38928571,
+          0.38697439,
+          0.42714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.38928571,
+          0.38697439,
+          0.42714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "just chill and rest your weary ... bones.",
+        "raw": "just chill and rest your weary ... bones.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41936822,
+          0.39560714,
+          0.68859037,
+          0.40695714
+        ],
+        "mask_bbox": [
+          0.41804436,
+          0.39489286,
+          0.68991423,
+          0.40802857
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "放松点，让你疲惫的……\n骨头歇歇。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.38928571,
+          0.69146213,
+          0.42714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.42714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.38928571,
+          0.69146213,
+          0.42714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "As for your work? Put a little more ... \"backbone\" into it!!! 1",
+        "raw": "As for your work? Put a little more ...\n\"backbone\" into it!!! 1",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10852595,
+          0.43899286,
+          0.37331826,
+          0.46513571
+        ],
+        "mask_bbox": [
+          0.10720209,
+          0.43827857,
+          0.37464212,
+          0.46620714
+        ],
+        "line_ids": [
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "工作时拿出点 backbone！！！\n（骨气／脊梁骨）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.43285714,
+          0.38697439,
+          0.47
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.43285714,
+          0.38697439,
+          0.47
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Ugh .. You're really lazy down to the marrow of your bones!",
+        "raw": "Ugh .. You're really lazy down to the\nmarrow of your bones!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42038657,
+          0.43899286,
+          0.68076942,
+          0.46513571
+        ],
+        "mask_bbox": [
+          0.41906271,
+          0.43827857,
+          0.68209328,
+          0.46620714
+        ],
+        "line_ids": [
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "唉……你真是懒到骨髓里了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.43285714,
+          0.69146213,
+          0.47
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.43285714,
+          0.69146213,
+          0.47
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Sans! You are not helping!! You lazybones!",
+        "raw": "Sans! You are not helping!! You\nlazybones!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11474809,
+          0.48203571,
+          0.33947837,
+          0.50817857
+        ],
+        "mask_bbox": [
+          0.11342423,
+          0.48132143,
+          0.34080223,
+          0.50925
+        ],
+        "line_ids": [
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Sans！你没帮忙！懒骨头！\n（lazybones：懒人）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.47571429,
+          0.38697439,
+          0.51285714
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5128571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.47571429,
+          0.38697439,
+          0.51285714
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Hey, quit making stuff up! You rot- ten skeleton!",
+        "raw": "Hey, quit making stuff up! You rot-\nten skeleton!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41941913,
+          0.48168571,
+          0.67011744,
+          0.50817857
+        ],
+        "mask_bbox": [
+          0.41809527,
+          0.48097143,
+          0.6714413,
+          0.50925
+        ],
+        "line_ids": [
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "喂，别胡编！你这个烂骷髅！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.47571429,
+          0.69146213,
+          0.51285714
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5128571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.47571429,
+          0.69146213,
+          0.51285714
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "You are not a dork. You are more of a bonehead.",
+        "raw": "You are not a dork. You are more of\na bonehead.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11405561,
+          0.52506429,
+          0.37025302,
+          0.55154286
+        ],
+        "mask_bbox": [
+          0.11273175,
+          0.52435,
+          0.37157688,
+          0.55261429
+        ],
+        "line_ids": [
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "你不是呆子，是 bonehead。\n（笨蛋／字面“骨头脑袋”）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.51857143,
+          0.38697439,
+          0.55642857
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5564285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.51857143,
+          0.38697439,
+          0.55642857
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "You are not stupid. Your head is simply empty.",
+        "raw": "You are not stupid. Your head is\nsimply empty.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41894051,
+          0.52506429,
+          0.64586025,
+          0.55122143
+        ],
+        "mask_bbox": [
+          0.41761665,
+          0.52435,
+          0.64718411,
+          0.55229286
+        ],
+        "line_ids": [
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "你不笨，只是脑袋里空空的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.51857143,
+          0.69146213,
+          0.55642857
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5564285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.51857143,
+          0.69146213,
+          0.55642857
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table1"
+    },
+    {
+      "id": "p0119-b016",
+      "kind": "paragraph",
+      "source": {
+        "text": "Not every skeleton joke made the jump to Japanese, though - some jokes were reframed to work in a different way, while others were given straightforward translations to avoid sounding forced:",
+        "raw": "Not every skeleton joke made the jump to Japanese, though - some jokes were\nreframed to work in a different way, while others were given straightforward\ntranslations to avoid sounding forced:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09691672,
+          0.57818571,
+          0.69636041,
+          0.62586429
+        ],
+        "mask_bbox": [
+          0.0933423,
+          0.57747143,
+          0.70968048,
+          0.62693571
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "不过，并非每个骷髅笑话都保留到了日语版。有些换了角度，以另一种方式成立；还有些为避免牵强，便直接译出了意思：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.095379,
+          0.575,
+          0.70764377,
+          0.62142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6214285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.095379,
+          0.575,
+          0.70764377,
+          0.62142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0119-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "Original English Pun",
+        "raw": "Original English Pun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11530818,
+          0.65442143,
+          0.26872316,
+          0.66661429
+        ],
+        "mask_bbox": [
+          0.0967436,
+          0.62928571,
+          0.40021298,
+          0.65642857
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "英文笑话（释义）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.63357143,
+          0.38697439,
+          0.65357143
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6535714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.63357143,
+          0.38697439,
+          0.65357143
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "Approximate Japanese Localization",
+        "raw": "Approximate Japanese Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41945987,
+          0.65408571,
+          0.68627871,
+          0.66627857
+        ],
+        "mask_bbox": [
+          0.40224969,
+          0.62928571,
+          0.70470073,
+          0.65642857
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "日版笑话（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.63357143,
+          0.69146213,
+          0.65357143
+        ],
+        "font_size": 18,
+        "line_height": 1.444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6535714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.63357143,
+          0.69146213,
+          0.65357143
+        ],
+        "font_size": 18,
+        "leading": 25.999992000000002
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "don't sweat it, kid. I'll keep an eye- socket out for ya.",
+        "raw": "don't sweat it, kid. I'll keep an eye-\nsocket out for ya.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11530818,
+          0.68613571,
+          0.36403088,
+          0.71226429
+        ],
+        "mask_bbox": [
+          0.11398432,
+          0.68542143,
+          0.36535474,
+          0.71333571
+        ],
+        "line_ids": [
+          42,
+          44
+        ]
+      },
+      "translation": {
+        "text": "别担心，孩子。我会照看你。\n（keep an eye out：留意；\neye-socket：眼眶）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.66,
+          0.38697439,
+          0.70714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.66,
+          0.38697439,
+          0.70714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "don't worry, you'll be fine. you can count on me.",
+        "raw": "don't worry, you'll be fine. you can\ncount on me.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42026437,
+          0.68613571,
+          0.66750027,
+          0.71226429
+        ],
+        "mask_bbox": [
+          0.41894051,
+          0.68542143,
+          0.66882413,
+          0.71333571
+        ],
+        "line_ids": [
+          43,
+          45
+        ]
+      },
+      "translation": {
+        "text": "别担心，你会没事的。\n交给我吧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.66,
+          0.69146213,
+          0.70714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.66,
+          0.69146213,
+          0.70714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "There are no skeletons inside my closet!!! Except me sometimes.",
+        "raw": "There are no skeletons inside my\ncloset!!! Except me sometimes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1144324,
+          0.72882857,
+          0.34617914,
+          0.75463571
+        ],
+        "mask_bbox": [
+          0.11310854,
+          0.72811429,
+          0.347503,
+          0.75570714
+        ],
+        "line_ids": [
+          46,
+          48
+        ]
+      },
+      "translation": {
+        "text": "我衣柜里没骷髅！偶尔我在。\n（skeletons in the closet：\n不可告人的丑事）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.71285714,
+          0.38697439,
+          0.76
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.76,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.71285714,
+          0.38697439,
+          0.76
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "There are no monsters in the closet! Just me, sometimes!",
+        "raw": "There are no monsters in the closet!\nJust me, sometimes!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41932748,
+          0.72849286,
+          0.67377333,
+          0.75463571
+        ],
+        "mask_bbox": [
+          0.41800362,
+          0.72777857,
+          0.67509719,
+          0.75570714
+        ],
+        "line_ids": [
+          47,
+          49
+        ]
+      },
+      "translation": {
+        "text": "衣柜里没有怪物！\n偶尔只有我！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.71285714,
+          0.69146213,
+          0.76
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.76,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.71285714,
+          0.69146213,
+          0.76
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "So let's let bybones be bybones!",
+        "raw": "So let's let bybones be bybones!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11573589,
+          0.77186429,
+          0.34296114,
+          0.78321429
+        ],
+        "mask_bbox": [
+          0.11441203,
+          0.77115,
+          0.344285,
+          0.78428571
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "让 bybones 过去吧！\n（bygones 往事；bones 骨头）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.76571429,
+          0.38697439,
+          0.79714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.76571429,
+          0.38697439,
+          0.79714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "So let's make it all water under the bridge!",
+        "raw": "So let's make it all water under the\nbridge!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42062079,
+          0.77186429,
+          0.66829458,
+          0.79835714
+        ],
+        "mask_bbox": [
+          0.41929693,
+          0.77115,
+          0.66961844,
+          0.79942857
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "让一切都随流水过去吧！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.76571429,
+          0.69146213,
+          0.79714286
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7971428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.76571429,
+          0.69146213,
+          0.79714286
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "Frisk ... Take a hike. Hiking is good for your bones.",
+        "raw": "Frisk ... Take a hike. Hiking is good for\nyour bones.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11599048,
+          0.81492143,
+          0.38205574,
+          0.84106429
+        ],
+        "mask_bbox": [
+          0.11466662,
+          0.81420714,
+          0.3833796,
+          0.84213571
+        ],
+        "line_ids": [
+          53,
+          55
+        ]
+      },
+      "translation": {
+        "text": "Frisk……take a hike（走开）。\n远足对骨头有好处。\n（take a hike 也指去远足）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10998219,
+          0.80285714,
+          0.38697439,
+          0.85
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.85,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10998219,
+          0.80285714,
+          0.38697439,
+          0.85
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "Frisk ... Go get lost. I don't know where \"lost\" is, so go find it for yourself!",
+        "raw": "Frisk ... Go get lost. I don't know where\n\"lost\" is, so go find it for yourself!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.4143681,
+          0.81492143,
+          0.68704247,
+          0.84072857
+        ],
+        "mask_bbox": [
+          0.41304424,
+          0.81420714,
+          0.68836633,
+          0.8418
+        ],
+        "line_ids": [
+          54,
+          56
+        ]
+      },
+      "translation": {
+        "text": "Frisk……滚去迷路吧。\n我不知道“迷路”在哪儿，\n你自己找去！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41548829,
+          0.80285714,
+          0.69146213,
+          0.85
+        ],
+        "font_size": 17,
+        "line_height": 1.294118,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.85,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.41548829,
+          0.80285714,
+          0.69146213,
+          0.85
+        ],
+        "font_size": 17,
+        "leading": 22.000006000000003
+      },
+      "review_issues": [],
+      "region_id": "p0119-table2"
+    },
+    {
+      "id": "p0119-b027",
+      "kind": "paragraph",
+      "source": {
+        "text": "Not all skeleton puns needed to change, however. When Sans says \"bone apetit\" in English, for example, the same pun already works in Japanese too.",
+        "raw": "Not all skeleton puns needed to change, however. When Sans says \"bone apetit\"\nin English, for example, the same pun already works in Japanese too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09787397,
+          0.87208571,
+          0.70764377,
+          0.90192143
+        ],
+        "mask_bbox": [
+          0.0933423,
+          0.87137143,
+          0.70968048,
+          0.90299286
+        ],
+        "line_ids": [
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "并非所有骷髅双关都要改。比如 Sans 的 bone apetit（bone“骨头”＋bon appétit“祝好胃口”），在日语里也能成立。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.095379,
+          0.86428571,
+          0.70764377,
+          0.92714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9271428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.095379,
+          0.86428571,
+          0.70764377,
+          0.92714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0119-b028",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64319217,
+          0.93874286,
+          0.7069411,
+          0.94855
+        ],
+        "mask_bbox": [
+          0.64186831,
+          0.93802857,
+          0.70826496,
+          0.94962143
+        ],
+        "line_ids": [
+          59
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64319217,
+          0.93731429,
+          0.7069411,
+          0.95531429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9553142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64319217,
+          0.93731429,
+          0.7069411,
+          0.95531429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b3aa98810c80d68bcbe7818db3fc57ce89f5396afc9f6b8d03a91eaaa9d764fc"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          4,
+          6,
+          8,
+          60
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.17,
+      694.89
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "layout_review": {
+    "status": "targeted-draft-layout",
+    "reference": "layout-review-100-183.json",
+    "tables": "shared measured row frames; no automatic font shrinking",
+    "annotations": "disabled"
+  },
+  "erase_regions": [
+    {
+      "type": "rect",
+      "bbox": [
+        93,
+        879,
+        694,
+        1195
+      ],
+      "fill": "#ffffff"
+    }
+  ],
+  "vector_shapes": [
+    {
+      "type": "rect",
+      "bbox": [
+        94,
+        412,
+        693,
+        462
+      ],
+      "fill": "#414141"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        94,
+        880,
+        693,
+        920
+      ],
+      "fill": "#414141"
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          880
+        ],
+        [
+          94,
+          1194
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          394,
+          880
+        ],
+        [
+          394,
+          1194
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          693,
+          880
+        ],
+        [
+          693,
+          1194
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          880
+        ],
+        [
+          693,
+          880
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          920
+        ],
+        [
+          693,
+          920
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          994
+        ],
+        [
+          693,
+          994
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          1068
+        ],
+        [
+          693,
+          1068
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          1120
+        ],
+        [
+          693,
+          1120
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          94,
+          1194
+        ],
+        [
+          693,
+          1194
+        ]
+      ],
+      "stroke": "#7a7a7a",
+      "stroke_width": 0.8
+    }
+  ]
+}

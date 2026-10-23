@@ -1,0 +1,834 @@
+{
+  "schema_version": 3,
+  "pdf_page": 188,
+  "printed_page": "188",
+  "title": "Alphys 与 Mettaton 的说话方式",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    980.0,
+    1400
+  ],
+  "physical_size_pt": [
+    501.48,
+    716.4
+  ],
+  "image_url": "/assets/p0188.jpg",
+  "image_sha256": "50767ace71f09aa125fc7968b006e6b465619f8cb9fe693cadab33cb9eb832c1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0188/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0188-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Alphys Speaks",
+        "raw": "Alphys Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29147959,
+          0.06129286,
+          0.44062245,
+          0.07482857
+        ],
+        "mask_bbox": [
+          0.29015306,
+          0.06057857,
+          0.44194898,
+          0.0759
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Alphys 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.05282857,
+          0.89638776,
+          0.07697143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07697142714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.05282857,
+          0.89638776,
+          0.07697143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Alphys switches ~ between being confident and being out of her comfort zone, so Toby included many notes about how individual lines should \"feel\" to the player",
+        "raw": "Alphys switches ~\nbetween being\nconfident and being\nout of her comfort\nzone, so Toby included\nmany notes about how\nindividual lines should\n\"feel\" to the player",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12367347,
+          0.09095714,
+          0.28238776,
+          0.20992857
+        ],
+        "mask_bbox": [
+          0.12234694,
+          0.09024286,
+          0.28371429,
+          0.211
+        ],
+        "line_ids": [
+          2,
+          4,
+          7,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Alphys 时而自信，时而局促不安，所以 Toby 写了许多说明，交代每句台词应该给玩家什么“感觉”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11734694,
+          0.08952857,
+          0.28238776,
+          0.2135
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.23285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11734694,
+          0.08952857,
+          0.28238776,
+          0.2135
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, a scientist named Al phys comes across as smart and professional when it comes to her work, but becomes shy, nerdy, and insecure when holding a casual conversation. The translator conveyed these qualities in Japanese by giving Al phys a mixture of casual speech patterns and polite speech patterns that fit her character. Alphys also uses the polite and somewhat feminine pronoun watashi when referring to herself.",
+        "raw": "In the English script, a scientist named Al phys comes across as smart and\nprofessional when it comes to her work, but becomes shy, nerdy, and insecure\nwhen holding a casual conversation. The translator conveyed these qualities\nin Japanese by giving Al phys a mixture of casual speech patterns and\npolite speech patterns that fit her character. Alphys also uses the polite and\nsomewhat feminine pronoun watashi when referring to herself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29179592,
+          0.23560714,
+          0.88636735,
+          0.33968571
+        ],
+        "mask_bbox": [
+          0.2897551,
+          0.23489286,
+          0.89842857,
+          0.34075714
+        ],
+        "line_ids": [
+          16,
+          18,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "英文剧本中的科学家 Alphys 谈到工作时聪明而专业，闲聊时却害羞、宅气又不自信。译者把符合她性格的随意说法和礼貌说法混合起来，在日语中表现这些特点。Alphys 自称时还使用礼貌、略带女性色彩的代词 watashi（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 102,
+            "end": 109,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.23417857,
+          0.89638776,
+          0.34325714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5094071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.23417857,
+          0.89638776,
+          0.34325714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Early on, Toby noted that \"Alphys\" should be pronounced \"al-feez\", which he imagined would be spelled in Japanese as アルフィーズ (arufīzu). He also understood that this six-character name could cause problems with Papyrus’ vertical text box, which only comfortably allows five characters per line. Thus, per Toby’s personal suggestion, Alphys is now known as アルフィー (arufī, roughly: \"Alphy\") in the Japanese script. Naturally, this name change surprised early Japanese fans who were accustomed to seeing Alphys’ full name in the fan-made translations.",
+        "raw": "Early on, Toby noted that \"Alphys\" should be pronounced \"al-feez\", which\nhe imagined would be spelled in Japanese as 7 1v71- A' (arnfizu). He also\nunderstood that this six-character name could cause problems with Papyrus'\nvertical text box, which only comfortably allows five characters per line. Thus,\nper Toby's personal suggestion, Al phys is now known as 7 1v71- (arufi,\nroughly: \"Alphy\") in the Japanese script. Naturally, this name change surprised\nearly Japanese fans who were accustomed to seeing Al phys' full name in the\nfan-made translations.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29279592,
+          0.35418571,
+          0.89638776,
+          0.49345
+        ],
+        "mask_bbox": [
+          0.2897551,
+          0.35347143,
+          0.89842857,
+          0.49452143
+        ],
+        "line_ids": [
+          24,
+          27,
+          29,
+          31,
+          33,
+          35,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "Toby 很早就说明，“Alphys”应读作“al-feez”，他设想的日文写法是「アルフィーズ」（arufīzu）。他也明白，这个六字符的名字可能不适合 Papyrus 的竖排对话框，因为那里每行只能轻松容纳五个字符。因此，按照 Toby 本人的建议，日文剧本采用了「アルフィー」（arufī，大致相当于“Alphy”）。早期日本玩家已习惯民间译版中的完整名字，看到改名自然很吃惊。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 50,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 142,
+            "end": 147,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.35275714,
+          0.89638776,
+          0.49702143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5094071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0188-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.35275714,
+          0.89638776,
+          0.49702143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Alphys' name change had an unintended side effect: online searches for her Japanese name mostly bring up The Allee, a 1974 Japanese folk rock band",
+        "raw": "Alphys' name change\nhad an unintended side\neffect: online searches\nfor her Japanese name\nmostly bring up The\nAllee, a 1974 Japanese\nfolk rock band",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12126531,
+          0.35527857,
+          0.26595918,
+          0.45783571
+        ],
+        "mask_bbox": [
+          0.11993878,
+          0.35456429,
+          0.26728571,
+          0.45890714
+        ],
+        "line_ids": [
+          25,
+          26,
+          28,
+          30,
+          32,
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Alphys 改名还带来了意外后果：上网搜索她的日文名字，大多会搜到 1974 年成立的日本民谣摇滚乐队 The Alfee。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11734694,
+          0.35385,
+          0.26707653,
+          0.46140714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5391071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11734694,
+          0.35385,
+          0.26707653,
+          0.46140714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Mettaton Speaks",
+        "raw": "Mettaton Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29434694,
+          0.51655,
+          0.47078571,
+          0.53009286
+        ],
+        "mask_bbox": [
+          0.29302041,
+          0.51583571,
+          0.47211224,
+          0.53116429
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.50809286,
+          0.89638776,
+          0.53223572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5322357171428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.50809286,
+          0.89638776,
+          0.53223572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Mettaton usually uses the good-natured pronoun boku to refer to himself, but switches to the more feminine watashi when dressed up as a robot bride later on",
+        "raw": "Mettaton usually uses\nthe good-natured\npronoun boku to\nrefer to himself, but\nswitches to the more\nfeminine watashi\nwhen dressed up as a\nrobot bride later on",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13127551,
+          0.54625,
+          0.2682449,
+          0.66452143
+        ],
+        "mask_bbox": [
+          0.12994898,
+          0.54553571,
+          0.26957143,
+          0.66559286
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 通常用温和的 boku（我）自称；后来扮成机器人新娘时，则换成更有女性色彩的 watashi（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 48,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11734694,
+          0.54482143,
+          0.2682449,
+          0.66809286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8121428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11734694,
+          0.54482143,
+          0.2682449,
+          0.66809286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "A killer robot named Mettaton appears and repeatedly attempts to stop the main character in unusual ways. In English, Mettaton usually speaks like a game show host. He speaks similarly in Japanese, and usually uses the boyish pronoun boku to refer to himself.",
+        "raw": "A killer robot named Mettaton appears and repeatedly attempts to stop the\nmain character in unusual ways. In English, Mettaton usually speaks like a\ngame show host. He speaks similarly in Japanese, and usually uses the boyish\npronoun boku to refer to himself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29285714,
+          0.67245714,
+          0.88510204,
+          0.73968571
+        ],
+        "mask_bbox": [
+          0.2897551,
+          0.67174286,
+          0.89842857,
+          0.74075714
+        ],
+        "line_ids": [
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "杀人机器人 Mettaton 登场后，不断用奇怪的方式阻拦主角。在英语中，他通常像电视游戏节目的主持人一样说话。日语也保留了这种风格，通常用带有少年气的 boku自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 77,
+            "end": 81,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.67102857,
+          0.89638776,
+          0.74325714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.67102857,
+          0.89638776,
+          0.74325714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton's catchphrase in English is \"OHHHH YES!!\", and he often refers to the main character as \"Darling''. In the Japanese script, he still says \"OHHHH YES'!\" in English and calls the main character koneko-chan (\"kitten\").",
+        "raw": "Mettaton's catchphrase in English is \"OHHHH YES!!\", and he often refers to\nthe main character as \"Darling''. In the Japanese script, he still says \"OHHHH\nYES'!\" in English and calls the main character koneko-chan (\"kitten\").",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29237755,
+          0.75418571,
+          0.89222449,
+          0.803
+        ],
+        "mask_bbox": [
+          0.2897551,
+          0.75347143,
+          0.89842857,
+          0.80407143
+        ],
+        "line_ids": [
+          52,
+          53,
+          54
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 的英语口头禅是“OHHHH YES!!”（噢——没错！！），还常称主角为“Darling”（亲爱的）。日文剧本中，他仍用英语说“OHHHH YES!!”，但把主角叫作 koneko-chan（小猫咪）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 93,
+            "end": 104,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29258673,
+          0.75275714,
+          0.89638776,
+          0.80657143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0188-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29258673,
+          0.75275714,
+          0.89638776,
+          0.80657143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0188-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Mettaton's catchphrase ~ is unchanged in Japanese, but was never simply copy-and-pasted during translation",
+        "raw": "Mettaton's catchphrase ~\nis unchanged in\nJapanese, but was never\nsimply copy-and-pasted\nduring translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11761224,
+          0.81928571,
+          0.2852551,
+          0.89167143
+        ],
+        "mask_bbox": [
+          0.11628571,
+          0.81857143,
+          0.28658163,
+          0.89274286
+        ],
+        "line_ids": [
+          55,
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 的口头禅在日文版中没有变，但翻译时并不是直接复制粘贴过去的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11761224,
+          0.81785714,
+          0.2852551,
+          0.89524286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11761224,
+          0.81785714,
+          0.2852551,
+          0.89524286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "36cbf4e757a7e73c6837ea88b63f0de5c8144507c0e9dd0b33dbfc3c502efe3e"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.74,
+      878.46
+    ],
+    "text_runs": [
+      {
+        "id": "p0188-b003",
+        "blocks": [
+          "p0188-b003",
+          "p0188-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 713.17
+      },
+      {
+        "id": "p0188-b008",
+        "blocks": [
+          "p0188-b008",
+          "p0188-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1140.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

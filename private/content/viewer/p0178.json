@@ -1,0 +1,767 @@
+{
+  "schema_version": 3,
+  "pdf_page": 178,
+  "printed_page": "178",
+  "title": "Undyne 的说话方式",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.250501+00:00",
+  "reference_size": [
+    976.936027,
+    1400
+  ],
+  "physical_size_pt": [
+    497.4,
+    712.8
+  ],
+  "image_url": "/assets/p0178.jpg",
+  "image_sha256": "0292d1c3f3d83f91d3288facfbb749fc2ffd7d9ece77f8d44caae46f660038f1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0178/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0178-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Undyne Speaks",
+        "raw": "Undyne Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29680551,
+          0.06552143,
+          0.45582309,
+          0.07842857
+        ],
+        "mask_bbox": [
+          0.29547482,
+          0.06480714,
+          0.45715378,
+          0.0795
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Undyne 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.05514286,
+          0.90925094,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.05514286,
+          0.90925094,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0178-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Undyne uses the mostly neutral personal pronoun わたし (watashi) in Japanese",
+        "raw": "Undyne uses the\nmostly neutral personal\npronoun btc: L.,\n(watashi) in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.12178894,
+          0.09377857,
+          0.26939328,
+          0.15105714
+        ],
+        "mask_bbox": [
+          0.12045825,
+          0.09306429,
+          0.27072397,
+          0.15212857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "日语版中，Undyne 用比较中性的人称代词“わたし”（watashi，我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11771498,
+          0.09235,
+          0.27193183,
+          0.15462857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.46171428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11771498,
+          0.09235,
+          0.27193183,
+          0.15462857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "An intimidating knight named Undyne first appears in Waterfall. She loathes the main character at first, but the player can change her attitude over time. As such, Undyne sounds scary and ferocious in some situations, polite and friendly in others, and sometimes all of these things at once. Luckily, Toby provided many notes about Undyne's constant attitude changes.",
+        "raw": "An intimidating knight named Undyne first appears in Waterfall. She loathes\nthe main character at first, but the player can change her attitude over time.\nAs such, Undyne sounds scary and ferocious in some situations, polite and\nfriendly in others, and sometimes all of these things at once. Luckily, Toby\nprovided many notes about Undyne's constant attitude changes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29476853,
+          0.23029286,
+          0.88679297,
+          0.31481429
+        ],
+        "mask_bbox": [
+          0.29272132,
+          0.22957857,
+          0.91129816,
+          0.31588571
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "令人畏惧的骑士 Undyne 首次登场于瀑布。起初她厌恶主角，但玩家可以逐渐改变她的态度。因此，Undyne 有时凶狠可怕，有时礼貌友好，有时甚至兼而有之。幸好，Toby 对她不断变化的态度留下了许多说明。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.22886429,
+          0.90925094,
+          0.31838571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4635714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.22886429,
+          0.90925094,
+          0.31838571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, Undyne uses the pronoun watashi. This suits her in several ways:",
+        "raw": "In Japanese, Undyne uses the pronoun watashi. This suits her in several ways:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29710236,
+          0.33029286,
+          0.90006917,
+          0.34277857
+        ],
+        "mask_bbox": [
+          0.29272132,
+          0.32957857,
+          0.91129816,
+          0.34385
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "日语中，Undyne 使用 watashi（我）自称，在几个方面都很合适：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.32886429,
+          0.90925094,
+          0.35100714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4635714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0178-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.32886429,
+          0.90925094,
+          0.35100714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b005",
+      "kind": "quote",
+      "source": {
+        "text": "It conveys a sense of neutral courtesy, professionalism, and honor In some contexts it can give off a sense of femininity It can be safely used in a wide variety of situations",
+        "raw": "It conveys a sense of neutral courtesy, professionalism, and honor\nIn some contexts it can give off a sense of femininity\nIt can be safely used in a wide variety of situations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34147579,
+          0.35788571,
+          0.84782419,
+          0.40538571
+        ],
+        "mask_bbox": [
+          0.3043188,
+          0.35717143,
+          0.84915489,
+          0.40645714
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "• 传达中性、礼貌、专业、重荣誉的感觉。\n• 某些语境下，也能显出女性气质。\n• 适用范围广，在各种场合都不容易出错。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34147579,
+          0.35645714,
+          0.90925094,
+          0.40895714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4635714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0178-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.34147579,
+          0.35645714,
+          0.90925094,
+          0.40895714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0178-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Of course, other pronouns could've suited Undyne too - one interesting solution might've been to give her a different pronoun to match her different attitudes.",
+        "raw": "Of course, other pronouns could've suited Undyne too - one interesting solution\nmight've been to give her a different pronoun to match her different attitudes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29752204,
+          0.42085,
+          0.90881079,
+          0.45252857
+        ],
+        "mask_bbox": [
+          0.29272132,
+          0.42013571,
+          0.91129816,
+          0.4536
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "当然，其他人称代词也可能适合 Undyne。有个有趣的办法，或许是让她随态度变化，使用不同的自称。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.41942143,
+          0.90925094,
+          0.4561
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4635714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0178-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.41942143,
+          0.90925094,
+          0.4561
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Similar to Papyrus' laugh, Undyne's sound of aggravation was changed slightly for the Japanese script",
+        "raw": "Similar to Papyrus'\nlaugh, Undyne's\nsound of aggravation\nwas changed slightly\nfor the Japanese script",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12975261,
+          0.46885714,
+          0.27279166,
+          0.54060714
+        ],
+        "mask_bbox": [
+          0.12842192,
+          0.46814286,
+          0.27412235,
+          0.54167857
+        ],
+        "line_ids": [
+          17,
+          18,
+          22,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "与 Papyrus 的笑声一样，Undyne 发怒时的吼声在日文剧本里也稍作了调整。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11771498,
+          0.46742857,
+          0.27279166,
+          0.54417857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6630642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11771498,
+          0.46742857,
+          0.27279166,
+          0.54417857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, Undyne often shouts \"ngaaaah\" when frustrated. Because grunts, growls, and other sounds often \"feel\" different in different languages, Undyne's growls were translated as nuaaaa throughout the Japanese script.",
+        "raw": "In the English script, Undyne often shouts \"ngaaaah\" when frustrated. Because\ngrunts, growls, and other sounds often \"feel\" different in different languages,\nUndyne's growls were translated as nuaaaa throughout the Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29803384,
+          0.60435,
+          0.90925094,
+          0.65422143
+        ],
+        "mask_bbox": [
+          0.29272132,
+          0.60363571,
+          0.91129816,
+          0.65529286
+        ],
+        "line_ids": [
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "英语剧本中，Undyne 恼火时经常大吼“ngaaaah”。哼声、吼声等声音在不同语言中，往往给人不同的“感觉”，因此日文剧本把她的吼声统一译成 nuaaaa。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 73,
+            "end": 79,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.60292143,
+          0.90925094,
+          0.65779286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.665,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.60292143,
+          0.90925094,
+          0.65779286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b009",
+      "kind": "aside",
+      "source": {
+        "text": "I feel like an analysis of the zillion different sounds of Japanese laughter could fill its own little textbook",
+        "raw": "I feel like an analysis\nof the zillion different\nsounds of Japanese\nlaughter could fill its\nown little textbook",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13688716,
+          0.67020714,
+          0.27297591,
+          0.74229286
+        ],
+        "mask_bbox": [
+          0.13555647,
+          0.66949286,
+          0.2743066,
+          0.74336429
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "我觉得，光分析日语里千奇百怪的笑声，就够写一本小教材了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11771498,
+          0.66877857,
+          0.27297591,
+          0.74586429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11771498,
+          0.66877857,
+          0.27297591,
+          0.74586429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0178-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undyne also tends to laugh when she's confident. In English, this laugh is spelled \"fuhuhu\". In Japanese,fuhuhu is sometimes associated with polite, friendly laughter and cordial giggling, so the translator localizedfuhuhu as kukukuku, which carries a sense of confidence, stubbornness, and/or cunning.",
+        "raw": "Undyne also tends to laugh when she's confident. In English, this laugh is\nspelled \"fuhuhu\". In Japanese,fuhuhu is sometimes associated with polite,\nfriendly laughter and cordial giggling, so the translator localizedfuhuhu as\nkukukuku, which carries a sense of confidence, stubbornness, and/or cunning.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29864801,
+          0.83399286,
+          0.90013059,
+          0.90136429
+        ],
+        "mask_bbox": [
+          0.29272132,
+          0.83327857,
+          0.91129816,
+          0.90243571
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Undyne 信心十足时也常会大笑。英语把这笑声写作“fuhuhu”。但在日语中，fuhuhu 有时让人想到礼貌、友好的笑声或亲切的轻笑。于是译者改用了 kukukuku，这种笑声带有自信、倔强或狡黠的意味。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 27,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 41,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 85,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29752204,
+          0.83256429,
+          0.90925094,
+          0.90493571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29752204,
+          0.83256429,
+          0.90925094,
+          0.90493571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5843fdb8c36fda5a2dd19d529055402e3a37e68879f13198745e26db3a53a596"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          19,
+          20,
+          21,
+          23,
+          34,
+          35,
+          36,
+          37,
+          38,
+          43
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.66,
+      888.28
+    ],
+    "text_runs": [
+      {
+        "id": "p0178-b003",
+        "blocks": [
+          "p0178-b003",
+          "p0178-b004",
+          "p0178-b005",
+          "p0178-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 649.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

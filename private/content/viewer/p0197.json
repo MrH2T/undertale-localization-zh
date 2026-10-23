@@ -1,0 +1,895 @@
+{
+  "schema_version": 3,
+  "pdf_page": 197,
+  "printed_page": "197",
+  "title": "磨损的绳结",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.269412+00:00",
+  "reference_size": [
+    976.810127,
+    1400
+  ],
+  "physical_size_pt": [
+    496.08,
+    711.0
+  ],
+  "image_url": "/assets/p0197.jpg",
+  "image_sha256": "fc7965d6392713c560da70307a3b87585088e392781c93d6ebf3f5e2a4ce9dfc",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0197/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0197-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "A Frayed Knot",
+        "raw": "A Frayed Knot",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08466333,
+          0.05892857,
+          0.2322867,
+          0.07271429
+        ],
+        "mask_bbox": [
+          0.08333247,
+          0.05821429,
+          0.23361756,
+          0.07378571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "磨损的绳结",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08497045,
+          0.04928572,
+          0.70023844,
+          0.07357143
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08497045,
+          0.04928572,
+          0.70023844,
+          0.07357143
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 107.0,
+      "region_id": "title"
+    },
+    {
+      "id": "p0197-b002",
+      "kind": "aside",
+      "source": {
+        "text": "My theory is that the \"Double Davis\" here is somehow related to the \"Double Davy\" knot, but who knows anymore",
+        "raw": "My theory is that the\n\"Double Davis\" here\nis somehow related\nt o th e \" D o u b le D a vy \"\nk n o t, b u t w h o k no w s\nanymore",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72452156,
+          0.08917143,
+          0.86529611,
+          0.1767
+        ],
+        "mask_bbox": [
+          0.7231907,
+          0.08845714,
+          0.86662697,
+          0.17777143
+        ],
+        "line_ids": [
+          4,
+          8,
+          10,
+          15,
+          24,
+          28
+        ]
+      },
+      "translation": {
+        "text": "我猜这里的“Double Davis”可能与“Double Davy”绳结有关，不过谁又说得准呢。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72890317,
+          0.08785714,
+          0.90293904,
+          0.20857143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5863500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72890317,
+          0.08785714,
+          0.90293904,
+          0.20857143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-top"
+    },
+    {
+      "id": "p0197-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In some cases, two Pyrope monsters will appear in battle at the same time. When this happens, the battle begins with the English message:",
+        "raw": "In some cases, two Pyrope monsters will appear in battle at the same time.\nWhen this happens, the battle begins with the English message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08412075,
+          0.24246429,
+          0.65909431,
+          0.27338571
+        ],
+        "mask_bbox": [
+          0.08207327,
+          0.24175,
+          0.70163073,
+          0.27445714
+        ],
+        "line_ids": [
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "有时两个 Pyrope 会同时出现在战斗中。此时英文版的开场提示是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08412075,
+          0.24071429,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.08412075,
+          0.24071429,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b004",
+      "kind": "quote",
+      "source": {
+        "text": "The rare and threatening Double Davis.",
+        "raw": "The rare and threatening Double Davis.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13074189,
+          0.28902857,
+          0.42538462,
+          0.30140714
+        ],
+        "mask_bbox": [
+          0.12941103,
+          0.28831429,
+          0.42671548,
+          0.30247857
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "罕见而危险的 Double Davis。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13103877,
+          0.28714286,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0197-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.13103877,
+          0.28714286,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "From the player's perspective, this line appears to be a reference to something, but that \"something\" is never made clear. Fans have shared multiple theories over the years, but the truth remains a mystery. During this book's production, Toby privately stated that it was something he probably just made up at the time.",
+        "raw": "From the player's perspective, this line appears to be a reference to something,\nbut that \"something\" is never made clear. Fans have shared multiple theories\nover the years, but the truth remains a mystery. During this book's production,\nToby privately stated that it was something he probably just made up at the\ntime.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0850114,
+          0.31605,
+          0.69290846,
+          0.40267143
+        ],
+        "mask_bbox": [
+          0.08207327,
+          0.31533571,
+          0.70163073,
+          0.40374286
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "在玩家看来，这句话像是在引用什么，但究竟指什么，一直不明。多年来，粉丝提出过各种猜测，真相却仍是谜。本书制作期间，Toby 私下说，这大概只是他当时随手编的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08412075,
+          0.31428571,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0197-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.08412075,
+          0.31428571,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, Toby didn't provide any extra information about this line during the localization process, so the translator was left as puzzled as fans are. So, without any clear information to work from, the translator interpreted \"Double Davis\" as a potential reference to the \"Double Dutch\" jump-rope game that children play, just with added danger. The Japanese line thus became:",
+        "raw": "Unfortunately, Toby didn't provide any extra information about this line during\nthe localization process, so the translator was left as puzzled as fans are. So,\nwithout any clear information to work from, the translator interpreted \"Double\nDavis\" as a potential reference to the \"Double Dutch\" jump-rope game that\nchildren play, just with added danger. The Japanese line thus became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08512402,
+          0.41763571,
+          0.69958325,
+          0.50292143
+        ],
+        "mask_bbox": [
+          0.08207327,
+          0.41692143,
+          0.70163073,
+          0.50399286
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "遗憾的是，本地化时 Toby 没有提供进一步解释，译者也和粉丝一样困惑。没有明确线索可循，译者便把“Double Davis”理解为可能在指儿童玩的“Double Dutch”（交互绳）游戏，只是多了一份危险。日版大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08412075,
+          0.41571429,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0197-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.08412075,
+          0.41571429,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Two ropes... So begins a hellish game of Double Dutch.",
+        "raw": "Two ropes ... So begins a hellish game ofD ouble Dutch.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13123328,
+          0.51789286,
+          0.53521149,
+          0.53026429
+        ],
+        "mask_bbox": [
+          0.12990242,
+          0.51717857,
+          0.53654235,
+          0.53133571
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "两根绳子……地狱般的交互绳游戏开始了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13103877,
+          0.51642857,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0197-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.13103877,
+          0.51642857,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "As a result of this localization decision, the mysterious, indecipherable English line was given a clear, understandable meaning in Japanese.",
+        "raw": "As a result of this localization decision, the mysterious, indecipherable English\nline was given a clear, understandable meaning in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08414122,
+          0.54557143,
+          0.69394244,
+          0.57652857
+        ],
+        "mask_bbox": [
+          0.08207327,
+          0.54485714,
+          0.70163073,
+          0.5776
+        ],
+        "line_ids": [
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "这项本地化决定，让神秘而难以解读的英语台词在日语中有了明确易懂的意思。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08412075,
+          0.54428571,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5835714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0197-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.08412075,
+          0.54428571,
+          0.70023844,
+          0.58357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body"
+    },
+    {
+      "id": "p0197-b009",
+      "kind": "aside",
+      "source": {
+        "text": "The Double Dutch jump rope game involves two jump ropes that turn in opposite directions at the same time",
+        "raw": "The Double Dutch\njump rope game\ninvolves two jump\nropes that turn in\nopposite directions at\nthe same time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72851415,
+          0.59349286,
+          0.86426213,
+          0.68166429
+        ],
+        "mask_bbox": [
+          0.72718329,
+          0.59277857,
+          0.86559299,
+          0.68273571
+        ],
+        "line_ids": [
+          52,
+          54,
+          55,
+          56,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "Double Dutch 交互绳游戏同时使用两根跳绳，朝相反方向转动。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72890317,
+          0.59214286,
+          0.90293904,
+          0.69285714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72890317,
+          0.59214286,
+          0.90293904,
+          0.69285714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-photo"
+    },
+    {
+      "id": "p0197-b010",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6436256,
+          0.93642857,
+          0.70239853,
+          0.94655714
+        ],
+        "mask_bbox": [
+          0.64229473,
+          0.93571429,
+          0.7037294,
+          0.94762857
+        ],
+        "line_ids": [
+          59
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6436256,
+          0.935,
+          0.70239853,
+          0.95214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9521428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6436256,
+          0.935,
+          0.70239853,
+          0.95214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      },
+      "region_id": "footer"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "08e70544bbeaa77f123f22a959c0ed11465e6cced1174fff692c0f84c5f100d6"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      82.61,
+      683.36
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,946 @@
+{
+  "schema_version": 3,
+  "pdf_page": 228,
+  "printed_page": "228",
+  "title": "Asgore 的说话方式与 Mario 彩蛋",
+  "subtitle": "新家 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.783067+00:00",
+  "reference_size": [
+    978.74641,
+    1400
+  ],
+  "physical_size_pt": [
+    496.56,
+    710.28
+  ],
+  "image_url": "/assets/p0228.jpg",
+  "image_sha256": "e600f63473098b755e9cdd422b79bb4f6904614d612b35c3ca30f451a1394bd2",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0228/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0228-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Asgore Speaks",
+        "raw": "Asgore Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29436634,
+          0.06247857,
+          0.44788925,
+          0.07570714
+        ],
+        "mask_bbox": [
+          0.29303811,
+          0.06176429,
+          0.44921748,
+          0.07677857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Asgore 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.05228571,
+          0.911799,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.05228571,
+          0.911799,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111
+    },
+    {
+      "id": "p0228-b002",
+      "kind": "aside",
+      "source": {
+        "text": "King Asgore uses the polite pronoun わたし (watashi) in Japanese",
+        "raw": "King Asgore uses ~\nthe polite pronoun\nbtc L., (watashi) in\nJapanese",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.1479137,
+          0.09230714,
+          0.28421049,
+          0.14915714
+        ],
+        "mask_bbox": [
+          0.14658547,
+          0.09159286,
+          0.28553872,
+          0.15022857
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "日文中，Asgore 国王用较礼貌的第一人称「わたし」（watashi，“我”）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749724,
+          0.09087857,
+          0.28421049,
+          0.15272857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5058500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749724,
+          0.09087857,
+          0.28421049,
+          0.15272857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The king of the Underground, Asgore Dreemur, lives in New Home. In the translation spreadsheet, Toby explained how Asgore switches between two different speech patterns in English:",
+        "raw": "The king of the Underground, Asgore Dreemur, lives in New Home. In the\ntranslation spreadsheet, Toby explained how Asgore switches between two\ndifferent speech patterns in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29563327,
+          0.26431429,
+          0.87725481,
+          0.31422857
+        ],
+        "mask_bbox": [
+          0.2932118,
+          0.2636,
+          0.91384243,
+          0.3153
+        ],
+        "line_ids": [
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "地下世界的国王 Asgore Dreemur 住在新家。在翻译表格里，Toby 解释了 Asgore 在英文中如何切换两种说话方式：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.26288571,
+          0.911799,
+          0.3178
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4770285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.26288571,
+          0.911799,
+          0.3178
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b004",
+      "kind": "quote",
+      "source": {
+        "text": "'' King But his method of speech is kind of like \"goo.fy,forgetful dad\" with only certain points that he goes into \"cold, distant/formal king:\" He's not really great at being a king",
+        "raw": "'' King But his method of speech is kind of like \"goo.fy,forgetful dad\" with\nonly certain points that he goes into \"cold, distant/formal king:\" He's not\nreally great at being a king",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29710454,
+          0.33054286,
+          0.88372227,
+          0.37842857
+        ],
+        "mask_bbox": [
+          0.29577631,
+          0.32982857,
+          0.8850505,
+          0.3795
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.295275668,
+            0.327142857,
+            0.320818546,
+            0.341428571
+          ],
+          "offset": [
+            -44.1869,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "国王。不过他说话更像个“傻乎乎、健忘的老爸”，只有某些时候才会变成“冷漠、疏远／一本正经的国王”。他其实不太擅长当国王。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3404221,
+          0.32911429,
+          0.911799,
+          0.382
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4770285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0228-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.3404221,
+          0.32911429,
+          0.911799,
+          0.382
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "With this information in hand, the translator gave Asgore a polite speech pattern for most of his Japanese dialogue, which includes the use of the polite pronoun watashi. For other situations, the translator made sure that Asgore switches to a colder, but still formal speech pattern.",
+        "raw": "With this information in hand, the translator gave Asgore a polite speech\npattern for most of his Japanese dialogue, which includes the use of the polite\npronoun watashi. For other situations, the translator made sure that Asgore\nswitches to a colder, but still formal speech pattern.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29525523,
+          0.39305714,
+          0.89779129,
+          0.46053571
+        ],
+        "mask_bbox": [
+          0.2932118,
+          0.39234286,
+          0.91384243,
+          0.46160714
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "根据这些说明，译者让 Asgore 的大部分日语台词都采用礼貌的说话方式，包括使用较礼貌的第一人称 watashi（我）。其他场合则让他转为更冷淡、但仍然正式的语气。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 50,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.39162857,
+          0.911799,
+          0.46410714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4770285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0228-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.39162857,
+          0.911799,
+          0.46410714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Mario Artist",
+        "raw": "Mario Artist",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29776865,
+          0.48417143,
+          0.42491088,
+          0.4974
+        ],
+        "mask_bbox": [
+          0.29644042,
+          0.48345714,
+          0.42623911,
+          0.49847143
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "手工作品里的 Mario 彩蛋",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.47442857,
+          0.911799,
+          0.49857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.47442857,
+          0.911799,
+          0.49857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 702
+    },
+    {
+      "id": "p0228-b007",
+      "kind": "aside",
+      "source": {
+        "text": "To be fair, this Mario ~ reference probably went unnoticed by a large portion of the English speaking audience",
+        "raw": "To be fair, this Mario ~\nreference probably went\nunnoticed by a large\nportion of the English\nspeaking audience",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11719072,
+          0.51299286,
+          0.28566133,
+          0.58639286
+        ],
+        "mask_bbox": [
+          0.11586249,
+          0.51227857,
+          0.28698956,
+          0.58746429
+        ],
+        "line_ids": [
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "公平地说，恐怕也有许多英语玩家没发现这个 Mario 彩蛋。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11719072,
+          0.51156429,
+          0.28566133,
+          0.58996429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6271428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11719072,
+          0.51156429,
+          0.28566133,
+          0.58996429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the king's home, a child's art project hangs on a wall with a short message:",
+        "raw": "In the king's home, a child's art project hangs on a wall with a short message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29712497,
+          0.67756429,
+          0.8909458,
+          0.68995
+        ],
+        "mask_bbox": [
+          0.2932118,
+          0.67685,
+          0.91384243,
+          0.69102143
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "国王家里的墙上挂着一件孩子做的手工作品，上面有一句短短的话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.67613571,
+          0.911799,
+          0.69827857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.67613571,
+          0.911799,
+          0.69827857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b009",
+      "kind": "quote",
+      "source": {
+        "text": "For King Dad!",
+        "raw": "For King Dad!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34136524,
+          0.70560714,
+          0.44765426,
+          0.718
+        ],
+        "mask_bbox": [
+          0.34003701,
+          0.70489286,
+          0.44898249,
+          0.71907143
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "献给 King Dad（国王爸爸）！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34136524,
+          0.70417857,
+          0.911799,
+          0.72476786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0228-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34136524,
+          0.70417857,
+          0.911799,
+          0.72476786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that the phrase \"King Dad\" is a reference to the Super Mario Bros. television cartoons that first aired in the late 1980s and early 1990s. Specifically, the phrase is from the Adventures of Super Mario Bros. 3 series, in which the villain's children regularly call their father \"King Dad\".",
+        "raw": "Toby noted that the phrase \"King Dad\" is a reference to the Super Mario Bros.\ntelevision cartoons that first aired in the late 1980s and early 1990s. Specifically,\nthe phrase is from the Adventures of Super Mario Bros. 3 series, in which the\nvillain's children regularly call their father \"King Dad\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29710454,
+          0.73365714,
+          0.911799,
+          0.80044286
+        ],
+        "mask_bbox": [
+          0.2932118,
+          0.73294286,
+          0.91384243,
+          0.80151429
+        ],
+        "line_ids": [
+          34,
+          35,
+          38,
+          40
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，“King Dad”是在致敬 20 世纪 80 年代末至 90 年代初开播的《超级马力欧兄弟》电视动画。具体来说，它出自《超级马力欧兄弟 3 大冒险》：反派的孩子们经常这样称呼自己的父亲。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.73222857,
+          0.911799,
+          0.80401429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0228-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.73222857,
+          0.911799,
+          0.80401429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Some of King Koopa's children called him \"King Dad\" in the old American animated series, but later games would clarify that they're just his minions and not actually his children",
+        "raw": "Some of King Koopa's\nchildren called him\n\"King Dad\" in the old\nAmerican animated\nseries, but later games\nwould clarify that\nthey're just his minions\nand not actually his\nchildren",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12657007,
+          0.75289286,
+          0.27070342,
+          0.88713571
+        ],
+        "mask_bbox": [
+          0.12524184,
+          0.75217857,
+          0.27203165,
+          0.88820714
+        ],
+        "line_ids": [
+          36,
+          37,
+          39,
+          41,
+          42,
+          44,
+          46,
+          48,
+          50
+        ]
+      },
+      "translation": {
+        "text": "在早年的美国动画里，King Koopa 的几个孩子叫他“国王爸爸”。但后来的游戏澄清，他们其实只是手下，并非他的孩子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11749724,
+          0.75146429,
+          0.27156166,
+          0.89070714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11749724,
+          0.75146429,
+          0.27156166,
+          0.89070714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0228-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this animated series was produced for Western audiences, this reference would be missed by most .Japanese players. But rather than force a different reference into this important line, the translator focused on the key information and translated the line literally. Even without the reference, it's still clear in the Japanese script that Asgore and his child were part of a loving family.",
+        "raw": "Because this animated series was produced for Western audiences, this\nreference would be missed by most .Japanese players. But rather than force a\ndifferent reference into this important line, the translator focused on the key\ninformation and translated the line literally. Even without the reference, it's still\nclear in the Japanese script that Asgore and his child were part of a loving family.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29805473,
+          0.81611429,
+          0.91109402,
+          0.90148571
+        ],
+        "mask_bbox": [
+          0.2932118,
+          0.8154,
+          0.91384243,
+          0.90255714
+        ],
+        "line_ids": [
+          43,
+          45,
+          47,
+          49,
+          51
+        ]
+      },
+      "translation": {
+        "text": "这部动画面向西方观众制作，多数日本玩家大概不会明白这个典故。不过，译者没有硬往这句重要台词里塞进别的典故，而是抓住关键信息，直接翻译。即使看不出致敬对象，日本玩家仍能清楚感受到 Asgore 和孩子曾有一个充满爱的家。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29710454,
+          0.81468571,
+          0.911799,
+          0.90505714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0228-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29710454,
+          0.81468571,
+          0.911799,
+          0.90505714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bcef1ede3874bed7c97d355cff222a6347cf902b15266b434a878c4a934c3e5d"
+  },
+  "chapter_id": "chapter-224",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.79,
+      892.42
+    ],
+    "text_runs": [
+      {
+        "id": "p0228-b003",
+        "blocks": [
+          "p0228-b003",
+          "p0228-b004",
+          "p0228-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 667.84
+      },
+      {
+        "id": "p0228-b008",
+        "blocks": [
+          "p0228-b008",
+          "p0228-b009",
+          "p0228-b010",
+          "p0228-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

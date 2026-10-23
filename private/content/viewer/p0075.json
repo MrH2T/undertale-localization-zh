@@ -1,0 +1,911 @@
+{
+  "schema_version": 3,
+  "pdf_page": 75,
+  "printed_page": "75",
+  "title": "日本游戏里的英语",
+  "subtitle": "开始游戏 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.719558+00:00",
+  "reference_size": [
+    984.02027,
+    1400
+  ],
+  "physical_size_pt": [
+    499.32,
+    710.4
+  ],
+  "image_url": "/assets/p0075.jpg",
+  "image_sha256": "9d3a7a505f81dd5a0691b31b7f8d309d1638175adad579ecdb9008c1281aba48",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0075/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0075-b001",
+      "kind": "heading",
+      "source": {
+        "text": "English in Japanese Games",
+        "raw": "English in Japanese Games",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.25865321,
+          0.08780714,
+          0.53824094,
+          0.10146429
+        ],
+        "mask_bbox": [
+          0.2573321,
+          0.08709286,
+          0.53956206,
+          0.10253571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日本游戏里的英语",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12093247,
+          0.078,
+          0.67376661,
+          0.10214286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12093247,
+          0.078,
+          0.67376661,
+          0.10214286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 147.0
+    },
+    {
+      "id": "p0075-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "English plays a huge part in modern Japanese culture: the Japanese language is filled with English words, English is a mandatory subject in schools, and English has permeated the Japanese entertainment industry for decades. In short, English in Japanese video games is completely normal - and even expected to some degree.",
+        "raw": "English plays a huge part in modern Japanese culture: the Japanese\nlanguage is filled with English words, English is a mandatory subject\nin schools, and English has permeated the Japanese entertainment\nindustry for decades. In short, English in Japanese video games is\ncompletely normal - and even expected to some degree.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12286332,
+          0.11773571,
+          0.6380458,
+          0.19708571
+        ],
+        "mask_bbox": [
+          0.12154221,
+          0.11702143,
+          0.63936691,
+          0.19815714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "英语在现代日本文化中举足轻重：日语充满英语借词，学校必修英语，英语也已渗入日本娱乐业数十年。因此，日本游戏中有英语完全正常，某种程度上甚至是理所当然的。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12286332,
+          0.11630714,
+          0.69223168,
+          0.20065714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.20857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12286332,
+          0.11630714,
+          0.69223168,
+          0.20065714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Nintendo Color TV-Game 15 (1977)",
+        "raw": "Nintendo Color TV-Game 15 (1977)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1463791,
+          0.35660714,
+          0.36306163,
+          0.36744286
+        ],
+        "mask_bbox": [
+          0.14505799,
+          0.35589286,
+          0.36438274,
+          0.36851429
+        ],
+        "line_ids": [
+          7
+        ]
+      },
+      "translation": {
+        "text": "Nintendo Color TV-Game 15 (1977)",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12398119,
+          0.35517857,
+          0.38820339,
+          0.37714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.37714285714285717,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12398119,
+          0.35517857,
+          0.38820339,
+          0.37714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "color-tv-game-caption"
+    },
+    {
+      "id": "p0075-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Manbiki Shonen (1982}",
+        "raw": "Manbiki Shonen (1982}",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.47324228,
+          0.35660714,
+          0.61637958,
+          0.36744286
+        ],
+        "mask_bbox": [
+          0.47192117,
+          0.35589286,
+          0.61770069,
+          0.36851429
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "Manbiki Shonen（1982）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42072304,
+          0.35517857,
+          0.66868541,
+          0.37317857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.37785714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42072304,
+          0.35517857,
+          0.66868541,
+          0.37317857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Super Ozumo (1992)",
+        "raw": "Super Ozumo (1992)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19100216,
+          0.52145714,
+          0.31643657,
+          0.5323
+        ],
+        "mask_bbox": [
+          0.18968105,
+          0.52074286,
+          0.31775768,
+          0.53337143
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "Super Ozumo（1992）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12804614,
+          0.52002857,
+          0.37804099,
+          0.53802857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12804614,
+          0.52002857,
+          0.37804099,
+          0.53802857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Super Mario Odyssey (2017)",
+        "raw": "Super Mario Odyssey (2017)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.45874055,
+          0.52145714,
+          0.63199918,
+          0.5323
+        ],
+        "mask_bbox": [
+          0.45741944,
+          0.52074286,
+          0.63332029,
+          0.53337143
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "Super Mario Odyssey（2017）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.4197068,
+          0.52002857,
+          0.66970165,
+          0.53802857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.4197068,
+          0.52002857,
+          0.66970165,
+          0.53802857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "For Short",
+        "raw": "For Short",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09570941,
+          0.57485,
+          0.19263831,
+          0.5878
+        ],
+        "mask_bbox": [
+          0.0943883,
+          0.57413571,
+          0.19395942,
+          0.58887143
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "简称",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09427651,
+          0.56442857,
+          0.69223168,
+          0.58857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5885714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09427651,
+          0.56442857,
+          0.69223168,
+          0.58857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 828.0
+    },
+    {
+      "id": "p0075-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "It's common for popular games in Japan to receive unofficial, abbreviated names. For example, Super Mario Bros. is often shortened to \"SuMari\", and Dragon Quest is often called \"DraQue\".",
+        "raw": "It's common for popular games in Japan to receive unofficial, abbreviated\nnames. For example, Super Mario Bros. is often shortened to \"SuMari\", and\nDragon Quest is often called \"DraQue\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09342287,
+          0.60224286,
+          0.66878704,
+          0.65288571
+        ],
+        "mask_bbox": [
+          0.09139039,
+          0.60152857,
+          0.69426415,
+          0.65395714
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "日本的热门游戏常有非官方简称。例如 Super Mario Bros. 常缩成“SuMari”，Dragon Quest 则常叫“DraQue”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 48,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09427651,
+          0.60081429,
+          0.69223168,
+          0.65645714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7085714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09427651,
+          0.60081429,
+          0.69223168,
+          0.65645714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale has its own Japanese abbreviation too: アンテ (ante, “UnTa”). Fortunately, this abbreviation works with both the official and unofficial translations!",
+        "raw": "Undertale has its own Japanese abbreviation too: 7/7-(ante, \"UnTa\"). Fortunately,\nthis abbreviation works with both the official and unofficial translations!",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.09513015,
+          0.66777143,
+          0.69223168,
+          0.69869286
+        ],
+        "mask_bbox": [
+          0.09139039,
+          0.66705714,
+          0.69426415,
+          0.69976429
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Undertale 也有日语简称：アンテ（ante，相当于“UnTa”）。幸运的是，它同时适用于官方和非官方的两种译名！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09427651,
+          0.66634286,
+          0.69223168,
+          0.70226429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7085714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0075-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.09427651,
+          0.66634286,
+          0.69223168,
+          0.70226429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b010",
+      "kind": "caption",
+      "source": {
+        "text": "You might be happy to hear that Luigi's Mansion is abbreviated as \"LuiMan\" and that Super Mario Bros. 2 (the Birdo one) is sometimes just called \"USA\" when fans are talking about games in the series",
+        "raw": "You might be\nhappy to hear that\nLuigi's Mansion\nis abbreviated as\n\"LuiMan\" and that\nSuper Mario Bros. 2\n(the Birdo one) is\nsometimes just called\n\"USA\" when fans are\ntalking about games\nin the series",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72702771,
+          0.71437143,
+          0.86571387,
+          0.88155
+        ],
+        "mask_bbox": [
+          0.7257066,
+          0.71365714,
+          0.86703498,
+          0.88262143
+        ],
+        "line_ids": [
+          17,
+          21,
+          22,
+          23,
+          25,
+          27,
+          29,
+          31,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "你或许乐于知道：Luigi’s Mansion 简称“LuiMan”，而谈论系列作品时，Super Mario Bros. 2——有 Birdo 的那个——有时干脆叫“USA”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 44,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72702771,
+          0.71294286,
+          0.86571387,
+          0.88512143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72702771,
+          0.71294286,
+          0.86571387,
+          0.88512143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0075-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Starting the Game",
+        "raw": "Starting the Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.57039475,
+          0.93925714,
+          0.70610334,
+          0.94854286
+        ],
+        "mask_bbox": [
+          0.56907364,
+          0.93854286,
+          0.70742445,
+          0.94961429
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "开始游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.57039475,
+          0.93782857,
+          0.70610334,
+          0.95582857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9558285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.57039475,
+          0.93782857,
+          0.70610334,
+          0.95582857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Starting the Game",
+        "chapter_id": "chapter-72"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1c3f3d8d442fe810315fd1b0ea32dc66a19460e426316958fb6397322b5d6b1f"
+  },
+  "chapter_id": "chapter-72",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          18
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.77,
+      681.17
+    ],
+    "text_runs": [
+      {
+        "id": "p0075-b008",
+        "blocks": [
+          "p0075-b008",
+          "p0075-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 992.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

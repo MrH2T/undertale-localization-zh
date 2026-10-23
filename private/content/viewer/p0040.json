@@ -1,0 +1,716 @@
+{
+  "schema_version": 3,
+  "pdf_page": 40,
+  "printed_page": "40",
+  "title": "游戏背后的那个人",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.119402+00:00",
+  "reference_size": [
+    990.711029,
+    1400
+  ],
+  "physical_size_pt": [
+    502.8,
+    710.52
+  ],
+  "image_url": "/assets/p0040.jpg",
+  "image_sha256": "9e7cd3dc3163993d4d335351d7134cda81f06dcc9f823902267039b7fc936eae",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0040/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0040-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Man Behind the Game",
+        "raw": "The Man Behind the Game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28771255,
+          0.06437857,
+          0.56029456,
+          0.07732857
+        ],
+        "mask_bbox": [
+          0.28640036,
+          0.06366429,
+          0.56160675,
+          0.0784
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "游戏背后的那个人",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28816677,
+          0.05532857,
+          0.88586881,
+          0.07947143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07947142714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28816677,
+          0.05532857,
+          0.88586881,
+          0.07947143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Whether they want it or not, many successful authors, musicians, directors, and celebrities stand atop a pedestal of fame that puts them out of reach of the ordinary person. To some degree, this applies to video game creators, too.",
+        "raw": "Whether they want it or not, many successful authors, musicians, directors,\nand celebrities stand atop a pedestal of fame that puts them out of reach of the\nordinary person. To some degree, this applies to video game creators, too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28728862,
+          0.09195714,
+          0.88586881,
+          0.14116429
+        ],
+        "mask_bbox": [
+          0.28526986,
+          0.09124286,
+          0.88788756,
+          0.14223571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "许多成功的作家、音乐人、导演和名人，无论愿不愿意，都被名气抬到了普通人难以接近的位置。游戏创作者在某种程度上也一样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28816677,
+          0.09052857,
+          0.88586881,
+          0.14473571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2161357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28816677,
+          0.09052857,
+          0.88586881,
+          0.14473571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby Fox, the developer of Undertale, is the opposite: despite his fame, he's literally just an ordinary guy from the Internet who makes weird jokes and hangs out online. Here is his story.",
+        "raw": "Toby Fox, the developer of Undertale, is the opposite: despite his fame, he's\nliterally just an ordinary guy from the Internet who makes weird jokes and\nhangs out online. Here is his story.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28816677,
+          0.15681429,
+          0.85937269,
+          0.20567857
+        ],
+        "mask_bbox": [
+          0.28526986,
+          0.1561,
+          0.88788756,
+          0.20675
+        ],
+        "line_ids": [
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的开发者 Toby Fox 却相反：虽然出名，他确实就是个普通网友，上网闲逛，说些怪笑话。下面是他的故事。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28816677,
+          0.15538571,
+          0.88586881,
+          0.20925
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2161357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0040-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.28816677,
+          0.15538571,
+          0.88586881,
+          0.20925
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "1990s:",
+        "raw": "1990s:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28742993,
+          0.22327857,
+          0.34990021,
+          0.23749286
+        ],
+        "mask_bbox": [
+          0.28611774,
+          0.22256429,
+          0.3512124,
+          0.23856429
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "20世纪90年代：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28816677,
+          0.21549286,
+          0.88586881,
+          0.23963572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.23963571714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28816677,
+          0.21549286,
+          0.88586881,
+          0.23963572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby grows up playing popular video games that are considered classics today. He's especially fond of Japanese role-playing games that have been translated into English. These games feature memorable stories, characters, and music.",
+        "raw": "Toby grows up playing popular video games that are considered classics today.\nHe's especially fond of Japanese role-playing games that have been translated\ninto English. These games feature memorable stories, characters, and music.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28816677,
+          0.24836429,
+          0.88500075,
+          0.29687857
+        ],
+        "mask_bbox": [
+          0.28526986,
+          0.24765,
+          0.88788756,
+          0.29795
+        ],
+        "line_ids": [
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Toby 玩着当时的热门游戏长大，那些游戏如今已是经典。他尤其喜欢译成英语的日式角色扮演游戏，里面有令人难忘的故事、角色和音乐。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28728862,
+          0.24357143,
+          0.88586881,
+          0.30714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.30714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28728862,
+          0.24357143,
+          0.88586881,
+          0.30714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "toby-1990s"
+    },
+    {
+      "id": "p0040-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Toby plays a video ~ game sometime in the 1990s (Note: Image may be a re-creation and not accurately representative of Toby in the 1990s.)",
+        "raw": "Toby plays a video ~\ngame sometime in the\n1990s (Note: Image\nmay be a re-creation\nand not accurately\nrepresentative of Toby\nin the 1990s.)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12446616,
+          0.31331429,
+          0.27782067,
+          0.41567143
+        ],
+        "mask_bbox": [
+          0.12315397,
+          0.3126,
+          0.27913286,
+          0.41674286
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "20世纪90年代某时，Toby 在玩游戏。（注：此图可能为情景重现，未必准确反映90年代的 Toby。）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12446616,
+          0.31188571,
+          0.27782067,
+          0.41924286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12446616,
+          0.31188571,
+          0.27782067,
+          0.41924286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Toby's fondness for Japanese RPGs led him to discover EarthBound, which would become a major inspiration in his own future work",
+        "raw": "Toby's fondness for Japanese RPGs led him to\ndiscover EarthBound, which would become a\nmajor inspiration in his own future work",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28966065,
+          0.73214286,
+          0.56951016,
+          0.77405714
+        ],
+        "mask_bbox": [
+          0.28834846,
+          0.73142857,
+          0.57082235,
+          0.77512857
+        ],
+        "line_ids": [
+          26,
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "对日式角色扮演游戏的喜爱，让 Toby 发现了 EarthBound。它后来成为他创作的重要灵感。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28966065,
+          0.73071429,
+          0.57130685,
+          0.77762857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.28966065,
+          0.73071429,
+          0.57130685,
+          0.77762857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Despite the language barrier, Toby's early interest in RPGs would later inspire him to play Japanese games that had never been released in English",
+        "raw": "Despite the language barrier, Toby's early interest\nin RPGs would later inspire him to play Japanese\ngames that had never been released in English",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60751317,
+          0.73214286,
+          0.89579098,
+          0.77405714
+        ],
+        "mask_bbox": [
+          0.60620098,
+          0.73142857,
+          0.89710317,
+          0.77512857
+        ],
+        "line_ids": [
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "早年对角色扮演游戏的兴趣，后来促使 Toby 跨越语言障碍，去玩从未推出英语版的日本游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60751317,
+          0.73071429,
+          0.89579098,
+          0.77762857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.60751317,
+          0.73071429,
+          0.89579098,
+          0.77762857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0040-b009",
+      "kind": "aside",
+      "source": {
+        "text": "Of course, it's not accurate to say that Toby created Undertale entirely by himself. He received lots of help from friends and supporters during the game's development - everything from art to character design to fashion tips, and more. Although Toby did create the vast majority of the game, it would be unfair to discount the work of everyone else who contributed. Without their contributions, Undertale would be a noticeably different game today.",
+        "raw": "Of course, it's not accurate to say that Toby created Undertale entirely by\nhimself. He received lots of help from friends and supporters during the\ngame's development - everything from art to character design to fashion tips,\nand more. Although Toby did create the vast majority of the game, it would\nbe unfair to discount the work of everyone else who contributed. Without\ntheir contributions, Undertale would be a noticeably different game today.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30821298,
+          0.80174286,
+          0.88073109,
+          0.89094286
+        ],
+        "mask_bbox": [
+          0.30690079,
+          0.80102857,
+          0.88204327,
+          0.89201429
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "当然，说 Toby 完全独自制作了 Undertale 并不准确。开发时，朋友和支持者提供了许多帮助：绘画、角色设计、穿搭建议，等等。虽然游戏绝大部分确由 Toby 完成，忽略其他人的贡献仍不公平。没有他们，如今的 Undertale 会明显不同。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 108,
+            "end": 117,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30821298,
+          0.80031429,
+          0.88073109,
+          0.89451429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8978571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.30821298,
+          0.80031429,
+          0.88073109,
+          0.89451429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f256764ba0dad3d150c1c26be3ed42277f558ecb2fb8284861636ab6e566478d"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      285.49,
+      877.64
+    ],
+    "text_runs": [
+      {
+        "id": "p0040-b002",
+        "blocks": [
+          "p0040-b002",
+          "p0040-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 302.59
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

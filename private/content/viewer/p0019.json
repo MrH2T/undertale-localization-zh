@@ -1,0 +1,511 @@
+{
+  "schema_version": 3,
+  "pdf_page": 19,
+  "printed_page": "19",
+  "title": "什么是本地化？",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    986.835017,
+    1400
+  ],
+  "physical_size_pt": [
+    502.44,
+    712.8
+  ],
+  "image_url": "/assets/p0019.jpg",
+  "image_sha256": "55da4a020921c2a920168fe69ab1fd9562beeb0baa5fe5f6e6e550f066279c35",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0019/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0019-b001",
+      "kind": "quote",
+      "source": {
+        "text": "\"The other day, someone mistook the word 'hospital' for 'hair salon' and asked for a shampoo and haircut. We speak in hiragana, so I guess that sort of thing is bound to happen sometimes.\"",
+        "raw": "\"The other day, someone mistook\nthe word 'hospital' for 'hair salon'\nand asked for a shampoo and\nhaircut. We speak in hiragana, so\nI guess that sort of thing is bound\nto happen sometimes.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12638384,
+          0.22745,
+          0.3713184,
+          0.31625714
+        ],
+        "mask_bbox": [
+          0.1250665,
+          0.22673571,
+          0.37263574,
+          0.31732857
+        ],
+        "line_ids": [
+          12,
+          14,
+          18,
+          20,
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "“前几天，有人把‘医院’听成了‘理发店’，要求洗头、剪发。我们说的都是平假名，想来偶尔会有这种误会吧。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12638384,
+          0.22602143,
+          0.38608277,
+          0.32142857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.32142857142857145,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12638384,
+          0.22602143,
+          0.38608277,
+          0.32142857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "hospital-japanese-literal-translation"
+    },
+    {
+      "id": "p0019-b002",
+      "kind": "quote",
+      "source": {
+        "text": "\"One person requested a 'shampoo and cut.' They must have thought that a 'bad hair day' could be treated at the hospital. Either that or they wanted their medical insurance to cover their grooming.\"",
+        "raw": "\"One person requested a 'shampoo\nand cut.' They must have thought\nthat a 'bad hair day' could be\ntreated at the hospital. Either\nthat or they wanted their medical\ninsurance to cover their grooming.\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.43830021,
+          0.22745,
+          0.6963778,
+          0.31625714
+        ],
+        "mask_bbox": [
+          0.43698287,
+          0.22673571,
+          0.69769514,
+          0.31732857
+        ],
+        "line_ids": [
+          13,
+          15,
+          19,
+          21,
+          23,
+          25
+        ]
+      },
+      "translation": {
+        "text": "“有人来要求‘洗头剪发’。他准以为医院能治‘头发糟透了的一天’。要不就是想让医疗保险替他报销理发费。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.43830021,
+          0.22602143,
+          0.6963778,
+          0.32142857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.32142857142857145,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.43830021,
+          0.22602143,
+          0.6963778,
+          0.32142857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "hospital-english-localization"
+    },
+    {
+      "id": "p0019-b003",
+      "kind": "caption",
+      "source": {
+        "text": "~ The original joke in this scene only makes sense if you understand how the Japanese language works. Because a literal translation wouldn't make sense to most players outside of Japan, the joke was replaced with a different, but similarly-themed joke in English (Game: EarthBound)",
+        "raw": "~ The original joke in this\nscene only makes sense\nif you understand how\nthe Japanese language\nworks. Because a literal\ntranslation wouldn't\nmake sense to most\nplayers outside of Japan,\nthe joke was replaced\nwith a different, but\nsimilarly-themed joke\nin English (Game:\nEarthBound)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72225852,
+          0.07392857,
+          0.89153707,
+          0.26947143
+        ],
+        "mask_bbox": [
+          0.72094118,
+          0.07321429,
+          0.89285441,
+          0.27054286
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "原来的笑话只有了解日语的人才懂。直译会让日本以外的大多数玩家摸不着头脑，因此英语版换成了另一个主题相近的笑话。（游戏：EarthBound）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 59,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72225852,
+          0.0725,
+          0.89153707,
+          0.27304286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3401714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72225852,
+          0.0725,
+          0.89153707,
+          0.27304286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0019-b004",
+      "kind": "caption",
+      "source": {
+        "text": "This imprisoned character plays with the Japanese words for \"prison cell\" and \"candle\" to make a simple joke. The translators replaced this untranslatable wordplay with a different prison-themed joke that makes sense in English (Game: The Legend of the Mystical Ninja)",
+        "raw": "This imprisoned\ncharacter plays with\nthe Japanese words for\n\"prison cell\" and \"candle\"\nto make a simple joke.\nThe translators replaced\nthis untranslatable\nwordplay with a different\nprison-themed joke that\nmakes sense in English\n(Game: The Legend of\nthe Mystical Ninja)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73349647,
+          0.34731429,
+          0.8955499,
+          0.52837857
+        ],
+        "mask_bbox": [
+          0.73217913,
+          0.3466,
+          0.89686724,
+          0.52945
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "这个被关起来的人用日语里“牢房”和“蜡烛”的读音玩了个简单的文字游戏。译者把这个译不过去的双关换成了英语能讲通的另一个监狱笑话。（游戏：The Legend of the Mystical Ninja）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 68,
+            "end": 100,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73349647,
+          0.34588571,
+          0.8955499,
+          0.53195
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5418642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73349647,
+          0.34588571,
+          0.8955499,
+          0.53195
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0019-b005",
+      "kind": "caption",
+      "source": {
+        "text": "~ This Japanese pun on the words for \"go bald\" and \"encouragement\" was replaced with an English pun on the word \"scalping\" (Game: Yakuza 0)",
+        "raw": "~ This Japanese pun on\nthe words for \"go bald\"\nand \"encouragement\"\nwas replaced with\nan English pun on\nthe word \"scalping\"\n(Game: Yakuza 0)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72225852,
+          0.54900714,
+          0.88532529,
+          0.65262143
+        ],
+        "mask_bbox": [
+          0.72094118,
+          0.54829286,
+          0.88664264,
+          0.65369286
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "日语中“秃头”与“鼓励”的双关，被换成英语 scalping（剥头皮）一词的双关。（游戏：Yakuza 0）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72225852,
+          0.54757857,
+          0.88532529,
+          0.65619286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72225852,
+          0.54757857,
+          0.88532529,
+          0.65619286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [
+        "原书图注称 scalping，而截图台词为 scalp；双关的另一义项需结合完整游戏语境复核。"
+      ]
+    },
+    {
+      "id": "p0019-b006",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55791494,
+          0.9372,
+          0.71293579,
+          0.94674286
+        ],
+        "mask_bbox": [
+          0.5565976,
+          0.93648571,
+          0.71425313,
+          0.94781429
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55791494,
+          0.93577143,
+          0.71293579,
+          0.95377143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9537714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55791494,
+          0.93577143,
+          0.71293579,
+          0.95377143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6c649c0eaf8b70ea83d5bce0f0a412079ca9a2971c229c43b207bbbdaf3c3d20"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          38
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

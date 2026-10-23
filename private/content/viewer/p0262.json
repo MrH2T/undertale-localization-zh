@@ -1,0 +1,892 @@
+{
+  "schema_version": 3,
+  "pdf_page": 262,
+  "printed_page": "262",
+  "title": "结语：关于翻译与本地化的收获",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.336454+00:00",
+  "reference_size": [
+    987.113055,
+    1400
+  ],
+  "physical_size_pt": [
+    502.92,
+    713.28
+  ],
+  "image_url": "/assets/p0262.jpg",
+  "image_sha256": "b74d066f0983e98a51c2615c23ed001cbd25c2617403b4e98ee6bcd96262ca10",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0262/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0262-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Final Thoughts",
+        "raw": "Final Thoughts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29173963,
+          0.04871429,
+          0.62622006,
+          0.08404286
+        ],
+        "mask_bbox": [
+          0.29042266,
+          0.048,
+          0.62753704,
+          0.08511429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "结语",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29335039,
+          0.04785714,
+          0.89630058,
+          0.085
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.085,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29335039,
+          0.04785714,
+          0.89630058,
+          0.085
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "rule_y": 123.0
+    },
+    {
+      "id": "p0262-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Top-notch localization work can be hard to come by, so it's heartening to see an indie game like Undertale receive such lavish treatment",
+        "raw": "Top-notch localization\nwork can be hard\nto come by, so it's\nheartening to see\nan indie game like\nUndertale receive such\nlavish treatment",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12501101,
+          0.10529286,
+          0.26545085,
+          0.2103
+        ],
+        "mask_bbox": [
+          0.12369404,
+          0.10457857,
+          0.26676782,
+          0.21137143
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          8,
+          10,
+          12,
+          14
+        ]
+      },
+      "translation": {
+        "text": "顶尖的本地化并不常见，看到《Undertale》这样的独立游戏获得如此用心的待遇，令人欣慰。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11650135,
+          0.10386429,
+          0.26802401,
+          0.21387143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11650135,
+          0.10386429,
+          0.26802401,
+          0.21387143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0262-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Over the past 240 pages or so, we've looked at the history behind Underta/e's localization and its official Japanese release. We've studied the changes that were made during the localization process, why those changes were made, and how those changes affected the player's experience.",
+        "raw": "Over the past 240 pages or so,\nwe've looked at the history behind\nUnderta/e's localization and its\nofficial Japanese release. We've\nstudied the changes that were made\nduring the localization process, why\nthose changes were made, and how\nthose changes affected the player's\nexperience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60794455,
+          0.10562857,
+          0.88528867,
+          0.26415
+        ],
+        "mask_bbox": [
+          0.60662758,
+          0.10491429,
+          0.88660564,
+          0.26522143
+        ],
+        "line_ids": [
+          3,
+          5,
+          7,
+          9,
+          11,
+          13,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "在前面约 240 页中，我们回顾了《Undertale》本地化及官方日版背后的历史，研究了本地化过程中作出的改动、改动的原因，以及它们如何影响玩家体验。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60794455,
+          0.1042,
+          0.88528867,
+          0.26772143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2724428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60794455,
+          0.1042,
+          0.88528867,
+          0.26772143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0262-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "We've also seen how culture and language are so closely tied together that sometimes a literal translation just isn't possible. We've examined how a single localization choice can affect the gameplay experience in surprising ways. And we've seen examples of how a localized piece of text can improve or surpass the original text. This look at Underta/e's English-to-Japanese localization has been a real learning experience.",
+        "raw": "We've also seen how culture and language are so closely tied together that\nsometimes a literal translation just isn't possible. We've examined how a single\nlocalization choice can affect the gameplay experience in surprising ways. And\nwe've seen examples of how a localized piece of text can improve or surpass\nthe original text. This look at Underta/e's English-to-Japanese localization has\nbeen a real learning experience.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29151676,
+          0.27958571,
+          0.89350454,
+          0.38357857
+        ],
+        "mask_bbox": [
+          0.28949065,
+          0.27887143,
+          0.89832669,
+          0.38465
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "我们也看到，文化与语言紧密相连，有时根本无法直译；一个本地化选择，也可能出乎意料地改变游戏体验。还有一些例子表明，译后的文字可以改进甚至超越原文。研究《Undertale》的英译日本地化，确实让人学到很多。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 76,
+            "end": 85,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29335039,
+          0.27815714,
+          0.89630058,
+          0.38715
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3986071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29335039,
+          0.27815714,
+          0.89630058,
+          0.38715
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0262-b005",
+      "kind": "heading",
+      "source": {
+        "text": "What We've Learned About Translation and Localization",
+        "raw": "What We've Learned About Translation and Localization",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29346183,
+          0.40575,
+          0.87314213,
+          0.41850714
+        ],
+        "mask_bbox": [
+          0.29214485,
+          0.40503571,
+          0.87445911,
+          0.41957857
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "我们对翻译与本地化有了哪些认识",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29335039,
+          0.39514286,
+          0.89630058,
+          0.41928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.41928571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29335039,
+          0.39514286,
+          0.89630058,
+          0.41928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 591.0
+    },
+    {
+      "id": "p0262-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In addition to learning about Underta/e's localization, we've learned a lot about translation and localization in general. Some key discoveries include:",
+        "raw": "In addition to learning about Underta/e's localization, we've learned a lot about\ntranslation and localization in general. Some key discoveries include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29335039,
+          0.43302143,
+          0.89626005,
+          0.46467143
+        ],
+        "mask_bbox": [
+          0.28949065,
+          0.43230714,
+          0.89832669,
+          0.46574286
+        ],
+        "line_ids": [
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "除了《Undertale》本身，我们也进一步认识了翻译与本地化的一般规律。几个要点是：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29335039,
+          0.43159286,
+          0.89630058,
+          0.46824286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29335039,
+          0.43159286,
+          0.89630058,
+          0.46824286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0262-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Translation isn't simply replacing all the words in one language with all the words in another - it involves intent, figurative meaning, functional meaning, emotional impact, cultural background, artistic nuance, and more",
+        "raw": "Translation isn't simply replacing all the words in one language\nwith all the words in another - it involves intent, figurative meaning,\nfunctional meaning, emotional impact, cultural background, artistic\nnuance, and more",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33782351,
+          0.48047857,
+          0.87715383,
+          0.54643571
+        ],
+        "mask_bbox": [
+          0.30104961,
+          0.47976429,
+          0.8784708,
+          0.54750714
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "• 翻译不只是把一种语言的所有词换成另一种语言的词。它还涉及意图、比喻意义、实际功能、情感效果、文化背景、艺术韵味等。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33782351,
+          0.47905,
+          0.89630058,
+          0.55000714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33782351,
+          0.47905,
+          0.89630058,
+          0.55000714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0262-b008",
+      "kind": "quote",
+      "source": {
+        "text": "When something will otherwise be lost in a literal or straightforward translation, localization can preserve the original intent for the target audience",
+        "raw": "When something will otherwise be lost in a literal or straightforward\ntranslation, localization can preserve the original intent for the\ntarget audience",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33827939,
+          0.56155,
+          0.86467299,
+          0.61167857
+        ],
+        "mask_bbox": [
+          0.30150548,
+          0.56083571,
+          0.86598997,
+          0.61275
+        ],
+        "line_ids": [
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "• 当直译无法传达某些内容时，本地化能为目标受众保留原作的意图。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33827939,
+          0.56012143,
+          0.89630058,
+          0.61525
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33827939,
+          0.56012143,
+          0.89630058,
+          0.61525
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0262-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Different forms of translation have different limitations - games, for example, have technical, computer-related limitations that sometimes affect the final product, just as movie subtitles must be short and simple enough to be read in the time allotted",
+        "raw": "Different forms of translation have different limitations - games, for\nexample, have technical, computer-related limitations that sometimes\naffect the final product, just as movie subtitles must be short and simple\nenough to be read in the time allotted",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33876565,
+          0.62547857,
+          0.89328167,
+          0.69380714
+        ],
+        "mask_bbox": [
+          0.30199175,
+          0.62476429,
+          0.89459864,
+          0.69487857
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "• 不同形式的翻译有不同限制。例如，游戏会受电脑和技术条件影响；电影字幕则必须足够简短易读，让观众能在规定时间内看完。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33876565,
+          0.62405,
+          0.89630058,
+          0.69737857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.33876565,
+          0.62405,
+          0.89630058,
+          0.69737857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0262-b010",
+      "kind": "quote",
+      "source": {
+        "text": "Translation also involves psychological biases like \"imprinting\" and notions that a translation can only ever be inferior to the source material",
+        "raw": "Translation also involves psychological biases like \"imprinting\" and\nnotions that a translation can only ever be inferior to the source material",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33912022,
+          0.70858571,
+          0.89430486,
+          0.73857857
+        ],
+        "mask_bbox": [
+          0.30234632,
+          0.70787143,
+          0.89562183,
+          0.73965
+        ],
+        "line_ids": [
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "• 翻译也涉及心理偏见，比如“先入为主”，或认定译文必然不如原文。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33912022,
+          0.70715714,
+          0.89630058,
+          0.74215
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.33912022,
+          0.70715714,
+          0.89630058,
+          0.74215
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0262-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Translation theory is very different from translation reality - every translation decision has its own unique challenges with unique solutions",
+        "raw": "Translation theory is very different from translation reality - every\ntranslation decision has its own unique challenges with unique solutions",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33959636,
+          0.753,
+          0.89433525,
+          0.784
+        ],
+        "mask_bbox": [
+          0.30282246,
+          0.75228571,
+          0.89565222,
+          0.78507143
+        ],
+        "line_ids": [
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "• 翻译理论与实际操作差别很大。每个翻译选择都有独特的难题，也需要相应的解决办法。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33959636,
+          0.75157143,
+          0.89630058,
+          0.78757143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.33959636,
+          0.75157143,
+          0.89630058,
+          0.78757143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0262-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "I guess all of this is a fancy-pants way of saying that translation isn't black and white at all - it's more like red and green and yellow and smurple, all stuck together with melted bubble gum, motor oil, and that ball of tangled wires you keep in a box somewhere. Even so, a good translator can navigate the mess and make things work.",
+        "raw": "I guess all of this is a fancy-pants way of saying that translation isn't black and\nwhite at all - it's more like red and green and yellow and smurple, all stuck\ntogether with melted bubble gum, motor oil, and that ball of tangled wires you\nkeep in a box somewhere. Even so, a good translator can navigate the mess and\nmake things work.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2952752,
+          0.79943571,
+          0.89630058,
+          0.88494286
+        ],
+        "mask_bbox": [
+          0.28949065,
+          0.79872143,
+          0.89832669,
+          0.88601429
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "说了这么多，其实就是：翻译绝不是非黑即白。它更像红、绿、黄，再加上胡编的“什紫色”，被融化的泡泡糖、机油，还有你塞在某个盒子里的那团乱电线黏在一起。即便如此，优秀的译者依然能从这团乱麻中理出头绪，让作品顺利运转。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29335039,
+          0.79800714,
+          0.89630058,
+          0.88851429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0262-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29335039,
+          0.79800714,
+          0.89630058,
+          0.88851429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b4f8140fd55416d615103e849092ce57c1b2ed2bab9a666005d9cda270476da1"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          47
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.57,
+      884.75
+    ],
+    "text_runs": [
+      {
+        "id": "p0262-b006",
+        "blocks": [
+          "p0262-b006",
+          "p0262-b007",
+          "p0262-b008",
+          "p0262-b009",
+          "p0262-b010",
+          "p0262-b011",
+          "p0262-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

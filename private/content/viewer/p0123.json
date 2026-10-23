@@ -1,0 +1,642 @@
+{
+  "schema_version": 3,
+  "pdf_page": 123,
+  "printed_page": "123",
+  "title": "聚焦大阪",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    979.126623,
+    1400
+  ],
+  "physical_size_pt": [
+    497.76,
+    711.72
+  ],
+  "image_url": "/assets/p0123.jpg",
+  "image_sha256": "5db6fd0840e43f1fec9dd4371faee96e6dec8903a0abc7125e5b74a2288256c8",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0123/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0123-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Eye on Osaka",
+        "raw": "Eye on Osaka",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33180591,
+          0.08730714,
+          0.46794765,
+          0.10051429
+        ],
+        "mask_bbox": [
+          0.3304782,
+          0.08659286,
+          0.46927536,
+          0.10158571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "聚焦大阪",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.120515567,
+          0.076571429,
+          0.679176712,
+          0.100714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.100714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.120515567,
+          0.076571429,
+          0.679176712,
+          0.100714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 145
+    },
+    {
+      "id": "p0123-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Osaka is the name of a major city and a prefecture in western Japan. The Osaka metropolitan area is the second largest in Japan, after Tokyo.",
+        "raw": "Osaka is the name of a major city and a prefecture in western Japan. The\nOsaka metropolitan area is the second largest in Japan, after Tokyo.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12176158,
+          0.1155,
+          0.67610254,
+          0.14352857
+        ],
+        "mask_bbox": [
+          0.11932062,
+          0.11478571,
+          0.68179129,
+          0.1446
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "大阪是日本西部一座大城市及一个府的名称。大阪都市圈规模居日本第二，仅次于东京。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12176158,
+          0.11407143,
+          0.69858176,
+          0.1471
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.23,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12176158,
+          0.11407143,
+          0.69858176,
+          0.1471
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In broad terms, Japan can be divided into two cultural halves, with Osaka representing western Japan and Tokyo representing eastern Japan. This division includes language, too - the Japanese dialect associated with Osaka sounds significantly different from the more \"standardized\" Tokyo dialect.",
+        "raw": "In broad terms, Japan can be divided into two cultural halves, with Osaka\nrepresenting western Japan and Tokyo representing eastern Japan. This\ndivision includes language, too - the Japanese dialect associated with Osaka\nsounds significantly different from the more \"standardized\" Tokyo dialect.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12136326,
+          0.15664286,
+          0.67974865,
+          0.2204
+        ],
+        "mask_bbox": [
+          0.11932062,
+          0.15592857,
+          0.68179129,
+          0.22147143
+        ],
+        "line_ids": [
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "大致而言，日本文化可分为东西两部分，大阪代表西日本，东京代表东日本。语言也有这样的区分：大阪方言与较为“标准化”的东京方言，听起来有明显差异。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12136326,
+          0.15521429,
+          0.69858176,
+          0.22397143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.23,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0123-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.12136326,
+          0.15521429,
+          0.69858176,
+          0.22397143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b004",
+      "kind": "caption",
+      "source": {
+        "text": "1. Osaka",
+        "raw": "1. Osaka",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.23055241,
+          0.31226429,
+          0.31074633,
+          0.32603571
+        ],
+        "mask_bbox": [
+          0.22922469,
+          0.31155,
+          0.31207404,
+          0.32710714
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "1. 大阪",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.23055241,
+          0.31083571,
+          0.31074633,
+          0.32960714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.32740713857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.23055241,
+          0.31083571,
+          0.31074633,
+          0.32960714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b005",
+      "kind": "caption",
+      "source": {
+        "text": "2. Tokyo",
+        "raw": "2. Tokyo",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.23034814,
+          0.33031429,
+          0.30924499,
+          0.34282143
+        ],
+        "mask_bbox": [
+          0.22902043,
+          0.3296,
+          0.3105727,
+          0.34389286
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "2. 东京",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.23034814,
+          0.32888571,
+          0.30924499,
+          0.34688571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4421428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.23034814,
+          0.32888571,
+          0.30924499,
+          0.34688571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Osaka Castle, first built in 1583, is one of Japan's most famous landmarks",
+        "raw": "Osaka Castle, first built in 1583, is one of\nJapan's most famous landmarks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12662305,
+          0.73935714,
+          0.3820752,
+          0.76465714
+        ],
+        "mask_bbox": [
+          0.12529534,
+          0.73864286,
+          0.38340291,
+          0.76572857
+        ],
+        "line_ids": [
+          10,
+          12
+        ]
+      },
+      "translation": {
+        "text": "大阪城始建于1583年，是日本最著名的地标之一。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08476942,
+          0.73792857,
+          0.3908279,
+          0.76822857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7746857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08476942,
+          0.73792857,
+          0.3908279,
+          0.76822857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Osaka is home to Dotonbori, a famous tourist destination and entertainment district",
+        "raw": "Osaka is home to Dotonbori, a famous tourist\ndestination and entertainment district",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41592169,
+          0.73967857,
+          0.67954439,
+          0.765
+        ],
+        "mask_bbox": [
+          0.41459398,
+          0.73896429,
+          0.6808721,
+          0.76607143
+        ],
+        "line_ids": [
+          11,
+          13
+        ]
+      },
+      "translation": {
+        "text": "道顿堀位于大阪，是著名的旅游目的地和娱乐街区。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41125427,
+          0.73825,
+          0.69858176,
+          0.76857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7746857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41125427,
+          0.73825,
+          0.69858176,
+          0.76857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The city of Osaka is rich in culture and history. As a port city and a major financial center, Osaka is associated with commerce, merchants, and shipping. As the comedy capital of Japan, Osaka is where many comedians master their craft before breaking into the mainstream comedy circuit. Osaka is also famous for its food, and is sometimes referred to as \"the nation's kitchen\".",
+        "raw": "The city of Osaka is rich in culture and history. As a port city and a\nmajor financial center, Osaka is associated with commerce, merchants,\nand shipping. As the comedy capital of Japan, Osaka is where many\ncomedians master their craft before breaking into the mainstream\ncomedy circuit. Osaka is also famous for its food, and is sometimes\nreferred to as \"the nation's kitchen\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12236415,
+          0.78182857,
+          0.65750434,
+          0.88
+        ],
+        "mask_bbox": [
+          0.11932062,
+          0.78111429,
+          0.68179129,
+          0.88107143
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "大阪有丰富的文化和历史。作为港口城市和重要金融中心，大阪让人联想到商业、商人与航运。它也是日本的喜剧之都，许多喜剧演员在这里磨炼技艺，再进入主流喜剧圈。大阪还以美食闻名，有时被称为“天下的厨房”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12236415,
+          0.7804,
+          0.69858176,
+          0.88357143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12236415,
+          0.7804,
+          0.69858176,
+          0.88357143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0123-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64354291,
+          0.93559286,
+          0.70765107,
+          0.94557143
+        ],
+        "mask_bbox": [
+          0.6422152,
+          0.93487857,
+          0.70897878,
+          0.94664286
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64354291,
+          0.93416429,
+          0.70765107,
+          0.95216429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9521642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64354291,
+          0.93416429,
+          0.70765107,
+          0.95216429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1d3ba01b83b87af80810998861764ec1830fce8d2f26b9168b5de7f902803294"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [
+      {
+        "id": "p0123-b002",
+        "blocks": [
+          "p0123-b002",
+          "p0123-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 322.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

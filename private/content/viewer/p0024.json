@@ -1,0 +1,1085 @@
+{
+  "schema_version": 3,
+  "pdf_page": 24,
+  "printed_page": "24",
+  "title": "说话方式",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    989.500338,
+    1400
+  ],
+  "physical_size_pt": [
+    502.44,
+    710.88
+  ],
+  "image_url": "/assets/p0024.jpg",
+  "image_sha256": "0523c4e510a274d88f5f006f54a6dfdd68d9e54283d31a8daa278571a4121871",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0024/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0024-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Speech Patterns",
+        "raw": "Speech Patterns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28879222,
+          0.06266429,
+          0.45459307,
+          0.0756
+        ],
+        "mask_bbox": [
+          0.28747843,
+          0.06195,
+          0.45590687,
+          0.07667143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.05228571,
+          0.89963587,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.05228571,
+          0.89963587,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0024-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Naturally, a translator should strive to preserve what's being said. But it's often just as important to preserve how it's being said. Otherwise the resulting translation might become \"flattened\". A flattened translation lacks the original text's unique traits, can lead to confusion, and can cause key information to be lost.",
+        "raw": "Naturally, a translator should strive to preserve what's being said. But it's\noften just as important to preserve how it's being said. Otherwise the resulting\ntranslation might become \"flattened\". A flattened translation lacks the original\ntext's unique traits, can lead to confusion, and can cause key information to be\nlost.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28833745,
+          0.09091429,
+          0.8877814,
+          0.17654286
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.0902,
+          0.90165709,
+          0.17761429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "译者自然应尽力保留“说了什么”，但保留“怎么说”往往同样重要。否则，译文就可能被“磨平”：失去原文的独特之处，造成混淆，乃至丢掉关键信息。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.08948571,
+          0.89963587,
+          0.18011429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2526785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.08948571,
+          0.89963587,
+          0.18011429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Language-specific speech patterns are particularly tricky - and sometimes impossible - to preserve when jumping between languages. Here are a few speech patterns that can easily be lost in a literal translation.",
+        "raw": "Language-specific speech patterns are particularly tricky - and sometimes\nimpossible - to preserve when jumping between languages. Here are a few\nspeech patterns that can easily be lost in a literal translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28889328,
+          0.19083571,
+          0.8599896,
+          0.24002857
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.19012143,
+          0.90165709,
+          0.2411
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "某种语言独有的说话方式尤其难以跨越语言，有时根本无法保留。下面几种就很容易在直译中消失。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.18940714,
+          0.89963587,
+          0.2436
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2526785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0024-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.18940714,
+          0.89963587,
+          0.2436
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "Accents and Dialects",
+        "raw": "Accents and Dialects",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28901456,
+          0.25982143,
+          0.47942379,
+          0.27191429
+        ],
+        "mask_bbox": [
+          0.28770076,
+          0.25910714,
+          0.48073758,
+          0.27298571
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "口音与方言",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.24991429,
+          0.89963587,
+          0.27405715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2740571471428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.24991429,
+          0.89963587,
+          0.27405715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Some speech patterns have their own histories, backgrounds, and deep ties to specific regions of specific countries. These speech patterns convey extra information that give off a specific vibe not found anywhere else.",
+        "raw": "Some speech patterns have their own histories, backgrounds, and deep ties\nto specific regions of specific countries. These speech patterns convey extra\ninformation that give off a specific vibe not found anywhere else.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28963103,
+          0.28266429,
+          0.86767024,
+          0.33184286
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.28195,
+          0.90165709,
+          0.33291429
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "有些说话方式有自己的历史、背景，并与特定国家的特定地区紧密相连。它们能传达额外信息，带出其他地方没有的独特感觉。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.28123571,
+          0.89963587,
+          0.33541429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.42552143285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.28123571,
+          0.89963587,
+          0.33541429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "For example, there is no \"Boston accent\" in Japanese. There's no cowboy dialect, nor is there a \"Southern belle\" speech pattern. Similarly, there's no \"Heian era\" speech pattern or \"Kyoto accent\" in English. These speech patterns simply become flattened in a literal translation.",
+        "raw": "For example, there is no \"Boston accent\" in Japanese. There's no cowboy\ndialect, nor is there a \"Southern belle\" speech pattern. Similarly, there's no\n\"Heian era\" speech pattern or \"Kyoto accent\" in English. These speech patterns\nsimply become flattened in a literal translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28387054,
+          0.3475,
+          0.89329934,
+          0.41254286
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.34678571,
+          0.90165709,
+          0.41361429
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "例如，日语里没有“波士顿口音”，没有牛仔腔，也没有“美国南方淑女”的说话方式。同样，英语里没有“平安时代”的说话方式或“京都口音”。直译只会把这些特点磨平。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.34607143,
+          0.89963587,
+          0.41611429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.42552143285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0024-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.34607143,
+          0.89963587,
+          0.41611429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Pronouns",
+        "raw": "Pronouns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29101557,
+          0.43266429,
+          0.37771589,
+          0.44475714
+        ],
+        "mask_bbox": [
+          0.28970177,
+          0.43195,
+          0.37902968,
+          0.44582857
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "代词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.42275714,
+          0.89963587,
+          0.4469
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4468999971428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.42275714,
+          0.89963587,
+          0.4469
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Different languages use pronouns in different ways. For example, in English we only have \"I/me\" when referring to ourselves, but there are dozens of ways to say \"I\" in Japanese, each with a different connotation.",
+        "raw": "Different languages use pronouns in different ways. For example, in English we\nonly have \"I/me\" when referring to ourselves, but there are dozens of ways to\nsay \"I\" in Japanese, each with a different connotation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29033846,
+          0.45653571,
+          0.89463335,
+          0.50503571
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.45582143,
+          0.90165709,
+          0.50610714
+        ],
+        "line_ids": [
+          22,
+          24,
+          26
+        ]
+      },
+      "translation": {
+        "text": "不同语言使用代词的方式不同。例如英语用来指自己的只有 I/me，而日语说“我”的方式有几十种，各有不同意味。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.45510714,
+          0.89963587,
+          0.50860714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6638785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.45510714,
+          0.89963587,
+          0.50860714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Similarly, there are dozens of Japanese pronouns that mean \"you\" in the singular, but it's just as common to restate the listener's name every time instead of using a pronoun. In fact, it's perfectly normal to drop pronouns entirely in Japanese if it's clear who's being referred to. The Japanese phrase for \"I love you'', ai shiteiru, literally contains no pronouns, for instance.",
+        "raw": "Similarly, there are dozens of Japanese pronouns that mean \"you\" in the\nsingular, but it's just as common to restate the listener's name every time\ninstead of using a pronoun. In fact, it's perfectly normal to drop pronouns\nentirely in Japanese if it's clear who's being referred to. The Japanese phrase\nfor \"I love you'', ai shiteiru, literally contains no pronouns, for instance.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290581,
+          0.51966429,
+          0.87647267,
+          0.60632143
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.51895,
+          0.90165709,
+          0.60739286
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "日语同样有几十个单数“你”的说法，但每次直接叫对方的名字、不用代词，也很常见。只要指的是谁足够明确，日语完全省略代词也很正常。例如 ai shiteiru（我爱你），字面上就没有任何代词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 66,
+            "end": 77,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.51823571,
+          0.89963587,
+          0.60989286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6638785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0024-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.51823571,
+          0.89963587,
+          0.60989286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because every language uses pronouns in such different ways, dialogue and conversations risk being flattened when translated literally.",
+        "raw": "Because every language uses pronouns in such different ways, dialogue and\nconversations risk being flattened when translated literally.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29119748,
+          0.62062143,
+          0.86557828,
+          0.65155714
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.61990714,
+          0.90165709,
+          0.65262857
+        ],
+        "line_ids": [
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "由于各语言使用代词的方式差异很大，直译对白和对话就可能磨平它们的特点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.61919286,
+          0.89963587,
+          0.65512857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6638785728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0024-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.61919286,
+          0.89963587,
+          0.65512857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b011",
+      "kind": "subheading",
+      "source": {
+        "text": "Grammar",
+        "raw": "Grammar",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29160172,
+          0.67102143,
+          0.37915096,
+          0.68396429
+        ],
+        "mask_bbox": [
+          0.29028793,
+          0.67030714,
+          0.38046475,
+          0.68503571
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "语法",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.66196429,
+          0.89963587,
+          0.68610715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6861071471428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.66196429,
+          0.89963587,
+          0.68610715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "The same sentence can flow very differently in different languages. For example, English sentences generally go subject-verb-object, as in \"Bob ate a monkey\". But in Japanese, sentences tend to go subject-object-verb, as in \"Bob a monkey ate\". This difference can make a literal translation fall apart when a sentence is incomplete - which is extremely common in Japanese - or when timing is important.",
+        "raw": "The same sentence can flow very differently in different languages. For\nexample, English sentences generally go subject-verb-object, as in \"Bob ate a\nmonkey\". But in Japanese, sentences tend to go subject-object-verb, as in \"Bob\na monkey ate\". This difference can make a literal translation fall apart when a\nsentence is incomplete - which is extremely common in Japanese - or when\ntiming is important.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29076291,
+          0.6949,
+          0.89073239,
+          0.79909286
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.69418571,
+          0.90165709,
+          0.80016429
+        ],
+        "line_ids": [
+          39,
+          41,
+          43,
+          45,
+          47,
+          49
+        ]
+      },
+      "translation": {
+        "text": "同一句话在不同语言里的行进顺序可能大不相同。例如英语通常是主语—动词—宾语，像 Bob ate a monkey（Bob 吃了一只猴子）；日语则通常是主语—宾语—动词，相当于“Bob 一只猴子吃了”。遇到不完整的句子——日语里极为常见——或讲究时机的台词，这种差异就可能让直译失效。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.69347143,
+          0.89963587,
+          0.80266429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.69347143,
+          0.89963587,
+          0.80266429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Other aspects of grnmmar, such as gendered speech and politeness levels, also get flattened in a literal translation. Basically, grammar is a language's rulebook, but not every language plays by the same rules.",
+        "raw": "Other aspects of grnmmar, such as gendered speech and politeness levels, also\nget flattened in a literal translation. Basically, grammar is a language's rulebook,\nbut not every language plays by the same rules.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29215756,
+          0.81407143,
+          0.89963587,
+          0.86359286
+        ],
+        "mask_bbox": [
+          0.28184932,
+          0.81335714,
+          0.90165709,
+          0.86466429
+        ],
+        "line_ids": [
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "带有性别色彩的说话方式、礼貌程度等其他语法特点，也可能在直译中被磨平。语法就像一种语言的规则手册，但不是所有语言都按同一套规则行事。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29033846,
+          0.81264286,
+          0.89963587,
+          0.86716429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0024-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29033846,
+          0.81264286,
+          0.89963587,
+          0.86716429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b014",
+      "kind": "caption",
+      "source": {
+        "text": "Originally, this boss in Pocky and Rocky spoke with a heavy Japanese regional accent. This trait was left unlocalized in English, resulting in flattened dialogue",
+        "raw": "Originally, this boss in\nPocky and Rocky spoke\nwith a heavy Japanese\nregional accent. This\ntrait was left unlocalized\nin English, resulting in\nflattened dialogue",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11074276,
+          0.41982143,
+          0.26546732,
+          0.52385
+        ],
+        "mask_bbox": [
+          0.10942897,
+          0.41910714,
+          0.26678111,
+          0.52492143
+        ],
+        "line_ids": [
+          18,
+          20,
+          21,
+          23,
+          25,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "《Pocky and Rocky》的这个头目原本带有浓重的日本地方口音。英语版没有处理这一特点，台词的特色便被磨平了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11074276,
+          0.41839286,
+          0.26546732,
+          0.52742143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11074276,
+          0.41839286,
+          0.26546732,
+          0.52742143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0024-b015",
+      "kind": "caption",
+      "source": {
+        "text": "In some Japanese translations of the Harry Potter series, Voldemort uses the first-person pronoun ore-sama, the same pronoun that Wario uses",
+        "raw": "In some Japanese\ntranslations of the Harry\nPotter series, Voldemort\nuses the first-person\npronoun ore-sama, the\nsame pronoun that\nWario uses",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11551285,
+          0.67775714,
+          0.26582103,
+          0.78177143
+        ],
+        "mask_bbox": [
+          0.11419905,
+          0.67704286,
+          0.26713483,
+          0.78284286
+        ],
+        "line_ids": [
+          37,
+          38,
+          40,
+          42,
+          44,
+          46,
+          48
+        ]
+      },
+      "translation": {
+        "text": "一些《Harry Potter》的日语译本让 Voldemort 用 ore-sama（本大爷）自称，与 Wario 用的一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11551285,
+          0.67632857,
+          0.26582103,
+          0.78534286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11551285,
+          0.67632857,
+          0.26582103,
+          0.78534286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7d844292cd2c4fa93a2130798b9fbc3ef9857f233c0d212ab64f8f2392234771"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          53
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.29,
+      890.19
+    ],
+    "text_runs": [
+      {
+        "id": "p0024-b002",
+        "blocks": [
+          "p0024-b002",
+          "p0024-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 353.75
+      },
+      {
+        "id": "p0024-b005",
+        "blocks": [
+          "p0024-b005",
+          "p0024-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 595.73
+      },
+      {
+        "id": "p0024-b008",
+        "blocks": [
+          "p0024-b008",
+          "p0024-b009",
+          "p0024-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 929.43
+      },
+      {
+        "id": "p0024-b012",
+        "blocks": [
+          "p0024-b012",
+          "p0024-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

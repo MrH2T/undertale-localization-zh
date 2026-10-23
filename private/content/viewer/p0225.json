@@ -1,0 +1,116 @@
+{
+  "schema_version": 3,
+  "pdf_page": 225,
+  "printed_page": "225",
+  "title": "新家",
+  "subtitle": "新家 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    980.754971,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    712.08
+  ],
+  "image_url": "/assets/p0225.jpg",
+  "image_sha256": "c6cbcd0becd9a41972ff245507fb232016a697ba1253c73bd18737df0823972d",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0225/page.json",
+  "page_role": "chapter-title",
+  "blocks": [
+    {
+      "id": "p0225-b001",
+      "kind": "heading",
+      "source": {
+        "text": "New Home",
+        "raw": "New Home",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48197564,
+          0.91885714,
+          0.72708273,
+          0.94848571
+        ],
+        "mask_bbox": [
+          0.48065013,
+          0.91814286,
+          0.72840824,
+          0.94955714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "新家",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.48197564,
+          0.91742857,
+          0.72708273,
+          0.956
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9560000000000001,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.48197564,
+          0.91742857,
+          0.72708273,
+          0.956
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "074e8a02426458ded14b31aafd0a910b12cf86b85436dfebbc1c61a5de01397f"
+  },
+  "chapter_id": "chapter-224",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

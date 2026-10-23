@@ -1,0 +1,1004 @@
+{
+  "schema_version": 3,
+  "pdf_page": 86,
+  "printed_page": "86",
+  "title": "Toriel 的说话方式",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    983.389375,
+    1400
+  ],
+  "physical_size_pt": [
+    501.36,
+    713.76
+  ],
+  "image_url": "/assets/p0086.jpg",
+  "image_sha256": "20c29b6430222b235464eabe82c78194fb17c782e39c5767d550312cf190b588",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0086/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0086-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Toriel Speaks",
+        "raw": "Toriel Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29045463,
+          0.06622143,
+          0.42637231,
+          0.07981429
+        ],
+        "mask_bbox": [
+          0.28913267,
+          0.06550714,
+          0.42769427,
+          0.08088571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Toriel 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.05657143,
+          0.89765054,
+          0.08071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08071428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.05657143,
+          0.89765054,
+          0.08071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 117.0
+    },
+    {
+      "id": "p0086-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Random trivia: Toby pointed out in his notes that the name of this place, \"RUINS\", is a reference to Brandish",
+        "raw": "Random trivia: Toby\npointed out in his notes\nthat the name of this\nplace, \"RUINS\", is a\nreference to Brandish",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11873222,
+          0.09523571,
+          0.26393411,
+          0.16867857
+        ],
+        "mask_bbox": [
+          0.11741026,
+          0.09452143,
+          0.26525607,
+          0.16975
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "冷知识：Toby 在笔记里指出，这个地方名叫 RUINS（遗迹），是在致敬 Brandish。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11873222,
+          0.09380714,
+          0.26393411,
+          0.17225
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11873222,
+          0.09380714,
+          0.26393411,
+          0.17225
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A kind monster saves the main character from Flowey. This character serves as a guide through the dangerous ruins, further explains how Undertale's battle system works, and offers the main character a new home in the Underground.",
+        "raw": "A kind monster saves the main character from Flowey. This character serves as\na guide through the dangerous ruins, further explains how Undertale's battle\nsystem works, and offers the main character a new home in the Underground.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28959028,
+          0.23176429,
+          0.8932779,
+          0.28065
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.23105,
+          0.89968432,
+          0.28172143
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "一只善良的怪物从 Flowey 手中救下了主角。她带着主角穿过危险的遗迹，继续讲解 Undertale 的战斗系统，还愿意在地下世界给主角一个新家。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 42,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.23033571,
+          0.89765054,
+          0.28422143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.23033571,
+          0.89765054,
+          0.28422143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, this character is named \"Torie!\", a play on the word \"tutorial\". Fortunately, because the English word \"tutorial\" is already a part of the Japanese language, there was no need to localize Toriel's name into something else.",
+        "raw": "In English, this character is named \"Torie!\", a play on the word \"tutorial\".\nFortunately, because the English word \"tutorial\" is already a part of the Japanese\nlanguage, there was no need to localize Toriel's name into something else.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29186811,
+          0.29698571,
+          0.89535236,
+          0.34487143
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.29627143,
+          0.89968432,
+          0.34594286
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "英语版的 Toriel 是 tutorial（教程）的文字游戏。幸好 tutorial 早已成为日语借词，这个名字便无需另译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.29555714,
+          0.89765054,
+          0.34844286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0086-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.29555714,
+          0.89765054,
+          0.34844286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Torie! speaks with a polite, motherly tone. In Japanese, she uses an equivalent speaking style that conveys politeness and gentleness. She also uses the personal pronoun watashi, which portrays her as a polite, caring woman.",
+        "raw": "In English, Torie! speaks with a polite, motherly tone. In Japanese, she uses an\nequivalent speaking style that conveys politeness and gentleness. She also uses\nthe personal pronoun watashi, which portrays her as a polite, caring woman.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29186811,
+          0.36053571,
+          0.8924949,
+          0.40849286
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.35982143,
+          0.89968432,
+          0.40956429
+        ],
+        "line_ids": [
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "英语版中，Toriel 的语气礼貌而慈爱，像一位母亲。日语版也采用了相应的说话方式，表现出礼貌与温柔。她还用 watashi（我）自称，显得彬彬有礼、体贴关怀。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 55,
+            "end": 62,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.35910714,
+          0.89765054,
+          0.41206429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4207142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0086-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.35910714,
+          0.89765054,
+          0.41206429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Although nobody intended it, I like how Toriel's name contains the Japanese word torie (\"virtue; merit; redeeming feature\"). Toriel teaches the player how to be a good person in Undertale, so it's a nice, fitting coincidence.",
+        "raw": "Although nobody intended it, I like how Toriel's name contains the Japanese\nword torie (\"virtue; merit; redeeming feature\"). Toriel teaches the player\nhow to be a good person in Undertale, so it's a nice, fitting coincidence.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30969421,
+          0.43820714,
+          0.87660089,
+          0.48172143
+        ],
+        "mask_bbox": [
+          0.30837226,
+          0.43749286,
+          0.87792285,
+          0.48279286
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "虽然并非有意为之，但我很喜欢 Toriel 的名字里恰好包含日语 torie（长处、美德、可取之处）。Toriel 会教玩家在 Undertale 里做一个好人，这个巧合既美好，又贴切。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 73,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30969421,
+          0.43677857,
+          0.87660089,
+          0.48529286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4878571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.30969421,
+          0.43677857,
+          0.87660089,
+          0.48529286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Walk This Way",
+        "raw": "Walk This Way",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29294602,
+          0.5225,
+          0.43995798,
+          0.53608571
+        ],
+        "mask_bbox": [
+          0.29162406,
+          0.52178571,
+          0.44127994,
+          0.53715714
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "走这边",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.51228571,
+          0.89765054,
+          0.53642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5364285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.51228571,
+          0.89765054,
+          0.53642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 755.0
+    },
+    {
+      "id": "p0086-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Note how the Japanese text here is more complicated looking than Japanese dialogue in other screenshots - that's because it uses kanji much more heavily",
+        "raw": "Note how the Japanese\ntext here is more\ncomplicated looking\nthan Japanese dialogue\nin other screenshots\n- that's because it\nuses kanji much more\nheavily",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11915931,
+          0.55051429,
+          0.2658357,
+          0.67035714
+        ],
+        "mask_bbox": [
+          0.11783735,
+          0.5498,
+          0.26715766,
+          0.67142857
+        ],
+        "line_ids": [
+          20,
+          22,
+          25,
+          30,
+          33,
+          36,
+          42,
+          45
+        ]
+      },
+      "translation": {
+        "text": "这里的日语看起来比其他截图中的对白复杂，因为这段文字使用了更多汉字。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11915931,
+          0.54908571,
+          0.2658357,
+          0.67392857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11915931,
+          0.54908571,
+          0.2658357,
+          0.67392857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The first sign in the game offers a hint to a nearby puzzle:",
+        "raw": "The first sign in the game offers a hint to a nearby puzzle:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29282399,
+          0.69745714,
+          0.73115494,
+          0.70936429
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.69674286,
+          0.7324769,
+          0.71043571
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "游戏中的第一块告示牌，为附近的一道谜题提供了提示：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.69602857,
+          0.89765054,
+          0.71817143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.69602857,
+          0.89765054,
+          0.71817143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b010",
+      "kind": "quote",
+      "source": {
+        "text": "Only the fearless may proceed. Brave ones. Foolish ones. Both walk not the middle road.",
+        "raw": "Only the fearless may proceed. Brave ones. Foolish ones. Both walk not the\nmiddle road.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33813666,
+          0.72447143,
+          0.8873901,
+          0.75447857
+        ],
+        "mask_bbox": [
+          0.3368147,
+          0.72375714,
+          0.88871206,
+          0.75555
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "Only the fearless may proceed. Brave ones. Foolish ones. Both walk not the middle road.\n唯有无畏者方能前行。勇敢者。愚蠢者。两者都不走中间的路。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33813666,
+          0.72304286,
+          0.89765054,
+          0.75805
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0086-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.33813666,
+          0.72304286,
+          0.89765054,
+          0.75805
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "While working on this line, the translator noticed that it could also be interpreted as a subtle hint about the three different ways of playing Undertale: a difficult path that leads to a happy ending, a murderous path that leads to a bad ending, and a \"middle of the road\" path that leads to a mediocre ending.",
+        "raw": "While working on this line, the translator noticed that it could also be\ninterpreted as a subtle hint about the three different ways of playing Undertale:\na difficult path that leads to a happy ending, a murderous path that leads to a\nbad ending, and a \"middle of the road\" path that leads to a mediocre ending.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29290534,
+          0.76976429,
+          0.89765054,
+          0.83715
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.76905,
+          0.89968432,
+          0.83822143
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "翻译这段文字时，译者发现它也可以被理解成对 Undertale 三种玩法的隐晦提示：艰难的道路通向美好结局，杀戮的道路通向坏结局，而“走中间”的道路则通向平庸的结局。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 22,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.76833571,
+          0.89765054,
+          0.84072143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0086-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.76833571,
+          0.89765054,
+          0.84072143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0086-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although Toby didn't comment on this line's potential double-meaning, it so strongly parallels the literal meaning of the hint that both meanings can be inferred from the Japanese line too.",
+        "raw": "Although Toby didn't comment on this line's potential double-meaning, it so\nstrongly parallels the literal meaning of the hint that both meanings can be\ninferred from the Japanese line too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29199014,
+          0.85214286,
+          0.87572636,
+          0.90102143
+        ],
+        "mask_bbox": [
+          0.28755649,
+          0.85142857,
+          0.89968432,
+          0.90209286
+        ],
+        "line_ids": [
+          53,
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "Toby 没有评论这句话是否有这样的双重含义。不过，这层意思与谜题提示的字面含义高度吻合，因此日语台词也能让人读出这两层意思。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29186811,
+          0.85071429,
+          0.89765054,
+          0.90459286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0086-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29186811,
+          0.85071429,
+          0.89765054,
+          0.90459286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b5d82d5a9fead8741bdc018cd8e784fb3117ba21de1cfe9b7a523d9295d1e0ff"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          21
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.02,
+      882.74
+    ],
+    "text_runs": [
+      {
+        "id": "p0086-b003",
+        "blocks": [
+          "p0086-b003",
+          "p0086-b004",
+          "p0086-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 589.0
+      },
+      {
+        "id": "p0086-b009",
+        "blocks": [
+          "p0086-b009",
+          "p0086-b010",
+          "p0086-b011",
+          "p0086-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

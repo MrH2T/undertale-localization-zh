@@ -1,0 +1,1072 @@
+{
+  "schema_version": 3,
+  "pdf_page": 47,
+  "printed_page": "47",
+  "title": "反响",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:49:29.217593+00:00",
+  "reference_size": [
+    987.430497,
+    1400
+  ],
+  "physical_size_pt": [
+    502.32,
+    712.2
+  ],
+  "image_url": "/assets/p0047.jpg",
+  "image_sha256": "3cb4f1389dafe80570c466d272a89cd04a5ddee74cc3c07c78e692f57050237d",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0047/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0047-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Response",
+        "raw": "Response",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09993615,
+          0.05747857,
+          0.19694551,
+          0.07039286
+        ],
+        "mask_bbox": [
+          0.0986196,
+          0.05676429,
+          0.19826206,
+          0.07146429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "反响",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.04839286,
+          0.70563954,
+          0.07253572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07253571714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.04839286,
+          0.70563954,
+          0.07253572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "After its release in 2015, Undertale enjoyed major success in almost every way.",
+        "raw": "After its release in 2015, Undertale enjoyed major success in almost every way.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0969486,
+          0.08534286,
+          0.6944185,
+          0.0977
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.08462857,
+          0.707665,
+          0.09877143
+        ],
+        "line_ids": [
+          2
+        ]
+      },
+      "translation": {
+        "text": "2015年发行后，Undertale 几乎在各方面都大获成功。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.08391429,
+          0.70563954,
+          0.10605714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.08391429,
+          0.70563954,
+          0.10605714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sales-wise, Undertale was a clear success. Through word of mouth, the game sold over 500,000 copies in its first three months. That number has since reached into the millions - a level usually only achieved by industry titans like Nintendo and Sony.",
+        "raw": "Sales-wise, Undertale was a clear success. Through word of mouth, the game\nsold over 500,000 copies in its first three months. That number has since\nreached into the millions - a level usually only achieved by industry titans like\nNintendo and Sony.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09946016,
+          0.11297143,
+          0.6960895,
+          0.17925
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.11225714,
+          0.707665,
+          0.18032143
+        ],
+        "line_ids": [
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "销量上，它无疑取得了成功。靠玩家口口相传，前三个月就售出超过50万份；后来更达到数百万份，通常只有任天堂、索尼这样的业界巨头才做得到。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.11154286,
+          0.70563954,
+          0.18282143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.11154286,
+          0.70563954,
+          0.18282143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale also achieved critical success - the game received acclaim from game critics, reviewers, and industry veterans alike. News of Undertale's success even reached mainstream outlets, which led to further recognition outside gaming circles.",
+        "raw": "Undertale also achieved critical success - the game received acclaim from game\ncritics, reviewers, and industry veterans alike. News of Undertale's success\neven reached mainstream outlets, which led to further recognition outside\ngaming circles.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09919686,
+          0.19485714,
+          0.70563954,
+          0.26180714
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.19414286,
+          0.707665,
+          0.26287857
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "口碑也同样出色：游戏评论家、评测者和业界资深人士纷纷称赞。成功的消息甚至传进主流媒体，让游戏圈以外也有更多人认识了它。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.19342857,
+          0.70563954,
+          0.26537857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.19342857,
+          0.70563954,
+          0.26537857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b005",
+      "kind": "quote",
+      "source": {
+        "text": "'' It was a whispered reminder that great games can do more than impress with sheer complexity and breadth, they can also draw us in close to them as to engage with our humanity.\" - GIANT BOMB",
+        "raw": "'' It was a whispered reminder that great games can do more than impress\nwith sheer complexity and breadth, they can also draw us in close to them\nas to engage with our humanity.\" - GIANT BOMB",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10015895,
+          0.27742143,
+          0.68699519,
+          0.32618571
+        ],
+        "mask_bbox": [
+          0.0988424,
+          0.27670714,
+          0.68831174,
+          0.32725714
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.098234762,
+            0.273571429,
+            0.123553,
+            0.288571429
+          ],
+          "offset": [
+            -43.7077,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“它像一声低语，提醒我们：优秀游戏不只靠复杂与庞大令人惊叹，也能让我们亲近它，触动我们的人性。”——GIANT BOMB",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14249881,
+          0.27599286,
+          0.70563954,
+          0.32975714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.14249881,
+          0.27599286,
+          0.70563954,
+          0.32975714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b006",
+      "kind": "quote",
+      "source": {
+        "text": "'' Undertale is a post-modern masterpiece. Toby Fox, its creator, has produced a work of interactive narrative art that is moving, surreal - and fiendishly clever.\" - THE NATIONAL",
+        "raw": "'' Undertale is a post-modern masterpiece. Toby Fox, its creator, has produced\na work of interactive narrative art that is moving, surreal - and fiendishly\nclever.\" - THE NATIONAL",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1001792,
+          0.34279286,
+          0.70526483,
+          0.3902
+        ],
+        "mask_bbox": [
+          0.09886265,
+          0.34207857,
+          0.70658138,
+          0.39127143
+        ],
+        "line_ids": [
+          14,
+          15,
+          16
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.098234762,
+            0.338571429,
+            0.123553,
+            0.353571429
+          ],
+          "offset": [
+            -44.9264,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“Undertale 是一部后现代杰作。创作者 Toby Fox 制作了一件互动叙事艺术品，动人、超现实，而且聪明得惊人。”——THE NATIONAL",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14373308,
+          0.34136429,
+          0.70563954,
+          0.39377143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.14373308,
+          0.34136429,
+          0.70563954,
+          0.39377143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b007",
+      "kind": "quote",
+      "source": {
+        "text": "'' Toby Fox,forces us[. . ) to really think about why we do the things we do in games by utilizing a mix of humor, regret, and relationships to form one of the most important game releases of2 015.\" -VENTURE BEAT",
+        "raw": "'' Toby Fox,forces us[. . ) to really think about why we do the things we do in\ngames by utilizing a mix of humor, regret, and relationships to form one of\nthe most important game releases of2 015.\" -VENTURE BEAT",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10019946,
+          0.40615,
+          0.69495524,
+          0.4549
+        ],
+        "mask_bbox": [
+          0.09888291,
+          0.40543571,
+          0.69627179,
+          0.45597143
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.098234762,
+            0.402142857,
+            0.123553,
+            0.417142857
+          ],
+          "offset": [
+            -44.6512,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "“Toby Fox […] 将幽默、悔恨与人际关系结合，迫使我们认真思考自己为什么在游戏中这么做，成就了2015年最重要的游戏作品之一。”——VENTURE BEAT",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14345437,
+          0.40472143,
+          0.70563954,
+          0.45847143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.14345437,
+          0.40472143,
+          0.70563954,
+          0.45847143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Within months of its release, Undertale was nominated for dozens of industry accolades and even won a few:",
+        "raw": "Within months of its release, Undertale was nominated for dozens of industry\naccolades and even won a few:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09836642,
+          0.46985,
+          0.69109674,
+          0.50007143
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.46913571,
+          0.707665,
+          0.50114286
+        ],
+        "line_ids": [
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "发行几个月内，Undertale 获得数十项业界奖项提名，也赢下其中几项：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.46842143,
+          0.70563954,
+          0.50364286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.46842143,
+          0.70563954,
+          0.50364286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Nominated for Best RPG (THE GAME AWARDS, 2015) Runner-up for Best Indie (GLOBAL GAME AWARDS, 2015) Nominated for Outstanding Achievement in Game Direction (19TH ANNUAL D.l.C.E. AWAROS, 2016) Nominated for Best Story (12TH BRITJSH ACADEMY GAMES AWARDS, 2016) Winner of Audience Award (INDEPENDENT GAMES FESTIVAL AWARDS, 2016) Winner of Best Original Role Playing Game (NAVGTR AWARDS)",
+        "raw": "Nominated for Best RPG (THE GAME AWARDS, 2015)\nRunner-up for Best Indie (GLOBAL GAME AWARDS, 2015)\nNominated for Outstanding Achievement in Game Direction\n(19TH ANNUAL D.l.C.E. AWAROS, 2016)\nNominated for Best Story (12TH BRITJSH ACADEMY GAMES AWARDS, 2016)\nWinner of Audience Award (INDEPENDENT GAMES FESTIVAL AWARDS, 2016)\nWinner of Best Original Role Playing Game (NAVGTR AWARDS)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1437367,
+          0.51602143,
+          0.68243791,
+          0.63822143
+        ],
+        "mask_bbox": [
+          0.10697462,
+          0.51530714,
+          0.68375445,
+          0.63929286
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "• 最佳角色扮演游戏提名（THE GAME AWARDS，2015）\n• 最佳独立游戏亚军（GLOBAL GAME AWARDS，2015）\n• 游戏导演杰出成就奖提名（第19届 D.I.C.E. AWARDS，2016）\n• 最佳故事提名（第12届英国学院游戏奖，2016）\n• 观众选择奖获奖（独立游戏节奖，2016）\n• 最佳原创角色扮演游戏获奖（NAVGTR AWARDS）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1437367,
+          0.51459286,
+          0.70563954,
+          0.64179286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.1437367,
+          0.51459286,
+          0.70563954,
+          0.64179286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0047-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale was also a hit with players. A massive fan following grew overnight. Undertale costumes were suddenly everywhere. Undertale concerts with full symphony orchestras were held around the world. Countless Undertale fan games and Undertale-inspired games were shared online. Even sketchy bootleg companies began pumping out every type of poor quality Undertale merchandise imaginable.",
+        "raw": "Undertale was also a hit with players. A massive fan following grew overnight.\nUndertale costumes were suddenly everywhere. Undertale concerts with\nfull symphony orchestras were held around the world. Countless Undertale\nfan games and Underta/e-inspired games were shared online. Even sketchy\nbootleg companies began pumping out every type of poor quality Undertale\nmerchandise imaginable.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09965258,
+          0.65349286,
+          0.69284876,
+          0.75751429
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.65277857,
+          0.707665,
+          0.75858571
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "玩家也爱上了 Undertale。庞大的爱好者群体一夜间形成，角色扮演服装突然随处可见；完整交响乐团演奏的音乐会在世界各地举办；无数同人游戏、受其启发的游戏出现在网上。连可疑的盗版商家都开始大量制造各种想得到的劣质 Undertale 周边。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 108,
+            "end": 117,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.65206429,
+          0.70563954,
+          0.76108571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.65206429,
+          0.70563954,
+          0.76108571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "At the same time, fans around the world clamored to play Undertale in their native languages. Before long, fans translated the game into over a dozen languages. These unofficial translations helped non-English speakers experience the game, which led to further recognition and success.",
+        "raw": "At the same time, fans around the world clamored to play Undertale in\ntheir native languages. Before long, fans translated the game into over a\ndozen languages. These unofficial translations helped non-English speakers\nexperience the game, which led to further recognition and success.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09838667,
+          0.77245,
+          0.67797177,
+          0.84042143
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.77173571,
+          0.707665,
+          0.84149286
+        ],
+        "line_ids": [
+          35,
+          36,
+          38,
+          40
+        ]
+      },
+      "translation": {
+        "text": "与此同时，世界各地的玩家纷纷希望用母语游玩。不久，玩家就将游戏译成了十几种语言。这些非官方译版让不懂英语的人也能体验游戏，进一步带来关注与成功。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.77102143,
+          0.70563954,
+          0.84399286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.77102143,
+          0.70563954,
+          0.84399286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, Undertale was a big deal for many people: fans, critics, the game industry, and, of course, Toby himself.",
+        "raw": "In short, Undertale was a big deal for many people: fans, critics, the game\nindustry, and, of course, Toby himself.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0997336,
+          0.85535,
+          0.65559045,
+          0.88625
+        ],
+        "mask_bbox": [
+          0.09492314,
+          0.85463571,
+          0.707665,
+          0.88732143
+        ],
+        "line_ids": [
+          43,
+          45
+        ]
+      },
+      "translation": {
+        "text": "总之，对玩家、评论者、游戏业界，当然还有 Toby 本人而言，Undertale 都是一件大事。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 31,
+            "end": 40,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09919686,
+          0.85392143,
+          0.70563954,
+          0.88982143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0047-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09919686,
+          0.85392143,
+          0.70563954,
+          0.88982143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b013",
+      "kind": "caption",
+      "source": {
+        "text": "You know you've hit it big when the ideas that came out of your brain have suddenly taken on bootleg form",
+        "raw": "You know you've hit\nit big when the ideas\nthat came out of your\nbrain have suddenly\ntaken on bootleg form",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73379342,
+          0.80118571,
+          0.87085623,
+          0.87469286
+        ],
+        "mask_bbox": [
+          0.73247687,
+          0.80047143,
+          0.87217278,
+          0.87576429
+        ],
+        "line_ids": [
+          37,
+          39,
+          41,
+          42,
+          44
+        ]
+      },
+      "translation": {
+        "text": "当你脑中的点子突然有了盗版实物，你就知道自己真的红了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73379342,
+          0.79975714,
+          0.87085623,
+          0.87826429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73379342,
+          0.79975714,
+          0.87085623,
+          0.87826429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0047-b014",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65426377,
+          0.93360714,
+          0.70700672,
+          0.94315714
+        ],
+        "mask_bbox": [
+          0.65294722,
+          0.93289286,
+          0.70832327,
+          0.94422857
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65426377,
+          0.93217857,
+          0.70700672,
+          0.95017857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9501785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65426377,
+          0.93217857,
+          0.70700672,
+          0.95017857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "851cc369fce9497e126d319a07488010ba304fc659b7d5690a780de82fbc0401"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          46
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      97.95,
+      696.77
+    ],
+    "text_runs": [
+      {
+        "id": "p0047-b002",
+        "blocks": [
+          "p0047-b002",
+          "p0047-b003",
+          "p0047-b004",
+          "p0047-b005",
+          "p0047-b006",
+          "p0047-b007",
+          "p0047-b008",
+          "p0047-b009",
+          "p0047-b010",
+          "p0047-b011",
+          "p0047-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

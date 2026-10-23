@@ -1,0 +1,957 @@
+{
+  "schema_version": 3,
+  "pdf_page": 199,
+  "printed_page": "199",
+  "title": "Banana 的引用",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:49:29.225866+00:00",
+  "reference_size": [
+    983.771044,
+    1400
+  ],
+  "physical_size_pt": [
+    500.88,
+    712.8
+  ],
+  "image_url": "/assets/p0199.jpg",
+  "image_sha256": "0e658416888b3527e38bcad023ab23fb42079540d39a7b7dcbab2801d1343631",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0199/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0199-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Going Bananas",
+        "raw": "Going Bananas",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09602844,
+          0.0653,
+          0.25092221,
+          0.07848571
+        ],
+        "mask_bbox": [
+          0.094707,
+          0.06458571,
+          0.25224365,
+          0.07955714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Banana 的引用",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0966485,
+          0.05514286,
+          0.71126306,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0966485,
+          0.05514286,
+          0.71126306,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115.0
+    },
+    {
+      "id": "p0199-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Toby wasn't picky about this Japanese text being an exact quote from Kitchen",
+        "raw": "Toby wasn't picky\nabout this Japanese\ntext being an exact\nquote from Kitchen",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73250784,
+          0.09358571,
+          0.85489404,
+          0.15108571
+        ],
+        "mask_bbox": [
+          0.73118639,
+          0.09287143,
+          0.85621548,
+          0.15215714
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "Toby 并不要求这些日文逐字引用《厨房》。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73250784,
+          0.09215714,
+          0.88310288,
+          0.15465714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3874500028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73250784,
+          0.09215714,
+          0.88310288,
+          0.15465714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Two royal guards in Hotland block the way forward. Using patience and the proper choices, the player can convince the guards to reveal their hidden feelings for each other. During this process, using the \"Check\" command on the guards reveals two new descriptions:",
+        "raw": "Two royal guards in Hotland block the way forward. Using patience and the\nproper choices, the player can convince the guards to reveal their hidden\nfeelings for each other. During this process, using the \"Check\" command on the\nguards reveals two new descriptions:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.095693,
+          0.2397,
+          0.70557068,
+          0.30597143
+        ],
+        "mask_bbox": [
+          0.09366,
+          0.23898571,
+          0.71329605,
+          0.30704286
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "热域的两名皇家卫兵挡住了去路。只要耐心选择合适的行动，玩家就能让他们坦白对彼此隐藏的感情。过程中使用“查看”指令，会出现两条新描述：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0966485,
+          0.23827143,
+          0.71126306,
+          0.30954286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3881071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0966485,
+          0.23827143,
+          0.71126306,
+          0.30954286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b004",
+      "kind": "quote",
+      "source": {
+        "text": "I see two lovers staring over the edge of the cauldron of hell.",
+        "raw": "I see two lovers staring over the edge of the cauldron of hell.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14009357,
+          0.32198571,
+          0.58353008,
+          0.33432857
+        ],
+        "mask_bbox": [
+          0.13877213,
+          0.32127143,
+          0.58485153,
+          0.3354
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "我看见两个恋人，正探头望向地狱大锅的边缘。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14009357,
+          0.32055714,
+          0.71126306,
+          0.34114643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3881071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0199-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.14009357,
+          0.32055714,
+          0.71126306,
+          0.34114643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Do they both wish for death? That means their love will end in hell. I couldn't stop laughing.",
+        "raw": "Do they both wish for death? That means their love will end in hell. I\ncouldn't stop laughing.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.140551,
+          0.34925714,
+          0.64857571,
+          0.37978571
+        ],
+        "mask_bbox": [
+          0.13922955,
+          0.34854286,
+          0.64989715,
+          0.38085714
+        ],
+        "line_ids": [
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "他们都想死吗？那他们的爱情就会在地狱里结束。我笑个不停。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.140551,
+          0.34782857,
+          0.71126306,
+          0.38335714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3881071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0199-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.140551,
+          0.34782857,
+          0.71126306,
+          0.38335714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that these are indirect, inaccurate quotes from the English translation of Kitchen, a famous novel by Japanese author Banana Yoshimoto. The exact English quote from Kitchen is:",
+        "raw": "Toby noted that these are indirect, inaccurate quotes\nfrom the English translation of Kitchen, a famous\nnovel by Japanese author Banana Yoshimoto. The\nexact English quote from Kitchen is:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09617075,
+          0.39525,
+          0.49981142,
+          0.46226429
+        ],
+        "mask_bbox": [
+          0.09366,
+          0.39453571,
+          0.50113286,
+          0.46333571
+        ],
+        "line_ids": [
+          24,
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，这些是对日本作家 Banana Yoshimoto 的名作《厨房》英译本的间接、不精确引用。英译本的准确原文大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.095693,
+          0.39382143,
+          0.49981142,
+          0.46583571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5897928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.095693,
+          0.39382143,
+          0.49981142,
+          0.46583571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b007",
+      "kind": "aside",
+      "source": {
+        "text": "I didn't know we could put our nickname for our first name on stuff, I guess that makes me Tomato Mandelin!",
+        "raw": "I didn't know we could\nput our nickname for\nour first name on stuff,\nI guess that makes me\nTomato Mandelin!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73296526,
+          0.39459286,
+          0.87617948,
+          0.4686
+        ],
+        "mask_bbox": [
+          0.73164382,
+          0.39387857,
+          0.87750092,
+          0.46967143
+        ],
+        "line_ids": [
+          23,
+          26,
+          28,
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "原来可以把昵称当名字印在书上，那我就是 Tomato Mandelin（番茄 Mandelin）啦！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73296526,
+          0.39316429,
+          0.88310288,
+          0.47217143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73296526,
+          0.39316429,
+          0.88310288,
+          0.47217143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b008",
+      "kind": "quote",
+      "source": {
+        "text": "'' Although I had been earnestly daydreaming until then, I suddenly started to laugh. \"I see two lovers looking over the edge of the cauldron of hell. Are they contemplating a double suicide? This means their love will end in hell.\" I couldn't stop laughing.",
+        "raw": "'' Although I had been earnestly daydreaming\nuntil then, I suddenly started to laugh. \"I see two\nlovers looking over the edge of the cauldron of\nhell. Are they contemplating a double suicide?\nThis means their love will end in hell.\" I couldn't\nstop laughing.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0980716,
+          0.4782,
+          0.50497522,
+          0.58146429
+        ],
+        "mask_bbox": [
+          0.09675015,
+          0.47748571,
+          0.50629667,
+          0.58253571
+        ],
+        "line_ids": [
+          33,
+          34,
+          35,
+          36,
+          37,
+          38
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.096567185,
+            0.474285714,
+            0.121979602,
+            0.489285714
+          ],
+          "offset": [
+            -41.9753,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "此前我还认真地做着白日梦，却突然笑了起来。“我看见两个恋人，正探头望向地狱大锅的边缘。他们在考虑殉情吗？那他们的爱情就会在地狱里结束。”我笑个不停。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13923495,
+          0.47677143,
+          0.50497522,
+          0.58503571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5897928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0199-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.13923495,
+          0.47677143,
+          0.50497522,
+          0.58503571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Under normal circumstances, a professional translator would've immediately looked for the equivalent lines from the Japanese version of Kitchen. However, Toby specifically noted that he considered this text an \"in-joke between friends\" and that \"since it's just a joke, you don't have to find the original\". He further emphasized this attitude elsewhere in the spreadsheet by saying \"Another Banana Yoshimoto reference. Again, I don't care that much\".",
+        "raw": "Under normal circumstances, a professional translator would've immediately\nlooked for the equivalent lines from the Japanese version of Kitchen. However,\nToby specifically noted that he considered this text an \"in-joke between friends\"\nand that \"since it's just a joke, you don't have to find the original\". He further\nemphasized this attitude elsewhere in the spreadsheet by saying \"Another\nBanana Yoshimoto reference. Again, I don't care that much\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0966485,
+          0.59693571,
+          0.71126306,
+          0.70058571
+        ],
+        "mask_bbox": [
+          0.09366,
+          0.59622143,
+          0.71329605,
+          0.70165714
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "通常，专业译者会立刻去日文版《厨房》里寻找对应原句。但 Toby 特别说明，他把这段当成“朋友之间的内部笑话”，“既然只是个玩笑，就不用找原文了”。他在表格另一处又强调：“又是个吉本芭娜娜的引用。我还是没那么在意。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0966485,
+          0.59550714,
+          0.71126306,
+          0.70415714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.0966485,
+          0.59550714,
+          0.71126306,
+          0.70415714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's translator honored Toby's unusual wish and translated the guards' indirect English quotes back into Japanese as-is. This resulted in Japanese text that is recognizable as a Kitchen reference, but with noticeably different wording.",
+        "raw": "Undertale's translator honored Toby's unusual wish and translated the guards'\nindirect English quotes back into Japanese as-is. This resulted in Japanese\ntext that is recognizable as a Kitchen reference, but with noticeably different\nwording.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09677048,
+          0.71624286,
+          0.69442987,
+          0.78341429
+        ],
+        "mask_bbox": [
+          0.09366,
+          0.71552857,
+          0.71329605,
+          0.78448571
+        ],
+        "line_ids": [
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》的译者尊重了 Toby 这个不寻常的愿望，把卫兵那几句不精确的英文照样译回日语。结果仍能看出是在引用《厨房》，但措辞明显不同。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0966485,
+          0.71481429,
+          0.71126306,
+          0.78698571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0199-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.0966485,
+          0.71481429,
+          0.71126306,
+          0.78698571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Normally, skilled translators will go out of their way to retain jokes and references, as it's assumed that the original author considered them important enough to use. As such, it's rare to encounter a situation like this, in which the author is actually so unattached to a reference that the translators are asked to skip it! Toby truly is the king of crazy exceptions.",
+        "raw": "Normally, skilled translators will go out of their way to retain jokes and\nreferences, as it's assumed that the original author considered them\nimportant enough to use. As such, it's rare to encounter a situation like\nthis, in which the author is actually so unattached to a reference that the\ntranslators are asked to skip it! Toby truly is the king of crazy exceptions.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11543336,
+          0.81074286,
+          0.66798063,
+          0.88510714
+        ],
+        "mask_bbox": [
+          0.11411192,
+          0.81002857,
+          0.66930207,
+          0.88617857
+        ],
+        "line_ids": [
+          49,
+          50,
+          51,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "熟练的译者通常会特意保留笑话和引用，因为原作者既然用了，就应该认为它们值得保留。因此，这种情况很罕见：作者对某处引用竟如此不在意，反而要求译者跳过它！Toby 真是各种离奇例外之王。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11543336,
+          0.80931429,
+          0.66798063,
+          0.88867857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8921428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11543336,
+          0.80931429,
+          0.66798063,
+          0.88867857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0199-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64985649,
+          0.94079286,
+          0.70764433,
+          0.95047143
+        ],
+        "mask_bbox": [
+          0.64853505,
+          0.94007857,
+          0.70896577,
+          0.95154286
+        ],
+        "line_ids": [
+          55
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64985649,
+          0.93936429,
+          0.70764433,
+          0.95736429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9573642857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64985649,
+          0.93936429,
+          0.70764433,
+          0.95736429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "afe0abbab3770d5e22e32c6de9b4dd50b6e267d7038ad2b6970139313b5d7cc3"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.08,
+      699.72
+    ],
+    "text_runs": [
+      {
+        "id": "p0199-b003",
+        "blocks": [
+          "p0199-b003",
+          "p0199-b004",
+          "p0199-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 543.35
+      },
+      {
+        "id": "p0199-b006",
+        "blocks": [
+          "p0199-b006",
+          "p0199-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 825.71
+      },
+      {
+        "id": "p0199-b009",
+        "blocks": [
+          "p0199-b009",
+          "p0199-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1110.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

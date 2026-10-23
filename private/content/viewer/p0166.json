@@ -1,0 +1,701 @@
+{
+  "schema_version": 3,
+  "pdf_page": 166,
+  "printed_page": "166",
+  "title": "Gerson 的说话方式",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    983.20971,
+    1400
+  ],
+  "physical_size_pt": [
+    499.92,
+    711.84
+  ],
+  "image_url": "/assets/p0166.jpg",
+  "image_sha256": "4c14fd3ac8fc9414689cfdad0262fd171a626da62f19cb1b6682346e2914909b",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0166/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0166-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Gerson Speaks",
+        "raw": "Gerson Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29498285,
+          0.06952857,
+          0.44679176,
+          0.08259286
+        ],
+        "mask_bbox": [
+          0.29366065,
+          0.06881429,
+          0.44811396,
+          0.08366429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Gerson 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30890663,
+          0.058714286,
+          0.895577,
+          0.082857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.082857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30890663,
+          0.058714286,
+          0.895577,
+          0.082857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 120
+    },
+    {
+      "id": "p0166-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Gerson uses the pronoun ワシ (washi), which is associated with elderly characters in Japanese entertainment.",
+        "raw": "Gerson uses the\npronoun '7 ':/ (washi),\nwhich is associated\nwith elderly\ncharacters in Japanese\nentertainment",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.12657523,
+          0.09895714,
+          0.26854902,
+          0.18581429
+        ],
+        "mask_bbox": [
+          0.12525303,
+          0.09824286,
+          0.26987122,
+          0.18688571
+        ],
+        "line_ids": [
+          2,
+          3,
+          7,
+          10,
+          13,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Gerson 使用“ワシ”（washi，我），这是日本娱乐作品中常与老年角色联系在一起的自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11696386,
+          0.09752857,
+          0.28347971,
+          0.18938571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11696386,
+          0.09752857,
+          0.28347971,
+          0.18938571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "An elderly turtle named Gerson runs a shop in Waterfall. In English, he speaks like a kooky old man. This attribute was retained in Japanese by giving him an equivalent \"stereotypical old person\" speaking style. Gerson also uses the Japanese pronoun washi, which is commonly used by old characters in Japanese entertainment.",
+        "raw": "An elderly turtle named Gerson runs a shop in Waterfall. In English, he speaks\nlike a kooky old man. This attribute was retained in Japanese by giving him\nan equivalent \"stereotypical old person\" speaking style. Gerson also uses\nthe Japanese pronoun washi, which is commonly used by old characters in\nJapanese entertainment.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29376236,
+          0.27083571,
+          0.895577,
+          0.35635714
+        ],
+        "mask_bbox": [
+          0.2917282,
+          0.27012143,
+          0.89761115,
+          0.35742857
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "年迈的乌龟 Gerson 在瀑布开店。英语里，他像个古怪老头一样说话。日语通过相应的“典型老人”口吻保留了这个特点。Gerson 还使用日语第一人称 washi（我），这也是日本娱乐作品中老年角色常用的自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 75,
+            "end": 80,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29376236,
+          0.26940714,
+          0.895577,
+          0.35992857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.36642857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29376236,
+          0.26940714,
+          0.895577,
+          0.35992857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b004",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Personal Pronouns: washi",
+        "raw": "Japanese Personal Pronouns: washi",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41614723,
+          0.38862857,
+          0.78492919,
+          0.40295714
+        ],
+        "mask_bbox": [
+          0.41482503,
+          0.38791429,
+          0.78625139,
+          0.40402857
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：washi",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.328515877,
+          0.378714286,
+          0.878754544,
+          0.402857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.402857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.328515877,
+          0.378714286,
+          0.878754544,
+          0.402857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 568
+    },
+    {
+      "id": "p0166-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In everyday Japanese, the personal pronoun washi is strongly associated with older people and parts of western Japan. In Japanese entertainment, washi can also lend a very \"traditional Japanese culture\" vibe to samurai warriors, sumo wrestlers, etc. Some familiar washi users include:",
+        "raw": "In everyday Japanese, the personal pronoun washi is strongly associated\nwith older people and parts of western Japan. In Japanese entertainment,\nwashi can also lend a very \"traditional Japanese culture\" vibe to samurai\nwarriors, sumo wrestlers, etc. Some familiar washi users include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32405091,
+          0.41757143,
+          0.88074801,
+          0.48098571
+        ],
+        "mask_bbox": [
+          0.32272871,
+          0.41685714,
+          0.88207021,
+          0.48205714
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "日常日语中，washi（我）与老年人及日本西部部分地区的说话习惯联系紧密。在日本娱乐作品里，武士、相扑力士等角色用 washi 自称，还能带出浓厚的“日本传统文化”气息。熟悉的例子包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 58,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30890663,
+          0.41614286,
+          0.895577,
+          0.48455714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4907142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30890663,
+          0.41614286,
+          0.895577,
+          0.48455714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Master Roshi (Dragon Ball series)",
+        "raw": "Master Roshi\n(Dragon Ball series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.39570398,
+          0.66031429,
+          0.5152919,
+          0.68462857
+        ],
+        "mask_bbox": [
+          0.39438178,
+          0.6596,
+          0.5166141,
+          0.6857
+        ],
+        "line_ids": [
+          40,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Master Roshi（龟仙人）\n（《龙珠》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30890663,
+          0.65888571,
+          0.59167693,
+          0.6882
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30890663,
+          0.65888571,
+          0.59167693,
+          0.6882
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Cranky Kong (Super Donkey Kong/ Donkey Kong Country series)",
+        "raw": "Cranky Kong (Super Donkey Kong/\nDonkey Kong Country series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64214175,
+          0.65965,
+          0.85425316,
+          0.68462857
+        ],
+        "mask_bbox": [
+          0.64081955,
+          0.65893571,
+          0.85557536,
+          0.6857
+        ],
+        "line_ids": [
+          41,
+          43
+        ]
+      },
+      "translation": {
+        "text": "Cranky Kong（Super Donkey Kong／\nDonkey Kong Country 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 31,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61228036,
+          0.65857143,
+          0.89604485,
+          0.69214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61228036,
+          0.65857143,
+          0.89604485,
+          0.69214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Old Woman in Kakariko Village (The Legend of Zelda series)",
+        "raw": "Old Woman in Kakariko Village\n(The Legend of Zelda series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.36036056,
+          0.86700714,
+          0.55216094,
+          0.89131429
+        ],
+        "mask_bbox": [
+          0.35903836,
+          0.86629286,
+          0.55348314,
+          0.89238571
+        ],
+        "line_ids": [
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "卡卡利科村的老妇人\n（《塞尔达传说》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32953295,
+          0.86557857,
+          0.58075098,
+          0.89488571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9042857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.32953295,
+          0.86557857,
+          0.58075098,
+          0.89488571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0166-b009",
+      "kind": "caption",
+      "source": {
+        "text": "E. Honda (Street Fighter series)",
+        "raw": "E. Honda\n(Street Fighter series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.68375037,
+          0.86700714,
+          0.81292932,
+          0.89131429
+        ],
+        "mask_bbox": [
+          0.68242817,
+          0.86629286,
+          0.81425152,
+          0.89238571
+        ],
+        "line_ids": [
+          45,
+          47
+        ]
+      },
+      "translation": {
+        "text": "E. Honda\n（《街头霸王》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61247107,
+          0.86557857,
+          0.895577,
+          0.89488571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9042857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61247107,
+          0.86557857,
+          0.895577,
+          0.89488571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3a42b4a40cdd62dc52efaa860bf53cfd87c0ecbbcfc4c2e4cc08fe910e8dbaa4"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          4,
+          5,
+          6,
+          8,
+          9,
+          11,
+          12,
+          14,
+          15,
+          16,
+          17,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          48
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      303.72,
+      880.54
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,879 @@
+{
+  "schema_version": 3,
+  "pdf_page": 88,
+  "printed_page": "88",
+  "title": "获得“决心”",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.723421+00:00",
+  "reference_size": [
+    981.965826,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    709.32
+  ],
+  "image_url": "/assets/p0088.jpg",
+  "image_sha256": "6ccf68970f8b44978482e00a495102df7d2198a99ff675eac1102ec95bb89d70",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0088/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0088-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Getting Determination",
+        "raw": "Getting Determination",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29060074,
+          0.06224286,
+          0.52913247,
+          0.07591429
+        ],
+        "mask_bbox": [
+          0.28927687,
+          0.06152857,
+          0.53045634,
+          0.07698571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "获得“决心”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.05228571,
+          0.90355487,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.05228571,
+          0.90355487,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111
+    },
+    {
+      "id": "p0088-b002",
+      "kind": "caption",
+      "source": {
+        "text": "It was clear to ~ everyone involved that \"determination\" represented one of the biggest translation choices in the entire game",
+        "raw": "It was clear to ~\neveryone involved\nthat \"determination\"\nrepresented one of the\nbiggest translation\nchoices in the entire\ngame",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12202054,
+          0.09199286,
+          0.27883862,
+          0.19607857
+        ],
+        "mask_bbox": [
+          0.12069666,
+          0.09127857,
+          0.2801625,
+          0.19715
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          11
+        ]
+      },
+      "translation": {
+        "text": "所有参与者都很清楚，determination（决心）的译法是整部游戏最重要的翻译选择之一。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12202054,
+          0.09056429,
+          0.27883862,
+          0.19965
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4790428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12202054,
+          0.09056429,
+          0.27883862,
+          0.19965
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "One of the most important concepts in Undertale is known as \"determination''. At first, the use of this word doesn't seem particularly noteworthy, but its sig11ificance grows as the game progresses. The word also carries several extra meanings unique to Undertale, so Toby naturally left many notes about it.",
+        "raw": "One of the most important concepts in Undertale is known as \"determination''.\nAt first, the use of this word doesn't seem particularly noteworthy, but its\nsig11ificance grows as the game progresses. The word also carries several extra\nmeanings unique to Undertale, so Toby naturally left many notes about it.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28939907,
+          0.24640714,
+          0.89555051,
+          0.31463571
+        ],
+        "mask_bbox": [
+          0.28736234,
+          0.24569286,
+          0.9055916,
+          0.31570714
+        ],
+        "line_ids": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Undertale 中最重要的概念之一叫作 determination（决心）。起初，这个词的使用似乎没什么特别，但随着游戏推进，它的重要性越来越明显。这个词在 Undertale 中还包含几层独特的含义，因此 Toby 自然为它留下了大量笔记。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 81,
+            "end": 90,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.24497857,
+          0.90355487,
+          0.31820714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4496000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.24497857,
+          0.90355487,
+          0.31820714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "There are multiple words that can mean \"determination\" in Japanese, but none contain the multiple meanings behind Undertale's \"determination\". For the localization team, this meant that certain things would be lost in translation no matter what. The term still needed to be translated into something, though, so after some discussion, the team settled on the word ketsui (\"determination; resolve; decisiveness; a made-up mind\") for Undertale's \"determination\".",
+        "raw": "There are multiple words that can mean \"determination\" in Japanese, but none\ncontain the multiple meanings behind Underta/e's \"determination\". For the\nlocalization team, this meant that certain things would be lost in translation\nno matter what. The term still needed to be translated into something, though,\nso after some discussion, the team settled on the word ketsui (\"determination;\nresolve; decisiveness; a made-up mind\") for Underta/e's \"determination\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29120158,
+          0.32963571,
+          0.90154869,
+          0.43341429
+        ],
+        "mask_bbox": [
+          0.28736234,
+          0.32892143,
+          0.9055916,
+          0.43448571
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "日语中有几个词都能表示 determination，但没有哪个词能涵盖 Undertale 赋予它的多重含义。这意味着，本地化团队无论如何都会在翻译中有所损失。可它终究得有个译法。经过讨论，团队选定了 ketsui，意思包括“决心、决意、果断、打定主意”，用来对应 Undertale 中的 determination。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 36,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 101,
+            "end": 107,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 133,
+            "end": 142,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.32820714,
+          0.90355487,
+          0.43698571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4496000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0088-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.32820714,
+          0.90355487,
+          0.43698571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Generally Determined",
+        "raw": "Generally Determined",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29253564,
+          0.45674286,
+          0.52232979,
+          0.47042143
+        ],
+        "mask_bbox": [
+          0.29121176,
+          0.45602857,
+          0.52365366,
+          0.47149286
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "一般意义的决心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.44657143,
+          0.90355487,
+          0.47071429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.44657143,
+          0.90355487,
+          0.47071429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 663
+    },
+    {
+      "id": "p0088-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Random trivia: Toby ~ noted that the term \"fallen down\" was a partially cut concept for describing the state someone enters just before death",
+        "raw": "Random trivia: Toby ~\nnoted that the term\n\"fallen down\" was a\npartially cut concept\nfor describing the state\nsomeone enters just\nbefore death",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12092071,
+          0.48618571,
+          0.28123178,
+          0.59093571
+        ],
+        "mask_bbox": [
+          0.11959683,
+          0.48547143,
+          0.28255566,
+          0.59200714
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32,
+          35,
+          39
+        ]
+      },
+      "translation": {
+        "text": "冷知识：Toby 指出，fallen down（倒下）原本用来描述临死前的状态，但这个概念后来有一部分被删掉了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12092071,
+          0.48475714,
+          0.28123178,
+          0.59450714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8307142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12092071,
+          0.48475714,
+          0.28123178,
+          0.59450714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "After the localization team chose to translate \"determination\" as ketsui, another problem appeared: what happens when words like \"determination\" or \"determined\" are used in a general sense rather than the Undertale sense?",
+        "raw": "After the localization team chose to translate \"determination\" as ketsui,\nanother problem appeared: what happens when words like \"determination\"\nor \"determined\" are used in a general sense rather than the Underta/e sense?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29180242,
+          0.6328,
+          0.88237287,
+          0.68175
+        ],
+        "mask_bbox": [
+          0.28736234,
+          0.63208571,
+          0.9055916,
+          0.68282143
+        ],
+        "line_ids": [
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "团队选定 ketsui（决心）之后，又出现了一个问题：如果 determination（决心）或 determined（坚定的）只是用于一般语境，而不指 Undertale 的特殊概念，该怎么办？",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 86,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.63137143,
+          0.90355487,
+          0.68532143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.83,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.63137143,
+          0.90355487,
+          0.68532143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Luckily, Toby left notes about this issue too, and the localization staff double checked with him as needed. The issue didn't come up much, but both Toby and 8-4 knew it was important to handle properly.",
+        "raw": "Luckily, Toby left notes about this issue too, and the localization staff double\nchecked with him as needed. The issue didn't come up much, but both Toby\nand 8-4 knew it was important to handle properly.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29367621,
+          0.68795714,
+          0.88128321,
+          0.73759286
+        ],
+        "mask_bbox": [
+          0.28736234,
+          0.68724286,
+          0.9055916,
+          0.73866429
+        ],
+        "line_ids": [
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "幸好 Toby 也为这个问题写了笔记，本地化人员还会在必要时向他核实。这种情况不常出现，但 Toby 和 8-4 都知道，必须妥善处理。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.68652857,
+          0.90355487,
+          0.74116429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.83,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0088-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.68652857,
+          0.90355487,
+          0.74116429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "This left one last question: how do you differentiate between general ketsui and Undertale-style ketsui in the Japanese script? The solution, which Toby also suggested, was to use eye-catching katakana for Undertale \"determination\", and ordinary hiragana for more general determination.",
+        "raw": "This left one last question: how do you differentiate between general ketsui and\nUndertale-style ketsui in the Japanese script? The solution, which Toby also\nsuggested, was to use eye-catching katakana for Undertale \"determination\",\nand ordinary hiragana for more general determination.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29363547,
+          0.75224286,
+          0.90355487,
+          0.82013571
+        ],
+        "mask_bbox": [
+          0.28736234,
+          0.75152857,
+          0.9055916,
+          0.82120714
+        ],
+        "line_ids": [
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "最后只剩一个问题：在日语文本中，怎样区分一般意义的 ketsui 与 Undertale 特有的 ketsui？解决办法也是 Toby 提出的：游戏的特殊概念用醒目的片假名书写，一般意义的“决心”则用普通的平假名。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29180242,
+          0.75081429,
+          0.90355487,
+          0.82370714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.83,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0088-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29180242,
+          0.75081429,
+          0.90355487,
+          0.82370714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0088-b010",
+      "kind": "aside",
+      "source": {
+        "text": "If you're like me, reading \"determination\" so many times has probably turned your brain numb. Basically, Toby and 8-4 spent a lot of time on this one term to make sure it was always handled faithfully.",
+        "raw": "If you're like me, reading \"determination\" so many times has probably\nturned your brain numb. Basically, Toby and 8-4 spent a lot of time on this\none term to make sure it was always handled faithfully.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31241413,
+          0.84788571,
+          0.87841142,
+          0.89002143
+        ],
+        "mask_bbox": [
+          0.31109026,
+          0.84717143,
+          0.8797353,
+          0.89109286
+        ],
+        "line_ids": [
+          51,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "如果你和我一样，读了这么多遍“决心”，脑子大概已经麻了。说到底，Toby 和 8-4 花了许多时间研究这一个词，就是为了确保每次出现都忠于原意。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31241413,
+          0.84645714,
+          0.87841142,
+          0.89359286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8964285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.31241413,
+          0.84645714,
+          0.87841142,
+          0.89359286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "94f964170a29b6c5785a5ba9226224c88ab29703155f0b2b8882a3bae96c2651"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.54,
+      887.26
+    ],
+    "text_runs": [
+      {
+        "id": "p0088-b003",
+        "blocks": [
+          "p0088-b003",
+          "p0088-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 629.44
+      },
+      {
+        "id": "p0088-b007",
+        "blocks": [
+          "p0088-b007",
+          "p0088-b008",
+          "p0088-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1162.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

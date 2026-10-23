@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "pdf_page": 80,
+  "printed_page": "80",
+  "title": "遗迹",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    980.094308,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    712.56
+  ],
+  "image_url": "/assets/p0080.jpg",
+  "image_sha256": "07c727aef7c8a7bacb862876e60af46ece51af437674525f9d43a90e0d864cc5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0080/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d3390b3c4a4c7245336c7bb84788f0b8e1a67959a14528fcce26b772f008e4c3"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

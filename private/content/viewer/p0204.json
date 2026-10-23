@@ -1,0 +1,974 @@
+{
+  "schema_version": 3,
+  "pdf_page": 204,
+  "printed_page": "204",
+  "title": "认识 Bratty 与 Catty",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    986.731446,
+    1400
+  ],
+  "physical_size_pt": [
+    504.84,
+    716.28
+  ],
+  "image_url": "/assets/p0204.jpg",
+  "image_sha256": "2c09be412c3bcd4d02e0aa758ed00ba21933b7a4858646a010acc992fd13437a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0204/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0204-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Meeting Bratty and Catty",
+        "raw": "Meeting Bratty and Catty",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29082888,
+          0.06290714,
+          0.55326097,
+          0.07756429
+        ],
+        "mask_bbox": [
+          0.2895114,
+          0.06219286,
+          0.55457845,
+          0.07863571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "认识 Bratty 与 Catty",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29178152,
+          0.05371429,
+          0.89437709,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29178152,
+          0.05371429,
+          0.89437709,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0204-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Bratty and Catty speak ~ at the same time, which is so unusual that it required the localizers to jump through extra technical hoops to nail down",
+        "raw": "Bratty and Catty speak ~\nat the same time,\nwhich is so unusual\nthat it required the\nlocalizers to jump\nthrough extra technical\nhoops to nail down",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12021508,
+          0.09266429,
+          0.28050185,
+          0.19555714
+        ],
+        "mask_bbox": [
+          0.1188976,
+          0.09195,
+          0.28181934,
+          0.19662857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Bratty 和 Catty 同时说话，这种独特设计让本地化人员必须额外解决一些技术难题。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1165464,
+          0.09123571,
+          0.28050185,
+          0.19912857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3579285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1165464,
+          0.09123571,
+          0.28050185,
+          0.19912857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A cat monster named \"Catty\" and an alligator monster named \"Bratty\" run a shop in a back alley. Because the English word \"bratty\" isn’t well known in Japan, Bratty was renamed \"Alligetty\" in Japanese. Early on, Toby was informed that ブラッティ (buratti, \"Bratty\") might also look confusingly similar to ブラッディ (buraddi, \"bloody\"), which is a well-known English word in Japan.",
+        "raw": "A cat monster named \"Catty\" and an alligator monster named \"Bratty\" run\na shop in a back alley. Because the English word \"bratty\" isn't well known\nin Japan, Bratty was renamed \"Alligetty\" in Japanese. Early on, Toby was\ninformed that f 7'/T1 (buratti, \"Bratty\") might also look confusingly similar\nto 7''7rf'1 (buraddi, \"bloody\"), which is a well-known English word in Japan.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.28948099,
+          0.26434286,
+          0.89399198,
+          0.34847143
+        ],
+        "mask_bbox": [
+          0.2874541,
+          0.26362857,
+          0.89640398,
+          0.34954286
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "猫怪物 Catty 和鳄鱼怪物 Bratty 在后巷经营商店。英语 bratty（顽劣、任性）在日本不太为人所知，所以日版把 Bratty 改名为“Alligetty”。Toby 很早就被告知，「ブラッティ」（buratti，Bratty）还可能与「ブラッディ」（buraddi，bloody，血腥的）看起来太像，令人混淆；后者是日本人很熟悉的英语词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 105,
+            "end": 112,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 132,
+            "end": 139,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28948099,
+          0.25428571,
+          0.89437709,
+          0.35928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35928571428571426,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28948099,
+          0.25428571,
+          0.89437709,
+          0.35928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "shop-names-explanation"
+    },
+    {
+      "id": "p0204-b004",
+      "kind": "aside",
+      "source": {
+        "text": "The English word \"cat\" ~ is widely known in Japan, so Catty's name didn't need any updates",
+        "raw": "The English word \"cat\" ~\nis widely known in\nJapan, so Catty's name\ndidn't need any updates",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11728622,
+          0.36507143,
+          0.28193081,
+          0.42005
+        ],
+        "mask_bbox": [
+          0.11596874,
+          0.36435714,
+          0.2832483,
+          0.42112143
+        ],
+        "line_ids": [
+          34,
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "英语 cat（猫）在日本广为人知，因此 Catty 的名字不用改。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1165464,
+          0.36364286,
+          0.28193081,
+          0.42362143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5475642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1165464,
+          0.36364286,
+          0.28193081,
+          0.42362143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Bra tty's name happens to appear on a faint background banner in one scene. To reflect her new name in Japanese, the localization team crafted a new banner that spells \"Alligetty\", then modified the game's core programming to display the proper banner based on the player's language settings.",
+        "raw": "Bra tty's name happens to appear on a faint background banner in one scene. To\nreflect her new name in Japanese, the localization team crafted a new banner\nthat spells \"Alligetty\", then modified the game's core programming to display\nthe proper banner based on the player's language settings.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2913356,
+          0.43522143,
+          0.89437709,
+          0.50360714
+        ],
+        "mask_bbox": [
+          0.2874541,
+          0.43450714,
+          0.89640398,
+          0.50467857
+        ],
+        "line_ids": [
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "某个场景的背景里有条不起眼的横幅，恰好写着 Bratty 的名字。为了配合日文改名，团队制作了写着“Alligetty”的新横幅，又修改游戏底层程序，让它按玩家的语言设置显示正确版本。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29178152,
+          0.43379286,
+          0.89437709,
+          0.50717857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5171500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29178152,
+          0.43379286,
+          0.89437709,
+          0.50717857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Bratty and Catty Speak",
+        "raw": "Bratty and Catty Speak",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29320034,
+          0.52429286,
+          0.53226235,
+          0.53895
+        ],
+        "mask_bbox": [
+          0.29188286,
+          0.52357857,
+          0.53357983,
+          0.54002143
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "Bratty 与 Catty 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29178152,
+          0.51514286,
+          0.89437709,
+          0.53928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.53928571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29178152,
+          0.51514286,
+          0.89437709,
+          0.53928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 759
+    },
+    {
+      "id": "p0204-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Bratty and Catty ~ generally use the feminine Japanese pronoun iY.>tc L,, (atashi) to refer to themselves",
+        "raw": "Bratty and Catty ~\ngenerally use the\nfeminine Japanese\npronoun iY.>tc L,, (atashi)\nto refer to themselves",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11809698,
+          0.55470714,
+          0.28288345,
+          0.62744286
+        ],
+        "mask_bbox": [
+          0.1167795,
+          0.55399286,
+          0.28420094,
+          0.62851429
+        ],
+        "line_ids": [
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "Bratty 和 Catty 通常用女性化的日语代词「あたし」（atashi，我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 32,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11809698,
+          0.55327857,
+          0.28288345,
+          0.63101429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6864285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11809698,
+          0.55327857,
+          0.28288345,
+          0.63101429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Bratty and Catty use Valleyspeak, an American social dialect that's associated with teenage girls. The translator replicated this in Japanese by giving the characters a similar speech pattern associated with the Japanese gyaru subculture. Both characters use the feminine pronoun atashi.",
+        "raw": "In English, Bratty and Catty use Valleyspeak, an American social dialect that's\nassociated with teenage girls. The translator replicated this in Japanese by\ngiving the characters a similar speech pattern associated with the Japanese\ngyaru subculture. Both characters use the feminine pronoun atashi.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29222744,
+          0.71767857,
+          0.88381697,
+          0.78574286
+        ],
+        "mask_bbox": [
+          0.2874541,
+          0.71696429,
+          0.89640398,
+          0.78681429
+        ],
+        "line_ids": [
+          64,
+          65,
+          66,
+          67
+        ]
+      },
+      "translation": {
+        "text": "在英语中，Bratty 和 Catty 使用 Valleyspeak，这是与美国少女群体相关的社会方言。译者用日本 gyaru（辣妹）亚文化中类似的说话方式重现了这一特点。两人都用女性化的 atashi（我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 58,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 95,
+            "end": 101,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29178152,
+          0.71625,
+          0.89437709,
+          0.78931429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29178152,
+          0.71625,
+          0.89437709,
+          0.78931429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Bratty and Catty are unique in that both start speaking and stop speaking at the same time. Toby noted that some of these simultaneous lines might cause the game to \"mess up\" unless Bratty and Catty use an equal number of letters when speaking. Naturally, the translation process demolished this synchronization, so Bratty and Catty's lines required extra fine-tuning to display properly in Japanese.",
+        "raw": "Bratty and Catty are unique in that both start speaking and stop speaking at\nthe same time. Toby noted that some of these simultaneous lines might\ncause the game to \"mess up\" unless Bratty and Catty use an equal number\nof letters when speaking. Naturally, the translation process demolished this\nsynchronization, so Bratty and Catty's lines required extra fine-tuning to\ndisplay properly in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29324088,
+          0.80010714,
+          0.86707483,
+          0.90402143
+        ],
+        "mask_bbox": [
+          0.2874541,
+          0.79939286,
+          0.89640398,
+          0.90509286
+        ],
+        "line_ids": [
+          68,
+          71,
+          73,
+          75,
+          77,
+          79
+        ]
+      },
+      "translation": {
+        "text": "她们独特之处在于，总是同时开始说话，也同时停下。Toby 指出，有些同步台词必须让两人的字母数相等，否则游戏可能“出乱子”。翻译自然会打乱这种同步，所以她们的日语台词还得格外细调，才能正常显示。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29178152,
+          0.79867857,
+          0.89437709,
+          0.90759286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0204-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29178152,
+          0.79867857,
+          0.89437709,
+          0.90759286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0204-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Because Valleyspeak and \"Gyaru-speak\" speech share similar demographics, histories, and usages, it's very common to see one localized into the other",
+        "raw": "Because Valleyspeak\nand \"Gyaru-speak\"\nspeech share similar\ndemographics, histories,\nand usages, it's very\ncommon to see one\nlocalized into the other",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.120134,
+          0.80131429,
+          0.27070182,
+          0.90388571
+        ],
+        "mask_bbox": [
+          0.11881652,
+          0.8006,
+          0.2720193,
+          0.90495714
+        ],
+        "line_ids": [
+          69,
+          70,
+          72,
+          74,
+          76,
+          78,
+          80
+        ]
+      },
+      "translation": {
+        "text": "Valleyspeak 与“辣妹话”的使用群体、历史和用途相近，所以本地化时经常用其中一种对应另一种。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1165464,
+          0.79988571,
+          0.27070182,
+          0.90745714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.1165464,
+          0.79988571,
+          0.27070182,
+          0.90745714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "eee9f02737321e807e9f2f1de8eae14ca162973428bf586085cdbd46f22ba4a4"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          81
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.91,
+      882.51
+    ],
+    "text_runs": [
+      {
+        "id": "p0204-b008",
+        "blocks": [
+          "p0204-b008",
+          "p0204-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

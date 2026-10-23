@@ -1,0 +1,1082 @@
+{
+  "schema_version": 3,
+  "pdf_page": 244,
+  "printed_page": "244",
+  "title": "输了一次又一次",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    984.426505,
+    1400
+  ],
+  "physical_size_pt": [
+    501.72,
+    713.52
+  ],
+  "image_url": "/assets/p0244.jpg",
+  "image_sha256": "f90164ef64e919023f59e5a29f954ffcb46fb3a30c0639920dc21e6e7ac6ccf5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0244/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0244-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Losing Over and Over",
+        "raw": "Losing Over and Over",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29425254,
+          0.06477143,
+          0.51640219,
+          0.07808571
+        ],
+        "mask_bbox": [
+          0.29293197,
+          0.06405714,
+          0.51772275,
+          0.07915714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "输了一次又一次",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.05442857,
+          0.90040241,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.05442857,
+          0.90040241,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114.0
+    },
+    {
+      "id": "p0244-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans is so powerful that he literally counts how many times he defeats the player. He uses this information to taunt the player with number-related jokes after each defeat. aturally, some of these jokes needed to be changed to make sense in Japanese.",
+        "raw": "Sans is so powerful that he literally counts how many times he defeats the\nplayer. He uses this information to taunt the player with number-related jokes\nafter each defeat. aturally, some of these jokes needed to be changed to make\nsense in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29338909,
+          0.09192143,
+          0.89126003,
+          0.15942143
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.09120714,
+          0.90243405,
+          0.16049286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "Sans 强大到还会专门数自己击败玩家的次数。每次获胜，他都会拿次数开玩笑，嘲讽玩家。其中一些笑话自然需要改动，才能在日语里说得通。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.09049286,
+          0.90040241,
+          0.16299286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.17198571285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.09049286,
+          0.90040241,
+          0.16299286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b003",
+      "kind": "subheading",
+      "source": {
+        "text": "Three Losses",
+        "raw": "Three Losses",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29313514,
+          0.17912857,
+          0.40966999,
+          0.19117857
+        ],
+        "mask_bbox": [
+          0.29181457,
+          0.17841429,
+          0.41099056,
+          0.19225
+        ],
+        "line_ids": [
+          6
+        ]
+      },
+      "translation": {
+        "text": "输三次",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.17585714,
+          0.90040241,
+          0.2
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.17585714,
+          0.90040241,
+          0.2
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b004",
+      "kind": "aside",
+      "source": {
+        "text": "I don't th ink I've ever • used the word \"thrice\" in a normal, everyday English conversation. Have you?",
+        "raw": "I don't th ink I've ever •\nused the word \"thrice\"\nin a normal, everyday\nEnglish conversation.\nHave you?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12987257,
+          0.20234286,
+          0.28258077,
+          0.27567857
+        ],
+        "mask_bbox": [
+          0.128552,
+          0.20162857,
+          0.28390134,
+          0.27675
+        ],
+        "line_ids": [
+          7,
+          11,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "我好像从没在普通英语日常对话里用过 thrice（三次）。你用过吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681928,
+          0.20091429,
+          0.28258077,
+          0.27925
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5702285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681928,
+          0.20091429,
+          0.28258077,
+          0.27925
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "If the player speaks to Sans after losing three times, he says in English:",
+        "raw": "If the player speaks to Sans after losing three times, he says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29398843,
+          0.37522857,
+          0.83155014,
+          0.38779286
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.37451429,
+          0.90243405,
+          0.38886429
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "玩家输掉三次后再与 Sans 对话，他在英文里会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "coffee-commentary"
+    },
+    {
+      "id": "p0244-b006",
+      "kind": "quote",
+      "source": {
+        "text": "hey, what comes after \"thrice,\" anyway?",
+        "raw": "hey, what comes after \"thrice,\" anyway?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33952763,
+          0.40171429,
+          0.63581181,
+          0.41404286
+        ],
+        "mask_bbox": [
+          0.33820707,
+          0.401,
+          0.63713238,
+          0.41511429
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "喂，话说“thrice”（三次）再往后该怎么说？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34029965,
+          0.36785714,
+          0.9000164,
+          0.54571429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.34029965,
+          0.36785714,
+          0.9000164,
+          0.54571429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "coffee-commentary"
+    },
+    {
+      "id": "p0244-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "The joke here is that the English word \"thrice\" is rarely ever used. Because this cultural joke would be lost in a literal translation, the quote was rephrased as:",
+        "raw": "The joke here is that the English word \"thrice\" is rarely ever used. Because this\ncultural joke would be lost in a literal translation, the quote was rephrased as:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29402906,
+          0.42862143,
+          0.89871615,
+          0.45979286
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.42790714,
+          0.90243405,
+          0.46086429
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "笑点在于，thrice 这个英语词本来就很少用。照字面翻译会丢掉这种语言文化背景，因此日文改成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "coffee-commentary"
+    },
+    {
+      "id": "p0244-b008",
+      "kind": "quote",
+      "source": {
+        "text": "i guess the third time isn't always the charm.",
+        "raw": "i guess the third time isn't always the charm.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34022855,
+          0.47524286,
+          0.67152804,
+          0.48802857
+        ],
+        "mask_bbox": [
+          0.33890798,
+          0.47452857,
+          0.6728486,
+          0.4891
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "看来第三次也未必能成啊。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34029965,
+          0.36785714,
+          0.9000164,
+          0.54571429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.34029965,
+          0.36785714,
+          0.9000164,
+          0.54571429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "region_id": "coffee-commentary"
+    },
+    {
+      "id": "p0244-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "To replicate the dry humor of the English line, the translator included a joke on a Japanese idiom that's equivalent to the phrase \"the third time's the charm\".",
+        "raw": "To replicate the dry humor of the English line, the translator included a joke on\na Japanese idiom that's equivalent to the phrase \"the third time's the charm\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29404938,
+          0.50262143,
+          0.90040241,
+          0.53276429
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.50190714,
+          0.90243405,
+          0.53383571
+        ],
+        "line_ids": [
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "为再现原句的冷幽默，译者拿一句日语惯用语开了玩笑；它的意思相当于英语的“the third time’s the charm”（第三次就能成功）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5457142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29338909,
+          0.36785714,
+          0.90040241,
+          0.54571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "coffee-commentary"
+    },
+    {
+      "id": "p0244-b010",
+      "kind": "subheading",
+      "source": {
+        "text": "Four Losses",
+        "raw": "Four Losses",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29620291,
+          0.55215,
+          0.40249831,
+          0.5642
+        ],
+        "mask_bbox": [
+          0.29488235,
+          0.55143571,
+          0.40381887,
+          0.56527143
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "输四次",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.55014286,
+          0.90040241,
+          0.57428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5742857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.55014286,
+          0.90040241,
+          0.57428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Four is an unlucky • number in Japanese because \"four\" and \"death\" can both be pronounced shi",
+        "raw": "Four is an unlucky •\nnumber in Japanese\nbecause \"four\" and\n\"death\" can both be\npronounced shi",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14282427,
+          0.57737143,
+          0.28353564,
+          0.64977143
+        ],
+        "mask_bbox": [
+          0.14150371,
+          0.57665714,
+          0.28485621,
+          0.65084286
+        ],
+        "line_ids": [
+          25,
+          28,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "在日本，四被视为不吉利的数字，因为“四”和“死”都可以读作 shi。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681928,
+          0.57594286,
+          0.28353564,
+          0.65334286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681928,
+          0.57594286,
+          0.28353564,
+          0.65334286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "After the player loses four times in a row, Sans tries to figure out a fancy English word for \"four times\":",
+        "raw": "After the player loses four times in a row, Sans tries to figure out a fancy\nEnglish word for \"four times\":",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29367352,
+          0.74949286,
+          0.84235847,
+          0.78032857
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.74877857,
+          0.90243405,
+          0.7814
+        ],
+        "line_ids": [
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "玩家连输四次后，Sans 试着给“四次”找一个文绉绉的英语说法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.74806429,
+          0.90040241,
+          0.7839
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.74806429,
+          0.90040241,
+          0.7839
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b013",
+      "kind": "quote",
+      "source": {
+        "text": "quice? frice? welp, won't have to use it again anyways.",
+        "raw": "quice? frice? welp, won't have to use it again anyways.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34049266,
+          0.79557857,
+          0.74233068,
+          0.80790714
+        ],
+        "mask_bbox": [
+          0.33917209,
+          0.79486429,
+          0.74365125,
+          0.80897857
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "quice？frice？（仿照 thrice 现编的“四次”。）算了，反正也不会再用到了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34049266,
+          0.79415,
+          0.90040241,
+          0.81473929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.34049266,
+          0.79415,
+          0.90040241,
+          0.81473929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this joke would be lost in translation, Toby provided a replacement line based on Japanese superstition about the number four:",
+        "raw": "Because this joke would be lost in translation, Toby provided a replacement\nline based on Japanese superstition about the number four:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2964975,
+          0.82283571,
+          0.87256895,
+          0.85333571
+        ],
+        "mask_bbox": [
+          0.29135745,
+          0.82212143,
+          0.90243405,
+          0.85440714
+        ],
+        "line_ids": [
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "这个笑话无法直接移植，Toby 便依据日本对“四”的忌讳提供了一句替代台词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29400874,
+          0.82140714,
+          0.90040241,
+          0.85690714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.29400874,
+          0.82140714,
+          0.90040241,
+          0.85690714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0244-b015",
+      "kind": "quote",
+      "source": {
+        "text": "they say four is an unlucky number, you know. want to see ifi t's true or not?",
+        "raw": "they say four is an unlucky number, you know. want to see ifi t's true or not?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34182338,
+          0.86891429,
+          0.90375462,
+          0.88125
+        ],
+        "mask_bbox": [
+          0.34050282,
+          0.8682,
+          0.90507518,
+          0.88232143
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "听说四是个不吉利的数字。想验证一下吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34182338,
+          0.86748571,
+          0.90375462,
+          0.888075
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0244-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.34182338,
+          0.86748571,
+          0.90375462,
+          0.888075
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "2ddaf7d3e0accb164a5cc0600dd6345135ab3167f983688932b77f7f7d2bcb3a"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.43,
+      886.38
+    ],
+    "text_runs": [
+      {
+        "id": "p0244-b012",
+        "blocks": [
+          "p0244-b012",
+          "p0244-b013",
+          "p0244-b014",
+          "p0244-b015"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

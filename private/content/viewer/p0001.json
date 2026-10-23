@@ -1,0 +1,170 @@
+{
+  "schema_version": 3,
+  "pdf_page": 1,
+  "printed_page": "1",
+  "title": "Legends of Localization · 第3卷",
+  "subtitle": "私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.085119+00:00",
+  "reference_size": [
+    972.169811,
+    1400
+  ],
+  "physical_size_pt": [
+    494.64,
+    712.32
+  ],
+  "image_url": "/assets/p0001.jpg",
+  "image_sha256": "6c2ce2077ea4ce1da05dc54dbecbceddaf8aec446fd71223b4b4b5d288344b22",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0001/page.json",
+  "page_role": "title",
+  "blocks": [
+    {
+      "id": "p0001-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Legends of Localization",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30755944,
+          0.11285714,
+          0.6274624,
+          0.185
+        ],
+        "mask_bbox": [
+          0.30622222,
+          0.11214286,
+          0.62879961,
+          0.18607143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "本地化传奇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30755944,
+          0.11142857,
+          0.6274624,
+          0.18857143
+        ],
+        "font_size": 42,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.18857142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.30755944,
+          0.11142857,
+          0.6274624,
+          0.18857143
+        ],
+        "font_size": 42,
+        "leading": 58.8
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0001-b002",
+      "kind": "subheading",
+      "source": {
+        "text": "Book 3: UNDERTALE",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30755944,
+          0.23285714,
+          0.46185347,
+          0.27357143
+        ],
+        "mask_bbox": [
+          0.30622222,
+          0.23214286,
+          0.46319068,
+          0.27464286
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "第3卷：\nUNDERTALE",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30755944,
+          0.23142857,
+          0.46185347,
+          0.27714286
+        ],
+        "font_size": 23,
+        "line_height": 1.4,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.27714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#000000",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.30755944,
+          0.23142857,
+          0.46185347,
+          0.27714286
+        ],
+        "font_size": 23,
+        "leading": 32.199999999999996
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d50e59353f619fc7df79e5e8f09832a347c3164038e8a81412cfccbc0bb815ff"
+  },
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

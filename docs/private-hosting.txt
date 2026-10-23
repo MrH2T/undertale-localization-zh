@@ -1,0 +1,36 @@
+私人站点方案（2026-10-23）
+
+目标：只有本人获准登录，可在手机和电脑阅读、编辑、保存同一份稿件，保留现有 PDF 排版导出。
+
+推荐部署：GitHub 私有仓库保存代码与人工版本快照；一台常驻主机运行 Python viewer；可持久化目录保存当前页面、扫描图、备份和导出；Cloudflare Access 对整个站点进行身份验证，Cloudflare Tunnel 连接该主机。
+浏览器 -> Access 登录（只允许指定本人邮箱）-> Tunnel -> Python 服务 -> 持久化文件。
+GitHub 负责版本管理，不充当网页保存数据库。线上文件是当前编辑母版，部署代码与恢复数据必须分开；不要用自动 git reset/checkout 覆盖当前稿件。
+
+主机选择：
+1. 当前电脑或 NAS：可复用现有文件，主机必须开机联网。停机时其他设备不能访问。
+2. 云服务器：本机关闭后仍可使用。需要选择服务器和域名，并把扫描图等素材私下迁移至持久化磁盘。成本由服务器、域名和备份方案决定；尚未采购。
+Cloudflare 的常驻域名方案需 Cloudflare 账户及托管在其上的域名。只在本人设备间访问，也可考虑 Tailscale Serve，但设备需先接入同一个私有网络。
+
+从现有代码观察到的适配工作（尚未实施）：
+- 当前 server.py 绑定 127.0.0.1，并只接受本机 Host/Origin。新增明确的站点来源配置和受信任代理策略；保留写入请求来源检查。
+- bootstrap 返回的会话 token 是本机请求保护，并非用户身份认证。身份层必须保护页面、/api/*、扫描图 /assets/*、PDF /exports/* 全部路径；不能只给首页加登录。
+- Access 只允许本人邮箱，其他访问默认拒绝；在 Tunnel 端校验 Access JWT。源站不开放绕过登录的公网端口。
+- 使用适合部署的应用服务器/反向代理边界；代码、数据和秘密配置分开，秘密不入 Git。
+- 当前文件原子写入和 revision 冲突校验保留。先使用单实例持久化磁盘，不无故引入多副本或多个独立编辑母版。
+- PDF 导出改成后台任务并查询进度，避免长请求超时或导出期间阻塞保存；下载支持流式传输，避免整份大 PDF 同时载入多个内存副本。
+- 增加定期数据备份和恢复验证。网页保存与 Git 推送明确区分，若需要 Git 备份应定时提交快照而非每次按键推送。
+- 上线验证：未登录访问任何书页、原图、API、PDF 均被拦截；本人登录可读写；两设备读取同一修改；并发修改被明确提示；重启/更新后编辑仍保留。
+
+GitHub Pages 学习要点：
+Pages 是静态托管，把含 index.html 的目录发布为 https://用户名.github.io/仓库名/。
+通常在仓库 Settings -> Pages 设置发布来源：Deploy from a branch（选择分支和根目录或 docs），或 GitHub Actions（构建后上传并部署站点产物）。
+Pages 不能直接运行本项目的 Python 保存和 PDF 服务。私有仓库的 Pages 通常仍是公开站点；真正私有 Pages 需要 Enterprise Cloud 组织支持，因此不作为本项目的带登录站点方案。
+
+核对来源：
+https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
+https://docs.github.com/en/enterprise-cloud@latest/pages/getting-started-with-github-pages/changing-the-visibility-of-your-github-pages-site
+https://developers.cloudflare.com/cloudflare-one/access-controls/applications/http-apps/self-hosted-public-app/
+https://developers.cloudflare.com/cloudflare-one/integrations/identity-providers/one-time-pin/
+https://developers.cloudflare.com/tunnel/get-started/
+https://tailscale.com/docs/features/tailscale-serve

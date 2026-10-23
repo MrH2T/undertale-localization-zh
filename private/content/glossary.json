@@ -1,0 +1,802 @@
+{
+  "version": "0.1",
+  "retrieved_on": "2026-10-22",
+  "scope": "private personal study; source and project decisions separate",
+  "consensus_claim": "community reference, not an official or universal standard",
+  "sources": {
+    "wiki_terms": {
+      "title": "Undertale Wiki 暂译列表",
+      "url": "https://zh.undertale.wiki/w/Undertale_Wiki:翻译准则/暫譯列表?oldid=23590",
+      "revision": "23590",
+      "contributors": "Undertale Wiki contributors; see linked page history",
+      "license": "CC BY-SA 4.0 as indicated on the related Wiki guideline page",
+      "retrieval": "web search readable page extraction; raw HTML request returned 403"
+    },
+    "wiki_guideline": {
+      "title": "Undertale Wiki 翻译准则",
+      "url": "https://zh.undertale.wiki/w/Undertale_Wiki:翻译准则?oldid=23607",
+      "revision": "23607",
+      "contributors": "Undertale Wiki contributors",
+      "license": "CC BY-SA 4.0",
+      "retrieval": "web search readable page extraction"
+    },
+    "wiki_encounter": {
+      "title": "Undertale Wiki 遭遇战",
+      "url": "https://zh.undertale.wiki/w/遭遇戰?oldid=22358",
+      "revision": "22358",
+      "contributors": "Undertale Wiki contributors",
+      "license": "CC BY-SA 4.0",
+      "retrieval": "web search readable page extraction; simplified characters normalized locally"
+    },
+    "wiki_sans": {
+      "title": "Undertale Wiki Sans",
+      "url": "https://zh.undertale.wiki/w/Sans",
+      "revision": null,
+      "contributors": "Undertale Wiki contributors",
+      "license": "Wiki site default; see original page",
+      "retrieval": "web search excerpt for HP/AT/DF labels"
+    },
+    "wiki_save": {
+      "title": "Undertale Wiki 存档",
+      "url": "https://zh.undertale.wiki/zh-cn/存檔",
+      "revision": null,
+      "contributors": "Undertale Wiki contributors",
+      "license": "Wiki site default; see original page",
+      "retrieval": "web search readable page extraction"
+    },
+    "utclc": {
+      "title": "UNDERTALE 中文本地化社区规范索引",
+      "url": "https://chs.utclc.top/archives/",
+      "revision": null,
+      "contributors": "UNDERTALE 中文本地化社区",
+      "license": "CC BY-NC 4.0 unless otherwise stated",
+      "retrieval": "web open; paraphrase of naming guidance only"
+    },
+    "project": {
+      "title": "本项目学习用语约定",
+      "url": null,
+      "revision": "0.1",
+      "contributors": "本地项目",
+      "license": null,
+      "retrieval": "project-authored; not imported community terminology"
+    }
+  },
+  "entries": [
+    {
+      "id": "term-001",
+      "source_term": "Monster",
+      "preferred_zh_hans": "怪物",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "普通叙述",
+      "notes": "种族名称被分析时保留英文。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-002",
+      "source_term": "Human",
+      "preferred_zh_hans": "人类",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "普通叙述",
+      "notes": "",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-003",
+      "source_term": "Soul / SOUL",
+      "preferred_zh_hans": "灵魂",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "普通机制叙述可用中文；引用保留大小写",
+      "notes": "全大写及字形本身可能是作者的分析对象。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-004",
+      "source_term": "ACT",
+      "preferred_zh_hans": "行动",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "菜单选项",
+      "notes": "首次使用可写 ACT（行动），直接引文保留英文。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-005",
+      "source_term": "ITEM",
+      "preferred_zh_hans": "物品",
+      "alternatives": [
+        "使用物品"
+      ],
+      "mode": "suggest",
+      "context": "菜单选项",
+      "notes": "按句法可用“使用物品”。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-006",
+      "source_term": "FIGHT",
+      "preferred_zh_hans": "攻击",
+      "alternatives": [
+        "战斗"
+      ],
+      "mode": "contextual",
+      "context": "战斗菜单选项",
+      "notes": "暂译表偏向“攻击”，遭遇战条目用“战斗”；记录差异，不全局替换。",
+      "source_ids": [
+        "wiki_terms",
+        "wiki_encounter"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-007",
+      "source_term": "MERCY",
+      "preferred_zh_hans": "仁慈",
+      "alternatives": [
+        "怜悯"
+      ],
+      "mode": "contextual",
+      "context": "菜单选项或概念",
+      "notes": "不能与 SPARE 合并，普通叙述视上下文可用怜悯。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-008",
+      "source_term": "SPARE / Spare",
+      "preferred_zh_hans": "饶恕",
+      "alternatives": [
+        "宽恕"
+      ],
+      "mode": "contextual",
+      "context": "战斗动作",
+      "notes": "项目暂采用遭遇战条目中的“饶恕”；暂译表为“宽恕”。",
+      "source_ids": [
+        "wiki_terms",
+        "wiki_encounter"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-009",
+      "source_term": "SAVE",
+      "preferred_zh_hans": "存档 / 拯救",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "存档机制或游戏中的拯救行为",
+      "notes": "必须根据出现位置分义；双关处保留 SAVE 并解释。",
+      "source_ids": [
+        "wiki_save",
+        "wiki_encounter"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-010",
+      "source_term": "Determination",
+      "preferred_zh_hans": "决心",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "普通叙述可用中文",
+      "notes": "比较英文与日文选词时保留 Determination 和日文原词，不一键统一。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-011",
+      "source_term": "Stats",
+      "preferred_zh_hans": "游戏数据",
+      "alternatives": [
+        "属性",
+        "状态"
+      ],
+      "mode": "contextual",
+      "context": "统计属性",
+      "notes": "参考列表译法；数据界面、属性、状态应按句意选择。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-012",
+      "source_term": "HP",
+      "preferred_zh_hans": "生命值",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "游戏数值",
+      "notes": "正文可写 HP（生命值）；缩写双关时只提示不替换。",
+      "source_ids": [
+        "wiki_sans"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-013",
+      "source_term": "AT",
+      "preferred_zh_hans": "攻击力",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "游戏数值",
+      "notes": "保留缩写。",
+      "source_ids": [
+        "wiki_sans"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-014",
+      "source_term": "DF",
+      "preferred_zh_hans": "防御力",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "游戏数值",
+      "notes": "保留缩写。",
+      "source_ids": [
+        "wiki_sans"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-015",
+      "source_term": "Encounter",
+      "preferred_zh_hans": "遭遇战",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "战斗机制",
+      "notes": "普通动词 encounter 不套此译名。",
+      "source_ids": [
+        "wiki_encounter"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-016",
+      "source_term": "Neutral Route",
+      "preferred_zh_hans": "中立路线",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "路线术语",
+      "notes": "仅在来源明确指该路线时使用。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-017",
+      "source_term": "Genocide Route",
+      "preferred_zh_hans": "屠杀路线",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "路线术语",
+      "notes": "",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-018",
+      "source_term": "Pacifist Route",
+      "preferred_zh_hans": "Pacifist Route",
+      "alternatives": [
+        "完美路线"
+      ],
+      "mode": "contextual",
+      "context": "路线术语",
+      "notes": "Wiki 列表候选“完美路线”，本项目暂保留英文，先确认是否特指 True Pacifist。",
+      "source_ids": [
+        "wiki_terms"
+      ],
+      "origin": "community_reference",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-019",
+      "source_term": "Sans",
+      "preferred_zh_hans": "Sans",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-020",
+      "source_term": "Papyrus",
+      "preferred_zh_hans": "Papyrus",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-021",
+      "source_term": "Toriel",
+      "preferred_zh_hans": "Toriel",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-022",
+      "source_term": "Frisk",
+      "preferred_zh_hans": "Frisk",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-023",
+      "source_term": "Chara",
+      "preferred_zh_hans": "Chara",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-024",
+      "source_term": "Flowey",
+      "preferred_zh_hans": "Flowey",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-025",
+      "source_term": "Undyne",
+      "preferred_zh_hans": "Undyne",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-026",
+      "source_term": "Alphys",
+      "preferred_zh_hans": "Alphys",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-027",
+      "source_term": "Asgore",
+      "preferred_zh_hans": "Asgore",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-028",
+      "source_term": "Asriel",
+      "preferred_zh_hans": "Asriel",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-029",
+      "source_term": "Mettaton",
+      "preferred_zh_hans": "Mettaton",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-030",
+      "source_term": "Napstablook",
+      "preferred_zh_hans": "Napstablook",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "游戏角色/敌人",
+      "notes": "依据名字保留原则；中文别名只作可选注释。",
+      "source_ids": [
+        "wiki_guideline"
+      ],
+      "origin": "project_rule_based_on_community_guidance",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-031",
+      "source_term": "Undertale",
+      "preferred_zh_hans": "Undertale",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "作品名；大小写按引用保留",
+      "notes": "依本项目原则保留；不是声称来自 Wiki 的中文译名。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-032",
+      "source_term": "Toby Fox",
+      "preferred_zh_hans": "Toby Fox",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "现实人物名",
+      "notes": "依本项目原则保留；不是声称来自 Wiki 的中文译名。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-033",
+      "source_term": "Clyde Mandelin",
+      "preferred_zh_hans": "Clyde Mandelin",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "作者名",
+      "notes": "依本项目原则保留；不是声称来自 Wiki 的中文译名。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-034",
+      "source_term": "LOVE / LV",
+      "preferred_zh_hans": "LOVE / LV",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "缩写、剧情含义与双关",
+      "notes": "依本项目原则保留；不是声称来自 Wiki 的中文译名。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-035",
+      "source_term": "EXP",
+      "preferred_zh_hans": "EXP",
+      "alternatives": [],
+      "mode": "retain_original",
+      "context": "缩写、剧情含义与双关",
+      "notes": "依本项目原则保留；不是声称来自 Wiki 的中文译名。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-036",
+      "source_term": "translation",
+      "preferred_zh_hans": "翻译",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "过程或行为；具体译文按句意表述",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-037",
+      "source_term": "localization",
+      "preferred_zh_hans": "本地化",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "需与 translation 区分",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-038",
+      "source_term": "translator",
+      "preferred_zh_hans": "译者",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "人员身份",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-039",
+      "source_term": "source text",
+      "preferred_zh_hans": "原文",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "翻译研究",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-040",
+      "source_term": "target text",
+      "preferred_zh_hans": "译文",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "翻译研究",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "term-041",
+      "source_term": "pun",
+      "preferred_zh_hans": "双关",
+      "alternatives": [],
+      "mode": "suggest",
+      "context": "语言现象；谐音只是双关的一种",
+      "notes": "项目暂定术语，不冒称社区原表条目。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_convention",
+      "status": "provisional",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-80",
+      "source_term": "Ruins",
+      "preferred_zh_hans": "遗迹",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-106",
+      "source_term": "Snowdin",
+      "preferred_zh_hans": "雪镇",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-156",
+      "source_term": "Waterfall",
+      "preferred_zh_hans": "瀑布",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-184",
+      "source_term": "Hotland",
+      "preferred_zh_hans": "热域",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-214",
+      "source_term": "The Core",
+      "preferred_zh_hans": "核心",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-224",
+      "source_term": "New Home",
+      "preferred_zh_hans": "新家",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "navigation-chapter-230",
+      "source_term": "True Lab",
+      "preferred_zh_hans": "真正的实验室",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "页脚、目录、章节标题；正文语言分析保留原语",
+      "notes": "项目导航约定；不自动替换正文。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    }
+  ]
+}

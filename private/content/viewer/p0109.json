@@ -1,0 +1,420 @@
+{
+  "schema_version": 3,
+  "pdf_page": 109,
+  "printed_page": "109",
+  "title": "字体的使用与滥用",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.176783+00:00",
+  "reference_size": [
+    981.628181,
+    1400
+  ],
+  "physical_size_pt": [
+    499.2,
+    711.96
+  ],
+  "image_url": "/assets/p0109.jpg",
+  "image_sha256": "4f3fd84e200d0958c19329280ac0a5d114746bb40b2b0aadf9d57aa9c1ef448c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0109/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0109-b001",
+      "kind": "caption",
+      "source": {
+        "text": "The Comic Sans computer font was designed to approximate the lettering style used in English-language comic books such as this one",
+        "raw": "The Comic Sans computer font was designed to\napproximate the lettering style used in English-language\ncomic books such as this one",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09030914,
+          0.37908571,
+          0.44209203,
+          0.4209
+        ],
+        "mask_bbox": [
+          0.08898481,
+          0.37837143,
+          0.44341637,
+          0.42197143
+        ],
+        "line_ids": [
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Comic Sans 电脑字体的设计，模仿了这类英语漫画中的手写字风格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09030914,
+          0.37765714,
+          0.44209203,
+          0.42447143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.43785714285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09030914,
+          0.37765714,
+          0.44209203,
+          0.42447143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0109-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Casual use of Comic Sans is rampant and can sometimes come across as wildly unsuitable",
+        "raw": "Casual use of Comic Sans is rampant\nand can\nsometimes come across as wildly unsuitable",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49362886,
+          0.44313571,
+          0.7721661,
+          0.46944286
+        ],
+        "mask_bbox": [
+          0.49230453,
+          0.44242143,
+          0.77349043,
+          0.47051429
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Comic Sans 被随意滥用，有时显得极不合适。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.49362886,
+          0.44170714,
+          0.7721661,
+          0.47301429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4835714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.49362886,
+          0.44170714,
+          0.7721661,
+          0.47301429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0109-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The Sōeikaku Pop-tai font was designed for Japanese POP (point of purchase) signs and in-store promo materials.",
+        "raw": "The Siieikaku Pop-tai font was designed for Japanese\nPOP (point of purchase) signs and in-store promo\nmaterials",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09126674,
+          0.8564,
+          0.4214936,
+          0.89856429
+        ],
+        "mask_bbox": [
+          0.08994241,
+          0.85568571,
+          0.42281793,
+          0.89963571
+        ],
+        "line_ids": [
+          43,
+          46,
+          49
+        ]
+      },
+      "translation": {
+        "text": "Sōeikaku Pop-tai 字体为日本的 POP（卖场广告）标牌及店内宣传材料而设计。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0845534,
+          0.85497143,
+          0.44686981,
+          0.90213571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.0845534,
+          0.85497143,
+          0.44686981,
+          0.90213571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0109-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Sōeikaku Pop-tai is often poorly used - here it’s on a city notice about a recent series of arsons and crimes.",
+        "raw": "Siieikaku Pop-tai is often poorly used\n- here it's on a\ncity notice about a recent series of arsons\nand crimes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.49310932,
+          0.8564,
+          0.82235822,
+          0.88273571
+        ],
+        "mask_bbox": [
+          0.49178498,
+          0.85568571,
+          0.82368255,
+          0.88380714
+        ],
+        "line_ids": [
+          44,
+          45,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "Sōeikaku Pop-tai 也经常用得不妥，例如这里一则涉及近期接连发生的纵火和犯罪的市政告示。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.49310932,
+          0.85497143,
+          0.82235822,
+          0.88630714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.49310932,
+          0.85497143,
+          0.82235822,
+          0.88630714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0109-b005",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63826611,
+          0.93472857,
+          0.70219052,
+          0.94455714
+        ],
+        "mask_bbox": [
+          0.63694178,
+          0.93401429,
+          0.70351485,
+          0.94562857
+        ],
+        "line_ids": [
+          52
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63826611,
+          0.9333,
+          0.70219052,
+          0.9513
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9512999999999999,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63826611,
+          0.9333,
+          0.70219052,
+          0.9513
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "e4541d4cf3dd175b7029b47642f0dfd3506b4e11a4a23499f7364d1f2818118c"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          50,
+          51
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

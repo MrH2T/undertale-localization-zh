@@ -1,0 +1,1248 @@
+{
+  "schema_version": 3,
+  "pdf_page": 38,
+  "printed_page": "38",
+  "title": "历史",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.117208+00:00",
+  "reference_size": [
+    982.352941,
+    1400
+  ],
+  "physical_size_pt": [
+    501.0,
+    714.0
+  ],
+  "image_url": "/assets/p0038.jpg",
+  "image_sha256": "4a7f5daa056de83896d4f61f8b9f0e7bb98281b74c68524f1441b8e122652599",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0038/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0038-b001",
+      "kind": "heading",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29047605,
+          0.04795,
+          0.46028263,
+          0.08156429
+        ],
+        "mask_bbox": [
+          0.28915269,
+          0.04723571,
+          0.46160599,
+          0.08263571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28995179,
+          0.04571429,
+          0.89497365,
+          0.08285714
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28995179,
+          0.04571429,
+          0.89497365,
+          0.08285714
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": [],
+      "rule_y": 120.0
+    },
+    {
+      "id": "p0038-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before we examine Undertafe's English-to-Japanese localization in detail, it's important to know more about Undertale and its history.",
+        "raw": "Before we examine Undertafe's English-to-Japanese localization in detail, it's\nimportant to know more about Undertale and its history.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29141257,
+          0.10471429,
+          0.87316886,
+          0.13129286
+        ],
+        "mask_bbox": [
+          0.28679102,
+          0.104,
+          0.89700958,
+          0.13236429
+        ],
+        "line_ids": [
+          2,
+          3
+        ]
+      },
+      "translation": {
+        "text": "在仔细研究 Undertale 的英译日本地化之前，我们得先多了解一下 Undertale 本身及其历史。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 36,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28882695,
+          0.09285714,
+          0.89499401,
+          0.13571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.1357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28882695,
+          0.09285714,
+          0.89499401,
+          0.13571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "history-introduction"
+    },
+    {
+      "id": "p0038-b003",
+      "kind": "subheading",
+      "source": {
+        "text": "Game Overview",
+        "raw": "Game Overview",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29049641,
+          0.14911429,
+          0.45539641,
+          0.16242143
+        ],
+        "mask_bbox": [
+          0.28917305,
+          0.1484,
+          0.45671976,
+          0.16349286
+        ],
+        "line_ids": [
+          4
+        ]
+      },
+      "translation": {
+        "text": "游戏概况",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28995179,
+          0.14042143,
+          0.89497365,
+          0.16456429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.16456428714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28995179,
+          0.14042143,
+          0.89497365,
+          0.16456429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale is a popular, award-winning video game that debuted in 2015. It was created and developed largely by one person: Toby Fox.",
+        "raw": "Underta/e is a popular, award-winning video game that debuted in 2015. It was\ncreated and developed largely by one person: Toby Fox.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2905982,
+          0.17679286,
+          0.88952755,
+          0.20672143
+        ],
+        "mask_bbox": [
+          0.28679102,
+          0.17607857,
+          0.89700958,
+          0.20779286
+        ],
+        "line_ids": [
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "Undertale 是一款广受欢迎、屡获奖项的游戏，2015年首次推出，创作和开发工作大多由 Toby Fox 一人完成。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28995179,
+          0.17536429,
+          0.89497365,
+          0.21029286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.39785714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28995179,
+          0.17536429,
+          0.89497365,
+          0.21029286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first glance, Undertale doesn't seem particularly impressive - it has simple graphics, a strange battle system, and looks more like a fun little hobby project than a serious game. But first impressions can be deceiving: Undertale actually combines different game genres to create something fresh, sabotages veteran gamers' expectations about how games should work, and builds upon the foundation laid by previous generations of game creators.",
+        "raw": "At first glance, Undertale doesn't seem particularly impressive - it has simple\ngraphics, a strange battle system, and looks more like a fun little hobby project\nthan a serious game. But first impressions can be deceiving: Undertale actually\ncombines different game genres to create something fresh, sabotages veteran\ngamers' expectations about how games should work, and builds upon the\nfoundation laid by previous generations of game creators.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28882695,
+          0.22215714,
+          0.89066766,
+          0.32572857
+        ],
+        "mask_bbox": [
+          0.28679102,
+          0.22144286,
+          0.89700958,
+          0.3268
+        ],
+        "line_ids": [
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "乍看之下，Undertale 似乎并不惊艳：画面简单，战斗系统古怪，更像一个有趣的业余小项目，而非正经大作。但第一印象会骗人。它融合了不同游戏类型，创造出新鲜体验，打破老玩家对游戏运作方式的预期，也建立在前几代游戏创作者打下的基础上。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28995179,
+          0.22072857,
+          0.89497365,
+          0.3293
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.39785714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0038-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.28995179,
+          0.22072857,
+          0.89497365,
+          0.3293
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "At its core, for example, Undertale combines the gameplay of a classic Japanese role-playing game with the mechanics of \"bullet hell\" shoot-em-up games. This unique combination surprised gamers when Undertale debuted.",
+        "raw": "At its core, for example, Undertale combines the gameplay of a classic Japanese\nrole-playing game with the mechanics of \"bullet hell\" shoot-em-up games.\nThis unique combination surprised gamers when Undertale debuted.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28930539,
+          0.34148571,
+          0.89497365,
+          0.38925714
+        ],
+        "mask_bbox": [
+          0.28679102,
+          0.34077143,
+          0.89700958,
+          0.39032857
+        ],
+        "line_ids": [
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "例如，Undertale 的核心玩法把经典日式角色扮演游戏与“弹幕”射击游戏结合起来。它首次推出时，这种独特组合让玩家吃了一惊。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28995179,
+          0.34005714,
+          0.89497365,
+          0.39282857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.39785714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0038-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.28995179,
+          0.34005714,
+          0.89497365,
+          0.39282857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b007",
+      "kind": "caption",
+      "source": {
+        "text": "In Japanese RPGs, the player explores towns and dungeons while gathering information from villagers and other inhabitants",
+        "raw": "In Japanese RPGs, the player explores towns\nand dungeons while gathering information\nfrom villagers and other inhabitants",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29207425,
+          0.59649286,
+          0.56819701,
+          0.63818571
+        ],
+        "mask_bbox": [
+          0.2907509,
+          0.59577857,
+          0.56952036,
+          0.63925714
+        ],
+        "line_ids": [
+          18,
+          20,
+          22
+        ]
+      },
+      "translation": {
+        "text": "日式角色扮演游戏中，玩家探索城镇和迷宫，同时从村民等居民那里收集信息。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29207425,
+          0.59506429,
+          0.56819701,
+          0.64175714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.655,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.29207425,
+          0.59506429,
+          0.56819701,
+          0.64175714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b008",
+      "kind": "caption",
+      "source": {
+        "text": "In Japanese RPGs, players face a variety of enemies in battle. These battles are often turn based and conducted via a menu system",
+        "raw": "In Japanese RPGs, players face a variety of\nenemies in battle. These battles are often turn\nbased and conducted via a menu system",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61015749,
+          0.59681429,
+          0.89538084,
+          0.63818571
+        ],
+        "mask_bbox": [
+          0.60883413,
+          0.5961,
+          0.89670419,
+          0.63925714
+        ],
+        "line_ids": [
+          19,
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "日式角色扮演游戏中，玩家会与各种敌人战斗。战斗往往采用回合制，通过菜单操作。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61015749,
+          0.59538571,
+          0.89538084,
+          0.64175714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.655,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61015749,
+          0.59538571,
+          0.89538084,
+          0.64175714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0038-b009",
+      "kind": "caption",
+      "source": {
+        "text": "In bullet hell games, the player must dodge cascades of enemy bullets. Easy enemies have simple patterns, while tougher enemies use dizzyingly elaborate patterns",
+        "raw": "In bullet hell games, ~\nthe player must\nd o d g e c a s c a d e s o f\ne n e m y b u l le t s . E a s y\ne n e m i e s h a v e s i m p l e\np a t t e r n s , w h i l e t o u g h e r\ne n e m i e s u s e d i z z y i n g l y\nelaborate patterns",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12043533,
+          0.66101429,
+          0.28217964,
+          0.7797
+        ],
+        "mask_bbox": [
+          0.11911198,
+          0.6603,
+          0.28350299,
+          0.78077143
+        ],
+        "line_ids": [
+          25,
+          31,
+          38,
+          48,
+          58,
+          69,
+          78,
+          85
+        ]
+      },
+      "translation": {
+        "text": "弹幕游戏里，玩家要躲开敌人如瀑布般涌来的子弹。简单的敌人发射简单的弹幕，强敌则使出复杂得令人眼花缭乱的花样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12043533,
+          0.65958571,
+          0.28217964,
+          0.78327143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12043533,
+          0.65958571,
+          0.28217964,
+          0.78327143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "b1e5be0351e54600457cf7ed39c37dbf36e274c0db6ec04e7b68734243c08c18"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          73
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          75
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          76
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          77
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          79
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          80
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          81
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          82
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          83
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          84
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          86
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          87
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          88
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          89
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          90
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          91
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          92
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          93
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          94
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          95
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          96
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          97
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          98
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          99
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          100
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          101
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          102
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          103
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          104
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          105
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          106
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          107
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          108
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          109
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          110
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          111
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          112
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          113
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          114
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          115
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          116
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          117
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          118
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          119
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          120
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          121
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          122
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          123
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          124
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      284.83,
+      879.18
+    ],
+    "text_runs": [
+      {
+        "id": "p0038-b004",
+        "blocks": [
+          "p0038-b004",
+          "p0038-b005",
+          "p0038-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 557.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

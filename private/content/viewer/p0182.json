@@ -1,0 +1,807 @@
+{
+  "schema_version": 3,
+  "pdf_page": 182,
+  "printed_page": "182",
+  "title": "糖的力量",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    980.424528,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    712.32
+  ],
+  "image_url": "/assets/p0182.jpg",
+  "image_sha256": "dd33e0399e1a6474ab314329d508adcdd0f9a043dfb87649b8c9e4d61bd8f063",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0182/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0182-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Power of Sugar",
+        "raw": "Power of Sugar",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30073707,
+          0.0622,
+          0.46079019,
+          0.07596429
+        ],
+        "mask_bbox": [
+          0.29941111,
+          0.06148571,
+          0.46211614,
+          0.07703571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "糖的力量",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.05228571,
+          0.90791282,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.05228571,
+          0.90791282,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0182-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #6: ~ Create your own \"death to the enemy\" lyrics for an ice cream truck song",
+        "raw": "Reader Challenge #6: ~\nCreate your own\n\"death to the enemy\"\nlyrics for an ice\ncream truck song",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13534953,
+          0.09171429,
+          0.2848358,
+          0.16389286
+        ],
+        "mask_bbox": [
+          0.13402357,
+          0.091,
+          0.28616175,
+          0.16496429
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 6：给冰淇淋车的曲子填一段自己的“消灭敌人”歌词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11729613,
+          0.09028571,
+          0.2848358,
+          0.16746429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11729613,
+          0.09028571,
+          0.2848358,
+          0.16746429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undyne offers the main character a drink. Options include tea, hot chocolate, soda, and a cup of sugar. If the player selects the cup of sugar, Undyne says in English:",
+        "raw": "Undyne offers the main character a drink. Options include tea, hot chocolate, soda,\nand a cup of sugar. If the player selects the cup of sugar, Undyne says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29538225,
+          0.22707857,
+          0.90230301,
+          0.25808571
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.22636429,
+          0.90995275,
+          0.25915714
+        ],
+        "line_ids": [
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Undyne 请主角喝点东西，可选茶、热巧克力、汽水和一杯糖。如果选那杯糖，英语版中 Undyne 会说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.22565,
+          0.90791282,
+          0.26165714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.22565,
+          0.90791282,
+          0.26165714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b004",
+      "kind": "quote",
+      "source": {
+        "text": "I'm not gonna give you a cup ofs ugar! What do I look like, the ice-cream woman? Do human ice-cream women TERRORIZE HUMANITY with ENERGY SPEARS? Are their ice-cream songs a PRELUDE TO DESTRUCTION?",
+        "raw": "I'm not gonna give you a cup ofs ugar! What do I look like, the ice-cream\nwoman? Do human ice-cream women TERRORIZE HUMANITY\nwith ENERGY SPEARS? Are their ice-cream songs a PRELUDE TO\nDESTRUCTION?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33936319,
+          0.27332857,
+          0.87964956,
+          0.34027143
+        ],
+        "mask_bbox": [
+          0.33803724,
+          0.27261429,
+          0.88097551,
+          0.34134286
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "我才不会给你一杯糖！你当我是卖冰淇淋的女人吗？人类世界卖冰淇淋的女人，会用能量长矛让全人类闻风丧胆吗？她们的冰淇淋歌，是毁灭的序曲吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33936319,
+          0.2719,
+          0.90791282,
+          0.34384286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33936319,
+          0.2719,
+          0.90791282,
+          0.34384286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The joke here is part of a larger running gag: Undyne imagines the human world to be just like what's depicted in fiction-based anime and manga. And in this scene, she equates happy ice cream truck music with a human warrior's \"death to the enemy\" song.",
+        "raw": "The joke here is part of a larger running gag: Undyne imagines the human\nworld to be just like what's depicted in fiction-based anime and manga. And in\nthis scene, she equates happy ice cream truck music with a human warrior's\n\"death to the enemy\" song.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28977243,
+          0.35577143,
+          0.89848833,
+          0.42117143
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.35505714,
+          0.90995275,
+          0.42224286
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "这处笑料延续了游戏里反复出现的一个梗：Undyne 以为，人类世界就像虚构的动画和漫画描绘的那样。因此在这里，她把冰淇淋车欢快的音乐，当成了人类战士的“消灭敌人”之歌。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.35434286,
+          0.90791282,
+          0.42474286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.35434286,
+          0.90791282,
+          0.42474286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although ice cream trucks represent a commonly shared cultural experience in many Western countries, they're culturally insignificant in Japan. This left the localization team in a tough situation: Undyne's line needs to be related to sugar, a literal translation wouldn't make much sense, and there's no strong equivalent to musical ice cream trucks in Japanese culture. For this reason, early drafts of the Japanese scripts had Undyne talk about how warriors in the human world surely sell ice cream and work in ice cream shops.",
+        "raw": "Although ice cream trucks represent a commonly shared cultural experience\nin many Western countries, they're culturally insignificant in Japan. This left\nthe localization team in a tough situation: Undyne's line needs to be related\nto sugar, a literal translation wouldn't make much sense, and there's no strong\nequivalent to musical ice cream trucks in Japanese culture. For this reason,\nearly drafts of the Japanese scripts had Undyne talk about how warriors in the\nhuman world surely sell ice cream and work in ice cream shops.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29440308,
+          0.43662857,
+          0.89924311,
+          0.55897857
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.43591429,
+          0.90995275,
+          0.56005
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "冰淇淋车在许多西方国家是共同的文化记忆，在日本却没什么文化分量。这给本地化团队出了难题：Undyne 的台词必须与糖有关，直译说不通，日本文化里也找不到足以对应音乐冰淇淋车的事物。因此，日文剧本的早期译稿让 Undyne 说，人类世界的战士一定会卖冰淇淋、在冰淇淋店工作。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.4352,
+          0.90791282,
+          0.56255
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.4352,
+          0.90791282,
+          0.56255
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Later, a localization team member noted that Undyne's new line felt too plain in comparison to the original. The line was then updated to suggest that human warriors surely eat ice cream before charging into battle.",
+        "raw": "Later, a localization team member noted that Undyne's new line felt too plain\nin comparison to the original. The line was then updated to suggest that\nhuman warriors surely eat ice cream before charging into battle.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29722839,
+          0.57411429,
+          0.89173616,
+          0.62297857
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.5734,
+          0.90995275,
+          0.62405
+        ],
+        "line_ids": [
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "后来，一位团队成员觉得，新台词与原文相比太平淡，于是又改成了人类战士一定会在冲上战场前吃冰淇淋。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.57268571,
+          0.90791282,
+          0.62655
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.57268571,
+          0.90791282,
+          0.62655
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Soon after, another team member suggested replacing the ice cream truck with a food vehicle that is more common in Japan: a yakiimo (\"roasted sweet potato\") truck. This idea was dropped, however, because it lacked a clear, logical connection to normal sugar.",
+        "raw": "Soon after, another team member suggested replacing the ice cream truck\nwith a food vehicle that is more common in Japan: ayakiimo (\"roasted sweet\npotato\") truck. This idea wa dropped, however, because it lacked a clear,\nlogical connection to normal sugar.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29730998,
+          0.63811429,
+          0.88695251,
+          0.70586429
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.6374,
+          0.90995275,
+          0.70693571
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "不久，另一位成员提议，把冰淇淋车换成日本更常见的 yakiimo（烤红薯）车。不过，烤红薯与普通砂糖之间没有清楚、合理的联系，这个方案也被放弃了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.63668571,
+          0.90791282,
+          0.70943571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.63668571,
+          0.90791282,
+          0.70943571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "After even more discussion, the translator changed Undyne's line to reference a classic Japanese snack instead of ice cream trucks:",
+        "raw": "After even more discussion, the translator changed Undyne's line to reference a\nclassic Japanese snack instead of ice cream trucks:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29585143,
+          0.72032143,
+          0.90791282,
+          0.75101429
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.71960714,
+          0.90995275,
+          0.75208571
+        ],
+        "line_ids": [
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "经过更多讨论，译者最终用日本经典零食，取代了冰淇淋车的典故：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.71889286,
+          0.90791282,
+          0.75458571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.71889286,
+          0.90791282,
+          0.75458571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b010",
+      "kind": "quote",
+      "source": {
+        "text": "Who the hell pours sugar into a cup and offers it to a guest?! What, do you plan on sipping it with a spoon or something? I mean, I've heard ofp eople with a sweet-tooth before, but this is on a different level. Or do sweets on the surface world make you strong, let you sprint for 300 meters, and other stuff like that?",
+        "raw": "Who the hell pours sugar into a cup and offers it to a guest?! What, do you\nplan on sipping it with a spoon or something? I mean, I've heard ofp eople\nwith a sweet-tooth before, but this is on a different level. Or do sweets on\nthe surface world make you strong, let you sprint for 300 meters, and other\nstuff like that?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34239249,
+          0.76659286,
+          0.90089545,
+          0.85207143
+        ],
+        "mask_bbox": [
+          0.34106654,
+          0.76587857,
+          0.90222141,
+          0.85314286
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "谁会把糖倒进杯子里招待客人啊？！怎么，你还打算拿勺子一点点喝掉？我也听说过爱吃甜食的人，可你这完全是另一个程度。难道地上世界的甜食，吃了就能变强、能一口气冲刺 300 米什么的？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34239249,
+          0.76516429,
+          0.90791282,
+          0.85564286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.34239249,
+          0.76516429,
+          0.90791282,
+          0.85564286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0182-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new text refers to Japanese Glico-brand snacks and their two timeless slogans: \"makes you strong\" and \"300 meters in a single piece\".",
+        "raw": "This new text refers to Japanese Glico-brand snacks and their two timeless\nslogans: \"makes you strong\" and \"300 meters in a single piece\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29813616,
+          0.86757857,
+          0.87622247,
+          0.89826429
+        ],
+        "mask_bbox": [
+          0.2877325,
+          0.86686429,
+          0.90995275,
+          0.89933571
+        ],
+        "line_ids": [
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "新台词提到的是日本 Glico（格力高）的零食，以及两句经久不衰的广告词：“让你强壮”和“一粒跑 300 米”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29585143,
+          0.86615,
+          0.90791282,
+          0.90183571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0182-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29585143,
+          0.86615,
+          0.90791282,
+          0.90183571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0aa87080245ff83d36cc3dc5869953a710b58b453b333a4c6a0bb3a7238b8f85"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          7,
+          43
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.06,
+      890.14
+    ],
+    "text_runs": [
+      {
+        "id": "p0182-b003",
+        "blocks": [
+          "p0182-b003",
+          "p0182-b004",
+          "p0182-b005",
+          "p0182-b006",
+          "p0182-b007",
+          "p0182-b008",
+          "p0182-b009",
+          "p0182-b010",
+          "p0182-b011"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

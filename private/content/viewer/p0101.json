@@ -1,0 +1,358 @@
+{
+  "schema_version": 3,
+  "pdf_page": 101,
+  "printed_page": "101",
+  "title": "灵感聚焦：Illusion of Gaia",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.723421+00:00",
+  "reference_size": [
+    980.165569,
+    1400
+  ],
+  "physical_size_pt": [
+    497.28,
+    710.28
+  ],
+  "image_url": "/assets/p0101.jpg",
+  "image_sha256": "2a9e1e1f84b47a68d40f962c9e190994e397518d4ae1ee891e627ec668438598",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0101/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0101-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Inspiration Spotlight: Illusion of Gaia",
+        "raw": "Inspiration Spotlight: Illusion of Gaia",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20712827,
+          0.08770714,
+          0.59410371,
+          0.10107857
+        ],
+        "mask_bbox": [
+          0.20580196,
+          0.08699286,
+          0.59543002,
+          0.10215
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "灵感聚焦：Illusion of Gaia",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.119367588,
+          0.078,
+          0.681517512,
+          0.102142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.102142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.119367588,
+          0.078,
+          0.681517512,
+          0.102142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 147
+    },
+    {
+      "id": "p0101-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 1993, Enix released a Super Famicom action role-playing game known as Gaia Gensōki (\"Gaia Fantasy Chronicle\") in Japan. An English version debuted as Illusion of Gaia in North America in 1994, and as Illusion of Time in Europe in 1995. The English script features many translation mishaps and unusual localization choices that remain memorable to this day.",
+        "raw": "In 1993, Enix released a Super Famicom action role-playing game known\nas Gaia Gens6ki (\"Gaia Fantasy Chronicle\") in Japan. An English version\ndebuted as Illusion of Gaia in North America in 1994, and as Illusion of Time\nin Europe in 1995. The English script features many translation mishaps and\nunusual localization choices that remain memorable to this day.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12292821,
+          0.74658571,
+          0.67634492,
+          0.82772143
+        ],
+        "mask_bbox": [
+          0.11995932,
+          0.74587143,
+          0.67838539,
+          0.82879286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "1993年，Enix 在日本推出了 Super Famicom 动作角色扮演游戏 Gaia Gensōki（《盖亚幻想纪》）。英语版于1994年以 Illusion of Gaia 为名在北美发行，1995年又以 Illusion of Time 为名在欧洲发行。英文剧本中有不少翻译失误和不寻常的本地化选择，至今仍令人难忘。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 41,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 74,
+            "end": 90,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 107,
+            "end": 123,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12292821,
+          0.74515714,
+          0.69784128,
+          0.83129286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12292821,
+          0.74515714,
+          0.69784128,
+          0.83129286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0101-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The game sends the teenage hero to many real-world locations in his quest to save humankind from a great evil. The hero gains abilities and powerful alter egos, leading to a climactic battle in space.",
+        "raw": "The game sends the teenage hero to many real-world locations in his\nquest to save humankind from a great evil. The hero gains abilities and\npowerful alter egos, leading to a climactic battle in space.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1219998,
+          0.84052143,
+          0.66296963,
+          0.88617857
+        ],
+        "mask_bbox": [
+          0.11995932,
+          0.83980714,
+          0.67838539,
+          0.88725
+        ],
+        "line_ids": [
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "少年英雄为战胜邪恶、拯救人类，前往许多现实地点，获得新能力与强大的变身形态，最终在太空决战。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1219998,
+          0.83909286,
+          0.69784128,
+          0.88975
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0101-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.1219998,
+          0.83909286,
+          0.69784128,
+          0.88975
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0101-b004",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "raw": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.67008067,
+          0.93906429,
+          0.71021675,
+          0.94835
+        ],
+        "mask_bbox": [
+          0.66875436,
+          0.93835,
+          0.71154305,
+          0.94942143
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.67008067,
+          0.93763571,
+          0.71021675,
+          0.95563571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9556357142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.67008067,
+          0.93763571,
+          0.71021675,
+          0.95563571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ruins",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "e9b08e021787185fdd7fea9237af20803cc8ab88a041bcc6ae8b1d3a0d00c8ce"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [
+      {
+        "id": "p0101-b002",
+        "blocks": [
+          "p0101-b002",
+          "p0101-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 1258.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

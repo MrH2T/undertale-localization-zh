@@ -1,0 +1,810 @@
+{
+  "schema_version": 3,
+  "pdf_page": 50,
+  "printed_page": "50",
+  "title": "日本的发行历程",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    985.719109,
+    1400
+  ],
+  "physical_size_pt": [
+    500.52,
+    710.88
+  ],
+  "image_url": "/assets/p0050.jpg",
+  "image_sha256": "2548f4ac700e836c2e5b1eaeb0943ef708af7d51c1bac72b8157076271fddd6f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0050/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0050-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Releases",
+        "raw": "Japanese Releases",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28616672,
+          0.06321429,
+          0.4757339,
+          0.07714286
+        ],
+        "mask_bbox": [
+          0.28484788,
+          0.0625,
+          0.47705274,
+          0.07821429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日本的发行历程",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.05371429,
+          0.89402751,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.05371429,
+          0.89402751,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0050-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "When Undertale debuted in English in September 2015, it wasn't locked to a single region - gamers anywhere in the world could purchase it. The game was only available in English, however, and could only be played on home computers. This language barrier, coupled with the need for a computer, made the gam inaccessible for most Japanese gamers. As a result, Undertale experienced a very different \"release history\" in Japan that can be divided into three distinct stages.",
+        "raw": "When Under tale debuted in English in September 2015, it wasn't locked to a\nsingle region - gamers anywhere in the world could purchase it. The game was\nonly available in English, however, and could only be played on home computers.\nThis language barrier, coupled with the need for a computer, made the gam\ninaccessible for most Japanese gamers. As a result, Undertale experienced a very\ndifferent \"release history\" in Japan that can be divided into three distinct stages.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2862073,
+          0.09147143,
+          0.89282027,
+          0.20460714
+        ],
+        "mask_bbox": [
+          0.28417832,
+          0.09075714,
+          0.89605648,
+          0.20567857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "2015年9月，Undertale 英语版首次推出时没有锁区，世界各地的玩家都能购买。不过，游戏只有英语，也只能在个人电脑上运行。语言障碍加上电脑要求，让多数日本玩家难以接触它。因此，Undertale 在日本经历了一段很不同的“发行史”，大致可分成三个阶段。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 92,
+            "end": 101,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.09004286,
+          0.89402751,
+          0.20817857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.21655000285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.09004286,
+          0.89402751,
+          0.20817857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b003",
+      "kind": "subheading",
+      "source": {
+        "text": "Stage #1: Videos",
+        "raw": "Stage #1: Videos",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28800294,
+          0.22369286,
+          0.44123117,
+          0.23579286
+        ],
+        "mask_bbox": [
+          0.2866841,
+          0.22297857,
+          0.44255001,
+          0.23686429
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "第一阶段：视频",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.21379286,
+          0.89402751,
+          0.23793572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.23793571714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.21379286,
+          0.89402751,
+          0.23793572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In October 2015, several weeks after Undertale's English release, a Japanese gamer began to upload a series of Undertale gameplay videos to NicoNico Douga, a popular Japanese video site. These videos, which were painstakingly edited to include Japanese translations of all the English text, quickly gained impressive view counts.",
+        "raw": "In October 2015, several weeks\nafter Underta/e's English release, a\nJapanese gamer began to upload\na series of Underta/e gameplay\nvideos to NicoNico Douga, a popular\nJapanese video site. These videos,\nwhich were painstakingly edited\nto include Japanese translations of\nall the English text, quickly gained\nimpressive view counts.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60407675,
+          0.24712143,
+          0.88202612,
+          0.42336429
+        ],
+        "mask_bbox": [
+          0.60275792,
+          0.24640714,
+          0.88334495,
+          0.42443571
+        ],
+        "line_ids": [
+          9,
+          12,
+          14,
+          16,
+          18,
+          20,
+          24,
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "2015年10月，也就是英语版发行数周后，一名日本玩家开始在热门日本视频网站 NicoNico 动画上传 Undertale 游玩视频。视频经过精心剪辑，给所有英语文字配上日语翻译，很快获得可观的观看量。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 53,
+            "end": 62,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60407675,
+          0.24569286,
+          0.88202612,
+          0.42693571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43105714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60407675,
+          0.24569286,
+          0.88202612,
+          0.42693571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because these early Undertale translations were presented as online videos, viewers could use the comment sections to react to the game as a community and to point out translation problems. Although these early video translations helped foster awareness and appreciation for Undertale in Japan, the game remained a small, niche secret until early 2016.",
+        "raw": "Because these early Undertale translations were presented as online videos,\nviewers could use the comment sections to react to the game as a community\nand to point out translation problems. Although these early video translations\nhelped foster awareness and appreciation for Undertale in Japan, the game\nremained a small, niche secret until early 2016.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28814497,
+          0.4382,
+          0.88479567,
+          0.52498571
+        ],
+        "mask_bbox": [
+          0.28417832,
+          0.43748571,
+          0.89605648,
+          0.52605714
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "因为早期译文以网络视频呈现，观众可以在评论区一起对游戏作出反应，也能指出翻译问题。这些视频让日本玩家逐渐认识、喜欢上 Undertale，但直到2016年初，它仍是少数人才知道的小众作品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 59,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.43677143,
+          0.89402751,
+          0.52855714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5366071428571427,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.43677143,
+          0.89402751,
+          0.52855714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b006",
+      "kind": "caption",
+      "source": {
+        "text": "NicoNico Douga video ~ comments are displayed as text overlays that appear at specified times. This unique feature turned the early Undertale translation videos into a large, shared experience and established the earliest Japanese Undertale fan community",
+        "raw": "NicoNico Douga video ~\ncomments are displayed\nas text overlays that\nappear at specified times.\nThis unique feature turned\nthe early Undertale\ntranslation videos into a\nlarge, shared experience\nand established the\nearliest Japanese\nUndertale fan community",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09917633,
+          0.24788571,
+          0.27765516,
+          0.41412857
+        ],
+        "mask_bbox": [
+          0.09785749,
+          0.24717143,
+          0.278974,
+          0.4152
+        ],
+        "line_ids": [
+          10,
+          11,
+          13,
+          15,
+          17,
+          19,
+          21,
+          25,
+          26,
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "NicoNico 动画的评论会在指定时间叠加到画面上。这一独特功能，让早期 Undertale 翻译视频成了大型共同体验，也形成了最早的日本 Undertale 玩家社区。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 38,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 71,
+            "end": 80,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09917633,
+          0.24645714,
+          0.27765516,
+          0.4177
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5615642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09917633,
+          0.24645714,
+          0.27765516,
+          0.4177
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Stage #2: Fan Translation",
+        "raw": "Stage #2: Fan Translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28944351,
+          0.54375,
+          0.52192353,
+          0.55585
+        ],
+        "mask_bbox": [
+          0.28812468,
+          0.54303571,
+          0.52324237,
+          0.55692143
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "第二阶段：民间翻译",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.53385,
+          0.89402751,
+          0.55799286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5579928571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.53385,
+          0.89402751,
+          0.55799286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In March 2016, fans released an unofficial translation \"patch\" that could replace all of the original English text in the game with translated Japanese text. At last, Japanese gamers could play Undertale for themselves in their native language. The fan community quickly exploded in size, and videos of the fan translation spread awareness of the game even further.",
+        "raw": "In March 2016, fans released an\nunofficial translation \"patch\" that\ncould replace all of the original English\ntext in the game with translated\nJapanese text. At last, Japanese gamers\ncould play Undertale for themselves\nin their native language. The fan\ncommunity quickly exploded in size,\nand videos of the fan translation spread\nawareness of the game even further.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60550718,
+          0.56749286,
+          0.89773039,
+          0.74477143
+        ],
+        "mask_bbox": [
+          0.60418835,
+          0.56677857,
+          0.89904922,
+          0.74584286
+        ],
+        "line_ids": [
+          38,
+          41,
+          43,
+          45,
+          47,
+          49,
+          52,
+          54,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "2016年3月，玩家发布了非官方翻译“补丁”，可以把游戏中的全部英语换成日语。日本玩家终于能用母语亲自游玩了。社区规模迅速膨胀，使用民间译版的视频又让更多人认识了游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60550718,
+          0.56606429,
+          0.89773039,
+          0.74834286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7528071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60550718,
+          0.56606429,
+          0.89773039,
+          0.74834286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this unofficial translation made the game playable in Japanese, other barriers stood in the way. First, the vast majority of Japanese gamers at the time relied on mainstream gaming systems or mobile devices to play games, not home computers. Players would also need to be savvy enough to buy the original game from English-language websites, download the translation patch from elsewhere, decompress the files, apply the patch successfully, and deal with any technical issues along the way. Thus Undertale remained inaccessible to most Japanese gamers.",
+        "raw": "Although this unofficial translation made the game playable in Japanese, other\nbarriers stood in the way. First, the vast majority of Japanese gamers at the\ntime relied on mainstream gaming systems or mobile devices to play games,\nnot home computers. Players would also need to be savvy enough to buy the\noriginal game from English-language websites, download the translation patch\nfrom elsewhere, decompress the files, apply the patch successfully, and deal\nwith any technical issues along the way. Thus Undertale remained inaccessible\nto most Japanese gamers.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28765801,
+          0.75995,
+          0.89402751,
+          0.90245
+        ],
+        "mask_bbox": [
+          0.28417832,
+          0.75923571,
+          0.89605648,
+          0.90352143
+        ],
+        "line_ids": [
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          66
+        ]
+      },
+      "translation": {
+        "text": "虽然非官方译版让游戏能用日语玩，其他障碍仍在。首先，当时绝大多数日本玩家用主流游戏主机或移动设备玩游戏，而不是个人电脑。玩家还得有足够的技术知识：到英语网站购买原版，从别处下载翻译补丁，解压文件，成功打上补丁，并解决沿途可能出现的技术问题。因此，多数日本玩家依然难以接触 Undertale。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 136,
+            "end": 145,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28765801,
+          0.75852143,
+          0.89402751,
+          0.90602143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28765801,
+          0.75852143,
+          0.89402751,
+          0.90602143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0050-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Six months after ~ Undertale's English release, Japanese fans released a self-made, unofficial translation patch that replaced all of the game's English text with Japanese text",
+        "raw": "Six months after ~\nUnderta/e's English\nrelease, Japanese fans\nreleased a self-made,\nunofficial translation\npatch that replaced all\nof the game's English\ntext with Japanese text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11789363,
+          0.56870714,
+          0.27908559,
+          0.68926429
+        ],
+        "mask_bbox": [
+          0.11657479,
+          0.56799286,
+          0.28040443,
+          0.69033571
+        ],
+        "line_ids": [
+          39,
+          40,
+          42,
+          44,
+          46,
+          48,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "Undertale 英语版发行六个月后，日本玩家推出自制的非官方翻译补丁，将全部英语文本换成日语。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11789363,
+          0.56727857,
+          0.27908559,
+          0.69283571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11789363,
+          0.56727857,
+          0.27908559,
+          0.69283571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "cf2b283a1cf095c245c52db060a26d6b92d71f2ab55998a9dd03720bb0098dfa"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      283.55,
+      881.26
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

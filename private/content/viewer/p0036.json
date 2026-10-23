@@ -1,0 +1,46 @@
+{
+  "schema_version": 3,
+  "pdf_page": 36,
+  "printed_page": "36",
+  "title": "历史",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.115564+00:00",
+  "reference_size": [
+    1014.948369,
+    1400
+  ],
+  "physical_size_pt": [
+    530.76,
+    732.12
+  ],
+  "image_url": "/assets/p0036.jpg",
+  "image_sha256": "ab808960ed50c3f7f3fdb615c56368c5fcc5aed2ec7d8e53af9edc77ec758831",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0036/page.json",
+  "page_role": "chapter-art",
+  "blocks": [],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7ea9b651fcf283d1e3cfbb5bcb94fa1c3a14480d6e131fafa0b7546f1e93d2a4"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

@@ -1,0 +1,1055 @@
+{
+  "schema_version": 3,
+  "pdf_page": 129,
+  "printed_page": "129",
+  "title": "排泄与消灭",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:12:45.532706+00:00",
+  "reference_size": [
+    976.854198,
+    1400
+  ],
+  "physical_size_pt": [
+    495.6,
+    710.28
+  ],
+  "image_url": "/assets/p0129.jpg",
+  "image_sha256": "d87560899d9c53f43d1c814f3b84271f57b22872fa7024ffd835e601d07ca047",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0129/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0129-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Waste Management",
+        "raw": "Waste Management",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0881196,
+          0.05707143,
+          0.29787455,
+          0.07030714
+        ],
+        "mask_bbox": [
+          0.0867888,
+          0.05635714,
+          0.29920535,
+          0.07137857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "排泄与消灭",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08845742,
+          0.04728571,
+          0.69065578,
+          0.07142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07142857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08845742,
+          0.04728571,
+          0.69065578,
+          0.07142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 104.0
+    },
+    {
+      "id": "p0129-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Without extra notes and context, I could absolutely see a rushed translator mistranslating this rarer usage of \"eliminate\"",
+        "raw": "Without extra notes\nand context, I could\nabsolutely see a\nrushed translator\nmistranslating\nthis rarer usage of\n\"eliminate\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72572755,
+          0.08702857,
+          0.8569242,
+          0.18942143
+        ],
+        "mask_bbox": [
+          0.72439674,
+          0.08631429,
+          0.858255,
+          0.19049286
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "如果没有额外说明和语境，我完全能想象，赶工的译者会误译 eliminate 这个较少见的用法。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71931922,
+          0.0856,
+          0.86673119,
+          0.19299286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6576714328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71931922,
+          0.0856,
+          0.86673119,
+          0.19299286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Two married guard dogs block the way. The dogs can smell that a human is nearby, but can't quite find the source of the smell. The dogs, named Dogamy and Dogaressa, converse before battling the human:",
+        "raw": "Two married guard dogs block the way. The dogs can smell that a human is\nnearby, but can't quite find the source of the smell. The dogs, named Dogamy\nand Dogaressa, converse before battling the human:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08799676,
+          0.25892857,
+          0.68451362,
+          0.30880714
+        ],
+        "mask_bbox": [
+          0.08507923,
+          0.25821429,
+          0.69270317,
+          0.30987857
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "一对结了婚的守卫犬挡住去路。它们闻到附近有人类，却找不准气味的来源。这两只狗叫 Dogamy 和 Dogaressa，在与人类开战之前，它们这样交谈：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08845742,
+          0.2575,
+          0.69065578,
+          0.31237857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08845742,
+          0.2575,
+          0.69065578,
+          0.31237857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Dogamy: Hmmm ... Here's that weird smell. Lt makes me want to eliminate.",
+        "raw": "Dogamy: Hmmm ... Here's that weird smell. Lt makes me want to eliminate.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.134063,
+          0.32390714,
+          0.69549786,
+          0.33657857
+        ],
+        "mask_bbox": [
+          0.13273219,
+          0.32319286,
+          0.69682866,
+          0.33765
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "Dogamy：嗯……那股怪味在这儿。闻得我想 eliminate（排泄）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.134063,
+          0.32247857,
+          0.69549786,
+          0.34306786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.134063,
+          0.32247857,
+          0.69549786,
+          0.34306786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Dogaressa: (...Eliminate YOU!)",
+        "raw": "Dogaressa: (...Eliminate YOU!)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.134063,
+          0.35095,
+          0.37034186,
+          0.36362143
+        ],
+        "mask_bbox": [
+          0.13273219,
+          0.35023571,
+          0.37167266,
+          0.36469286
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "Dogaressa：（……eliminate YOU，消灭你！）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.134063,
+          0.34952143,
+          0.69065578,
+          0.37011071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0129-b004",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.134063,
+          0.34952143,
+          0.69065578,
+          0.37011071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, the word \"eliminate\" usually means \"to get rid of something\" or even \"to kill\", but in some contexts - such as when discussing physiology or animal training- it can mean \"to expel waste matter from the body\". Toby made sure to mention this double meaning in his translation notes.",
+        "raw": "In English, the word \"eliminate\" usually means \"to get rid of something\" or\neven \"to kill\", but in some contexts - such as when discussing physiology or\nanimal training- it can mean \"to expel waste matter from the body\". Toby\nmade sure to mention this double meaning in his translation notes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08891808,
+          0.37854286,
+          0.67526966,
+          0.44632857
+        ],
+        "mask_bbox": [
+          0.08507923,
+          0.37782857,
+          0.69270317,
+          0.4474
+        ],
+        "line_ids": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "英语的 eliminate 通常表示“清除某物”，甚至“杀死”；但在某些语境中，例如讨论生理或动物训练时，也可以表示“把废物排出体外”。Toby 特意在翻译说明中提到了这层双重含义。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08845742,
+          0.37711429,
+          0.69065578,
+          0.4499
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.08845742,
+          0.37711429,
+          0.69065578,
+          0.4499
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first, the translator localized this wordplay by referring to bombs:",
+        "raw": "At first, the translator localized this wordplay by referring to bombs:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08712662,
+          0.46130714,
+          0.61756401,
+          0.4737
+        ],
+        "mask_bbox": [
+          0.08507923,
+          0.46059286,
+          0.69270317,
+          0.47477143
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "译者最初用“炸弹”来处理这个双关：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08845742,
+          0.45987857,
+          0.69065578,
+          0.48202143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.08845742,
+          0.45987857,
+          0.69065578,
+          0.48202143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Do gamy: Here's the source of the smell. It makes me want to drop a \"bomb\".",
+        "raw": "Do gamy: Here's the source of the smell. It makes me want to drop a \"bomb\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13454413,
+          0.4888,
+          0.70653328,
+          0.50147143
+        ],
+        "mask_bbox": [
+          0.13321333,
+          0.48808571,
+          0.70786408,
+          0.50254286
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "Dogamy：气味就是从这儿来的。闻得我想投一颗“炸弹”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13454413,
+          0.48737143,
+          0.70653328,
+          0.50796071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.13454413,
+          0.48737143,
+          0.70653328,
+          0.50796071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Dogaressa: ( ... We'll drop a \"bomb\" on you!)",
+        "raw": "Dogaressa: ( ... We'll drop a \"bomb\" on you!)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13454413,
+          0.51652143,
+          0.46204439,
+          0.52919286
+        ],
+        "mask_bbox": [
+          0.13321333,
+          0.51580714,
+          0.46337519,
+          0.53026429
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "Dogaressa：（……把“炸弹”投到你身上！）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13454413,
+          0.51509286,
+          0.69065578,
+          0.53568214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0129-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13454413,
+          0.51509286,
+          0.69065578,
+          0.53568214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "However, these \"bomb\" references didn't match the dogs' axe-themed attacks in battle, and they suggested that the dogs wanted to defecate on the main character. So the translator tried a different solution:",
+        "raw": "However, these \"bomb\" references didn't match the dogs' axe-themed attacks\nin battle, and they suggested that the dogs wanted to defecate on the main\ncharacter. So the translator tried a different solution:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08902045,
+          0.54375714,
+          0.69065578,
+          0.59331429
+        ],
+        "mask_bbox": [
+          0.08507923,
+          0.54304286,
+          0.69270317,
+          0.59438571
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "可是，“炸弹”与两只狗战斗中以斧头为主题的攻击不相符，还让人以为它们想往主角身上排便。因此译者换了一个办法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08845742,
+          0.54232857,
+          0.69065578,
+          0.59688571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.08845742,
+          0.54232857,
+          0.69065578,
+          0.59688571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Dogamy: Here's the source of the smell... It makes me want to \"mark\" it.",
+        "raw": "Dogamy: Here's the source of the smell... It makes me want to \"mark\" it.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13502527,
+          0.60875,
+          0.67421525,
+          0.62142143
+        ],
+        "mask_bbox": [
+          0.13369447,
+          0.60803571,
+          0.67554606,
+          0.62249286
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "Dogamy：气味就是从这儿来的……闻得我想“mark”（标记）一下。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13502527,
+          0.60732143,
+          0.69065578,
+          0.62791071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0129-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.13502527,
+          0.60732143,
+          0.69065578,
+          0.62791071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Dogaressa: ( ...\" Mark\" you, that is!)",
+        "raw": "Dogaressa: ( ...\" Mark\" you, that is!)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13502527,
+          0.63613571,
+          0.39573971,
+          0.64880714
+        ],
+        "mask_bbox": [
+          0.13369447,
+          0.63542143,
+          0.39707052,
+          0.64987857
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "Dogaressa：（……是把你“mark”为目标！）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13502527,
+          0.63470714,
+          0.69065578,
+          0.65529643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6565642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0129-b011",
+        "gap_before": 6
+      },
+      "calibration": {
+        "bbox": [
+          0.13502527,
+          0.63470714,
+          0.69065578,
+          0.65529643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the word \"eliminate\" was simply replaced with the word \"mark\". In both English and in Japanese, the word \"mark\" can mean \"to identify as a target\" and, in the context of animals, \"to mark one's territory with urine, feces, or other bodily substances\". With this second localization solution, the translator was able to preserve the original joke in a way that avoided thematic conflicts.",
+        "raw": "As we can see, the word \"eliminate\"\nwas simply replaced with the\nword \"mark\". In both English and\nin Japanese, the word \"mark\" can\nmean \"to identify as a target\" and, in\nthe context of animals, \"to mark one's\nterritory with urine, feces, or other\nbodily substances\". With this second\nlocalization solution, the translator\nwas able to preserve the original\njoke in a way that avoided thematic\nconflicts.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08760775,
+          0.66370714,
+          0.38178676,
+          0.87986429
+        ],
+        "mask_bbox": [
+          0.08507923,
+          0.66299286,
+          0.38311756,
+          0.88093571
+        ],
+        "line_ids": [
+          29,
+          34,
+          36,
+          39,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "eliminate 就这样被换成了 mark。在英语和日语中，mark 都可以表示“确定为目标”；说到动物时，也能指“用尿液、粪便或其他身体物质标记领地”。第二种本地化方案让译者保住了原本的笑话，同时避免了主题上的冲突。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08712662,
+          0.66227857,
+          0.38178676,
+          0.88343571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08712662,
+          0.66227857,
+          0.38178676,
+          0.88343571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b014",
+      "kind": "aside",
+      "source": {
+        "text": "The English word \"marking\", as it relates to animal behavior, is already a part of the Japanese language",
+        "raw": "The English word\n\"marking\", as it relates\nto animal behavior, is\nalready a part of the\nJapanese language",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72667958,
+          0.66481429,
+          0.86941327,
+          0.7385
+        ],
+        "mask_bbox": [
+          0.72534878,
+          0.6641,
+          0.87074407,
+          0.73957143
+        ],
+        "line_ids": [
+          31,
+          33,
+          35,
+          37,
+          40
+        ]
+      },
+      "translation": {
+        "text": "表示动物标记领地行为的英语词 marking，本身已经进入了日语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71931922,
+          0.66338571,
+          0.86941327,
+          0.74207143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71931922,
+          0.66338571,
+          0.86941327,
+          0.74207143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0129-b015",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64150822,
+          0.93568571,
+          0.70589859,
+          0.9454
+        ],
+        "mask_bbox": [
+          0.64017742,
+          0.93497143,
+          0.70722939,
+          0.94647143
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64150822,
+          0.93425714,
+          0.70589859,
+          0.95225714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9522571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64150822,
+          0.93425714,
+          0.70589859,
+          0.95225714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "e878e8c736b6dadbc163fd4aab0246ceace9499ab8d07a2ced8c562b7031f499"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          10,
+          11,
+          30,
+          32,
+          38,
+          50
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      86.41,
+      674.67
+    ],
+    "text_runs": [
+      {
+        "id": "p0129-b003",
+        "blocks": [
+          "p0129-b003",
+          "p0129-b004",
+          "p0129-b005",
+          "p0129-b006",
+          "p0129-b007",
+          "p0129-b008",
+          "p0129-b009",
+          "p0129-b010",
+          "p0129-b011",
+          "p0129-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 919.19
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1127 @@
+{
+  "schema_version": 3,
+  "pdf_page": 233,
+  "printed_page": "233",
+  "title": "符号对照表与面包彩蛋",
+  "subtitle": "真正的实验室 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:37:49.133765+00:00",
+  "reference_size": [
+    981.063291,
+    1400
+  ],
+  "physical_size_pt": [
+    498.24,
+    711.0
+  ],
+  "image_url": "/assets/p0233.jpg",
+  "image_sha256": "a2a176e0435b4d0af0eabff03678e0e0a948c289a20c7331a1819428f52b0689",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0233/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0233-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Wingdings Symbol Chart",
+        "raw": "Wingdings Symbol Chart",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2996137,
+          0.0802,
+          0.4988567,
+          0.09314286
+        ],
+        "mask_bbox": [
+          0.2982886,
+          0.07948571,
+          0.5001818,
+          0.09421429
+        ],
+        "line_ids": [
+          3
+        ]
+      },
+      "translation": {
+        "text": "Wingdings 符号对照表",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09785301,
+          0.07357143,
+          0.70127993,
+          0.09785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.09785714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.09785301,
+          0.07357143,
+          0.70127993,
+          0.09785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "region_id": "symbol-chart-title-band"
+    },
+    {
+      "id": "p0233-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The Wingdings font, which has come standard with Windows computers since the early 1990s, allows users to include symbols and icons in text documents",
+        "raw": "The Wingdings font,\nwhich has come\nstandard with Windows\ncomputers since the\nearly 1990s, allows\nusers to include\nsymbols and icons in\ntext documents",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73161437,
+          0.07107143,
+          0.8801369,
+          0.18924286
+        ],
+        "mask_bbox": [
+          0.73028928,
+          0.07035714,
+          0.88146199,
+          0.19031429
+        ],
+        "line_ids": [
+          1,
+          4,
+          5,
+          6,
+          10,
+          15,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "Wingdings 从 20 世纪 90 年代初起就是 Windows 电脑的标配字体，用户可用它在文档中加入符号和图标。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73104356,
+          0.06964286,
+          0.8801369,
+          0.19281429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4105857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73104356,
+          0.06964286,
+          0.8801369,
+          0.19281429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b003",
+      "kind": "heading",
+      "source": {
+        "text": "Bread-Based Tribute",
+        "raw": "Bread-Based Tribute",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09351079,
+          0.38850714,
+          0.30272257,
+          0.40215
+        ],
+        "mask_bbox": [
+          0.09218569,
+          0.38779286,
+          0.30404766,
+          0.40322143
+        ],
+        "line_ids": [
+          63
+        ]
+      },
+      "translation": {
+        "text": "用面包致敬",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09384716,
+          0.37871429,
+          0.7025031,
+          0.40285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09384716,
+          0.37871429,
+          0.7025031,
+          0.40285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 568.0
+    },
+    {
+      "id": "p0233-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #9: Come up with a bread pun for this caption before you finish this page!",
+        "raw": "Reader Challenge #9:\nCome up with a bread\npun for this caption\nbefore you finish this\npage!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7339078,
+          0.41772857,
+          0.87059623,
+          0.49066429
+        ],
+        "mask_bbox": [
+          0.73258271,
+          0.41701429,
+          0.87192132,
+          0.49173571
+        ],
+        "line_ids": [
+          64,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 #9：读完这页之前，为这条图注想一个面包双关！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73104356,
+          0.4163,
+          0.87782308,
+          0.49423571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73104356,
+          0.4163,
+          0.87782308,
+          0.49423571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, an enemy named \"Lemon Bread\" blocks the way forward. In his notes, Toby stated that this name is a reference to the classic 1993 game, Gunstar Heroes.",
+        "raw": "In the English version of Undertale, an enemy named \"Lemon Bread\" blocks\nthe way forward. In his notes, Toby stated that this name is a reference to the\nclassic 1993 game, Gunstar Heroes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09374523,
+          0.54490714,
+          0.68733588,
+          0.59473571
+        ],
+        "mask_bbox": [
+          0.09170662,
+          0.54419286,
+          0.7045417,
+          0.59580714
+        ],
+        "line_ids": [
+          72,
+          73,
+          74
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》英文版里，一个名叫“Lemon Bread”（柠檬面包）的敌人挡住了去路。Toby 在笔记里说，这个名字是在致敬 1993 年的经典游戏《Gunstar Heroes》。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 80,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09384716,
+          0.54347857,
+          0.7025031,
+          0.59830714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6871428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09384716,
+          0.54347857,
+          0.7025031,
+          0.59830714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the original Japanese version of Gunstar Heroes, players can fight \"MELON PAN\", a bizarre enemy whose name comes from a popular Japanese snack of the same name. In the English-language release of Gunstar Heroes, \"MELON PAN\" was translated literally as \"MELON BREAD\".",
+        "raw": "In the original Japanese version of Gunstar Heroes, players can fight \"MELON\nPAN\", a bizarre enemy whose name comes from a popular Japanese snack of\nthe same name. In the English-language release of Gunstar Heroes, \"MELON\nPAN\" was translated literally as \"MELON BREAD\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09384716,
+          0.60970714,
+          0.69570435,
+          0.6771
+        ],
+        "mask_bbox": [
+          0.09170662,
+          0.60899286,
+          0.7045417,
+          0.67817143
+        ],
+        "line_ids": [
+          76,
+          78,
+          80,
+          82
+        ]
+      },
+      "translation": {
+        "text": "在《Gunstar Heroes》日文原版里，玩家会遇到一个古怪敌人“MELON PAN”（蜜瓜包），名字来自日本常见的同名点心。游戏推出英文版时，这个名字被直译成了“MELON BREAD”（蜜瓜面包）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09384716,
+          0.60827857,
+          0.7025031,
+          0.68067143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6871428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0233-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.09384716,
+          0.60827857,
+          0.7025031,
+          0.68067143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Japanese melon pan is a sweet bread roll topped with crispy cookie dough",
+        "raw": "Japanese melon pan\nis a sweet bread roll\ntopped with crispy\ncookie dough",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73399954,
+          0.60947857,
+          0.85900676,
+          0.66787857
+        ],
+        "mask_bbox": [
+          0.73267444,
+          0.60876429,
+          0.86033185,
+          0.66895
+        ],
+        "line_ids": [
+          75,
+          77,
+          79,
+          81
+        ]
+      },
+      "translation": {
+        "text": "日本的 melon pan（蜜瓜包）是一种甜面包，表面覆着酥脆的饼干面皮。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73104356,
+          0.60805,
+          0.87782308,
+          0.67145
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6860428528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73104356,
+          0.60805,
+          0.87782308,
+          0.67145
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b008",
+      "kind": "aside",
+      "source": {
+        "text": "We can actually see one of Toby's early notes about this reference back in the Getting it Localized chapter",
+        "raw": "We can actually see one\nof Toby's early notes\nabout this reference\nback in the Getting it\nLocalized chapter",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73442764,
+          0.69318571,
+          0.8840816,
+          0.7668
+        ],
+        "mask_bbox": [
+          0.73310255,
+          0.69247143,
+          0.88540669,
+          0.76787143
+        ],
+        "line_ids": [
+          83,
+          85,
+          86,
+          87,
+          88
+        ]
+      },
+      "translation": {
+        "text": "前面的“本地化过程”一章里，就能看到 Toby 关于这个彩蛋的一条早期笔记。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73104356,
+          0.69175714,
+          0.8840816,
+          0.77037143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73104356,
+          0.69175714,
+          0.8840816,
+          0.77037143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "As a tribute to this localization choice in Gunstar Heroes, Toby requested that the \"Lemon Bread\" enemy in Undertale be renamed \"LEMON PAN\" in the Japanese script. This change ensures that Toby's Gunstar Heroes reference will remain intact and recognizable to Japanese players.",
+        "raw": "As a tribute to this localization choice in Gunstar Heroes, Toby requested that\nthe \"Lemon Bread\" enemy in Undertale be renamed \"LEMON PAN\" in the\nJapanese script. This change ensures that Toby's Gunstar Heroes reference will\nremain intact and recognizable to Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09388793,
+          0.83014286,
+          0.7025031,
+          0.89855
+        ],
+        "mask_bbox": [
+          0.09170662,
+          0.82942857,
+          0.7045417,
+          0.89962143
+        ],
+        "line_ids": [
+          89,
+          90,
+          91,
+          92
+        ]
+      },
+      "translation": {
+        "text": "为了致敬《Gunstar Heroes》当年的本地化处理，Toby 要求把《Undertale》日文剧本里的“Lemon Bread”改名为“LEMON PAN”（柠檬面包）。这样，日本玩家也能认出这个致敬。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 38,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09384716,
+          0.82871429,
+          0.7025031,
+          0.90212143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09384716,
+          0.82871429,
+          0.7025031,
+          0.90212143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0233-b010",
+      "kind": "footer",
+      "source": {
+        "text": "True Lab",
+        "raw": "True Lab",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64587066,
+          0.93608571,
+          0.7077627,
+          0.94536429
+        ],
+        "mask_bbox": [
+          0.64454557,
+          0.93537143,
+          0.70908779,
+          0.94643571
+        ],
+        "line_ids": [
+          94
+        ]
+      },
+      "translation": {
+        "text": "真正的实验室",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.59360085,
+          0.93465714,
+          0.7077627,
+          0.95322857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9532285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.59360085,
+          0.93465714,
+          0.7077627,
+          0.95322857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "True Lab",
+        "chapter_id": "chapter-230"
+      },
+      "region_id": "footer-region"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "91745e2daeb084d2c0adb133b7c5be3634d29d7de52274a88315e6b10a06b714"
+  },
+  "chapter_id": "chapter-230",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          84
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          93
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.07,
+      689.2
+    ],
+    "text_runs": [
+      {
+        "id": "p0233-b005",
+        "blocks": [
+          "p0233-b005",
+          "p0233-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 962.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "bbox": [
+        586,
+        1316,
+        635,
+        1325
+      ],
+      "fill": "#ffffff",
+      "type": "rect"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        90,
+        99,
+        694,
+        141
+      ],
+      "fill": "#343434"
+    }
+  ]
+}

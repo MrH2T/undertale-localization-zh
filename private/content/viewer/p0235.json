@@ -1,0 +1,809 @@
+{
+  "schema_version": 3,
+  "pdf_page": 235,
+  "printed_page": "235",
+  "title": "从上下文中提取线索",
+  "subtitle": "真正的实验室 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:12:45.538604+00:00",
+  "reference_size": [
+    991.489362,
+    1400
+  ],
+  "physical_size_pt": [
+    503.28,
+    710.64
+  ],
+  "image_url": "/assets/p0235.jpg",
+  "image_sha256": "807460987796087ec58d007c9591e1d237d94cdde57ba4b67abac1b82d44b12c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0235/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0235-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Context Extraction",
+        "raw": "Context Extraction",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09843777,
+          0.06154286,
+          0.29271116,
+          0.07505714
+        ],
+        "mask_bbox": [
+          0.09712661,
+          0.06082857,
+          0.29402232,
+          0.07612857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "从上下文中提取线索",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09895215,
+          0.05157143,
+          0.70294249,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09895215,
+          0.05157143,
+          0.70294249,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110
+    },
+    {
+      "id": "p0235-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "The secret lab is equipped with an ominous device known as the \"DT Extraction Machine\" in English. The player is supposed to deduce that \"DT\" stands for \"Determination\".",
+        "raw": "The secret lab is equipped with an ominous device known as the \"DT\nExtraction Machine\" in English. The player is supposed to deduce that \"DT\"\nstands for \"Determination\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09860923,
+          0.26352143,
+          0.68347682,
+          0.31305714
+        ],
+        "mask_bbox": [
+          0.09659206,
+          0.26280714,
+          0.70495966,
+          0.31412857
+        ],
+        "line_ids": [
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "秘密实验室里有一台不祥的装置，英文名为“DT Extraction Machine”（DT 提取机）。玩家需要自行推断，DT 代表 Determination（决心）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09895215,
+          0.26209286,
+          0.70294249,
+          0.31662857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5064285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09895215,
+          0.26209286,
+          0.70294249,
+          0.31662857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0235-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because \"determination\" was translated as ketsui elsewhere in the Japanese script, this machine was renamed the \"KTI Extraction Machine\". This peculiar abbreviation comes from how ketsui is spelled in the Japanese script: ケツイ (Ke Tsu I).",
+        "raw": "Because \"determination\" was translated as ketsui elsewhere in the Japanese\nscript, this machine was renamed the \"KTI Extraction Machine\". This peculiar\nabbreviation comes from how ketsui is spelled in the Japanese script:\n7\"\"/1 (Ke Tsu I).",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.09895215,
+          0.32768571,
+          0.70294249,
+          0.39587857
+        ],
+        "mask_bbox": [
+          0.09659206,
+          0.32697143,
+          0.70495966,
+          0.39695
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "日文剧本的其他地方把 determination 译成了 ketsui（决心），因此这台机器也改名为“KTI 提取机”。这个特别的缩写来自游戏里 ketsui 的写法：「ケツイ」（Ke Tsu I），各取一个字母。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 73,
+            "end": 79,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 90,
+            "end": 98,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09895215,
+          0.32625714,
+          0.70294249,
+          0.39945
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5064285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0235-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09895215,
+          0.32625714,
+          0.70294249,
+          0.39945
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0235-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "This simple localization change offers another example of how a single localization choice in one part of a script can unexpectedly affect other parts. Such unexpected side effects can easily be missed by machine translation systems, rushed translators using primitive \"search-and-replace\" tools, or inexperienced translators.",
+        "raw": "This simple localization change offers another example of how a single\nlocalization choice in one part of a script can unexpectedly affect other parts.\nSuch unexpected side effects can easily be missed by machine translation\nsystems, rushed translators using primitive \"search-and-replace\" tools, or\ninexperienced translators.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09895215,
+          0.41075714,
+          0.68639163,
+          0.4961
+        ],
+        "mask_bbox": [
+          0.09659206,
+          0.41004286,
+          0.70495966,
+          0.49717143
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "这个简单的改动再次说明，剧本某一处的翻译选择，可能意外影响其他地方。机器翻译、用简陋“查找替换”工具赶工的译者，或经验不足的译者，都很容易漏掉这类连带影响。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09895215,
+          0.40932857,
+          0.70294249,
+          0.49967143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5064285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0235-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09895215,
+          0.40932857,
+          0.70294249,
+          0.49967143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0235-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "The Dangers of Search-and-Replace in Translation",
+        "raw": "The Dangers of Search-and-Replace in Translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14628498,
+          0.52863571,
+          0.65833283,
+          0.54214286
+        ],
+        "mask_bbox": [
+          0.14497382,
+          0.52792143,
+          0.65964399,
+          0.54321429
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "翻译中查找替换的隐患",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12405579,
+          0.51871429,
+          0.67978541,
+          0.54285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12405579,
+          0.51871429,
+          0.67978541,
+          0.54285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 764.0
+    },
+    {
+      "id": "p0235-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Someone searched for \"magic\" and replaced most instances with \"spell\", leading to unintended results like \"spellian\" instead of \"magician\" (Game: Yu-Gi-Oh! World Tournament 2004)",
+        "raw": "Someone searched for \"magic\" and\nreplaced most instances with \"spell\",\nleading to unintended results like\n\"spellian\" instead of \"magician\" (Game:\nYu-Gi-Oh! World Tournament 2004)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1304603,
+          0.69668571,
+          0.37738176,
+          0.76344286
+        ],
+        "mask_bbox": [
+          0.12914914,
+          0.69597143,
+          0.37869292,
+          0.76451429
+        ],
+        "line_ids": [
+          33,
+          35,
+          37,
+          39,
+          41
+        ]
+      },
+      "translation": {
+        "text": "有人把大部分 magic（魔法）替换为 spell（咒语），结果连 magician（魔术师）也变成了不存在的“spellian”。（游戏：《游戏王 世界大赛 2004》）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1301073,
+          0.6892857142857143,
+          0.38225322,
+          0.7728571442857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.1301073,
+          0.6892857142857143,
+          0.38225322,
+          0.7728571442857143
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": [],
+      "region_id": "spellian-game-caption"
+    },
+    {
+      "id": "p0235-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Someone searched for \"youth\" at some point and replaced most instances with \"kid\", which somehow led to phrases like \"you think\" becoming \"kidink\" (Game: Ever 17: The Out of Infinity)",
+        "raw": "Someone searched for \"youth\" at some\npoint and replaced most instances with\n\"kid\", which somehow led to phrases like\n\"you think\" becoming \"kidink\" (Game:\nEver 17: The Out of Infinity)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41897575,
+          0.69668571,
+          0.67271524,
+          0.76376429
+        ],
+        "mask_bbox": [
+          0.41766459,
+          0.69597143,
+          0.67402639,
+          0.76483571
+        ],
+        "line_ids": [
+          34,
+          36,
+          38,
+          40,
+          42
+        ]
+      },
+      "translation": {
+        "text": "有人把大部分 youth（少年）替换成 kid（孩子），不知怎么连 you think（你认为）也变成了“kidink”。（游戏：《Ever 17: The Out of Infinity》）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 66,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41897575,
+          0.6892857142857143,
+          0.68079399,
+          0.7613642842857142
+        ],
+        "font_size": 16,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7729428528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41897575,
+          0.6892857142857143,
+          0.68079399,
+          0.7613642842857142
+        ],
+        "font_size": 16,
+        "leading": 22.4
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0235-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In today's computer age, writers regularly rely on automatic spell-checking and search-and-replace tools to fix problematic text. Translators rely on these tools all the time, too. Of course, these tools can actually introduce new problems into a translation if used improperly. This phenomenon is rare, but when it occurs, it can harm the quality of the full, final product.",
+        "raw": "In today's computer age, writers regularly rely on automatic spell-checking\nand search-and-replace tools to fix problematic text. Translators rely on\nthese tools all the time, too. Of course, these tools can actually introduce\nnew problems into a translation if used improperly. This phenomenon is\nrare, but when it occurs, it can harm the quality of the full, final product.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12535687,
+          0.78008571,
+          0.6768706,
+          0.85927143
+        ],
+        "mask_bbox": [
+          0.12404571,
+          0.77937143,
+          0.67818176,
+          0.86034286
+        ],
+        "line_ids": [
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "在电脑时代，作者经常用自动拼写检查、查找替换来修正文稿，译者也一样。不过，使用不当时，这些工具也会给译文引入新问题。这种情况不常见，但一旦发生，就会损害最终成品的整体质量。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12535687,
+          0.77865714,
+          0.70294249,
+          0.86284286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8707142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12535687,
+          0.77865714,
+          0.70294249,
+          0.86284286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0235-b009",
+      "kind": "footer",
+      "source": {
+        "text": "True Lab",
+        "raw": "True Lab",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64560451,
+          0.93926429,
+          0.70689614,
+          0.94897143
+        ],
+        "mask_bbox": [
+          0.64429335,
+          0.93855,
+          0.7082073,
+          0.95004286
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "真正的实验室",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.59393476,
+          0.93783571,
+          0.70689614,
+          0.95640714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9564071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.59393476,
+          0.93783571,
+          0.70689614,
+          0.95640714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "True Lab",
+        "chapter_id": "chapter-230"
+      },
+      "region_id": "footer-region"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [
+    "右侧 Wingdings 图注保留编码符号；本轮未解码。"
+  ],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "c0f3fcc5161a438949dcbe5b454f33665cdb3bcb41052d2e7a183efaf5d9ac0f"
+  },
+  "chapter_id": "chapter-230",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      98.11,
+      696.96
+    ],
+    "text_runs": [
+      {
+        "id": "p0235-b002",
+        "blocks": [
+          "p0235-b002",
+          "p0235-b003",
+          "p0235-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 709.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "erase_regions": [
+    {
+      "bbox": [
+        593,
+        1320,
+        642,
+        1331
+      ],
+      "fill": "#ffffff",
+      "type": "rect"
+    }
+  ]
+}

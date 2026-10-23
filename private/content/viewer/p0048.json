@@ -1,0 +1,431 @@
+{
+  "schema_version": 3,
+  "pdf_page": 48,
+  "printed_page": "48",
+  "title": "玩家的热情",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    988.290713,
+    1400
+  ],
+  "physical_size_pt": [
+    503.52,
+    713.28
+  ],
+  "image_url": "/assets/p0048.jpg",
+  "image_sha256": "020671dbd05d3f41eafd63346249fccf7ff82beb1e670f8b067ce94fb48800ab",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0048/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0048-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale fans share their love for the game by dressing up as their favorite characters, making fan videos, writing spin-off stories, and more",
+        "raw": "Undertale fans share\ntheir love for the game\nby dressing up as their\nfavorite characters,\nmaking fan videos,\nwriting spin-off stories,\nand more",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12529714,
+          0.07174286,
+          0.26808913,
+          0.1741
+        ],
+        "mask_bbox": [
+          0.12398174,
+          0.07102857,
+          0.26940454,
+          0.17517143
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Undertale 玩家扮成喜爱的角色、制作同人视频、写衍生故事，以各种方式表达对游戏的喜爱。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12529714,
+          0.07031429,
+          0.26808913,
+          0.17767143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12529714,
+          0.07031429,
+          0.26808913,
+          0.17767143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0048-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Pro wrestler Kenny Omega enters the ring with Undertale flair",
+        "raw": "Pro wrestler Kenny\nOmega enters\nthe ring with\nUndertale flair",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17226713,
+          0.49097143,
+          0.37688303,
+          0.51662857
+        ],
+        "mask_bbox": [
+          0.17095172,
+          0.49025714,
+          0.37819843,
+          0.5177
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "职业摔角手 Kenny Omega 以 Undertale 风格登场。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.17226713,
+          0.48954286,
+          0.37688303,
+          0.5202
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5272357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.17226713,
+          0.48954286,
+          0.37688303,
+          0.5202
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0048-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale's music is celebrated ~ around the world by prestigious symphony orchestras such as Games&Symphonies, seen here",
+        "raw": "Undertale's music\nis celebrated ~\naround the world\nby prestigious\nsymphony orchestras\nsuch as\nGames&Symphonies,\nseen here",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.18146482,
+          0.53437857,
+          0.39420587,
+          0.59233571
+        ],
+        "mask_bbox": [
+          0.18014942,
+          0.53366429,
+          0.39552127,
+          0.59340714
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "世界各地的知名交响乐团演奏 Undertale 音乐；图中的是 Games&Symphonies。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.18146482,
+          0.53295,
+          0.39420587,
+          0.59590714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6035714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.18146482,
+          0.53295,
+          0.39420587,
+          0.59590714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0048-b004",
+      "kind": "caption",
+      "source": {
+        "text": "~ Undertale inspired countless fans to design and create their own games, just as Toby was inspired years before",
+        "raw": "~ Undertale inspired countless fans to design and\ncreate their own games, just as Toby was inspired\nyears before",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.57723906,
+          0.61008571,
+          0.89865258,
+          0.65088571
+        ],
+        "mask_bbox": [
+          0.57592366,
+          0.60937143,
+          0.89996798,
+          0.65195714
+        ],
+        "line_ids": [
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Undertale 激励无数玩家设计、制作自己的游戏，就像多年前 Toby 受到的启发一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.57723906,
+          0.60865714,
+          0.89865258,
+          0.65445714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6628571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.57723906,
+          0.60865714,
+          0.89865258,
+          0.65445714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0048-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Similarly, some fans learned to modify old, ~ classic games to create new experiences, like this Super Mario World-themed Undertale tribute game",
+        "raw": "Similarly, some fans learned to modify old, ~\nclassic games to create new experiences,\nlike this Super Mario World-themed\nUndertale tribute game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30820891,
+          0.81165,
+          0.582956,
+          0.86758571
+        ],
+        "mask_bbox": [
+          0.3068935,
+          0.81093571,
+          0.5842714,
+          0.86865714
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "一些玩家也学会修改经典老游戏，创造新的体验，例如这个采用《Super Mario World》风格的 Undertale 致敬作品。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 51,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30820891,
+          0.81022143,
+          0.582956,
+          0.87115714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30820891,
+          0.81022143,
+          0.582956,
+          0.87115714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d29d64850b4ad896d051c254953ba0f611ccc8dce7f632fdab89b23df13aa3c0"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          27
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      292,
+      893
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

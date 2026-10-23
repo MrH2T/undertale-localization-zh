@@ -1,0 +1,2053 @@
+{
+  "schema_version": 3,
+  "pdf_page": 234,
+  "printed_page": "234",
+  "title": "冷笑话交锋",
+  "subtitle": "真正的实验室 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.785976+00:00",
+  "reference_size": [
+    983.67553,
+    1400
+  ],
+  "physical_size_pt": [
+    501.0,
+    713.04
+  ],
+  "image_url": "/assets/p0234.jpg",
+  "image_sha256": "84c1a31c78705980d5ab22e53e891124972f3ab46e14f881abca7d5daa355e2e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0234/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0234-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Comedy Clash",
+        "raw": "Comedy Clash",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2924135,
+          0.06146429,
+          0.43818311,
+          0.07478571
+        ],
+        "mask_bbox": [
+          0.29109192,
+          0.06075,
+          0.43950468,
+          0.07585714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "冷笑话交锋",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29398922,
+          0.05157143,
+          0.90184209,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29398922,
+          0.05157143,
+          0.90184209,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110
+    },
+    {
+      "id": "p0234-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Bad jokes can be tricky to localize because they have to fall under a certain threshold to be considered a bad joke, which paradoxically requires comedic ability to achieve",
+        "raw": "Bad jokes can be tricky\nto localize because they\nhave to fall under a\ncertain threshold to be\nconsidered a bad joke,\nwhich paradoxically\nrequires comedic ability\nto achieve",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11828087,
+          0.09050714,
+          0.26826936,
+          0.20942143
+        ],
+        "mask_bbox": [
+          0.1169593,
+          0.08979286,
+          0.26959093,
+          0.21049286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "烂笑话也不好翻译：得差到一定程度才算烂笑话，偏偏要做到这一点，也需要幽默功力。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11690847,
+          0.08907857,
+          0.26857434,
+          0.21299286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11690847,
+          0.08907857,
+          0.26857434,
+          0.21299286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In an old recording, Torie! and Asgore talk about their new child. Because Tori el is fond of bad jokes, several bad puns appear in this recording.",
+        "raw": "In an old recording, Torie! and Asgore talk about their new child. Because\nTori el is fond of bad jokes, several bad puns appear in this recording.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29255582,
+          0.16355,
+          0.85817932,
+          0.19292857
+        ],
+        "mask_bbox": [
+          0.29052263,
+          0.16283571,
+          0.90387528,
+          0.194
+        ],
+        "line_ids": [
+          7,
+          9
+        ]
+      },
+      "translation": {
+        "text": "一段旧录音里，Toriel 和 Asgore 谈起即将到来的孩子。Toriel 爱讲烂笑话，所以这段录音里有好几个冷双关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29255582,
+          0.15714286,
+          0.90184209,
+          0.24928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.24928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29255582,
+          0.15714286,
+          0.90184209,
+          0.24928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "first-joke-intro"
+    },
+    {
+      "id": "p0234-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the first joke, a pun on the English words \"mom\" and \"edamame\" was replaced with a Japanese pun on mama (\"mom; mama\") and mamaredo (\"marmalade\"):",
+        "raw": "In the first joke, a pun on the English words \"mom\" and \"edamame\" was replaced\nwith a Japanese pun on mama (\"mom; mama\") and mamaredo (\"marmalade\"):",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29305395,
+          0.20930714,
+          0.8955087,
+          0.23931429
+        ],
+        "mask_bbox": [
+          0.29052263,
+          0.20859286,
+          0.90387528,
+          0.24038571
+        ],
+        "line_ids": [
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "第一个笑话用 mom（妈妈）和 edamame（毛豆）做双关。日文则改用 mama（妈妈）与 māmaredo（橘子酱）：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 37,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 47,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29255582,
+          0.20714286,
+          0.90184209,
+          0.24928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.24928571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0234-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29255582,
+          0.20714286,
+          0.90184209,
+          0.24928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "first-joke-intro"
+    },
+    {
+      "id": "p0234-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31151532,
+          0.26732143,
+          0.40204314,
+          0.27952143
+        ],
+        "mask_bbox": [
+          0.31019375,
+          0.26660714,
+          0.40336472,
+          0.28059286
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "英文台词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31151532,
+          0.26589286,
+          0.59353921,
+          0.28389286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2824642885714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.31151532,
+          0.26589286,
+          0.59353921,
+          0.28389286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61596531,
+          0.26732143,
+          0.87439402,
+          0.27952143
+        ],
+        "mask_bbox": [
+          0.61464373,
+          0.26660714,
+          0.87571559,
+          0.28059286
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "日文台词（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61596531,
+          0.26589286,
+          0.89370933,
+          0.28389286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2824642885714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.61596531,
+          0.26589286,
+          0.89370933,
+          0.28389286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: Gorey, dearest. What is my favorite vegetable?",
+        "raw": "Toriel: Gorey, dearest. What is my\nfavorite vegetable?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31120018,
+          0.30153571,
+          0.5504864,
+          0.32823571
+        ],
+        "mask_bbox": [
+          0.3098786,
+          0.30082143,
+          0.55180797,
+          0.32930714
+        ],
+        "line_ids": [
+          16,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Toriel：亲爱的 Gorey，我最喜欢什么蔬菜？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31120018,
+          0.30010714,
+          0.59353921,
+          0.33180714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31120018,
+          0.30010714,
+          0.59353921,
+          0.33180714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: Say, Gorey. What is my favorite type of jam?",
+        "raw": "Toriel: Say, Gorey. What is my favorite\ntype of jam?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61590431,
+          0.30153571,
+          0.88386869,
+          0.32823571
+        ],
+        "mask_bbox": [
+          0.61458274,
+          0.30082143,
+          0.88519026,
+          0.32930714
+        ],
+        "line_ids": [
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Toriel：我说 Gorey，我最喜欢什么果酱？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61590431,
+          0.30010714,
+          0.89370933,
+          0.33180714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61590431,
+          0.30010714,
+          0.89370933,
+          0.33180714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "Asgore: Hmmm ... Carrots, right?",
+        "raw": "Asgore: Hmmm ... Carrots, right?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31135267,
+          0.35035,
+          0.54086941,
+          0.36157143
+        ],
+        "mask_bbox": [
+          0.31003109,
+          0.34963571,
+          0.54219098,
+          0.36264286
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "Asgore：嗯……胡萝卜，对吧？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31135267,
+          0.34892143,
+          0.59353921,
+          0.36692143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.36595000142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31135267,
+          0.34892143,
+          0.59353921,
+          0.36692143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Asgore: Hmm .. Strawberry, right?",
+        "raw": "Asgore: Hmm .. Strawberry, right?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6165041,
+          0.35,
+          0.8599177,
+          0.36122143
+        ],
+        "mask_bbox": [
+          0.61518253,
+          0.34928571,
+          0.86123927,
+          0.36229286
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "Asgore：嗯……草莓酱，对吧？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6165041,
+          0.34857143,
+          0.89370933,
+          0.36657143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.36595000142857137,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.6165041,
+          0.34857143,
+          0.89370933,
+          0.36657143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: No no no! My FAVORITE vegetable is ... Eda-MOM-e.",
+        "raw": "Toriel: No no no! My FAVORITE\nvegetable is ... Eda-MOM-e.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31124084,
+          0.36952143,
+          0.53090677,
+          0.39522857
+        ],
+        "mask_bbox": [
+          0.30991927,
+          0.36880714,
+          0.53222835,
+          0.3963
+        ],
+        "line_ids": [
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "Toriel：不不不！我最喜欢的蔬菜是……Eda-MOM-e！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31209478,
+          0.36714286,
+          0.5936917,
+          0.40714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31209478,
+          0.36714286,
+          0.5936917,
+          0.40714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "first-joke-cell-ending"
+    },
+    {
+      "id": "p0234-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: Bzz! Too bad! My favorite type of jam is ... \"mama\"lade!",
+        "raw": "Toriel: Bzz! Too bad! My favorite type\nof jam is ... \"mama\"lade!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61590431,
+          0.36952143,
+          0.88261828,
+          0.39487857
+        ],
+        "mask_bbox": [
+          0.61458274,
+          0.36880714,
+          0.88393985,
+          0.39595
+        ],
+        "line_ids": [
+          23,
+          25
+        ]
+      },
+      "translation": {
+        "text": "Toriel：答错啦！真可惜！我最喜欢的果酱是……“mama”lade！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6170734,
+          0.36714286,
+          0.89358734,
+          0.40714286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.40714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.6170734,
+          0.36714286,
+          0.89358734,
+          0.40714286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "first-joke-cell-ending"
+    },
+    {
+      "id": "p0234-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the second joke, a pun on the English words \"mom\" and \"Pomeranian\" was replaced with a Japanese pun on the words mama and amagaeru (\"tree frog\").",
+        "raw": "In the second joke, a pun on the English words \"mom\" and \"Pomeranian\" was\nreplaced with a Japanese pun on the words mama and amagaeru (\"tree frog\").",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29398922,
+          0.42842857,
+          0.89229626,
+          0.45877143
+        ],
+        "mask_bbox": [
+          0.29052263,
+          0.42771429,
+          0.90387528,
+          0.45984286
+        ],
+        "line_ids": [
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "第二个笑话把 mom（妈妈）嵌进 Pomeranian（博美犬）。日文则改用 mama（妈妈）与 amagaeru（树蛙）做双关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 39,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29398922,
+          0.427,
+          0.90184209,
+          0.46234286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4685714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29398922,
+          0.427,
+          0.90184209,
+          0.46234286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31247092,
+          0.48644286,
+          0.40300891,
+          0.49864286
+        ],
+        "mask_bbox": [
+          0.31114935,
+          0.48572857,
+          0.40433048,
+          0.49971429
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "英文台词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31247092,
+          0.48501429,
+          0.59402718,
+          0.50301429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5015857185714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.31247092,
+          0.48501429,
+          0.59402718,
+          0.50301429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61693107,
+          0.48644286,
+          0.87486165,
+          0.49864286
+        ],
+        "mask_bbox": [
+          0.6156095,
+          0.48572857,
+          0.87618323,
+          0.49971429
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "日文台词（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61693107,
+          0.48501429,
+          0.89370933,
+          0.50301429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5015857185714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.61693107,
+          0.48501429,
+          0.89370933,
+          0.50301429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: Now, If I were a dog, what breed of dog would I be?",
+        "raw": "Toriel: Now, If I were a dog, what\nbreed of dog would I be?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31171864,
+          0.52031429,
+          0.54907333,
+          0.54669286
+        ],
+        "mask_bbox": [
+          0.31039707,
+          0.5196,
+          0.55039491,
+          0.54776429
+        ],
+        "line_ids": [
+          30,
+          32
+        ]
+      },
+      "translation": {
+        "text": "Toriel：那么，假如我是一只狗，会是什么品种？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31171864,
+          0.51888571,
+          0.59402718,
+          0.55026429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5520857114285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31171864,
+          0.51888571,
+          0.59402718,
+          0.55026429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: Now, if I were a frog, what kind of frog would I be?",
+        "raw": "Toriel: Now, if I were a frog, what\nkind of frog would I be?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61639228,
+          0.51999286,
+          0.85087,
+          0.54669286
+        ],
+        "mask_bbox": [
+          0.6150707,
+          0.51927857,
+          0.85219158,
+          0.54776429
+        ],
+        "line_ids": [
+          31,
+          33
+        ]
+      },
+      "translation": {
+        "text": "Toriel：那么，假如我是一只青蛙，会是哪一种？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61639228,
+          0.51856429,
+          0.89370933,
+          0.55026429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5520857114285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61639228,
+          0.51856429,
+          0.89370933,
+          0.55026429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "Asgore: Hmmm ... I don't know, honey. What kind of dog would you be?",
+        "raw": "Asgore: Hmmm ... I don't know, honey.\nWhat kind of dog would you be?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31227777,
+          0.55565714,
+          0.57970335,
+          0.5817
+        ],
+        "mask_bbox": [
+          0.3109562,
+          0.55494286,
+          0.58102492,
+          0.58277143
+        ],
+        "line_ids": [
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Asgore：嗯……亲爱的，我不知道。你会是什么狗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31209478,
+          0.55071429,
+          0.5936917,
+          0.58428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31209478,
+          0.55071429,
+          0.5936917,
+          0.58428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "second-joke-asgore"
+    },
+    {
+      "id": "p0234-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Asgore: Hmm ... I don't know. What kind of frog would you be?",
+        "raw": "Asgore: Hmm ... I don't know. What\nkind of frog would you be?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6169819,
+          0.55565714,
+          0.87004299,
+          0.58136429
+        ],
+        "mask_bbox": [
+          0.61566033,
+          0.55494286,
+          0.87136456,
+          0.58243571
+        ],
+        "line_ids": [
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "Asgore：嗯……不知道。你会是什么蛙？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6170734,
+          0.55071429,
+          0.89358734,
+          0.58428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.6170734,
+          0.55071429,
+          0.89358734,
+          0.58428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "second-joke-asgore"
+    },
+    {
+      "id": "p0234-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: I would be ... A MOM ERAN/AN.",
+        "raw": "Toriel: I would be ... A MOM ERAN/AN.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31219644,
+          0.59032857,
+          0.577599,
+          0.60154286
+        ],
+        "mask_bbox": [
+          0.31087487,
+          0.58961429,
+          0.57892057,
+          0.60261429
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "Toriel：我会是……MOMERANIAN！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31209478,
+          0.58857143,
+          0.5936917,
+          0.60857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6085714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31209478,
+          0.58857143,
+          0.5936917,
+          0.60857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "second-joke-ending"
+    },
+    {
+      "id": "p0234-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Toriel: A \"mama\"gaeru.",
+        "raw": "Toriel: A \"mama\"gaeru.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61687008,
+          0.59,
+          0.78501495,
+          0.60122143
+        ],
+        "mask_bbox": [
+          0.6155485,
+          0.58928571,
+          0.78633653,
+          0.60229286
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "Toriel：“mama”gaeru！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6170734,
+          0.58857143,
+          0.89358734,
+          0.60857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6085714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.6170734,
+          0.58857143,
+          0.89358734,
+          0.60857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "second-joke-ending"
+    },
+    {
+      "id": "p0234-b022",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the third joke, which is spoken entirely by Asgore, a pun on the English words \"mom\" and \"comedian\" was replaced with a Japanese pun on the words mama and mama naranai (\"unlikely, impossible\"):",
+        "raw": "In the third joke, which is spoken entirely by Asgore, a pun on the English\nwords \"mom\" and \"comedian\" was replaced with a Japanese pun on the words\nmama and mama naranai (\"unlikely, impossible\"):",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29446702,
+          0.62905,
+          0.89627115,
+          0.67721429
+        ],
+        "mask_bbox": [
+          0.29052263,
+          0.62833571,
+          0.90387528,
+          0.67828571
+        ],
+        "line_ids": [
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "第三个笑话全由 Asgore 说出。英文以 mom（妈妈）和 comedian（喜剧演员）做双关，日文改用 mama（妈妈）和 mama naranai（难以做到、无法如愿）：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 54,
+            "end": 58,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 76,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29255582,
+          0.62357143,
+          0.90184209,
+          0.68714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6871428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29255582,
+          0.62357143,
+          0.90184209,
+          0.68714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "third-joke-intro"
+    },
+    {
+      "id": "p0234-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Text",
+        "raw": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31295889,
+          0.70522143,
+          0.40348671,
+          0.71742143
+        ],
+        "mask_bbox": [
+          0.31163731,
+          0.70450714,
+          0.40480828,
+          0.71849286
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "英文台词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31295889,
+          0.70379286,
+          0.59504377,
+          0.72179286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7203642885714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.31295889,
+          0.70379286,
+          0.59504377,
+          0.72179286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "raw": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61740887,
+          0.70522143,
+          0.87582742,
+          0.71742143
+        ],
+        "mask_bbox": [
+          0.6160873,
+          0.70450714,
+          0.87714899,
+          0.71849286
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "日文台词（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61740887,
+          0.70379286,
+          0.89370933,
+          0.72179286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7203642885714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#343434"
+      },
+      "calibration": {
+        "bbox": [
+          0.61740887,
+          0.70379286,
+          0.89370933,
+          0.72179286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "You sure are excited to have this child.",
+        "raw": "You sure are excited to have this\nchild.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31313171,
+          0.73977143,
+          0.54278061,
+          0.7658
+        ],
+        "mask_bbox": [
+          0.31181014,
+          0.73905714,
+          0.54410218,
+          0.76687143
+        ],
+        "line_ids": [
+          45,
+          47
+        ]
+      },
+      "translation": {
+        "text": "你真是迫不及待想要这个孩子了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31313171,
+          0.73834286,
+          0.59504377,
+          0.76937143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7708642814285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31313171,
+          0.73834286,
+          0.59504377,
+          0.76937143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "You really are happy to have this child.",
+        "raw": "You really are happy to have this\nchild.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61780534,
+          0.73943571,
+          0.85054469,
+          0.76546429
+        ],
+        "mask_bbox": [
+          0.61648377,
+          0.73872143,
+          0.85186627,
+          0.76653571
+        ],
+        "line_ids": [
+          46,
+          48
+        ]
+      },
+      "translation": {
+        "text": "有了这个孩子，你真高兴啊。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61780534,
+          0.73800714,
+          0.89370933,
+          0.76903571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7708642814285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61780534,
+          0.73800714,
+          0.89370933,
+          0.76903571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b027",
+      "kind": "table-cell",
+      "source": {
+        "text": "You know, if you keep making jokes like this ..",
+        "raw": "You know, if you keep making jokes\nlike this ..",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3132537,
+          0.77443571,
+          0.56927308,
+          0.80048571
+        ],
+        "mask_bbox": [
+          0.31193213,
+          0.77372143,
+          0.57059466,
+          0.80155714
+        ],
+        "line_ids": [
+          49,
+          51
+        ]
+      },
+      "translation": {
+        "text": "要是你一直这样讲笑话……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3132537,
+          0.77300714,
+          0.59504377,
+          0.80405714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8058714314285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.3132537,
+          0.77300714,
+          0.59504377,
+          0.80405714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b028",
+      "kind": "table-cell",
+      "source": {
+        "text": "Honestly, though .. If I keep putting up with your jokes like this ...",
+        "raw": "Honestly, though .. If I keep putting\nup with your jokes like this ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6184458,
+          0.77443571,
+          0.87443468,
+          0.80048571
+        ],
+        "mask_bbox": [
+          0.61712423,
+          0.77372143,
+          0.87575626,
+          0.80155714
+        ],
+        "line_ids": [
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "不过说真的……要是我一直陪你听这些笑话……",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6184458,
+          0.77300714,
+          0.89370933,
+          0.80405714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8058714314285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.6184458,
+          0.77300714,
+          0.89370933,
+          0.80405714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b029",
+      "kind": "table-cell",
+      "source": {
+        "text": "One day, you could be .. a famous MO Median.",
+        "raw": "One day, you could be .. a famous\nMO Median.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31313171,
+          0.80944286,
+          0.55235693,
+          0.83543571
+        ],
+        "mask_bbox": [
+          0.31181014,
+          0.80872857,
+          0.55367851,
+          0.83650714
+        ],
+        "line_ids": [
+          53,
+          55
+        ]
+      },
+      "translation": {
+        "text": "总有一天，你能成为……著名的 MOMedian。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31313171,
+          0.80801429,
+          0.59504377,
+          0.83900714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.845,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31313171,
+          0.80801429,
+          0.59504377,
+          0.83900714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b030",
+      "kind": "table-cell",
+      "source": {
+        "text": "Any chances of me sleeping will be .. mama naranai.",
+        "raw": "Any chances of me sleeping will be ..\nmama naranai.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61794767,
+          0.80944286,
+          0.87553261,
+          0.83543571
+        ],
+        "mask_bbox": [
+          0.61662609,
+          0.80872857,
+          0.87685418,
+          0.83650714
+        ],
+        "line_ids": [
+          54,
+          56
+        ]
+      },
+      "translation": {
+        "text": "恐怕连睡觉都……mama naranai。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61794767,
+          0.80801429,
+          0.89370933,
+          0.83900714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.845,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61794767,
+          0.80801429,
+          0.89370933,
+          0.83900714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0234-b031",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the various mother-related puns in the English scene were paralleled in Japanese by using completely new jokes with completely new wording.",
+        "raw": "As we can see, the various mother-related puns in the English scene were paralleled\nin Japanese by using completely new jokes with completely new wording.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29506681,
+          0.86701429,
+          0.90184209,
+          0.89640714
+        ],
+        "mask_bbox": [
+          0.29052263,
+          0.8663,
+          0.90387528,
+          0.89747857
+        ],
+        "line_ids": [
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "可以看到，日文用了全新的措辞和笑话，逐一对应英文场景里那些围绕“妈妈”展开的双关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29398922,
+          0.86558571,
+          0.90184209,
+          0.89997857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29398922,
+          0.86558571,
+          0.90184209,
+          0.89997857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "68646e105c11ec4faf36caf5c35bfbe148914bff56d13c239de62225be1aef3c"
+  },
+  "chapter_id": "chapter-230",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          59
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.19,
+      887.12
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

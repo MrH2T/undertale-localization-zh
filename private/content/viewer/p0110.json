@@ -1,0 +1,819 @@
+{
+  "schema_version": 3,
+  "pdf_page": 110,
+  "printed_page": "110",
+  "title": "Sans 一开口，日本震惊了",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    984.0,
+    1400
+  ],
+  "physical_size_pt": [
+    501.84,
+    714.0
+  ],
+  "image_url": "/assets/p0110.jpg",
+  "image_sha256": "3f2dcf110d8622c5a9614dda797b6d5666f76bd49d36c1ed64ee36410b0a39d3",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0110/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0110-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Sans Speaks, Japan is Shocked",
+        "raw": "SansSpeak~Japan isShocked",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2984248,
+          0.06310714,
+          0.61120935,
+          0.07352857
+        ],
+        "mask_bbox": [
+          0.29710366,
+          0.06239286,
+          0.61253049,
+          0.0746
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Sans 一开口，日本震惊了",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.050142857,
+          0.89868902,
+          0.074285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.074285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.050142857,
+          0.89868902,
+          0.074285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108
+    },
+    {
+      "id": "p0110-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Sans uses the personal pronoun オイラ (oira) in the final Japanese script.",
+        "raw": "Sans uses the\npersonal pronoun\n71\"17 (oira) in the\nfinal Japanese script",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.14522358,
+          0.08905,
+          0.26994919,
+          0.14603571
+        ],
+        "mask_bbox": [
+          0.14390244,
+          0.08833571,
+          0.27127033,
+          0.14710714
+        ],
+        "line_ids": [
+          2,
+          4,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "最终日文剧本中，Sans 用“オイラ”（oira，我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11686992,
+          0.08762143,
+          0.27335366,
+          0.14960714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11686992,
+          0.08762143,
+          0.27335366,
+          0.14960714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0110-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Before translating Sans' dialogue into Japanese, the translator had to decide which of the many Japanese personal pronouns best fit Sans' character.",
+        "raw": "Before translating Sans' dialogue into Japanese, the translator had to decide\nwhich of the many Japanese personal pronouns best fit Sans' character.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29840447,
+          0.26159286,
+          0.87704268,
+          0.29240714
+        ],
+        "mask_bbox": [
+          0.2949187,
+          0.26087857,
+          0.90072154,
+          0.29347857
+        ],
+        "line_ids": [
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "把 Sans 的台词译成日语之前，译者必须先从众多日语人称代词中，选出最适合他的一个。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.26016429,
+          0.89868902,
+          0.29597857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.26016429,
+          0.89868902,
+          0.29597857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0110-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "After consulting with Toby, the translator settled on oira for Sans' pronoun. In everyday Japanese, oira gives off a \"rural, unsophisticated bumpkin\" vibe, but in entertainment it's also used by aloof, happy-go-lucky characters. It's important to note that this choice clashed with the existing fan-made translations, in which Sans used the more assertive pronoun ore.",
+        "raw": "After consulting with Toby, the translator settled on oira for Sans' pronoun.\nIn everyday Japanese, oira gives off a \"rural, unsophisticated bumpkin\" vibe,\nbut in entertainment it's also used by aloof, happy-go-lucky characters.\nIt's important to note that this choice clashed with the existing fan-made\ntranslations, in which Sans used the more assertive pronoun ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29695122,
+          0.30732143,
+          0.88052846,
+          0.39292857
+        ],
+        "mask_bbox": [
+          0.2949187,
+          0.30660714,
+          0.90072154,
+          0.394
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "与 Toby 商量后，译者选择让 Sans 用 oira 自称。在日常日语中，oira 带有“来自乡下、不谙世故的乡巴佬”的感觉，但娱乐作品里也会让超然、随和的角色使用它。这与已有的粉丝翻译产生了冲突：那些版本让 Sans 用语气更强势的 ore（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 39,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 120,
+            "end": 123,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.30589286,
+          0.89868902,
+          0.3965
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.30589286,
+          0.89868902,
+          0.3965
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0110-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 2017, 8-4 announced details about Underta/e's upcoming Japanese release. This announcement included a video of Sans using oira. Fans accustomed to the fan-made translations reacted loudly to this unexpected pronoun choice - some responded with intense negativity, some responded with bewilderment, and others responded with humor. Online reactions grew so intense that the incident was quickly dubbed the \"Oira Shock\".",
+        "raw": "In 2017, 8-4 announced details about Underta/e's upcoming Japanese release.\nThis announcement included a video of Sans using oira. Fans accustomed to\nthe fan-made translations reacted loudly to this unexpected pronoun choice -\nsome responded with intense negativity, some responded with bewilderment,\nand others responded with humor. Online reactions grew so intense that the\nincident was quickly dubbed the \"Oira Shock\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29876016,
+          0.40715714,
+          0.89458333,
+          0.51122857
+        ],
+        "mask_bbox": [
+          0.2949187,
+          0.40644286,
+          0.90072154,
+          0.5123
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "2017年，8-4 公布了 Undertale 即将推出日语版的详情，其中有一段 Sans 使用 oira 的视频。习惯了粉丝译版的玩家对这个出人意料的自称反应强烈：有人激烈反对，有人困惑，也有人拿它开玩笑。网上反响越来越大，这件事很快被称为“Oira Shock”（Oira 冲击）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.40572857,
+          0.89868902,
+          0.5148
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.40572857,
+          0.89868902,
+          0.5148
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0110-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Despite the massive response to Sans' new pronoun, the team stuck with oira for several reasons:",
+        "raw": "Despite the massive response to Sans' new pronoun, the team stuck with oira\nfor several reasons:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29977642,
+          0.52491429,
+          0.88737805,
+          0.55627143
+        ],
+        "mask_bbox": [
+          0.2949187,
+          0.5242,
+          0.90072154,
+          0.55734286
+        ],
+        "line_ids": [
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "尽管 Sans 的新自称引发了巨大反响，团队还是坚持使用 oira，理由有几个：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.52348571,
+          0.89868902,
+          0.55984286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.52348571,
+          0.89868902,
+          0.55984286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0110-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Oira seems fitting for Sans' normal, laid-back, wisecracking personality",
+        "raw": "Oira seems fitting for Sans' normal, laid-back, wisecracking personality",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35357724,
+          0.57131429,
+          0.89697154,
+          0.58433571
+        ],
+        "mask_bbox": [
+          0.31668699,
+          0.5706,
+          0.89829268,
+          0.58540714
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "• oira 似乎很适合 Sans 平时悠闲、爱说俏皮话的性格。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 6,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35357724,
+          0.56988571,
+          0.89868902,
+          0.590475
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.35357724,
+          0.56988571,
+          0.89868902,
+          0.590475
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0110-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Sans' all-lowercase text gives him a distinctive, carefree vibe that's lost in translation, so giving him a similarly distinctive pronoun felt like a natural replacement",
+        "raw": "Sans' all-lowercase text gives him a distinctive, carefree vibe that's lost\nin translation, so giving him a similarly distinctive pronoun felt like a\nnatural replacement",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35405488,
+          0.59941429,
+          0.89197154,
+          0.6477
+        ],
+        "mask_bbox": [
+          0.31716463,
+          0.5987,
+          0.89329268,
+          0.64877143
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "• Sans 全小写的台词营造出独特、无拘无束的感觉，翻成日语会丢失这一点；给他一个同样特别的自称，是自然的弥补。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35405488,
+          0.59798571,
+          0.89868902,
+          0.65127143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.35405488,
+          0.59798571,
+          0.89868902,
+          0.65127143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0110-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Using oira in normal situations allows Sans to switch to the more intense ore when he turns deadly serious later on",
+        "raw": "Using oira in normal situations allows Sans to switch to the more\nintense ore when he turns deadly serious later on",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.35388211,
+          0.66262143,
+          0.84930894,
+          0.69341429
+        ],
+        "mask_bbox": [
+          0.31699187,
+          0.66190714,
+          0.85063008,
+          0.69448571
+        ],
+        "line_ids": [
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "• 平时用 oira，后面变得极其严肃时，就能切换成更有力度的 ore。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 32,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.35388211,
+          0.66119286,
+          0.89868902,
+          0.69698571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.35388211,
+          0.66119286,
+          0.89868902,
+          0.69698571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0110-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans' use of oira in the final Japanese release actually came as two simultaneous shocks. First, it indicated that Toby had indeed given oira his stamp of approval. Second, it conflicted with Toby's statement from years earlier that Sans seemed like the type of character to use the pronoun boku. As a result of all of this, Sans' pronoun was - and still is - a serious and unique issue among Japanese fans.",
+        "raw": "Sans' use of oira in the final Japanese release actually came as two\nsimultaneous shocks. First, it indicated that Toby had indeed given oira his\nstamp of approval. Second, it conflicted with Toby's statement from years\nearlier that Sans seemed like the type of character to use the pronoun boku. As\na result of all of this, Sans' pronoun was - and still is - a serious and unique\nissue among Japanese fans.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30145325,
+          0.70865714,
+          0.89868902,
+          0.81240714
+        ],
+        "mask_bbox": [
+          0.2949187,
+          0.70794286,
+          0.90072154,
+          0.81347857
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "Sans 在最终日语版中使用 oira，其实同时带来了两重冲击。首先，这表明 Toby 确实认可了 oira。其次，这与 Toby 几年前的说法相矛盾：他当时觉得 Sans 像是会用 boku（我）自称的角色。因此，Sans 的自称在日本粉丝中成了一个严肃而独特的话题，直到现在仍是如此。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 50,
+            "end": 54,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 92,
+            "end": 96,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29876016,
+          0.70722857,
+          0.89868902,
+          0.81597857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0110-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29876016,
+          0.70722857,
+          0.89868902,
+          0.81597857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "ced74f9fbcdef8d684cac19a8a43de0a36e9d82f816995cc98c24292615a9600"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          6,
+          36
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      293.98,
+      884.31
+    ],
+    "text_runs": [
+      {
+        "id": "p0110-b003",
+        "blocks": [
+          "p0110-b003",
+          "p0110-b004",
+          "p0110-b005",
+          "p0110-b006",
+          "p0110-b007",
+          "p0110-b008",
+          "p0110-b009",
+          "p0110-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

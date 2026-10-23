@@ -1,0 +1,982 @@
+{
+  "schema_version": 3,
+  "pdf_page": 208,
+  "printed_page": "208",
+  "title": "Burgerpants 的说话方式",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.283096+00:00",
+  "reference_size": [
+    980.896226,
+    1400
+  ],
+  "physical_size_pt": [
+    499.08,
+    712.32
+  ],
+  "image_url": "/assets/p0208.jpg",
+  "image_sha256": "a8c291cbb4dcf709dd36bc7188847a5dfc21bc525126593623d69b8353ac3345",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0208/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0208-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Burgerpants Speaks",
+        "raw": "Burgerpants Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29676942,
+          0.06061429,
+          0.50526242,
+          0.07423571
+        ],
+        "mask_bbox": [
+          0.2954441,
+          0.0599,
+          0.50658774,
+          0.07530714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Burgerpants 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.05085714,
+          0.90359202,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.05085714,
+          0.90359202,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 109.0
+    },
+    {
+      "id": "p0208-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Burgerpants tends to ._ call the main character \"little buddy\" in English, and anta (a casual form of \"you\") in Japanese",
+        "raw": "Burgerpants tends to ._\ncall the main character\n\"little buddy\" in English,\nand anta (a casual form\nof \"you\") in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12002289,
+          0.09015,
+          0.28686011,
+          0.16192857
+        ],
+        "mask_bbox": [
+          0.11869757,
+          0.08943571,
+          0.28818543,
+          0.163
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Burgerpants 在英语里常叫主角“little buddy”（小老弟），日语则叫 anta（一种随意的“你”）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 45,
+            "end": 49,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11723972,
+          0.08872143,
+          0.28686011,
+          0.1655
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4660785728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11723972,
+          0.08872143,
+          0.28686011,
+          0.1655
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A character named Burgerpants works at the Mettaton-themed restaurant in Hotland. In English, Burgerpants speaks in a cheerful and polite manner when speaking as an employee, but quickly shifts to a variety of hyper-casual speech styles whenever he drops his professional persona.",
+        "raw": "A character named Burgerpants works at the Mettaton-themed restaurant in\nHotland. In English, Burgerpants speaks in a cheerful and polite manner when\nspeaking as an employee, but quickly shifts to a variety of hyper-casual speech\nstyles whenever he drops his professional persona.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29521981,
+          0.25234286,
+          0.90142053,
+          0.32043571
+        ],
+        "mask_bbox": [
+          0.29318086,
+          0.25162857,
+          0.90563097,
+          0.32150714
+        ],
+        "line_ids": [
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "Burgerpants 在热域的 Mettaton 主题餐厅工作。英语里，以店员身份说话时他开朗又礼貌；一旦放下职业面具，就立刻切换到各种极其随意的口吻。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.25091429,
+          0.90359202,
+          0.32400714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4365571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.25091429,
+          0.90359202,
+          0.32400714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Burgerpants speaks in a similar way in Japanese too - he uses proper and polite speech when speaking as an employee, but switches to different casual speaking styles in other situations. Burgerpants never uses personal pronouns when speaking formally in Japanese, but he does use the informal, masculine pronoun ore during more casual moments.",
+        "raw": "Burgerpants speaks in a similar way in Japanese too - he uses proper and\npolite speech when speaking as an employee, but switches to different casual\nspeaking styles in other situations. Burgerpants never uses personal pronouns\nwhen speaking formally in Japanese, but he does use the informal, masculine\npronoun ore during more casual moments.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29668786,
+          0.33489286,
+          0.89654744,
+          0.42048571
+        ],
+        "mask_bbox": [
+          0.29318086,
+          0.33417857,
+          0.90563097,
+          0.42155714
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "日语也保留了类似风格：工作时得体有礼，其他时候则换用不同的随意说法。正式说话时他从不用人称代词，但放松时会用非正式、男性化的 ore（我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 63,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.33346429,
+          0.90359202,
+          0.42405714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4365571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0208-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.33346429,
+          0.90359202,
+          0.42405714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Come on Down",
+        "raw": "Come on Down",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29787045,
+          0.4437,
+          0.45675576,
+          0.45732143
+        ],
+        "mask_bbox": [
+          0.29654513,
+          0.44298571,
+          0.45808108,
+          0.45839286
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "价格正合适",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.43442857,
+          0.90359202,
+          0.45857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4585714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.43442857,
+          0.90359202,
+          0.45857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 646.0
+    },
+    {
+      "id": "p0208-b006",
+      "kind": "aside",
+      "source": {
+        "text": "The Price Is Right is a simple English idiom and the name of a popular TV game show",
+        "raw": "The Price Is Right is a\nsimple English idiom\nand the name of a\npopular TV game show",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12761799,
+          0.47322143,
+          0.27146603,
+          0.53054286
+        ],
+        "mask_bbox": [
+          0.12629267,
+          0.47250714,
+          0.27279134,
+          0.53161429
+        ],
+        "line_ids": [
+          28,
+          32,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "The Price Is Right 既是“价格合适”的普通英语说法，也是一档热门电视游戏节目的名字。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11723972,
+          0.47179286,
+          0.27165972,
+          0.53411429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6421428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11723972,
+          0.47179286,
+          0.27165972,
+          0.53411429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Under certain conditions, Papyrus will describe the MTT Hotel with one short English phrase:",
+        "raw": "Under certain conditions, Papyrus will describe the MTT Hotel with one short\nEnglish phrase:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29804376,
+          0.64653571,
+          0.90359202,
+          0.67688571
+        ],
+        "mask_bbox": [
+          0.29318086,
+          0.64582143,
+          0.90563097,
+          0.67795714
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "在特定条件下，Papyrus 会用一句简短的英语形容 MTT 酒店：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.64510714,
+          0.90359202,
+          0.68045714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.64510714,
+          0.90359202,
+          0.68045714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b008",
+      "kind": "quote",
+      "source": {
+        "text": "THE PRICE IS RIGHT!!",
+        "raw": "THE PRICE IS RIGHT!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3434716,
+          0.69225714,
+          0.53014782,
+          0.70447143
+        ],
+        "mask_bbox": [
+          0.34214629,
+          0.69154286,
+          0.53147314,
+          0.70554286
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "THE PRICE IS RIGHT!!\n价格正合适！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3434716,
+          0.69082857,
+          0.90359202,
+          0.71141786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0208-b007",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.3434716,
+          0.69082857,
+          0.90359202,
+          0.71141786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this can be taken either as a reference to the classic American game show The Price Is Right, or just as a simple English idiom. Because the game show reference would be lost in a literal translation, the translator chose to follow the idiom option. Thus, the new Japanese line became:",
+        "raw": "Toby noted that this can be taken either as a reference to the classic American\ngame show The Price Is Right, or just as a simple English idiom. Because the\ngame show reference would be lost in a literal translation, the translator chose\nto follow the idiom option. Thus, the new Japanese line became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29799279,
+          0.71965,
+          0.90140014,
+          0.7874
+        ],
+        "mask_bbox": [
+          0.29318086,
+          0.71893571,
+          0.90563097,
+          0.78847143
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，这既可以看成引用美国经典游戏节目《The Price Is Right》，也可以只是普通习语。直接翻译会让节目引用消失，所以译者选择按习语处理。新的日语台词是：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 43,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.71822143,
+          0.90359202,
+          0.79097143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0208-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.71822143,
+          0.90359202,
+          0.79097143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Story idea: only people who are ill can see this show, the TV screen is random static otherwise",
+        "raw": "Story idea: only people\nwho are ill can see this\nshow, the TV screen is\nrandom static otherwise",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12137879,
+          0.76702143,
+          0.27245492,
+          0.824
+        ],
+        "mask_bbox": [
+          0.12005347,
+          0.76630714,
+          0.27378024,
+          0.82507143
+        ],
+        "line_ids": [
+          45,
+          47,
+          48,
+          50
+        ]
+      },
+      "translation": {
+        "text": "故事点子：只有生病的人才能看见这档节目，其他人看电视只能看到雪花。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11723972,
+          0.76559286,
+          0.27245492,
+          0.82757143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11723972,
+          0.76559286,
+          0.27245492,
+          0.82757143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Providing service worth more than its price!",
+        "raw": "Providing service worth more than its price!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34301284,
+          0.80241429,
+          0.67288464,
+          0.81462857
+        ],
+        "mask_bbox": [
+          0.34168752,
+          0.8017,
+          0.67420995,
+          0.8157
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "提供超值服务！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34301284,
+          0.80098571,
+          0.90359202,
+          0.821575
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0208-b009",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34301284,
+          0.80098571,
+          0.90359202,
+          0.821575
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0208-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Variations of this phrase often appear in Japanese slogans and advertisements. So although this localization choice lacks a clear pop culture reference, it does keep the logic behind Papyrus' line intact.",
+        "raw": "Variations of this phrase often appear in Japanese slogans and advertisements.\nSo although this localization choice lacks a clear pop culture reference, it does\nkeep the logic behind Papyrus' line intact.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29714662,
+          0.82984286,
+          0.90143073,
+          0.87905714
+        ],
+        "mask_bbox": [
+          0.29318086,
+          0.82912857,
+          0.90563097,
+          0.88012857
+        ],
+        "line_ids": [
+          51,
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "这种说法的变体常见于日本标语和广告。因此，虽然这项本地化没保留明确的流行文化引用，却完整保住了 Papyrus 这句话的逻辑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29714662,
+          0.82841429,
+          0.90359202,
+          0.88262857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0208-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29714662,
+          0.82841429,
+          0.90359202,
+          0.88262857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5514a65a8d7a83c1ba0128af35e7be479b9f33df897914868341805ba1b9d3bb"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.47,
+      886.33
+    ],
+    "text_runs": [
+      {
+        "id": "p0208-b003",
+        "blocks": [
+          "p0208-b003",
+          "p0208-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 611.18
+      },
+      {
+        "id": "p0208-b007",
+        "blocks": [
+          "p0208-b007",
+          "p0208-b008",
+          "p0208-b009",
+          "p0208-b011",
+          "p0208-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

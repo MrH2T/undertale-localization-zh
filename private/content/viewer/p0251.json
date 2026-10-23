@@ -1,0 +1,988 @@
+{
+  "schema_version": 3,
+  "pdf_page": 251,
+  "printed_page": "251",
+  "title": "SAVE 的翻译与后续影响",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.321316+00:00",
+  "reference_size": [
+    983.885618,
+    1400
+  ],
+  "physical_size_pt": [
+    501.36,
+    713.4
+  ],
+  "image_url": "/assets/p0251.jpg",
+  "image_sha256": "cd5075411a5040dbfbee02f088af5cbcefcb8a7eb02ebcd170a9d1383644fbdc",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0251/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0251-b001",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although the choice to replace \"save\" withft1kkatsll solved most of the wordplay issues, it also slightly altered the logic of the scene. To compensate for this change, the team added an extra line that bridges the jump from \"save\" to ft1kkatst1. Thus, the final Japanese scene became:",
+        "raw": "Although the choice to replace \"save\" withft1kkatsll solved most of the\nwordplay issues, it also slightly altered the logic of the scene. To compensate\nfor this change, the team added an extra line that bridges the jump from \"save\"\nto ft1kkatst1. Thus, the final Japanese scene became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09234813,
+          0.07747857,
+          0.69655455,
+          0.14505714
+        ],
+        "mask_bbox": [
+          0.09031538,
+          0.07676429,
+          0.70528524,
+          0.14612857
+        ],
+        "line_ids": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "用 fukkatsu（复活、恢复）替换 save，虽然解决了大部分文字游戏问题，却也稍稍改变了场景逻辑。团队因此补上一句，衔接从“存档”到“恢复”的转折。最终日文场景变成了：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0937609,
+          0.07605,
+          0.70325248,
+          0.14862857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.0937609,
+          0.07605,
+          0.70325248,
+          0.14862857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b002",
+      "kind": "quote",
+      "source": {
+        "text": "Yot1 reached for yol.lr save file. Bllt nothing happened. Yot1 reached for yow· save file again. Nothing happened. It appears yol.1 can't restore yow· save file after all.",
+        "raw": "Yot1 reached for yol.lr save file. Bllt nothing happened.\nYot1 reached for yow· save file again. Nothing happened.\nIt appears yol.1 can't restore yow· save file after all.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13798352,
+          0.15889286,
+          0.55023672,
+          0.20830714
+        ],
+        "mask_bbox": [
+          0.13666223,
+          0.15817857,
+          0.55155802,
+          0.20937857
+        ],
+        "line_ids": [
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "你向自己的存档伸出手。却什么也没有发生。你再次向存档伸出手。什么也没有发生。看来，终究无法恢复存档。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13798352,
+          0.15746429,
+          0.70325248,
+          0.21187857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b001"
+      },
+      "calibration": {
+        "bbox": [
+          0.13798352,
+          0.15746429,
+          0.70325248,
+          0.21187857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b003",
+      "kind": "quote",
+      "source": {
+        "text": "Bt1t ... Ify ol.1 gather what little power yol.1 have left ... Maybe yoll CAN restore something else.",
+        "raw": "Bt1t ... Ify ol.1 gather what little power yol.1 have left ...\nMaybe yoll CAN restore something else.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13846122,
+          0.23322857,
+          0.51994865,
+          0.26416429
+        ],
+        "mask_bbox": [
+          0.13713993,
+          0.23251429,
+          0.52126994,
+          0.26523571
+        ],
+        "line_ids": [
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "但是……如果聚起你剩下的那一点力量……也许可以恢复别的什么。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13846122,
+          0.2318,
+          0.70325248,
+          0.26773571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.13846122,
+          0.2318,
+          0.70325248,
+          0.26773571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "This creative localization choice allowed the Japanese scene to approximate the wordplay in the original English scene. This choice did create new issues to be tackled, however:",
+        "raw": "This creative localization choice allowed the Japanese scene to approximate\nthe wordplay in the original English scene. This choice did create new issues to\nbe tackled, however:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09416745,
+          0.27863571,
+          0.70178889,
+          0.32732143
+        ],
+        "mask_bbox": [
+          0.09031538,
+          0.27792143,
+          0.70528524,
+          0.32839286
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "这个有创意的方案，让日文场景接近了英文原场景的文字游戏。不过，它也带来了新问题：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0937609,
+          0.27720714,
+          0.70325248,
+          0.33089286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.0937609,
+          0.27720714,
+          0.70325248,
+          0.33089286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b005",
+      "kind": "quote",
+      "source": {
+        "text": "1. The in-game \"SAVE\" icon needed to be redrawn to say ft1kkatStl in Japanese",
+        "raw": "1. The in-game \"SAVE\" icon needed to be redrawn to say ft1kkatStl in\nJapanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11251308,
+          0.3429,
+          0.64400779,
+          0.37374286
+        ],
+        "mask_bbox": [
+          0.07561855,
+          0.34218571,
+          0.64532908,
+          0.37481429
+        ],
+        "line_ids": [
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "1. 游戏中的“SAVE”图标需要重画，改成日语 fukkatsu（复活）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11251308,
+          0.34147143,
+          0.70325248,
+          0.37731429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.11251308,
+          0.34147143,
+          0.70325248,
+          0.37731429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0251-b006",
+      "kind": "quote",
+      "source": {
+        "text": "2. The new icon needed extra programming to load properly based on the player's chosen language",
+        "raw": "2. The new icon needed extra programming to load properly based on the\nplayer's chosen language",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11191342,
+          0.38899286,
+          0.68449014,
+          0.41915
+        ],
+        "mask_bbox": [
+          0.07501888,
+          0.38827857,
+          0.68581143,
+          0.42022143
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "2. 要额外编写程序，让新图标按玩家所选语言正确加载。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11191342,
+          0.38756429,
+          0.70325248,
+          0.42272143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.11191342,
+          0.38756429,
+          0.70325248,
+          0.42272143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0251-b007",
+      "kind": "quote",
+      "source": {
+        "text": "3. Dropping the word \"SAVE\" from the scene broke the connection to \"SAVE the World\", the official English title of this scene's background music track",
+        "raw": "3. Dropping the word \"SAVE\" from the scene broke the connection to\n\"SAVE the World\", the official English title of this scene's background\nmusic track",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11279766,
+          0.43475,
+          0.66609369,
+          0.4834
+        ],
+        "mask_bbox": [
+          0.07590313,
+          0.43403571,
+          0.66741498,
+          0.48447143
+        ],
+        "line_ids": [
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "3. 场景中不再出现“SAVE”后，也就失去了与背景音乐官方英文曲名“SAVE the World”（拯救世界）的联系。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11279766,
+          0.43332143,
+          0.70325248,
+          0.48697143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.11279766,
+          0.43332143,
+          0.70325248,
+          0.48697143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0251-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The localization team easily fixed the first two issues. The third issue came into play a year after Undertale's Japanese release, when the game's official soundtrack was set to be released in Japan. Because this track is so iconic and memorable, Toby requested that the Japanese soundtrack retain the \"SAVE the World\" name as-is rather than replace it with a less memorable pun onfukkatsl.1.",
+        "raw": "The localization team easily fixed the first two issues. The third issue came\ninto play a year after Undertale's Japanese release, when the game's official\nsoundtrack was set to be released in Japan. Because this track is so iconic and\nmemorable, Toby requested that the Japanese soundtrack retain the \"SAVE the\nWorld\" name as-is rather than replace it with a less memorable pun onfukkatsl.1.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0937609,
+          0.49799286,
+          0.70325248,
+          0.5841
+        ],
+        "mask_bbox": [
+          0.09031538,
+          0.49727857,
+          0.70528524,
+          0.58517143
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "前两个问题很容易解决。第三个问题，则在《Undertale》日版推出一年后、官方原声带准备在日本发行时显现出来。因为这首曲子太有代表性、太令人难忘，Toby 要求日版原声带原样保留“SAVE the World”，不要换成一个不如原名好记的 fukkatsu 双关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 121,
+            "end": 129,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0937609,
+          0.49656429,
+          0.70325248,
+          0.58767143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5935714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0251-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.0937609,
+          0.49656429,
+          0.70325248,
+          0.58767143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b009",
+      "kind": "aside",
+      "source": {
+        "text": "Every choice you ever make as a translator or localizer has the potential to bite you in the butt years later in unexpected ways",
+        "raw": "Every choice you ever\nmake as a translator\nor localizer has the\npotential to bite you in\nthe butt years later in\nunexpected ways",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73084715,
+          0.60035714,
+          0.87055851,
+          0.68885
+        ],
+        "mask_bbox": [
+          0.72952586,
+          0.59964286,
+          0.8718798,
+          0.68992143
+        ],
+        "line_ids": [
+          25,
+          27,
+          28,
+          29,
+          32,
+          35
+        ]
+      },
+      "translation": {
+        "text": "译者或本地化人员做出的每个选择，都可能几年后以意想不到的方式反过来给自己找麻烦。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73084715,
+          0.59892857,
+          0.87806955,
+          0.69242143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73084715,
+          0.59892857,
+          0.87806955,
+          0.69242143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0251-b010",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61287612,
+          0.93405714,
+          0.70399444,
+          0.94359286
+        ],
+        "mask_bbox": [
+          0.61155483,
+          0.93334286,
+          0.70531573,
+          0.94466429
+        ],
+        "line_ids": [
+          70
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61287612,
+          0.93262857,
+          0.70399444,
+          0.95062857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9506285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61287612,
+          0.93262857,
+          0.70399444,
+          0.95062857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f701df6f810c8eccac24a19c8db3b9eb3da1bfb568b35f476fb64337585db9dd"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          61
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          69
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      92.25,
+      691.92
+    ],
+    "text_runs": [
+      {
+        "id": "p0251-b001",
+        "blocks": [
+          "p0251-b001",
+          "p0251-b002",
+          "p0251-b003",
+          "p0251-b004",
+          "p0251-b005",
+          "p0251-b006",
+          "p0251-b007",
+          "p0251-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 831.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

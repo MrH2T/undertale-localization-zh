@@ -1,0 +1,773 @@
+{
+  "schema_version": 3,
+  "pdf_page": 94,
+  "printed_page": "94",
+  "title": "石头中的多数派",
+  "subtitle": "Ruins · 私人学习译稿",
+  "revision": 12,
+  "updated_at": "2026-10-22T16:28:22.430471+00:00",
+  "reference_size": [
+    980.8029689608637,
+    1400
+  ],
+  "physical_size_pt": [
+    498.36,
+    711.36
+  ],
+  "image_url": "/assets/p0094.jpg",
+  "image_sha256": "6d54a04bb98b6c5bacbcae1afea1a5df8765273340a168fb426cb829f9d1234c",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0094/page.json",
+  "blocks": [
+    {
+      "id": "p0094-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Rocky Majority",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2895587,
+          0.0578571,
+          0.9094589,
+          0.0757143
+        ],
+        "mask_bbox": [
+          0.2895587,
+          0.0578571,
+          0.9094589,
+          0.0757143
+        ]
+      },
+      "translation": {
+        "text": "石头中的多数派",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.293637,
+          0.0535714,
+          0.9074198,
+          0.08071424285714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.293637,
+          0.0535714,
+          0.9074198,
+          0.08071424285714286
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Juggling priorities is incredibly common in entertainment localization. Sometimes there are no perfect solutions to localization problems, only imperfect approximations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1141922,
+          0.0878571,
+          0.2722259,
+          0.2228571
+        ],
+        "mask_bbox": [
+          0.1141922,
+          0.0878571,
+          0.2722259,
+          0.2228571
+        ]
+      },
+      "translation": {
+        "text": "在娱乐作品本地化中，权衡各项优先级非常常见。有些问题没有完美的解法，只能做出不完美的近似处理。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.11011389999999999,
+          0.0885714,
+          0.2701868,
+          0.2292857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1101139,
+          0.0885714,
+          0.2701868,
+          0.2292857
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character comes across four rocks sitting next to four switches. Three of the rocks are easily pushed onto their switches, but a sign on a wall suggests that the fourth rock might be a bit different. In English, this sign says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2895587,
+          0.2321429,
+          0.9104785,
+          0.2871429
+        ],
+        "mask_bbox": [
+          0.2895587,
+          0.2321429,
+          0.9104785,
+          0.2871429
+        ]
+      },
+      "translation": {
+        "text": "主角遇到四块石头，旁边有四个开关。其中三块很容易就能推到开关上，但墙上的牌子暗示，第四块可能有些不同。英文牌子写道：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.293637,
+          0.23,
+          0.9084393,
+          0.2892857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4021429
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.293637,
+          0.23,
+          0.9084393,
+          0.2892857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Three out of four grey rocks recommend you push them.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3344199,
+          0.295,
+          0.9084393,
+          0.3142857
+        ],
+        "mask_bbox": [
+          0.3344199,
+          0.295,
+          0.9084393,
+          0.3142857
+        ]
+      },
+      "translation": {
+        "text": "Three out of four grey rocks recommend you push them.\n四块灰色石头中，有三块建议你推它们。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 6,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 10,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 23,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 29,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 39,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 48,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3384982,
+          0.2921429,
+          0.9084393,
+          0.3242857
+        ],
+        "font_size": 17,
+        "line_height": 1.2941176470588236,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4021429,
+        "flow_after": "p0094-b003",
+        "gap_before": 12
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3384982,
+          0.2921429,
+          0.9084393,
+          0.3242857
+        ],
+        "font_size": 17,
+        "leading": 22.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this is a reference to American medicine and toothpaste commercials that use the cliché “X out of Y professionals recommend” phrase. He also pointed out that part of the joke is about how there is always that one weird person who disagrees for some reason. Except in this case, it’s a rock.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2905782,
+          0.3235714,
+          0.9114981,
+          0.3964286
+        ],
+        "mask_bbox": [
+          0.2905782,
+          0.3235714,
+          0.9114981,
+          0.3964286
+        ]
+      },
+      "translation": {
+        "text": "Toby 说明，这句话是在模仿美国药品和牙膏广告常用的套话：“每 Y 位专业人士中，有 X 位推荐。”笑点还在于，总会有一个古怪的家伙，不知为什么就是持不同意见。只不过，这次那个家伙是一块石头。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.293637,
+          0.325,
+          0.9084393,
+          0.4021429
+        ],
+        "font_size": 19,
+        "line_height": 1.4210526315789473,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4021429,
+        "flow_after": "p0094-b004",
+        "gap_before": 12
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.293637,
+          0.325,
+          0.9084393,
+          0.4021429
+        ],
+        "font_size": 19,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b006",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: The “X out of Y recommend” phrase really took off in the mid-1970s with Trident chewing gum",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0988986,
+          0.4057143,
+          0.2732455,
+          0.4657143
+        ],
+        "mask_bbox": [
+          0.0988986,
+          0.4057143,
+          0.2732455,
+          0.4657143
+        ]
+      },
+      "translation": {
+        "text": "左：“每 Y 位中有 X 位推荐”的说法，在 1970 年代中期借着 Trident 口香糖广告大为流行。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1009377,
+          0.4057143,
+          0.2701868,
+          0.4864286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1009377,
+          0.4057143,
+          0.2701868,
+          0.4864286
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b007",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: “X out of Y recommend” has been copied and parodied for almost 50 years, yet it remains in regular use today",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1182704,
+          0.4692857,
+          0.2742651,
+          0.5585714
+        ],
+        "mask_bbox": [
+          0.1182704,
+          0.4692857,
+          0.2742651,
+          0.5585714
+        ]
+      },
+      "translation": {
+        "text": "右：这种说法被模仿、戏仿了近 50 年，时至今日仍然经常出现。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1009377,
+          0.4907143,
+          0.2701868,
+          0.5585714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1009377,
+          0.4907143,
+          0.2701868,
+          0.5585714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The “X out of Y professionals recommend” phrase has been a part of Western pop culture for decades, but is largely unknown in Japan. As such, the reference would be lost in a straightforward translation. The localization team looked for a good Japanese equivalent, but nothing quite fit. So, they instead focused on the sign’s other two functions: providing a hint for proceeding in the game, and warning the player that one of the rocks might be strange. Thus, the final Japanese line became a literal, straightforward statement:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2905782,
+          0.57,
+          0.9114981,
+          0.6985714
+        ],
+        "mask_bbox": [
+          0.2905782,
+          0.57,
+          0.9114981,
+          0.6985714
+        ]
+      },
+      "translation": {
+        "text": "“每 Y 位专业人士中有 X 位推荐”几十年来一直是西方流行文化的一部分，在日本却鲜为人知。因此，直接翻译就会丢掉这个典故。团队尝试寻找贴切的日语表达，却始终没有合适的。于是，他们转而关注牌子的另外两项作用：提供推进游戏的提示，并提醒玩家，其中一块石头可能有点怪。最终，日版改成了一句平实的说明，大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2946565,
+          0.5678571,
+          0.9094589,
+          0.7
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7771429
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2946565,
+          0.5678571,
+          0.9094589,
+          0.7
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Three out of four gray rocks wish to be pushed.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3354394,
+          0.7071429,
+          0.9084393,
+          0.7257143
+        ],
+        "mask_bbox": [
+          0.3354394,
+          0.7071429,
+          0.9084393,
+          0.7257143
+        ]
+      },
+      "translation": {
+        "text": "Three out of four gray rocks wish to be pushed.\n四块灰色石头中，有三块希望被推。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 5,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 6,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 10,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 13,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 23,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 29,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 34,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 37,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 40,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3395177,
+          0.7021429,
+          0.9084393,
+          0.7342857
+        ],
+        "font_size": 17,
+        "line_height": 1.2941176470588236,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7771429,
+        "flow_after": "p0094-b008",
+        "gap_before": 12
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3395177,
+          0.7021429,
+          0.9084393,
+          0.7342857
+        ],
+        "font_size": 17,
+        "leading": 22.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the original pop culture reference was dropped, but the sign’s usefulness within the game remains the same.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2895587,
+          0.735,
+          0.9114981,
+          0.7721429
+        ],
+        "mask_bbox": [
+          0.2895587,
+          0.735,
+          0.9114981,
+          0.7721429
+        ]
+      },
+      "translation": {
+        "text": "可以看到，原来的流行文化典故被舍弃了，但这块牌子在游戏中的作用保持不变。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2946565,
+          0.7357143,
+          0.9094589,
+          0.7771429
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7771429,
+        "flow_after": "p0094-b009",
+        "gap_before": 12
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2946565,
+          0.7357143,
+          0.9094589,
+          0.7771429
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0094-b011",
+      "kind": "quote",
+      "source": {
+        "text": "As a translator, recognizing pop culture references can be a bigger challenge than localizing them. It’s not really a skill that’s taught in textbooks or classes – you just have to absorb on your own. Even then, you’ll never know as much about a country’s pop culture as a native who grew up surrounded by it. This is why it was so helpful to have Toby involved in Undertale’s localization process, along with others who grew up surrounded by the same pop culture.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3038327,
+          0.795,
+          0.8921262,
+          0.8892857
+        ],
+        "mask_bbox": [
+          0.3038327,
+          0.795,
+          0.8921262,
+          0.8892857
+        ]
+      },
+      "translation": {
+        "text": "对译者来说，认出流行文化典故，有时比将它们本地化还难。这并不是教科书或课堂能教会的技能，你只能自己慢慢积累。即便如此，你对一个国家流行文化的了解，也很难比得上从小浸润其中的当地人。这就是为什么让 Toby，以及其他在相同文化环境中长大的人，参与 Undertale 的本地化会如此有帮助。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 123,
+            "end": 132,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3140284,
+          0.7942857,
+          0.8890675,
+          0.8914286
+        ],
+        "font_size": 18,
+        "line_height": 1.3888888888888888,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3140284,
+          0.7942857,
+          0.8890675,
+          0.8914286
+        ],
+        "font_size": 18,
+        "leading": 25.0
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pilot_flow_needs_review",
+    "layout_checked_at": "2026-10-22T15:23:46.920051+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 11
+    }
+  }
+}

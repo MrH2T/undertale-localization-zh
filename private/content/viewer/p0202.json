@@ -1,0 +1,3614 @@
+{
+  "schema_version": 3,
+  "pdf_page": 202,
+  "printed_page": "202",
+  "title": "歌剧俏佳人",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.269412+00:00",
+  "reference_size": [
+    986.400938,
+    1400
+  ],
+  "physical_size_pt": [
+    504.84,
+    716.52
+  ],
+  "image_url": "/assets/p0202.jpg",
+  "image_sha256": "588aac50c8da077673cd009cd5a1eba3845c893d7a26c013332031f515c25937",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0202/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0202-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Opera Floozy",
+        "raw": "Opera Floozy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29258894,
+          0.06171429,
+          0.42727048,
+          0.07552857
+        ],
+        "mask_bbox": [
+          0.29127101,
+          0.061,
+          0.4285884,
+          0.0766
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "歌剧俏佳人",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29298431,
+          0.05214286,
+          0.89922867,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29298431,
+          0.05214286,
+          0.89922867,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "rule_y": 111.0,
+      "region_id": "title"
+    },
+    {
+      "id": "p0202-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In his notes, Toby said ~ \"this whole sequence is a reference to the opera in FF6 but it's just a parody so I don't care about having the tone being identical or being overly referential\"",
+        "raw": "In his notes, Toby said ~\n\"this whole sequence is\na reference to the opera\nin FF6 but it's just a\nparody so I don't care\nabout having the tone\nbeing identical or being\noverly referential\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1187144,
+          0.09205714,
+          0.28335334,
+          0.20977857
+        ],
+        "mask_bbox": [
+          0.11739648,
+          0.09134286,
+          0.28467126,
+          0.21085
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "Toby 在说明里说：“这一整段是在模仿《FF6》的歌剧，但只是恶搞，所以我不在乎语气是否一模一样，也不必太执着于对应原作。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11861303,
+          0.09071429,
+          0.28335334,
+          0.21357143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.483871,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11861303,
+          0.09071429,
+          0.28335334,
+          0.21357143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0000005
+      },
+      "review_issues": [],
+      "region_id": "sidebar-top"
+    },
+    {
+      "id": "p0202-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton forces the main character to participate in an opera scene that includes a song with lyrics. But as we've already seen, songs don't work well when translated literally. For this reason, the translator revised the lyrics to be singable in Japanese while remaining as faithful to the original lyrics as possible:",
+        "raw": "Mettaton forces the main character to participate in an opera scene that includes\na song with lyrics. But as we've already seen, songs don't work well when\ntranslated literally. For this reason, the translator revised the lyrics to be singable\nin Japanese while remaining as faithful to the original lyrics as possible:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29323776,
+          0.22563571,
+          0.89377449,
+          0.2938
+        ],
+        "mask_bbox": [
+          0.29121019,
+          0.22492143,
+          0.8992388,
+          0.29487143
+        ],
+        "line_ids": [
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 强迫主角参与一场带有歌词的歌剧。前面已经看到，歌曲直接翻译往往不好唱。因此，译者在尽量忠实原词的同时，调整了歌词，使其能用日语唱出来：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29323776,
+          0.22285714,
+          0.89922867,
+          0.29928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3028571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29323776,
+          0.22285714,
+          0.89922867,
+          0.29928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-top"
+    },
+    {
+      "id": "p0202-b004",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Lyrics",
+        "raw": "English Lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31245915,
+          0.32095714,
+          0.42044769,
+          0.3331
+        ],
+        "mask_bbox": [
+          0.31114123,
+          0.32024286,
+          0.42176562,
+          0.33417143
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "英语歌词（中译）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30819111,
+          0.31714286,
+          0.48357618,
+          0.33714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3385714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.30819111,
+          0.31714286,
+          0.48357618,
+          0.33714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-table-header"
+    },
+    {
+      "id": "p0202-b005",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Lyrics",
+        "raw": "Japanese Lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51335109,
+          0.32095714,
+          0.63721553,
+          0.3331
+        ],
+        "mask_bbox": [
+          0.51203317,
+          0.32024286,
+          0.63853346,
+          0.33417143
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "日语歌词（罗马字）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50993463,
+          0.31714286,
+          0.68633349,
+          0.33714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3385714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.50993463,
+          0.31714286,
+          0.68633349,
+          0.33714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-table-header"
+    },
+    {
+      "id": "p0202-b006",
+      "kind": "table-cell",
+      "source": {
+        "text": "Japanese Meaning",
+        "raw": "Japanese Meaning",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71539875,
+          0.32062143,
+          0.86377655,
+          0.33276429
+        ],
+        "mask_bbox": [
+          0.71408083,
+          0.31990714,
+          0.86509447,
+          0.33383571
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "日语意思",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71269194,
+          0.31714286,
+          0.88706323,
+          0.33714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3385714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#333333"
+      },
+      "calibration": {
+        "bbox": [
+          0.71269194,
+          0.31714286,
+          0.88706323,
+          0.33714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-table-header"
+    },
+    {
+      "id": "p0202-b007",
+      "kind": "table-cell",
+      "source": {
+        "text": "Oh my love",
+        "raw": "Oh my love",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31213474,
+          0.35332143,
+          0.3910783,
+          0.36350714
+        ],
+        "mask_bbox": [
+          0.31081682,
+          0.35260714,
+          0.39239622,
+          0.36457857
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "噢，我的爱人",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.34910714,
+          0.48560376,
+          0.37107143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.37107142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.34910714,
+          0.48560376,
+          0.37107143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-1-col-1"
+    },
+    {
+      "id": "p0202-b008",
+      "kind": "table-cell",
+      "source": {
+        "text": "a~na~ta",
+        "raw": "a-na-ta",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.5142635,
+          0.35232857,
+          0.5724143,
+          0.36391429
+        ],
+        "mask_bbox": [
+          0.51294558,
+          0.35161429,
+          0.57373222,
+          0.36498571
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "a~na~ta",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.34910714,
+          0.68836106,
+          0.37107143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.37107142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.34910714,
+          0.68836106,
+          0.37107143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-1-col-2"
+    },
+    {
+      "id": "p0202-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "My dear",
+        "raw": "My dear",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71704109,
+          0.35332143,
+          0.77420851,
+          0.36350714
+        ],
+        "mask_bbox": [
+          0.71572316,
+          0.35260714,
+          0.77552643,
+          0.36457857
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "亲爱的",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.34910714,
+          0.8890908,
+          0.37107143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.37107142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.34910714,
+          0.8890908,
+          0.37107143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-1-col-3"
+    },
+    {
+      "id": "p0202-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Please run away",
+        "raw": "Please run away",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3130066,
+          0.38179286,
+          0.42599311,
+          0.39197857
+        ],
+        "mask_bbox": [
+          0.31168867,
+          0.38107857,
+          0.42731103,
+          0.39305
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "请快逃走",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.37732143,
+          0.48560376,
+          0.39857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.3985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.37732143,
+          0.48560376,
+          0.39857143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-2-col-1"
+    },
+    {
+      "id": "p0202-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "ni~ge~te~yo~",
+        "raw": "ni-ge-te-yo-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51476026,
+          0.38047857,
+          0.61213445,
+          0.39206429
+        ],
+        "mask_bbox": [
+          0.51344233,
+          0.37976429,
+          0.61345238,
+          0.39313571
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "ni~ge~te~yo~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.37732143,
+          0.68836106,
+          0.39857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.3985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.37732143,
+          0.68836106,
+          0.39857143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-2-col-2"
+    },
+    {
+      "id": "p0202-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "run away",
+        "raw": "run away",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71710191,
+          0.38147143,
+          0.78159901,
+          0.39165714
+        ],
+        "mask_bbox": [
+          0.71578399,
+          0.38075714,
+          0.78291694,
+          0.39272857
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "快逃吧",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.37732143,
+          0.8890908,
+          0.39857143
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.3985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.37732143,
+          0.8890908,
+          0.39857143
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-2-col-3"
+    },
+    {
+      "id": "p0202-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "Monster King",
+        "raw": "Monster King",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31296604,
+          0.40825,
+          0.40865736,
+          0.41844286
+        ],
+        "mask_bbox": [
+          0.31164812,
+          0.40753571,
+          0.40997528,
+          0.41951429
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "怪物国王",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.40428571,
+          0.48560376,
+          0.425
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.425,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.40428571,
+          0.48560376,
+          0.425
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-3-col-1"
+    },
+    {
+      "id": "p0202-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "ōsama ni~",
+        "raw": "osama ni-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51424323,
+          0.40692857,
+          0.58447836,
+          0.41850714
+        ],
+        "mask_bbox": [
+          0.5129253,
+          0.40621429,
+          0.58579628,
+          0.41957857
+        ],
+        "line_ids": [
+          24
+        ]
+      },
+      "translation": {
+        "text": "ōsama ni~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.40428571,
+          0.68836106,
+          0.425
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.425,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.40428571,
+          0.68836106,
+          0.425
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-3-col-2"
+    },
+    {
+      "id": "p0202-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "The king is",
+        "raw": "The king is",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71537848,
+          0.4076,
+          0.79086502,
+          0.41778571
+        ],
+        "mask_bbox": [
+          0.71406055,
+          0.40688571,
+          0.79218294,
+          0.41885714
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "国王",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.40428571,
+          0.8890908,
+          0.425
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.425,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.40428571,
+          0.8890908,
+          0.425
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-3-col-3"
+    },
+    {
+      "id": "p0202-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "Forbids your stay",
+        "raw": "Forbids your stay",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31342225,
+          0.43605,
+          0.43232927,
+          0.44624286
+        ],
+        "mask_bbox": [
+          0.31210433,
+          0.43533571,
+          0.4336472,
+          0.44731429
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "不许你停留",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.43196429,
+          0.48560376,
+          0.45392857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4539285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.43196429,
+          0.48560376,
+          0.45392857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-4-col-1"
+    },
+    {
+      "id": "p0202-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "mi~tsu~ka~ru~",
+        "raw": "mi-tsu-ka-ru-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51525701,
+          0.43506429,
+          0.61862269,
+          0.44665
+        ],
+        "mask_bbox": [
+          0.51393909,
+          0.43435,
+          0.61994061,
+          0.44772143
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "mi~tsu~ka~ru~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.43196429,
+          0.68836106,
+          0.45392857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4539285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.43196429,
+          0.68836106,
+          0.45392857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-4-col-2"
+    },
+    {
+      "id": "p0202-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "going to find you",
+        "raw": "going to find you",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71675723,
+          0.43605,
+          0.83865492,
+          0.44624286
+        ],
+        "mask_bbox": [
+          0.7154393,
+          0.43533571,
+          0.83997284,
+          0.44731429
+        ],
+        "line_ids": [
+          28
+        ]
+      },
+      "translation": {
+        "text": "会找到你",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.43196429,
+          0.8890908,
+          0.45392857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4539285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.43196429,
+          0.8890908,
+          0.45392857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-4-col-3"
+    },
+    {
+      "id": "p0202-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Humans must",
+        "raw": "Humans must",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31342225,
+          0.46520714,
+          0.40903246,
+          0.4754
+        ],
+        "mask_bbox": [
+          0.31210433,
+          0.46449286,
+          0.41035038,
+          0.47647143
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "人类必须",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.46089286,
+          0.48560376,
+          0.48285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4828571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.46089286,
+          0.48560376,
+          0.48285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-5-col-1"
+    },
+    {
+      "id": "p0202-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "ningen wa~",
+        "raw": "ningen wa-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51525701,
+          0.46421429,
+          0.59715069,
+          0.4758
+        ],
+        "mask_bbox": [
+          0.51393909,
+          0.4635,
+          0.59846861,
+          0.47687143
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "ningen wa~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.46089286,
+          0.68836106,
+          0.48285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4828571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.46089286,
+          0.68836106,
+          0.48285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-5-col-2"
+    },
+    {
+      "id": "p0202-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Humans are",
+        "raw": "Humans are",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71751757,
+          0.46520714,
+          0.80076972,
+          0.4754
+        ],
+        "mask_bbox": [
+          0.71619964,
+          0.46449286,
+          0.80208764,
+          0.47647143
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "人类是",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.46089286,
+          0.8890908,
+          0.48285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.4828571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.46089286,
+          0.8890908,
+          0.48285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-5-col-3"
+    },
+    {
+      "id": "p0202-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "Live far apart",
+        "raw": "Live far apart",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31348308,
+          0.49299286,
+          0.40765371,
+          0.50318571
+        ],
+        "mask_bbox": [
+          0.31216515,
+          0.49227857,
+          0.40897163,
+          0.50425714
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "远远离开",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.48892857,
+          0.48560376,
+          0.51
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.51,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.48892857,
+          0.48560376,
+          0.51
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-6-col-1"
+    },
+    {
+      "id": "p0202-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "teki na no~",
+        "raw": "teki nano-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51513536,
+          0.49167143,
+          0.59397754,
+          0.50325
+        ],
+        "mask_bbox": [
+          0.51381744,
+          0.49095714,
+          0.59529546,
+          0.50432143
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "teki na no~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.48892857,
+          0.68836106,
+          0.51
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.51,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.48892857,
+          0.68836106,
+          0.51
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-6-col-2"
+    },
+    {
+      "id": "p0202-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "our enemy, you see",
+        "raw": "our enemy, you see",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71723371,
+          0.49265714,
+          0.85305069,
+          0.50285
+        ],
+        "mask_bbox": [
+          0.71591578,
+          0.49194286,
+          0.85436861,
+          0.50392143
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "我们的敌人啊",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.48892857,
+          0.8890908,
+          0.51
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.51,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.48892857,
+          0.8890908,
+          0.51
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-6-col-3"
+    },
+    {
+      "id": "p0202-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "Even if",
+        "raw": "Even if",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31342225,
+          0.52012857,
+          0.35862699,
+          0.53031429
+        ],
+        "mask_bbox": [
+          0.31210433,
+          0.51941429,
+          0.35994491,
+          0.53138571
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "即使",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.51625,
+          0.48560376,
+          0.5375
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5375,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.51625,
+          0.48560376,
+          0.5375
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-7-col-1"
+    },
+    {
+      "id": "p0202-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "kanashi~i",
+        "raw": "kanashi-i",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51576391,
+          0.5188,
+          0.58124438,
+          0.53038571
+        ],
+        "mask_bbox": [
+          0.51444598,
+          0.51808571,
+          0.5825623,
+          0.53145714
+        ],
+        "line_ids": [
+          36
+        ]
+      },
+      "translation": {
+        "text": "kanashi~i",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.51625,
+          0.68836106,
+          0.5375
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5375,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.51625,
+          0.68836106,
+          0.5375
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-7-col-2"
+    },
+    {
+      "id": "p0202-b027",
+      "kind": "table-cell",
+      "source": {
+        "text": "It's so sad",
+        "raw": "It's so sad",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71793322,
+          0.51979286,
+          0.78422472,
+          0.52997857
+        ],
+        "mask_bbox": [
+          0.7166153,
+          0.51907857,
+          0.78554264,
+          0.53105
+        ],
+        "line_ids": [
+          37
+        ]
+      },
+      "translation": {
+        "text": "真难过",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.51625,
+          0.8890908,
+          0.5375
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5375,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.51625,
+          0.8890908,
+          0.5375
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-7-col-3"
+    },
+    {
+      "id": "p0202-b028",
+      "kind": "table-cell",
+      "source": {
+        "text": "It breaks my heart",
+        "raw": "It breaks my heart",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31379735,
+          0.5486,
+          0.44112894,
+          0.55878571
+        ],
+        "mask_bbox": [
+          0.31247943,
+          0.54788571,
+          0.44244686,
+          0.55985714
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "令我心碎",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.54446429,
+          0.48560376,
+          0.56642857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5664285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.54446429,
+          0.48560376,
+          0.56642857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-8-col-1"
+    },
+    {
+      "id": "p0202-b029",
+      "kind": "table-cell",
+      "source": {
+        "text": "ke~re~do~mo~",
+        "raw": "ke-re-do-mo-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51576391,
+          0.54760714,
+          0.62147143,
+          0.55919286
+        ],
+        "mask_bbox": [
+          0.51444598,
+          0.54689286,
+          0.62278935,
+          0.56026429
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "ke~re~do~mo~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.54446429,
+          0.68836106,
+          0.56642857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5664285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.54446429,
+          0.68836106,
+          0.56642857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-8-col-2"
+    },
+    {
+      "id": "p0202-b030",
+      "kind": "table-cell",
+      "source": {
+        "text": "but",
+        "raw": "but",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71804473,
+          0.5486,
+          0.7398817,
+          0.55878571
+        ],
+        "mask_bbox": [
+          0.71672681,
+          0.54788571,
+          0.74119962,
+          0.55985714
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "可是",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.54446429,
+          0.8890908,
+          0.56642857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.5664285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.54446429,
+          0.8890908,
+          0.56642857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-8-col-3"
+    },
+    {
+      "id": "p0202-b031",
+      "kind": "table-cell",
+      "source": {
+        "text": "They'll put you",
+        "raw": "They'll put you",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31175964,
+          0.57773571,
+          0.41661558,
+          0.58792857
+        ],
+        "mask_bbox": [
+          0.31044172,
+          0.57702143,
+          0.4179335,
+          0.589
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "他们会把你",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.57321429,
+          0.48560376,
+          0.595
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.595,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.57321429,
+          0.48560376,
+          0.595
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-9-col-1"
+    },
+    {
+      "id": "p0202-b032",
+      "kind": "table-cell",
+      "source": {
+        "text": "o~ri~ ni~",
+        "raw": "o-ri-ni-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51565239,
+          0.57675,
+          0.57782792,
+          0.58832857
+        ],
+        "mask_bbox": [
+          0.51433447,
+          0.57603571,
+          0.57914584,
+          0.5894
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "o~ri~ ni~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.57321429,
+          0.68836106,
+          0.595
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.595,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.57321429,
+          0.68836106,
+          0.595
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-9-col-2"
+    },
+    {
+      "id": "p0202-b033",
+      "kind": "table-cell",
+      "source": {
+        "text": "you'll be put",
+        "raw": "you'll be put",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71779129,
+          0.57741429,
+          0.80650775,
+          0.58760714
+        ],
+        "mask_bbox": [
+          0.71647337,
+          0.5767,
+          0.80782567,
+          0.58867857
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "你会被",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.57321429,
+          0.8890908,
+          0.595
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.595,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.57321429,
+          0.8890908,
+          0.595
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-9-col-3"
+    },
+    {
+      "id": "p0202-b034",
+      "kind": "table-cell",
+      "source": {
+        "text": "In the dungeon",
+        "raw": "In the dungeon",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3138379,
+          0.60487143,
+          0.42278954,
+          0.61505714
+        ],
+        "mask_bbox": [
+          0.31251998,
+          0.60415714,
+          0.42410746,
+          0.61612857
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "关进地牢",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.60107143,
+          0.48560376,
+          0.62214286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.60107143,
+          0.48560376,
+          0.62214286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-10-col-1"
+    },
+    {
+      "id": "p0202-b035",
+      "kind": "table-cell",
+      "source": {
+        "text": "i~re~ra~re~",
+        "raw": "i-re-ra-re-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51559156,
+          0.60387857,
+          0.59627883,
+          0.61546429
+        ],
+        "mask_bbox": [
+          0.51427364,
+          0.60316429,
+          0.59759676,
+          0.61653571
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "i~re~ra~re~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.60107143,
+          0.68836106,
+          0.62214286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.60107143,
+          0.68836106,
+          0.62214286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-10-col-2"
+    },
+    {
+      "id": "p0202-b036",
+      "kind": "table-cell",
+      "source": {
+        "text": "into a cell",
+        "raw": "into a cell",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71852121,
+          0.60453571,
+          0.78518782,
+          0.61472143
+        ],
+        "mask_bbox": [
+          0.71720329,
+          0.60382143,
+          0.78650574,
+          0.61579286
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "关进牢房",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.60107143,
+          0.8890908,
+          0.62214286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.60107143,
+          0.8890908,
+          0.62214286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-10-col-3"
+    },
+    {
+      "id": "p0202-b037",
+      "kind": "table-cell",
+      "source": {
+        "text": "It'll suck",
+        "raw": "It'll suck",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31427383,
+          0.63233571,
+          0.3711067,
+          0.64252143
+        ],
+        "mask_bbox": [
+          0.31295591,
+          0.63162143,
+          0.37242463,
+          0.64359286
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "那可真糟",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.62857143,
+          0.48560376,
+          0.65
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.65,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.62857143,
+          0.48560376,
+          0.65
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-11-col-1"
+    },
+    {
+      "id": "p0202-b038",
+      "kind": "table-cell",
+      "source": {
+        "text": "ki~tto~",
+        "raw": "ki-tto-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51624039,
+          0.63134286,
+          0.5665242,
+          0.64292857
+        ],
+        "mask_bbox": [
+          0.51492246,
+          0.63062857,
+          0.56784212,
+          0.644
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "ki~tto~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.62857143,
+          0.68836106,
+          0.65
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.65,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.62857143,
+          0.68836106,
+          0.65
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-11-col-2"
+    },
+    {
+      "id": "p0202-b039",
+      "kind": "table-cell",
+      "source": {
+        "text": "and surely",
+        "raw": "and surely",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71818666,
+          0.63233571,
+          0.78994248,
+          0.64252143
+        ],
+        "mask_bbox": [
+          0.71686874,
+          0.63162143,
+          0.7912604,
+          0.64359286
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "一定会",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.62857143,
+          0.8890908,
+          0.65
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.65,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.62857143,
+          0.8890908,
+          0.65
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-11-col-3"
+    },
+    {
+      "id": "p0202-b040",
+      "kind": "table-cell",
+      "source": {
+        "text": "And then you'll die a lot",
+        "raw": "And then you'll die a lot",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31283425,
+          0.66115714,
+          0.47670271,
+          0.67134286
+        ],
+        "mask_bbox": [
+          0.31151633,
+          0.66044286,
+          0.47802063,
+          0.67241429
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "然后你会死上好多遍",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.65696429,
+          0.48560376,
+          0.67892857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6789285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.65696429,
+          0.48560376,
+          0.67892857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-12-col-1"
+    },
+    {
+      "id": "p0202-b041",
+      "kind": "table-cell",
+      "source": {
+        "text": "bukko~ro~sa~re~ru~",
+        "raw": "bukko-ro-sa-re-ru-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51615928,
+          0.66016429,
+          0.66235744,
+          0.67175
+        ],
+        "mask_bbox": [
+          0.51484136,
+          0.65945,
+          0.66367536,
+          0.67282143
+        ],
+        "line_ids": [
+          51
+        ]
+      },
+      "translation": {
+        "text": "bukko~ro~sa~re~ru~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.65696429,
+          0.68836106,
+          0.67892857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6789285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.65696429,
+          0.68836106,
+          0.67892857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-12-col-2"
+    },
+    {
+      "id": "p0202-b042",
+      "kind": "table-cell",
+      "source": {
+        "text": "get totally killed",
+        "raw": "get totally killed",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71818666,
+          0.66115714,
+          0.83355557,
+          0.67134286
+        ],
+        "mask_bbox": [
+          0.71686874,
+          0.66044286,
+          0.8348735,
+          0.67241429
+        ],
+        "line_ids": [
+          52
+        ]
+      },
+      "translation": {
+        "text": "被狠狠杀掉",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.65696429,
+          0.8890908,
+          0.67892857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.6789285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.65696429,
+          0.8890908,
+          0.67892857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-12-col-3"
+    },
+    {
+      "id": "p0202-b043",
+      "kind": "table-cell",
+      "source": {
+        "text": "Really sad",
+        "raw": "Really sad",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31437521,
+          0.68995,
+          0.38346476,
+          0.70013571
+        ],
+        "mask_bbox": [
+          0.31305729,
+          0.68923571,
+          0.38478268,
+          0.70120714
+        ],
+        "line_ids": [
+          53
+        ]
+      },
+      "translation": {
+        "text": "真难过",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.68553571,
+          0.48560376,
+          0.70714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.68553571,
+          0.48560376,
+          0.70714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-13-col-1"
+    },
+    {
+      "id": "p0202-b044",
+      "kind": "table-cell",
+      "source": {
+        "text": "ko~re~ de~",
+        "raw": "ko-re-de-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51624039,
+          0.68895714,
+          0.59578208,
+          0.70054286
+        ],
+        "mask_bbox": [
+          0.51492246,
+          0.68824286,
+          0.5971,
+          0.70161429
+        ],
+        "line_ids": [
+          54
+        ]
+      },
+      "translation": {
+        "text": "ko~re~ de~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.68553571,
+          0.68836106,
+          0.70714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.68553571,
+          0.68836106,
+          0.70714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-13-col-2"
+    },
+    {
+      "id": "p0202-b045",
+      "kind": "table-cell",
+      "source": {
+        "text": "Now this is where",
+        "raw": "Now this is where",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71893687,
+          0.68961429,
+          0.84292296,
+          0.6998
+        ],
+        "mask_bbox": [
+          0.71761894,
+          0.6889,
+          0.84424088,
+          0.70087143
+        ],
+        "line_ids": [
+          55
+        ]
+      },
+      "translation": {
+        "text": "现在，就在这里",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.68553571,
+          0.8890908,
+          0.70714286
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.68553571,
+          0.8890908,
+          0.70714286
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-13-col-3"
+    },
+    {
+      "id": "p0202-b046",
+      "kind": "table-cell",
+      "source": {
+        "text": "You're gonna die",
+        "raw": "You're gonna die",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31281398,
+          0.71707857,
+          0.43340389,
+          0.72726429
+        ],
+        "mask_bbox": [
+          0.31149605,
+          0.71636429,
+          0.43472181,
+          0.72833571
+        ],
+        "line_ids": [
+          56
+        ]
+      },
+      "translation": {
+        "text": "你就要死了",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.71321429,
+          0.48560376,
+          0.73428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.71321429,
+          0.48560376,
+          0.73428571
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-14-col-1"
+    },
+    {
+      "id": "p0202-b047",
+      "kind": "table-cell",
+      "source": {
+        "text": "o~wa~ka~re~",
+        "raw": "o-wa-ka-re-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51613901,
+          0.71608571,
+          0.61054281,
+          0.72767143
+        ],
+        "mask_bbox": [
+          0.51482108,
+          0.71537143,
+          0.61186073,
+          0.72874286
+        ],
+        "line_ids": [
+          57
+        ]
+      },
+      "translation": {
+        "text": "o~wa~ka~re~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.71321429,
+          0.68836106,
+          0.73428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.71321429,
+          0.68836106,
+          0.73428571
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-14-col-2"
+    },
+    {
+      "id": "p0202-b048",
+      "kind": "table-cell",
+      "source": {
+        "text": "we say goodbye",
+        "raw": "we say goodbye",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7183286,
+          0.71674286,
+          0.83178145,
+          0.72692857
+        ],
+        "mask_bbox": [
+          0.71701067,
+          0.71602857,
+          0.83309937,
+          0.728
+        ],
+        "line_ids": [
+          58
+        ]
+      },
+      "translation": {
+        "text": "我们告别",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.71321429,
+          0.8890908,
+          0.73428571
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.71321429,
+          0.8890908,
+          0.73428571
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-14-col-3"
+    },
+    {
+      "id": "p0202-b049",
+      "kind": "table-cell",
+      "source": {
+        "text": "Cry cry cry",
+        "raw": "Cry cry cry",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31404066,
+          0.74489286,
+          0.38653653,
+          0.75507857
+        ],
+        "mask_bbox": [
+          0.31272274,
+          0.74417857,
+          0.38785446,
+          0.75615
+        ],
+        "line_ids": [
+          59
+        ]
+      },
+      "translation": {
+        "text": "哭吧哭吧哭吧",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.74107143,
+          0.48560376,
+          0.76285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.74107143,
+          0.48560376,
+          0.76285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-15-col-1"
+    },
+    {
+      "id": "p0202-b050",
+      "kind": "table-cell",
+      "source": {
+        "text": "bai bai ba~i",
+        "raw": "bai bai ba-i",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51663576,
+          0.7439,
+          0.59957364,
+          0.75548571
+        ],
+        "mask_bbox": [
+          0.51531784,
+          0.74318571,
+          0.60089156,
+          0.75655714
+        ],
+        "line_ids": [
+          60
+        ]
+      },
+      "translation": {
+        "text": "bai bai ba~i",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.74107143,
+          0.68836106,
+          0.76285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.74107143,
+          0.68836106,
+          0.76285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-15-col-2"
+    },
+    {
+      "id": "p0202-b051",
+      "kind": "table-cell",
+      "source": {
+        "text": "Bye bye bye",
+        "raw": "Bye bye bye",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71895714,
+          0.74489286,
+          0.8017024,
+          0.75507857
+        ],
+        "mask_bbox": [
+          0.71763922,
+          0.74417857,
+          0.80302032,
+          0.75615
+        ],
+        "line_ids": [
+          61
+        ]
+      },
+      "translation": {
+        "text": "拜拜拜拜拜拜",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.74107143,
+          0.8890908,
+          0.76285714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7628571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.74107143,
+          0.8890908,
+          0.76285714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-15-col-3"
+    },
+    {
+      "id": "p0202-b052",
+      "kind": "table-cell",
+      "source": {
+        "text": "So sad it's happening.",
+        "raw": "So sad it's happening.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31453741,
+          0.77402143,
+          0.46799428,
+          0.78420714
+        ],
+        "mask_bbox": [
+          0.31321949,
+          0.77330714,
+          0.46931221,
+          0.78527857
+        ],
+        "line_ids": [
+          62
+        ]
+      },
+      "translation": {
+        "text": "发生这事多悲伤",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30616354,
+          0.76964286,
+          0.48560376,
+          0.79142857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30616354,
+          0.76964286,
+          0.48560376,
+          0.79142857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-16-col-1"
+    },
+    {
+      "id": "p0202-b053",
+      "kind": "table-cell",
+      "source": {
+        "text": "na~mida ga de~ru~",
+        "raw": "na-mida ga de-ru-",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.51667631,
+          0.77302857,
+          0.65237164,
+          0.78461429
+        ],
+        "mask_bbox": [
+          0.51535839,
+          0.77231429,
+          0.65368956,
+          0.78568571
+        ],
+        "line_ids": [
+          63
+        ]
+      },
+      "translation": {
+        "text": "na~mida ga de~ru~",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.50790706,
+          0.76964286,
+          0.68836106,
+          0.79142857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.50790706,
+          0.76964286,
+          0.68836106,
+          0.79142857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-16-col-2"
+    },
+    {
+      "id": "p0202-b054",
+      "kind": "table-cell",
+      "source": {
+        "text": "My tears are coming out",
+        "raw": "My tears are coming out",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.71895714,
+          0.77402143,
+          0.88079803,
+          0.78420714
+        ],
+        "mask_bbox": [
+          0.71763922,
+          0.77330714,
+          0.88211595,
+          0.78527857
+        ],
+        "line_ids": [
+          64
+        ]
+      },
+      "translation": {
+        "text": "我的眼泪流了出来",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.71066437,
+          0.76964286,
+          0.8890908,
+          0.79142857
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": false,
+        "limit_bottom": 0.7914285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.71066437,
+          0.76964286,
+          0.8890908,
+          0.79142857
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-16-col-3"
+    },
+    {
+      "id": "p0202-b055",
+      "kind": "paragraph",
+      "source": {
+        "text": "After Underta/e's Japanese release, players praised these new lyrics for \"feeling like they were written in Japanese to begin with\" and for \"sounding even better\" than the original English lyrics. From such reactions, it's clear that the translator managed to mimic the \"feel\" of Toby's original writing, resulting in a seamless localization.",
+        "raw": "After Underta/e's Japanese release, players praised these new lyrics for \"feeling\nlike they were written in Japanese to begin with\" and for \"sounding even\nbetter\" than the original English lyrics. From such reactions, it's clear that the\ntranslator managed to mimic the \"feel\" of Toby's original writing, resulting in a\nseamless localization.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29470775,
+          0.80778571,
+          0.89721123,
+          0.89403571
+        ],
+        "mask_bbox": [
+          0.29121019,
+          0.80707143,
+          0.8992388,
+          0.89510714
+        ],
+        "line_ids": [
+          65,
+          66,
+          67,
+          68,
+          69
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》日文版发行后，玩家称赞新歌词“像是一开始就用日语写的”，甚至“比原英文还好听”。这些反应说明，译者成功重现了 Toby 原作的“感觉”，让本地化自然流畅。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29323776,
+          0.805,
+          0.89922867,
+          0.90714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29323776,
+          0.805,
+          0.89922867,
+          0.90714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "body-bottom"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "02a98b031fa1c6c8305326ce9ff3f3d0f4ca4ff31eb847d05a8be716cdf4c163"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          70
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.98,
+      885.01
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1076 @@
+{
+  "schema_version": 3,
+  "pdf_page": 219,
+  "printed_page": "219",
+  "title": "从燃烧到转身",
+  "subtitle": "核心 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.290347+00:00",
+  "reference_size": [
+    983.599395,
+    1400
+  ],
+  "physical_size_pt": [
+    501.72,
+    714.12
+  ],
+  "image_url": "/assets/p0219.jpg",
+  "image_sha256": "37d558e14b896a1b28403c6f3da35ee4e720d333af80a3833951defae95814b6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0219/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0219-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Getting Burned",
+        "raw": "Getting Burned",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0963502,
+          0.06180714,
+          0.25580536,
+          0.07539286
+        ],
+        "mask_bbox": [
+          0.09502853,
+          0.06109286,
+          0.25712704,
+          0.07646429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "从燃烧到转身",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09583678,
+          0.05228571,
+          0.69499839,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09583678,
+          0.05228571,
+          0.69499839,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0219-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Toby noted: \"Burn becomes Turn so if you can think of something else that can turn into 'turn' that's a funnier pun that has to do with dying etc that'd be cool\"",
+        "raw": "Toby noted: \"Burn\nbecomes Turn so if you\ncan think of something\nelse that can turn into\n'turn' that's a funnier\npun that has to do\nwith dying etc that'd\nbe cool\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72690163,
+          0.09125,
+          0.87407536,
+          0.20959286
+        ],
+        "mask_bbox": [
+          0.72557995,
+          0.09053571,
+          0.87539704,
+          0.21066429
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          9,
+          14,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Toby 写道：“Burn 要变成 Turn，所以如果你能想到别的词，既能变成‘转身’，又能和死亡之类构成更好笑的双关，那就太好了。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72346526,
+          0.08982143,
+          0.87407536,
+          0.21316429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3203714328571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72346526,
+          0.08982143,
+          0.87407536,
+          0.21316429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Mettaton attempts to kill the main character again. As before, the player has few options while battling Mettaton - the only notable action available is \"Burn\", which simply produces the message:",
+        "raw": "Mettaton attempts to kill the main character again. As before, the player has\nfew options while battling Mettaton - the only notable action available is\n\"Burn\", which simply produces the message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09006716,
+          0.23489286,
+          0.67777594,
+          0.28465714
+        ],
+        "mask_bbox": [
+          0.08803381,
+          0.23417857,
+          0.69703174,
+          0.28572857
+        ],
+        "line_ids": [
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Mettaton 再次试图杀死主角。和之前一样，战斗中玩家可选的行动不多，唯一醒目的是“Burn”（燃烧），选了只会出现提示：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09583678,
+          0.23346429,
+          0.69499839,
+          0.28822857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09583678,
+          0.23346429,
+          0.69499839,
+          0.28822857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b004",
+      "kind": "quote",
+      "source": {
+        "text": "This is probably what you'll do ift hings continue in this manner.",
+        "raw": "This is probably what you'll do ift hings continue in this manner.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14123636,
+          0.29952857,
+          0.61589098,
+          0.31185
+        ],
+        "mask_bbox": [
+          0.13991469,
+          0.29881429,
+          0.61721266,
+          0.31292143
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "如果一直这样下去，你大概就会变成这样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14123636,
+          0.2981,
+          0.69499839,
+          0.31868929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0219-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.14123636,
+          0.2981,
+          0.69499839,
+          0.31868929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Similar to the previous Mettaton encounter, this \"Burn\" command eventually transforms into the similarly spelled \"Turn\" command",
+        "raw": "Similar to the\nprevious Mettaton\nencounter, this\n\"Burn\" command\neventually\ntransforms into the\nsimilarly spelled\n\"Turn\" command",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72499028,
+          0.32751429,
+          0.85008186,
+          0.44685
+        ],
+        "mask_bbox": [
+          0.7236686,
+          0.3268,
+          0.85140353,
+          0.44792143
+        ],
+        "line_ids": [
+          24,
+          29,
+          33,
+          40,
+          44,
+          45,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "与上次遭遇 Mettaton 类似，“Burn”最后会变成拼写相近的“Turn”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72346526,
+          0.32608571,
+          0.86986633,
+          0.45042143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6591357128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72346526,
+          0.32608571,
+          0.86986633,
+          0.45042143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Eventually, Al phys informs the player that Mettaton has a switch on his back. The \"Burn\" menu option is then quietly replaced with the \"Turn\" option. This option will turn Mettaton around and reveal his power switch.",
+        "raw": "Eventually, Al phys informs the player that Mettaton has a switch on his back.\nThe \"Burn\" menu option is then quietly replaced with the \"Turn\" option. This\noption will turn Mettaton around and reveal his power switch.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0964722,
+          0.47318571,
+          0.69499839,
+          0.52227857
+        ],
+        "mask_bbox": [
+          0.08803381,
+          0.47247143,
+          0.69703174,
+          0.52335
+        ],
+        "line_ids": [
+          53,
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "后来 Alphys 告诉玩家，Mettaton 背上有个开关。“Burn”选项便悄悄被“Turn”（转身）替换。选它就能让 Mettaton 转过去，露出电源开关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09583678,
+          0.47175714,
+          0.69499839,
+          0.52585
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09583678,
+          0.47175714,
+          0.69499839,
+          0.52585
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this subtle text change relies on \"Burn\" and \"Turn\" having similar spellings in English, this wordplay would be lost in a literal translation into Japanese. To compensate, the translator first replaced \"Burn\" with hikkuri kaeru (\"to topple over; to fall down\"). The translator then altered the original battle message to fit the new menu option:",
+        "raw": "Because this subtle text change relies on \"Burn\" and \"Turn\" having similar\nspellings in English, this wordplay would be lost in a literal translation into\nJapanese. To compensate, the translator first replaced \"Burn\" with hikkuri\nkaeru (\"to topple over; to fall down\"). The translator then altered the original\nbattle message to fit the new menu option:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0960452,
+          0.53702857,
+          0.68788168,
+          0.62275714
+        ],
+        "mask_bbox": [
+          0.08803381,
+          0.53631429,
+          0.69703174,
+          0.62382857
+        ],
+        "line_ids": [
+          56,
+          57,
+          58,
+          59,
+          60
+        ]
+      },
+      "translation": {
+        "text": "这处细微变化依靠 Burn 和 Turn 在英语中拼写相近，直接译成日语会丢失文字游戏。为此，译者先把 Burn 换成 hikkuri kaeru（翻倒、倒下），再调整原提示，与新选项相配：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 60,
+            "end": 73,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09583678,
+          0.5356,
+          0.69499839,
+          0.62632857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0219-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09583678,
+          0.5356,
+          0.69499839,
+          0.62632857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b008",
+      "kind": "quote",
+      "source": {
+        "text": "If this keeps up, you will definitely topple over and die.",
+        "raw": "If this keeps up, you will definitely topple over and die.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14133803,
+          0.63762143,
+          0.54380879,
+          0.64994286
+        ],
+        "mask_bbox": [
+          0.14001635,
+          0.63690714,
+          0.54513047,
+          0.65101429
+        ],
+        "line_ids": [
+          61
+        ]
+      },
+      "translation": {
+        "text": "再这样下去，你肯定会翻倒死去。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14133803,
+          0.63619286,
+          0.69499839,
+          0.65678214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0219-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.14133803,
+          0.63619286,
+          0.69499839,
+          0.65678214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b009",
+      "kind": "aside",
+      "source": {
+        "text": "Even if you don't know Japanese, you can see how the right hand menu option changes very slightly during this scene",
+        "raw": "Even if you don't\nknow Japanese, you\ncan see how the right\nhand menu option\nchanges very slightly\nduring this scene",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73172066,
+          0.66627857,
+          0.8651998,
+          0.75470714
+        ],
+        "mask_bbox": [
+          0.73039899,
+          0.66556429,
+          0.86652148,
+          0.75577857
+        ],
+        "line_ids": [
+          62,
+          66,
+          71,
+          77,
+          79,
+          80
+        ]
+      },
+      "translation": {
+        "text": "即便不懂日语，也能看出右侧选项在这一幕中只有极细微的变化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72346526,
+          0.66485,
+          0.86986633,
+          0.75827857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72346526,
+          0.66485,
+          0.86986633,
+          0.75827857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "After this, the translator changed the \"Turn\" command into hikkuri kaesu (\"to flip over or around\"). The resulting Japanese localization closely parallels Toby's original design: the first Japanese command does nothing, the second command looks similar to the first command at first glance, and the second command also causes Mettaton to be turned around.",
+        "raw": "After this, the translator changed the \"Turn\" command into hikkuri kaesu (\"to\nflip over or around\"). The resulting Japanese localization closely parallels\nToby's original design: the first Japanese command does nothing, the second\ncommand looks similar to the first command at first glance, and the second\ncommand also causes Mettaton to be turned around.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09562836,
+          0.81126429,
+          0.69028103,
+          0.89801429
+        ],
+        "mask_bbox": [
+          0.08803381,
+          0.81055,
+          0.69703174,
+          0.89908571
+        ],
+        "line_ids": [
+          81,
+          82,
+          83,
+          84,
+          85
+        ]
+      },
+      "translation": {
+        "text": "接着，译者把 Turn 译成 hikkuri kaesu（把东西翻转过来）。这样，日版就紧贴 Toby 的原设计：第一个指令毫无作用，第二个乍看与第一个相似，而且确实能让 Mettaton 转身。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09583678,
+          0.80983571,
+          0.69499839,
+          0.90158571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09583678,
+          0.80983571,
+          0.69499839,
+          0.90158571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0219-b011",
+      "kind": "footer",
+      "source": {
+        "text": "The Core",
+        "raw": "The Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64186701,
+          0.93503571,
+          0.70624281,
+          0.9447
+        ],
+        "mask_bbox": [
+          0.64054533,
+          0.93432143,
+          0.70756449,
+          0.94577143
+        ],
+        "line_ids": [
+          87
+        ]
+      },
+      "translation": {
+        "text": "核心",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64186701,
+          0.93360714,
+          0.70624281,
+          0.95160714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9516071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64186701,
+          0.93360714,
+          0.70624281,
+          0.95160714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "The Core",
+        "chapter_id": "chapter-214"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0db2979ec238bd635884cf531c243fe48f1711ef5b526c36fdc4368dd5bc6b9a"
+  },
+  "chapter_id": "chapter-214",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          67
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          69
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          73
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          75
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          76
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          78
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          86
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      94.26,
+      683.6
+    ],
+    "text_runs": [
+      {
+        "id": "p0219-b003",
+        "blocks": [
+          "p0219-b003",
+          "p0219-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 451.0
+      },
+      {
+        "id": "p0219-b006",
+        "blocks": [
+          "p0219-b006",
+          "p0219-b007",
+          "p0219-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 925.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

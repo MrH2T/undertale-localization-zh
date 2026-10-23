@@ -1,0 +1,567 @@
+{
+  "schema_version": 3,
+  "pdf_page": 45,
+  "printed_page": "45",
+  "title": "众筹与宣传",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:12:45.527615+00:00",
+  "reference_size": [
+    985.99865,
+    1400
+  ],
+  "physical_size_pt": [
+    501.0,
+    711.36
+  ],
+  "image_url": "/assets/p0045.jpg",
+  "image_sha256": "97776b448468ac1dba415d058503f58a85ddc60d3d11cef3699a1923f1b38b37",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0045/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0045-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Toby's crowdfunding campaign for Undertale brought in ten times more money than he originally asked for",
+        "raw": "Toby's crowdfunding\ncampaign for\nUndertale brought in\nten times more money\nthan he originally\nasked for",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73476774,
+          0.07271429,
+          0.87357118,
+          0.15978571
+        ],
+        "mask_bbox": [
+          0.73344928,
+          0.072,
+          0.87488964,
+          0.16085714
+        ],
+        "line_ids": [
+          1,
+          4,
+          6,
+          7,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "Toby 为 Undertale 发起的众筹，筹得的金额是原定目标的十倍。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73476774,
+          0.07128571,
+          0.87357118,
+          0.16335714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4231928528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73476774,
+          0.07128571,
+          0.87357118,
+          0.16335714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0045-b002",
+      "kind": "caption",
+      "source": {
+        "text": "LEFT: Toby literally promotes his upcoming game, Undertale, on the floor of a hotel",
+        "raw": "LEFT: Toby literally\npromotes his upcoming\ngame, Undertale, on the\nfloor of a hotel",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73569066,
+          0.43033571,
+          0.8853359,
+          0.48670714
+        ],
+        "mask_bbox": [
+          0.7343722,
+          0.42962143,
+          0.88665436,
+          0.48777857
+        ],
+        "line_ids": [
+          31,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "左：Toby 真就坐在酒店地板上，宣传即将推出的 Undertale。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73569066,
+          0.42890714,
+          0.8853359,
+          0.49027857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5042857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73569066,
+          0.42890714,
+          0.8853359,
+          0.49027857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0045-b003",
+      "kind": "caption",
+      "source": {
+        "text": "RIGHT: Toby promotes his game some more",
+        "raw": "RIGHT: Toby promotes\nhis game some more",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73641074,
+          0.49815,
+          0.87253669,
+          0.52482857
+        ],
+        "mask_bbox": [
+          0.73509228,
+          0.49743571,
+          0.87385515,
+          0.5259
+        ],
+        "line_ids": [
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "右：Toby 接着宣传他的游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73641074,
+          0.49672143,
+          0.87253669,
+          0.5284
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6155000028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "flow_after": "p0045-b002",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.73641074,
+          0.49672143,
+          0.87253669,
+          0.5284
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0045-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Toby promotes his upcoming game at an EarthBound convention, from behind an old couch, next to a garbage can",
+        "raw": "Toby promotes his\nupcoming game\nat an EarthBound\nconvention, from\nbehind an old couch,\nnext to a garbage can",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73525456,
+          0.62264286,
+          0.87047787,
+          0.7114
+        ],
+        "mask_bbox": [
+          0.7339361,
+          0.62192857,
+          0.87179633,
+          0.71247143
+        ],
+        "line_ids": [
+          38,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "Toby 在 EarthBound 聚会上宣传即将推出的游戏，位置在旧沙发后面、垃圾桶旁边。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73525456,
+          0.62121429,
+          0.87047787,
+          0.71497143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73525456,
+          0.62121429,
+          0.87047787,
+          0.71497143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0045-b005",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65647149,
+          0.93797857,
+          0.70982856,
+          0.94767857
+        ],
+        "mask_bbox": [
+          0.65515303,
+          0.93726429,
+          0.71114702,
+          0.94875
+        ],
+        "line_ids": [
+          46
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65647149,
+          0.93655,
+          0.70982856,
+          0.95455
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9545500000000001,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65647149,
+          0.93655,
+          0.70982856,
+          0.95455
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "069bdea927f427dce096a361c390ba682c7427b79e5541903c83a5162f57632f"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

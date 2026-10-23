@@ -1,0 +1,107 @@
+{
+  "schema_version": 3,
+  "pdf_page": 185,
+  "printed_page": "185",
+  "title": "热域",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    978.654527,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    711.72
+  ],
+  "image_url": "/assets/p0185.jpg",
+  "image_sha256": "7719f09b3332e2d70aed473477ceb9ec7b42aa734617948c583511c21c8892c6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0185/page.json",
+  "page_role": "chapter-title",
+  "blocks": [
+    {
+      "id": "p0185-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Hotland",
+        "raw": "",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48433843,
+          0.91071429,
+          0.66928623,
+          0.945
+        ],
+        "mask_bbox": [
+          0.48301008,
+          0.91,
+          0.67061459,
+          0.94607143
+        ],
+        "line_ids": []
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.48433843,
+          0.90928571,
+          0.66928623,
+          0.94857143
+        ],
+        "font_size": 40,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9485714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "style": "chapter-heading"
+      },
+      "calibration": {
+        "bbox": [
+          0.48433843,
+          0.90928571,
+          0.66928623,
+          0.94857143
+        ],
+        "font_size": 40,
+        "leading": 52.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7f595afb3cefdddf04edef708a8365a0897ac3f0ce7c0b95cdac7e22055be008"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  }
+}

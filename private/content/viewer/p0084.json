@@ -1,0 +1,794 @@
+{
+  "schema_version": 3,
+  "pdf_page": 84,
+  "printed_page": "84",
+  "title": "Flowey 的说话方式",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    983.847581,
+    1400
+  ],
+  "physical_size_pt": [
+    500.16,
+    711.72
+  ],
+  "image_url": "/assets/p0084.jpg",
+  "image_sha256": "f03ee3c57559ff9399243fa7aadad3aa7b8bef41644e3204c7deab5aeaa90c81",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0084/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0084-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Flowey Speaks",
+        "raw": "Flowey Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29516767,
+          0.0646,
+          0.44610569,
+          0.07795
+        ],
+        "mask_bbox": [
+          0.29384633,
+          0.06388571,
+          0.44742703,
+          0.07902143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Flowey 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29448667,
+          0.05595,
+          0.90607531,
+          0.08009286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08009285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29448667,
+          0.05595,
+          0.90607531,
+          0.08009286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0084-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Flowey's name ~ remained \"Flowey\" in Japanese, partly because the English word \"flower\" is well known in Japan",
+        "raw": "Flowey's name ~\nremained \"Flowey\"\nin Japanese, partly\nbecause the English\nword \"flower\" is well\nknown in Japan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13291693,
+          0.09527857,
+          0.28313329,
+          0.18229286
+        ],
+        "mask_bbox": [
+          0.13159559,
+          0.09456429,
+          0.28445463,
+          0.18336429
+        ],
+        "line_ids": [
+          2,
+          3,
+          6,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "日语版仍保留了 Flowey 这个名字，部分原因是英语 flower（花）在日本也广为人知。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13291693,
+          0.09385,
+          0.28313329,
+          0.18586429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13291693,
+          0.09385,
+          0.28313329,
+          0.18586429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0084-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character encounters a happy monster named Flowey. In English, Flowey uses friendly, welcoming words like \"howdy\", \"golly\", and \"aren'tcha\". But looks and words are deceiving - Flowey is actually sadistic and evil.",
+        "raw": "The main character encounters a happy monster named Flowey. In English,\nFlowey uses friendly, welcoming words like \"howdy\", \"golly\", and \"aren'tcha\".\nBut looks and words are deceiving - Flowey is actually sadistic and evil.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29398863,
+          0.22197143,
+          0.89463045,
+          0.27042857
+        ],
+        "mask_bbox": [
+          0.29195579,
+          0.22125714,
+          0.90810814,
+          0.2715
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "主角遇到一只快乐的怪物 Flowey。他在英语里用 howdy（你好呀）、golly（哎呀）、aren’tcha（是不是呀）这类亲切、热情的说法。但外表和言语都能骗人——Flowey 其实残忍而邪恶。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29398863,
+          0.22054286,
+          0.90607531,
+          0.39857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29398863,
+          0.22054286,
+          0.90607531,
+          0.39857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "flowey-voice"
+    },
+    {
+      "id": "p0084-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, Flowey begins by speaking in a friendly way that sounds fitting for a happy flower character. He also uses the Japanese personal pronoun boku, which gives off a friendly, boyish vibe. Even after Flowey reveals his cruel, sinister side and switches to a rude Japanese speaking style, he continues to use the lighthearted boku pronoun. This early localization choice makes sense after the player learns Flowey's true identity much later on.",
+        "raw": "In Japanese, Flowey begins by speaking in a friendly way that sounds fitting\nfor a happy flower character. He also uses the Japanese personal pronoun\nboku, which gives off a friendly, boyish vibe. Even after Flowey reveals his cruel,\nsinister side and switches to a rude Japanese speaking style, he continues to\nuse the lighthearted boku pronoun. This early localization choice makes sense\nafter the player learns Flowey's true identity much later on.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29448667,
+          0.28605,
+          0.90607531,
+          0.38978571
+        ],
+        "mask_bbox": [
+          0.29195579,
+          0.28533571,
+          0.90810814,
+          0.39085714
+        ],
+        "line_ids": [
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "日语版中，Flowey 起初说话也很亲切，很符合一朵快乐小花的形象。他用 boku（我）自称，显得友善而有少年气。即使后来露出残忍、阴险的本性，改用粗鲁的日语说话，他仍然沿用这个轻快的 boku。等玩家在很久以后得知 Flowey 的真实身份时，就能理解游戏早期的这一选择了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 37,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 93,
+            "end": 97,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29398863,
+          0.28462143,
+          0.90607531,
+          0.39857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0084-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29398863,
+          0.28462143,
+          0.90607531,
+          0.39857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "flowey-voice"
+    },
+    {
+      "id": "p0084-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Personal Pronouns: boku",
+        "raw": "Japanese Personal Pronouns: boku",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41882504,
+          0.42161429,
+          0.77843359,
+          0.43552143
+        ],
+        "mask_bbox": [
+          0.41750369,
+          0.4209,
+          0.77975493,
+          0.43659286
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：boku",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32017154,
+          0.41186428571428574,
+          0.88021764,
+          0.4360071428571428
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4360071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32017154,
+          0.41186428571428574,
+          0.88021764,
+          0.4360071428571428
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 614.41,
+      "region_id": "boku-box-heading"
+    },
+    {
+      "id": "p0084-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Boku is an informal, masculine Japanese pronoun for “I/me”. Boku carries a sense of boyish-ness, gentleness, timidness, decency, and/or being spoiled, among other things. Other fictional characters who use boku include:",
+        "raw": "Baku is an informal, masculine Japanese pronoun for \"I/me\". Baku carries a\nsense of boyish-ness, gentleness, timidness, decency, and/or being spoiled,\namong other things. Other fictional characters who use boku include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32085254,
+          0.45137857,
+          0.87303157,
+          0.49726429
+        ],
+        "mask_bbox": [
+          0.3195312,
+          0.45066429,
+          0.87435291,
+          0.49833571
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "Boku 是日语中非正式、偏男性的“我”，可以带出少年气、温和、腼腆、正派或娇惯等感觉。其他使用 boku 的虚构角色还有：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 4,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32017154,
+          0.44714286,
+          0.88021764,
+          0.50928571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5092857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32017154,
+          0.44714286,
+          0.88021764,
+          0.50928571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "boku-box-introduction"
+    },
+    {
+      "id": "p0084-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Ness (MOTHER 2/EarthBound)",
+        "raw": "Ness\n(MOTHER 2/EarthBound)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.37731454,
+          0.66685714,
+          0.52877093,
+          0.69217143
+        ],
+        "mask_bbox": [
+          0.3759932,
+          0.66614286,
+          0.53009227,
+          0.69324286
+        ],
+        "line_ids": [
+          24,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Ness\n（MOTHER 2／EarthBound）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 15,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31915513,
+          0.66428571,
+          0.58444012,
+          0.70214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7021428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.31915513,
+          0.66428571,
+          0.58444012,
+          0.70214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "boku-picture-caption"
+    },
+    {
+      "id": "p0084-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Shinji lkari (Neon Genesis Evangelion series)",
+        "raw": "Shinji lkari\n(Neon Genesis Evangelion series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6450491,
+          0.66685714,
+          0.84758047,
+          0.69217143
+        ],
+        "mask_bbox": [
+          0.64372776,
+          0.66614286,
+          0.84890182,
+          0.69324286
+        ],
+        "line_ids": [
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "Shinji Ikari\n（Neon Genesis Evangelion 系列）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61391623,
+          0.66428571,
+          0.88021764,
+          0.70214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7021428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.61391623,
+          0.66428571,
+          0.88021764,
+          0.70214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "boku-picture-caption"
+    },
+    {
+      "id": "p0084-b009",
+      "kind": "caption",
+      "source": {
+        "text": "SpongeBob (SpongeBob SquarePants)",
+        "raw": "SpongeBob\n(SpongeBob SquarePants)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.37249672,
+          0.86445714,
+          0.53075294,
+          0.88910714
+        ],
+        "mask_bbox": [
+          0.37117538,
+          0.86374286,
+          0.53207429,
+          0.89017857
+        ],
+        "line_ids": [
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "SpongeBob\n（SpongeBob SquarePants）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31915513,
+          0.86142857,
+          0.58444012,
+          0.90142857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9014285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.31915513,
+          0.86142857,
+          0.58444012,
+          0.90142857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "boku-picture-caption"
+    },
+    {
+      "id": "p0084-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Naruhodo Ryūichi (aka Phoenix Wright, Gyakuten Saiban/Ace Attorney series)",
+        "raw": "Naruhodo RyOichi (aka Phoenix Wright,\nGyakuten Saiban!Ace Attorney series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62732278,
+          0.86478571,
+          0.86958592,
+          0.88944286
+        ],
+        "mask_bbox": [
+          0.62600144,
+          0.86407143,
+          0.87090726,
+          0.89051429
+        ],
+        "line_ids": [
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Naruhodo Ryūichi（Phoenix Wright）\nGyakuten Saiban／Ace Attorney 系列",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 48,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 49,
+            "end": 61,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60781773,
+          0.86142857,
+          0.89038182,
+          0.90142857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9014285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.60781773,
+          0.86142857,
+          0.89038182,
+          0.90142857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "boku-picture-caption"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "020eaa78629878174144b9b42d0a6c8a6adf82cc496773489763356d8625d0f6"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.73,
+      891.44
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

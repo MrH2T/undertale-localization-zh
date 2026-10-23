@@ -1,0 +1,1066 @@
+{
+  "schema_version": 3,
+  "pdf_page": 90,
+  "printed_page": "90",
+  "title": "骷髅双关 · 诗意的念头",
+  "subtitle": "Ruins · 私人学习译稿",
+  "revision": 9,
+  "updated_at": "2026-10-22T16:28:22.423329+00:00",
+  "reference_size": [
+    981.301775147929,
+    1400
+  ],
+  "physical_size_pt": [
+    497.52,
+    709.8
+  ],
+  "image_url": "/assets/p0090.jpg",
+  "image_sha256": "2509c7fceddb956483be014d40a262c8f378ffdbba0f226ed676bd9985f3f1e1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0090/page.json",
+  "blocks": [
+    {
+      "id": "p0090-b001",
+      "kind": "heading",
+      "source": {
+        "text": "A Skeleton Pun",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2904305,
+          0.06,
+          0.9079776,
+          0.0778571
+        ],
+        "mask_bbox": [
+          0.2904305,
+          0.06,
+          0.9079776,
+          0.0778571
+        ]
+      },
+      "translation": {
+        "text": "骷髅双关",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2924686,
+          0.0557143,
+          0.9069585,
+          0.08285714285714287
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2924686,
+          0.0557143,
+          0.9069585,
+          0.08285714285714287
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The translator considered other puns on kotsu o tsukamu (\"get the hang of\") and kotsu ga iru (\"there’s a trick/knack to it\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1161722,
+          0.0885714,
+          0.2710685,
+          0.1978571
+        ],
+        "mask_bbox": [
+          0.1161722,
+          0.0885714,
+          0.2710685,
+          0.1978571
+        ]
+      },
+      "translation": {
+        "text": "译者还考虑过围绕 kotsu o tsukamu（掌握诀窍）和 kotsu ga iru（需要技巧／窍门）的其他双关。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 32,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.112096,
+          0.0885714,
+          0.2700494,
+          0.2107143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.112096,
+          0.0885714,
+          0.2700494,
+          0.2107143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toriel loves bad puns and shares many throughout the game. One early example is about skeletons:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2904305,
+          0.2357143,
+          0.9079776,
+          0.2707143
+        ],
+        "mask_bbox": [
+          0.2904305,
+          0.2357143,
+          0.9079776,
+          0.2707143
+        ]
+      },
+      "translation": {
+        "text": "Toriel 喜欢冷双关，在游戏中讲了不少。前期就有一个关于骷髅的笑话：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2924686,
+          0.2335714,
+          0.9069585,
+          0.2778571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2924686,
+          0.2335714,
+          0.9069585,
+          0.2778571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b004",
+      "kind": "caption",
+      "source": {
+        "text": "English Text",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3067354,
+          0.2892857,
+          0.5910516,
+          0.31
+        ],
+        "mask_bbox": [
+          0.292468644476604,
+          0.285,
+          0.6002231066087795,
+          0.31357142857142856
+        ]
+      },
+      "translation": {
+        "text": "英文笑话（释义）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.3108116,
+          0.29,
+          0.5890135,
+          0.31
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3108116,
+          0.29,
+          0.5890135,
+          0.31
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "table-cell",
+        "group": "p0090-table1",
+        "row": 0,
+        "column": 0,
+        "header": true
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese Text (roughly translated)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6114327,
+          0.2892857,
+          0.8998251,
+          0.31
+        ],
+        "mask_bbox": [
+          0.6002231066087795,
+          0.285,
+          0.9069585142305837,
+          0.31357142857142856
+        ]
+      },
+      "translation": {
+        "text": "日版笑话（大意）",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6155089,
+          0.29,
+          0.896768,
+          0.31
+        ],
+        "font_size": 18,
+        "line_height": 1.4444444444444444,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "color": "#ffffff",
+        "mask_color": "#414141"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.6155089,
+          0.29,
+          0.896768,
+          0.31
+        ],
+        "font_size": 18,
+        "leading": 26.0
+      },
+      "structure": {
+        "type": "table-cell",
+        "group": "p0090-table1",
+        "row": 0,
+        "column": 1,
+        "header": true
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "What did the skeleton tile his roof with? SHIN-gles!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3057164,
+          0.3192857,
+          0.5930897,
+          0.355
+        ],
+        "mask_bbox": [
+          0.3057164,
+          0.3192857,
+          0.5930897,
+          0.355
+        ]
+      },
+      "translation": {
+        "text": "骷髅用什么铺屋顶？\nSHIN-gles（木瓦）！",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.3108116,
+          0.3192857,
+          0.5910516,
+          0.3557143
+        ],
+        "font_size": 17,
+        "line_height": 1.411764705882353,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3108116,
+          0.3192857,
+          0.5910516,
+          0.3557143
+        ],
+        "font_size": 17,
+        "leading": 24.0
+      },
+      "structure": {
+        "type": "table-cell",
+        "group": "p0090-table1",
+        "row": 1,
+        "column": 0,
+        "header": false
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Where do skeletons live? Tekkotsu apartment buildings!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6124518,
+          0.3192857,
+          0.9018632,
+          0.355
+        ],
+        "mask_bbox": [
+          0.6124518,
+          0.3192857,
+          0.9018632,
+          0.355
+        ]
+      },
+      "translation": {
+        "text": "骷髅住在哪里？\nTekkotsu（钢骨架）公寓楼！",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.616528,
+          0.3192857,
+          0.896768,
+          0.3557143
+        ],
+        "font_size": 17,
+        "line_height": 1.411764705882353,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.616528,
+          0.3192857,
+          0.896768,
+          0.3557143
+        ],
+        "font_size": 17,
+        "leading": 24.0
+      },
+      "structure": {
+        "type": "table-cell",
+        "group": "p0090-table1",
+        "row": 1,
+        "column": 1,
+        "header": false
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "The original joke wouldn’t work in a straightforward translation into Japanese, as it plays with the English words “shin” and “shingles”. To compensate, the translator replaced the joke with a similar joke in Japanese that plays with the words kotsu (bone) and tekkotsu (steel frame). The result is a bad Japanese pun on par with the original English pun.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2904305,
+          0.3721429,
+          0.9110347,
+          0.4642857
+        ],
+        "mask_bbox": [
+          0.2904305,
+          0.3721429,
+          0.9110347,
+          0.4642857
+        ]
+      },
+      "translation": {
+        "text": "原笑话利用英文 shin（胫骨）和 shingles（屋顶木瓦）玩双关，直译成日文就不成立了。为此，译者换上了类似的日语笑话，利用 kotsu（骨）与 tekkotsu（钢骨架）的关系。于是，一个和英文原版同样冷的日语双关就诞生了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 66,
+            "end": 71,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 76,
+            "end": 84,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2924686,
+          0.3728571,
+          0.9069585,
+          0.4714286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2924686,
+          0.3728571,
+          0.9069585,
+          0.4714286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Poetry in Notion",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2914496,
+          0.4807143,
+          0.9089966,
+          0.4992857
+        ],
+        "mask_bbox": [
+          0.2914496,
+          0.4807143,
+          0.9089966,
+          0.4992857
+        ]
+      },
+      "translation": {
+        "text": "诗意的念头",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2934877,
+          0.4764286,
+          0.9069585,
+          0.5035714428571428
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2934877,
+          0.4764286,
+          0.9069585,
+          0.5035714428571428
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b010",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #2: Rewrite this English description to say roughly the same thing, but without using the letters E or F!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1182103,
+          0.5092857,
+          0.2710685,
+          0.6064286
+        ],
+        "mask_bbox": [
+          0.1182103,
+          0.5092857,
+          0.2710685,
+          0.6064286
+        ]
+      },
+      "translation": {
+        "text": "读者挑战 2：改写这段英文说明，大意保持不变，但不能使用字母 E 或 F！",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.1131151,
+          0.5092857,
+          0.2700494,
+          0.6171429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1131151,
+          0.5092857,
+          0.2700494,
+          0.6171429
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "The first real battle in Undertale takes place against a lifeless dummy. Checking this dummy in battle displays the short English description that Toby also described as a “meaningless poem”:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2914496,
+          0.6278571,
+          0.9110347,
+          0.6842857
+        ],
+        "mask_bbox": [
+          0.2914496,
+          0.6278571,
+          0.9110347,
+          0.6842857
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的第一场真正的战斗，对手是一个没有生命的假人。在战斗中查看它，会显示下面这段简短的英文说明；Toby 也把它称为一首“没有意义的诗”：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2934877,
+          0.6257143,
+          0.9079776,
+          0.6878571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2934877,
+          0.6257143,
+          0.9079776,
+          0.6878571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b012",
+      "kind": "quote",
+      "source": {
+        "text": "A cotton heart and a button eye\nYou are the apple of my eye",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3332308,
+          0.6928571,
+          0.9079776,
+          0.7292857
+        ],
+        "mask_bbox": [
+          0.3332308,
+          0.6928571,
+          0.9079776,
+          0.7292857
+        ]
+      },
+      "translation": {
+        "text": "A cotton heart and a button eye（棉花的心，纽扣的眼）\nYou are the apple of my eye（你是我的心头宝）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 1,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 2,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 9,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 15,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 19,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 21,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 28,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 47,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 51,
+            "end": 54,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 55,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 61,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 64,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 67,
+            "end": 70,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.337307,
+          0.695,
+          0.9079776,
+          0.7321429
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.337307,
+          0.695,
+          0.9079776,
+          0.7321429
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the fanciful phrase “apple of my eye” isn’t commonly used in Japanese, it was replaced with a lighthearted Japanese literary reference:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2914496,
+          0.74,
+          0.9110347,
+          0.7757143
+        ],
+        "mask_bbox": [
+          0.2914496,
+          0.74,
+          0.9110347,
+          0.7757143
+        ]
+      },
+      "translation": {
+        "text": "“apple of my eye”这类富于想象的表达在日语中并不常用，于是被换成了一个轻松的日本文学典故：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.2934877,
+          0.7378571,
+          0.9079776,
+          0.7792857
+        ],
+        "font_size": 19,
+        "line_height": 1.4210526315789473,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2934877,
+          0.7378571,
+          0.9079776,
+          0.7792857
+        ],
+        "font_size": 19,
+        "leading": 27.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b014",
+      "kind": "quote",
+      "source": {
+        "text": "wata no hāto ni botan no hitomi (“A cotton heart and a button eye”)\nkagayaitchimatta yorokobi ni (“For the shining joy”)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3352689,
+          0.785,
+          0.9079776,
+          0.8221429
+        ],
+        "mask_bbox": [
+          0.3352689,
+          0.785,
+          0.9079776,
+          0.8221429
+        ]
+      },
+      "translation": {
+        "text": "wata no hāto ni botan no hitomi（棉花的心，纽扣的眼）\nkagayaitchimatta yorokobi ni（为了那闪耀的喜悦）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 71,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.3383261,
+          0.7864286,
+          0.9079776,
+          0.825
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.3383261,
+          0.7864286,
+          0.9079776,
+          0.825
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "The second line in this description is a meaningless parody of a famous poem by Chūya Nakahara known as Yogoretchimatta Kanashimi Ni (“For the Tainted Sorrow”). This change ensures that the dummy’s Japanese description is clearly recognizable as a poem, but leaves players confused by its meaningless content.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2914496,
+          0.8314286,
+          0.9110347,
+          0.905
+        ],
+        "mask_bbox": [
+          0.2914496,
+          0.8314286,
+          0.9110347,
+          0.905
+        ]
+      },
+      "translation": {
+        "text": "说明的第二行，是对 Chūya Nakahara 的名诗 Yogoretchimatta Kanashimi Ni（《为了那被玷污的悲伤》）的一句无意义戏仿。这样一改，玩家一眼就能认出假人的日文说明是一首诗，却仍会被其中毫无意义的内容弄得摸不着头脑。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.2934877,
+          0.8285714,
+          0.9079776,
+          0.9142857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.5135135135135136,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.2934877,
+          0.8285714,
+          0.9079776,
+          0.9142857
+        ],
+        "font_size": 18.5,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0090-b016",
+      "kind": "aside",
+      "source": {
+        "text": "Yogoretchimatta Kanashimi Ni, first published in 1930, has since been adapted into many books, television shows, and movies",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1131151,
+          0.7757143,
+          0.2720876,
+          0.8721429
+        ],
+        "mask_bbox": [
+          0.1131151,
+          0.7757143,
+          0.2720876,
+          0.8721429
+        ]
+      },
+      "translation": {
+        "text": "Yogoretchimatta Kanashimi Ni 最初发表于 1930 年，后来被改编成许多书籍、电视剧和电影。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1049626,
+          0.7757143,
+          0.2700494,
+          0.89
+        ],
+        "font_size": 15,
+        "line_height": 1.4666666666666666,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1049626,
+          0.7757143,
+          0.2700494,
+          0.89
+        ],
+        "font_size": 15,
+        "leading": 22.0
+      },
+      "annotations": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.865966+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 16
+    }
+  }
+}

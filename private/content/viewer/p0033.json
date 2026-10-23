@@ -1,0 +1,484 @@
+{
+  "schema_version": 3,
+  "pdf_page": 33,
+  "printed_page": "33",
+  "title": "外部要求造成的变化",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    993.814086,
+    1400
+  ],
+  "physical_size_pt": [
+    506.76,
+    713.88
+  ],
+  "image_url": "/assets/p0033.jpg",
+  "image_sha256": "03698e3efb69d321ccb79f68d008f52c36d90e602aa7ad2fb34057893e118d50",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0033/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0033-b001",
+      "kind": "caption",
+      "source": {
+        "text": "At some point during the localization process, this \"Naughty Book\" item was replaced with a tamer \"Comic Book\" item as a result of external influences (Game: Mega Man Legends)",
+        "raw": "At some point during\nthe localization process,\nthis \"Naughty Book\"\nitem was replaced\nwith a tamer \"Comic\nBook\" item as a result\nof external influences\n(Game: Mega Man\nLegends)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73030762,
+          0.07547857,
+          0.8795307,
+          0.20932857
+        ],
+        "mask_bbox": [
+          0.72899953,
+          0.07476429,
+          0.88083879,
+          0.2104
+        ],
+        "line_ids": [
+          1,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "在本地化的某个阶段，这件“Naughty Book”（色情读物）道具受外部因素影响，被换成了更温和的“Comic Book”（漫画书）。（游戏：Mega Man Legends）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73030762,
+          0.07405,
+          0.8795307,
+          0.2129
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.26770000285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73030762,
+          0.07405,
+          0.8795307,
+          0.2129
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0033-b002",
+      "kind": "caption",
+      "source": {
+        "text": "In the 1980s and 1990s, the Teenage Mutant Ninja Turtles games were renamed for certain audiences due to local laws forbidding references to ninjas",
+        "raw": "In the 1980s and 1990s,\nthe Teenage Mutant\nNinja Turtles games\nwere renamed for\ncertain audiences due\nto local laws forbidding\nreferences to ninjas",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73105223,
+          0.27484286,
+          0.87772956,
+          0.37876429
+        ],
+        "mask_bbox": [
+          0.72974413,
+          0.27412857,
+          0.87903765,
+          0.37983571
+        ],
+        "line_ids": [
+          11,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "20世纪80、90年代，部分地区的法律不许提到忍者，因此《Teenage Mutant Ninja Turtles》游戏为当地受众改过名字。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73105223,
+          0.27341429,
+          0.87772956,
+          0.38233571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4690928528571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73105223,
+          0.27341429,
+          0.87772956,
+          0.38233571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0033-b003",
+      "kind": "caption",
+      "source": {
+        "text": "External factors caused all references to opium to be replaced with bananas for the English language release (Game: Final Fantasy Legend II)",
+        "raw": "External factors caused\nall references to opium\nto be replaced with\nbananas for the English\nlanguage release (Game:\nFinal Fantasy Legend II)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73107235,
+          0.47623571,
+          0.88154315,
+          0.56432857
+        ],
+        "mask_bbox": [
+          0.72976426,
+          0.47552143,
+          0.88285124,
+          0.5654
+        ],
+        "line_ids": [
+          19,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "由于外部因素，英语版把所有提到鸦片的地方都换成了香蕉。（游戏：Final Fantasy Legend II）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73107235,
+          0.47480714,
+          0.88154315,
+          0.5679
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6707928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73107235,
+          0.47480714,
+          0.88154315,
+          0.5679
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0033-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Because video games rely on more than text to convey ideas, localization and external influences can apply to graphical depictions too. Here, we see how religious imagery was dropped from the English release of Dragon Warrior Ill due to Nintendo of America's content policies at the time",
+        "raw": "Because video games\nrely on more than text to\nconvey ideas, localization\nand external influences\ncan apply to graphical\ndepictions too. Here, we\nsee how religious imagery\nwas dropped from the\nEnglish release of Dragon\nWarrior Ill due to Nintendo\nof America's content\npolicies at the time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7320182,
+          0.67793571,
+          0.88883828,
+          0.85885
+        ],
+        "mask_bbox": [
+          0.73071011,
+          0.67722143,
+          0.89014637,
+          0.85992143
+        ],
+        "line_ids": [
+          33,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "游戏并非只用文字传达意思，因此本地化和外部要求也可能涉及图像。这里可以看到，受当时任天堂美国公司的内容规定影响，《Dragon Warrior III》英语版删除了宗教图像。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 57,
+            "end": 75,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7320182,
+          0.67650714,
+          0.88883828,
+          0.86242143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7320182,
+          0.67650714,
+          0.88883828,
+          0.86242143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0033-b005",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55268889,
+          0.93690714,
+          0.7063796,
+          0.94628571
+        ],
+        "mask_bbox": [
+          0.55138079,
+          0.93619286,
+          0.7076877,
+          0.94735714
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55268889,
+          0.93547857,
+          0.7063796,
+          0.95347857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9534785714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55268889,
+          0.93547857,
+          0.7063796,
+          0.95347857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bb5822ca47fc3154126f6f3c26167b69ef7740a8a23f5c1da3c37593df6fb1f7"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

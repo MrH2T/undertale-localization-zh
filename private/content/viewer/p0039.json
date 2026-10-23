@@ -1,0 +1,982 @@
+{
+  "schema_version": 3,
+  "pdf_page": 39,
+  "printed_page": "39",
+  "title": "道德选择",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.118407+00:00",
+  "reference_size": [
+    993.061637,
+    1400
+  ],
+  "physical_size_pt": [
+    505.44,
+    712.56
+  ],
+  "image_url": "/assets/p0039.jpg",
+  "image_sha256": "f6e3b248a9a9a7b53078553939db5c55912119528e62d668be7494d99a96cbee",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0039/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0039-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Morality",
+        "raw": "Morality",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10639823,
+          0.06431429,
+          0.19378455,
+          0.07792857
+        ],
+        "mask_bbox": [
+          0.10508915,
+          0.0636,
+          0.19509363,
+          0.079
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "道德选择",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.05592857,
+          0.70942223,
+          0.08007143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08007142714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.05592857,
+          0.70942223,
+          0.08007143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "When you think about it, many video games basically boil down to \"you beat up and/or kill the bad guys\". It's almost the expected \"default\" of any game. This was true for beloved classics like Pac-Man, Space Invaders, and Super Mario Bros., and it's just as true for games released today.",
+        "raw": "When you think about it, many video games basically boil down to \"you beat up\nand/or kill the bad guys\". It's almost the expected \"default\" of any game. This\nwas true for beloved classics like Pac-Man, Space Invaders, and Super Mario\nBros., and it's just as true for games released today.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10426342,
+          0.09272143,
+          0.70656239,
+          0.15860714
+        ],
+        "mask_bbox": [
+          0.10224944,
+          0.09200714,
+          0.7114362,
+          0.15967857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          7
+        ]
+      },
+      "translation": {
+        "text": "仔细想想，很多游戏归根到底都是“打倒或杀死坏人”。这几乎成了玩家默认的游戏规则。备受喜爱的《Pac-Man》《Space Invaders》和《Super Mario Bros.》等经典如此，今天的新游戏也一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 46,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 55,
+            "end": 69,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 72,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.09129286,
+          0.70942223,
+          0.16217857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.09129286,
+          0.70942223,
+          0.16217857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale looks at things differently. Instead of hurting enemies, you can talk to them, flatter them, insult them, comfort them, mock them, befriend them, and more, until they lose the will to fight. In short, you can complete the game without killing anything or anyone. Or, if you want, you can slaughter everything you see - the choice is up to you. The game also changes with each choice you make, ensuring that no two Undertale experiences are exactly the same.",
+        "raw": "Undertale looks at things differently. Instead of hurting enemies, you can talk\nto them, flatter them, insult them, comfort them, mock them, befriend them,\nand more, until they lose the will to fight. In short, you can complete the game\nwithout killing anything or anyone. Or, if you want, you can slaughter everything\nyou see - the choice is up to you. The game also changes with each choice you\nmake, ensuring that no two Undertale experiences are exactly the same.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10582425,
+          0.17355714,
+          0.70942223,
+          0.27717143
+        ],
+        "mask_bbox": [
+          0.10224944,
+          0.17284286,
+          0.7114362,
+          0.27824286
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Undertale 换了个角度。你不必伤害敌人，可以与他们交谈、奉承、辱骂、安慰、嘲弄，或交朋友，直到他们不再想打。你可以不杀任何东西、任何人就通关；也可以随心所欲地杀光眼前的一切，选择在你。游戏还会随每次选择发生变化，没有两段 Undertale 体验会完全一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 115,
+            "end": 124,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.17212857,
+          0.70942223,
+          0.28074286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0039-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.17212857,
+          0.70942223,
+          0.28074286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "What kind of person are you, deep down? Undertale will show you.",
+        "raw": "What kind of person are you, deep down? Undertale will show you.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10535096,
+          0.29243571,
+          0.61255009,
+          0.30478571
+        ],
+        "mask_bbox": [
+          0.10224944,
+          0.29172143,
+          0.7114362,
+          0.30585714
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "你的内心究竟是怎样的人？Undertale 会让你看见。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 12,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.29100714,
+          0.70942223,
+          0.31315
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0039-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.29100714,
+          0.70942223,
+          0.31315
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Nintendo encourages players to literally kill enemies in Super Mario Bros.",
+        "raw": "Nintendo encourages\nplayers to literally\nkill enemies in Super\nMario Bros.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73723521,
+          0.35865,
+          0.86771049,
+          0.41476429
+        ],
+        "mask_bbox": [
+          0.73592612,
+          0.35793571,
+          0.86901957,
+          0.41583571
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "任天堂在《Super Mario Bros.》中，确实鼓励玩家杀死敌人。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73723521,
+          0.35722143,
+          0.86771049,
+          0.41833571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7978571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73723521,
+          0.35722143,
+          0.86771049,
+          0.41833571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale follows the standard Japanese RPG formula of exploring, talking, and fighting, but every aspect of the game has a surprising amount of charm and polish to it",
+        "raw": "Underta/e follows the standard Japanese RPG\nformula of exploring, talking, and fighting,\nbut every aspect of the game has a surprising\namount of charm and polish to it",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10670033,
+          0.49618571,
+          0.38611903,
+          0.55238571
+        ],
+        "mask_bbox": [
+          0.10539124,
+          0.49547143,
+          0.38742812,
+          0.55345714
+        ],
+        "line_ids": [
+          31,
+          33,
+          35,
+          37
+        ]
+      },
+      "translation": {
+        "text": "Undertale 沿用了日式角色扮演游戏中探索、交谈、战斗的基本框架，却在每个方面都打磨得细致而迷人。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.49475714,
+          0.3923699,
+          0.55595714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5621428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.49475714,
+          0.3923699,
+          0.55595714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Every enemy in Undertale has a uniquely themed \"bullet hell\" pattern that the player must react to in battle",
+        "raw": "Every enemy in Underta/e has a uniquely\nthemed \"bullet hell\" pattern that the player\nmust react to in battle",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42397167,
+          0.49618571,
+          0.69296806,
+          0.53687857
+        ],
+        "mask_bbox": [
+          0.42266259,
+          0.49547143,
+          0.69427715,
+          0.53795
+        ],
+        "line_ids": [
+          32,
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的每种敌人都有独特主题的“弹幕”，玩家必须在战斗中作出反应。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41250964,
+          0.49475714,
+          0.70942223,
+          0.54045
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5621428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41250964,
+          0.49475714,
+          0.70942223,
+          0.54045
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Enemies in Undertale are actual characters in the game with feelings and motivations of their own. You can treat them like standard video game battle fodder, or you can let them live and befriend them. The choice you make each time will change the game in big and small ways!",
+        "raw": "Enemies in Underta/e are actual characters in the game with feelings and motivations of their\nown. You can treat them like standard video game battle fodder, or you can let them live and\nbefriend them. The choice you make each time will change the game in big and small ways!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10814032,
+          0.74340714,
+          0.68144813,
+          0.78511429
+        ],
+        "mask_bbox": [
+          0.10683123,
+          0.74269286,
+          0.68275722,
+          0.78618571
+        ],
+        "line_ids": [
+          56,
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的敌人是有感情、有动机的角色。你可以把他们当成普通游戏里的战斗炮灰，也可以放他们活着，与他们交朋友。每一次选择都会或大或小地改变游戏！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10535096,
+          0.74197857,
+          0.70942223,
+          0.78868571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.10535096,
+          0.74197857,
+          0.70942223,
+          0.78868571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b009",
+      "kind": "aside",
+      "source": {
+        "text": "Who you are really does seem to impact your Undertale experience. Impatient players tend to rush through, kill everything, and skip all the text. Cautious players stop to analyze every choice. Judgmental players begin with an already unswayable opinion. Timid players constantly worry about upsetting enemies in battle. It's an interesting phenomenon to see!",
+        "raw": "Who you are really does seem to impact your Undertale experience.\nImpatient players tend to rush through, kill everything, and skip all the\ntext. Cautious players stop to analyze every choice. Judgmental players\nbegin with an already unswayable opinion. Timid players constantly worry\nabout upsetting enemies in battle. It's an interesting phenomenon to see!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12614524,
+          0.81685,
+          0.68476112,
+          0.88952143
+        ],
+        "mask_bbox": [
+          0.12483616,
+          0.81613571,
+          0.6860702,
+          0.89059286
+        ],
+        "line_ids": [
+          59,
+          60,
+          61,
+          62,
+          63
+        ]
+      },
+      "translation": {
+        "text": "你是怎样的人，似乎真会影响 Undertale 的体验。急性子往往一路冲，见谁杀谁，跳过所有文字；谨慎的人停下来分析每个选择；爱下判断的人还没开始，就已有不可动摇的看法；胆小的人则总担心在战斗中惹敌人生气。这个现象很有意思！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12614524,
+          0.81542143,
+          0.68476112,
+          0.89309286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8964285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12614524,
+          0.81542143,
+          0.68476112,
+          0.89309286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0039-b010",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65971736,
+          0.93921429,
+          0.71214109,
+          0.94875714
+        ],
+        "mask_bbox": [
+          0.65840828,
+          0.9385,
+          0.71345018,
+          0.94982857
+        ],
+        "line_ids": [
+          65
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65971736,
+          0.93778571,
+          0.71214109,
+          0.95578571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9557857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65971736,
+          0.93778571,
+          0.71214109,
+          0.95578571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0f7bdffe17a87a943359ef23927bf6ff2e656a6d8fa90d62f900bada104d3747"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          64
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      104.62,
+      704.5
+    ],
+    "text_runs": [
+      {
+        "id": "p0039-b002",
+        "blocks": [
+          "p0039-b002",
+          "p0039-b003",
+          "p0039-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 442.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,424 @@
+{
+  "schema_version": 3,
+  "pdf_page": 31,
+  "printed_page": "31",
+  "title": "直译的意外效果",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    989.581929,
+    1400
+  ],
+  "physical_size_pt": [
+    503.16,
+    711.84
+  ],
+  "image_url": "/assets/p0031.jpg",
+  "image_sha256": "9a6f799ed744153f7d3bf56274742d76d38ffb5f4a5e640982e338440d996cfd",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0031/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0031-b001",
+      "kind": "caption",
+      "source": {
+        "text": "A literal translation can create ambiguity where there was none before. For example, is this character giving an invitation, or is she giving directions? (Game: Final Fantasy II, Super NES)",
+        "raw": "A literal translation can create ambiguity where\nthere was none before. For example, is this\ncharacter giving an invitation, or is she giving\ndirections? (Game: Final Fantasy II, Super NES)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10048688,
+          0.27327143,
+          0.38592055,
+          0.32993571
+        ],
+        "mask_bbox": [
+          0.09917319,
+          0.27255714,
+          0.38723423,
+          0.33100714
+        ],
+        "line_ids": [
+          3,
+          5,
+          7,
+          9
+        ]
+      },
+      "translation": {
+        "text": "直译会在原本没有歧义的地方制造歧义。例如，这个角色是在邀请别人，还是在指路？（游戏：Final Fantasy II，Super NES版）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0838738,
+          0.27184286,
+          0.39245866,
+          0.33350714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3414285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.0838738,
+          0.27184286,
+          0.39245866,
+          0.33350714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0031-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Even the simplest of words can take on extra, unintended meanings when translated literally between languages (Game: B.C. Story)",
+        "raw": "Even the simplest of words can take on extra,\nunintended meanings when translated literally\nbetween languages (Game: B.C. Story)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.41851007,
+          0.27292857,
+          0.70533826,
+          0.31442857
+        ],
+        "mask_bbox": [
+          0.41719638,
+          0.27221429,
+          0.70665195,
+          0.3155
+        ],
+        "line_ids": [
+          4,
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "即使最简单的词，跨语言直译时也可能带上意料之外的额外含义。（游戏：B.C. Story）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.41851007,
+          0.2715,
+          0.70533826,
+          0.318
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3414285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.41851007,
+          0.2715,
+          0.70533826,
+          0.318
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0031-b003",
+      "kind": "caption",
+      "source": {
+        "text": "The word \"Execute\" in this menu is a literal translation of the Japanese word, but it also takes on the extra, unintended meaning of \"murder my character for her wrongdoing\" in addition to \"perform task\" (Game: Princess Maker 3)",
+        "raw": "The word \"Execute\" in\nthis menu is a literal\ntranslation of the\nJapanese word, but it\nalso takes on the extra,\nunintended meaning\nof \"murder my character\nfor her wrongdoing\" in\naddition to \"perform\ntask\" (Game: Princess\nMaker 3)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73350167,
+          0.34710714,
+          0.88476757,
+          0.51234286
+        ],
+        "mask_bbox": [
+          0.73218799,
+          0.34639286,
+          0.88608126,
+          0.51341429
+        ],
+        "line_ids": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "菜单中的 Execute 是日语原词的直译。它既指“执行任务”，又多了一层原本没有的意思：“因角色犯错而将她处死”。（游戏：Princess Maker 3）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73350167,
+          0.34567857,
+          0.88476757,
+          0.51591429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6144071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73350167,
+          0.34567857,
+          0.88476757,
+          0.51591429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0031-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Literal translations can sometimes come across as distractingly funny or weird. This Slayers line, for example, is literally what's said in Japanese, but \"even if you tried to kill him, he wouldn't stay dead\" is functionally closer to the intended meaning",
+        "raw": "Literal translations can\nsometimes come across\nas distractingly funny\nor weird. This Slayers\nline, for example, is\nliterally what's said in\nJapanese, but \"even if\nyou tried to kill him, he\nwouldn't stay dead\" is\nfunctionally closer to\nthe intended meaning",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7339463,
+          0.62155,
+          0.87974525,
+          0.78779286
+        ],
+        "mask_bbox": [
+          0.73263262,
+          0.62083571,
+          0.88105893,
+          0.78886429
+        ],
+        "line_ids": [
+          21,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "直译有时会怪得让人出戏，或产生无意的笑果。例如《Slayers》的这句台词，字面确实如此，但“就算你想杀他，他也死不了”才更接近真正的意思。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7339463,
+          0.62012143,
+          0.87974525,
+          0.79136429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.7339463,
+          0.62012143,
+          0.87974525,
+          0.79136429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0031-b005",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55377931,
+          0.93745714,
+          0.70858206,
+          0.94700714
+        ],
+        "mask_bbox": [
+          0.55246563,
+          0.93674286,
+          0.70989574,
+          0.94807857
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55377931,
+          0.93602857,
+          0.70858206,
+          0.95402857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9540285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55377931,
+          0.93602857,
+          0.70858206,
+          0.95402857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "6d03f905d2cb03b487701841bbadaeaf03dcfb2ef74995a0bd9d0fc68d3a352a"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

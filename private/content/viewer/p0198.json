@@ -1,0 +1,1020 @@
+{
+  "schema_version": 3,
+  "pdf_page": 198,
+  "printed_page": "198",
+  "title": "倒着说",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 5,
+  "updated_at": "2026-10-22T19:16:36.550598+00:00",
+  "reference_size": [
+    977.923829,
+    1400
+  ],
+  "physical_size_pt": [
+    497.4,
+    712.08
+  ],
+  "image_url": "/assets/p0198.jpg",
+  "image_sha256": "64f8cfbc2f7449809192faa131c45e517c5861355817bb7f84aa49adaae1af9e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0198/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0198-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Backwards Talk",
+        "raw": "Backwards Talk",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29921553,
+          0.06255,
+          0.4585531,
+          0.07630714
+        ],
+        "mask_bbox": [
+          0.29788619,
+          0.06183571,
+          0.45988244,
+          0.07737857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "倒着说",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3127442,
+          0.053,
+          0.91047991,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.3127442,
+          0.053,
+          0.91047991,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0198-b002",
+      "kind": "aside",
+      "source": {
+        "text": "On a related but different note, Toby mentioned that \"spicey\" is purposely misspelled everywhere in the game, so the Japanese script uses slight misspellings too",
+        "raw": "On a related but\ndifferent note, Toby\nmentioned that\n\"spicey\" is purposely\nmisspelled everywhere\nin the game, so the\nJapanese script uses\nslight misspellings too",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12902845,
+          0.09218571,
+          0.27252634,
+          0.21010714
+        ],
+        "mask_bbox": [
+          0.12769911,
+          0.09147143,
+          0.27385568,
+          0.21117857
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12
+        ]
+      },
+      "translation": {
+        "text": "顺便一提，Toby 说游戏中所有“spicey”（spicy，辣的）的错拼都是故意的，因此日文也用了些小小的错拼。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11759607,
+          0.09075714,
+          0.28717983,
+          0.21367857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11759607,
+          0.09075714,
+          0.28717983,
+          0.21367857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The possibly unused Pyrope dialogue includes two more lines of text:",
+        "raw": "The possibly unused Pyrope dialogue includes two more lines of text:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29802935,
+          0.26456429,
+          0.83284605,
+          0.27706429
+        ],
+        "mask_bbox": [
+          0.2959842,
+          0.26385,
+          0.91252506,
+          0.27813571
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "Pyrope 那段可能没有用上的对话，还有两句：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29802935,
+          0.25285714285714284,
+          0.91047991,
+          0.2750000028571428
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3312214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29802935,
+          0.25285714285714284,
+          0.91047991,
+          0.2750000028571428
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Haha, ha ha ha. Sorry, I'm all TIED UP!!! Psyche! Owned! No one wants to be MY friend!!!",
+        "raw": "Haha, ha ha ha. Sorry, I'm all TIED UP!!!\nPsyche! Owned! No one wants to be MY friend!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34272608,
+          0.29207143,
+          0.70598546,
+          0.32284286
+        ],
+        "mask_bbox": [
+          0.34139673,
+          0.29135714,
+          0.7073148,
+          0.32391429
+        ],
+        "line_ids": [
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "哈哈，哈哈哈。抱歉，我忙得脱不开身（TIED UP，也指被绑住）！！！\n骗你的！上当了吧！根本没人想和我交朋友！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34272608,
+          0.29064286,
+          0.91047991,
+          0.32641429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.3,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.34285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0198-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34272608,
+          0.29064286,
+          0.91047991,
+          0.32641429
+        ],
+        "font_size": 18.5,
+        "leading": 24.05
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, this became:",
+        "raw": "In Japanese, this became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2980498,
+          0.33836429,
+          0.49417959,
+          0.35086429
+        ],
+        "mask_bbox": [
+          0.2959842,
+          0.33765,
+          0.49550894,
+          0.35193571
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "日文版变成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29802935,
+          0.33693571,
+          0.49417959,
+          0.35907857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.37214285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0198-b004",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29802935,
+          0.33693571,
+          0.49417959,
+          0.35907857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b006",
+      "kind": "quote",
+      "source": {
+        "text": "Hehe. .. Hehehe ... After all, I am a ropii - a puro in other words! Yeah, right! Just kidding! I'm actually just an ordinary toshiro!",
+        "raw": "Hehe. .. Hehehe ... After all, I am a ropii - a puro in other words!\nYeah, right! Just kidding! I'm actually just an ordinary toshiro!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34260337,
+          0.36498571,
+          0.81846865,
+          0.39535
+        ],
+        "mask_bbox": [
+          0.34127402,
+          0.36427143,
+          0.819798,
+          0.39642143
+        ],
+        "line_ids": [
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "嘿嘿……嘿嘿嘿……毕竟我是 rōpū（绳子）——也就是 puro（专业人士）啊！\n才怪！开玩笑的！我其实只是个普通的 tōshiro（外行）！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 28,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 59,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34260337,
+          0.36355714,
+          0.91047991,
+          0.39892143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.3,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5037857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0198-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.34260337,
+          0.36355714,
+          0.91047991,
+          0.39892143
+        ],
+        "font_size": 18.5,
+        "leading": 24.05
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "To retain the rope pun in this dialogue, the translator used a form of Japanese wordplay referred to as gyokai yoga (\"[entertainment] industry lingo\") to make a pun on the words ropu (\"rope\") and puro (\"pro; professional\"). The translator again used gyokai yoga to change shiroto (\"amateur\") into the nonsensical word toshiro in the following line.",
+        "raw": "To retain the rope pun in this dialogue, the translator used a form of Japanese\nwordplay referred to as gyokai yoga (\"[entertainment] industry lingo\") to make\na pun on the words ropu (\"rope\") and puro (\"pro; professional\"). The translator\nagain used gyokai yoga to change shiroto (\"amateur\") into the nonsensical word\ntoshiro in the following line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29802935,
+          0.41015,
+          0.91047991,
+          0.49612857
+        ],
+        "mask_bbox": [
+          0.2959842,
+          0.40943571,
+          0.91252506,
+          0.4972
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "为了保住绳索双关，译者运用了日语里叫作 gyōkai yōgo（娱乐行业行话）的文字游戏，把 rōpu（绳子）和 puro（专业人士）联系起来。下一句又用同样的方法，把 shirōto（外行）倒成了本无意义的 tōshiro。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 20,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 47,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 57,
+            "end": 61,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 85,
+            "end": 92,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 105,
+            "end": 112,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29802935,
+          0.40872143,
+          0.91047991,
+          0.4997
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5171428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0198-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29802935,
+          0.40872143,
+          0.91047991,
+          0.4997
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the same Pyrope character does properly appear at the end of the game with even more rope puns, it made sense for the translator to localize this inaccessible line too. By not skipping it, the translator ensured that Japanese players can appreciate this character's internal consistency if the original programming issues ever get fixed someday.",
+        "raw": "Because the same Pyrope character\ndoes properly appear at the end of\nthe game with even more rope puns,\nit made sense for the translator to\nlocalize this inaccessible line too. By\nnot skipping it, the translator ensured\nthat Japanese players can appreciate\nthis character's internal consistency\nif the original programming issues\never get fixed someday.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29859176,
+          0.51092857,
+          0.59069018,
+          0.68925
+        ],
+        "mask_bbox": [
+          0.2959842,
+          0.51021429,
+          0.59201952,
+          0.69032143
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34,
+          37,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "同一个 Pyrope 在游戏结尾确实会出现，还会讲更多绳索双关，因此把这句暂时看不到的台词也本地化很有道理。译者没有跳过它，就能确保将来若修复了原程序问题，日本玩家也能体会这个角色前后一致的风格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29802935,
+          0.52142857,
+          0.59069018,
+          0.7
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0198-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29802935,
+          0.52142857,
+          0.59069018,
+          0.7
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "left-prose-beside-image"
+    },
+    {
+      "id": "p0198-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Insert your own fire pun here",
+        "raw": "Insert your own fire pun here",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62155148,
+          0.6783,
+          0.80174956,
+          0.68868571
+        ],
+        "mask_bbox": [
+          0.62022213,
+          0.67758571,
+          0.80307891,
+          0.68975714
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "请在此自行补上一个火焰双关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62155148,
+          0.67687143,
+          0.90702361,
+          0.69487143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6992857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62155148,
+          0.67687143,
+          0.90702361,
+          0.69487143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0198-b010",
+      "kind": "subheading",
+      "source": {
+        "text": "Overview of Japanese gyokai yogo",
+        "raw": "Overview of Japanese gyokai yogo",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.42724186,
+          0.72057857,
+          0.7910023,
+          0.73462143
+        ],
+        "mask_bbox": [
+          0.42591252,
+          0.71986429,
+          0.79233165,
+          0.7371428571428571
+        ],
+        "line_ids": [
+          45
+        ]
+      },
+      "translation": {
+        "text": "日语行业行话一览",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32722385,
+          0.71157143,
+          0.88554954,
+          0.73571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7357142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.32722385,
+          0.71157143,
+          0.88554954,
+          0.73571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 1034.0
+    },
+    {
+      "id": "p0198-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "In simple terms, Japanese gyokai yoga, sometimes referred to as zujago, is similar to English \"Pig Latin\" -you basically shuffle and move the characters in a word to create a new, funny-sounding \"secret code word\".",
+        "raw": "In simple terms, Japanese gyokai yoga, sometimes referred to as zujago,\nis similar to English \"Pig Latin\" -you basically shuffle and move the\ncharacters in a word to create a new, funny-sounding \"secret code word\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.32745904,
+          0.75076429,
+          0.88479284,
+          0.79620714
+        ],
+        "mask_bbox": [
+          0.32612969,
+          0.75005,
+          0.88612218,
+          0.79727857
+        ],
+        "line_ids": [
+          46,
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "简单说，这种行话有时也叫 zūjago，类似英语的 Pig Latin（儿童黑话）：调换词内字符，造出一个听起来好笑的新“暗号词”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31274419,
+          0.74928571,
+          0.91047991,
+          0.86571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8657142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31274419,
+          0.74928571,
+          0.91047991,
+          0.86571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "industry-lingo-box"
+    },
+    {
+      "id": "p0198-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In basic gyōkai yōgo, the final character in a word is moved to the front, and certain vowels are elongated. For example, トマト (tomato) might become トートマ (tōtoma), while スシ (sushi) might become シースー (shīsū).",
+        "raw": "In basic gyokai yogo, the final character in a word is moved to the front,\nand certain vowels are elongated. For example, 1--~ 1-- (tomato) might\nbecome f..-1--~ (totoma), while ;z~ (sushi) might become ~-;z- (shTsO).",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.32745904,
+          0.80873571,
+          0.88657212,
+          0.85495
+        ],
+        "mask_bbox": [
+          0.32612969,
+          0.80802143,
+          0.88790146,
+          0.85602143
+        ],
+        "line_ids": [
+          49,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "最基本的做法是把词尾字符挪到前面，再拉长某些元音。例如「トマト」（tomato，番茄）可能变成「トートマ」（tōtoma）；「スシ」（sushi，寿司）则可能变成「シースー」（shīsū）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 33,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 54,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 67,
+            "end": 72,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 88,
+            "end": 93,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31274419,
+          0.80714286,
+          0.91047991,
+          0.86571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8657142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0198-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.31274419,
+          0.80714286,
+          0.91047991,
+          0.86571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "industry-lingo-box"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "5d7e8494809e6d2ac6651e080b6d1e604623aa16cc1caa6276dd4f56edf8c7b4"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      305.84,
+      890.38
+    ],
+    "text_runs": [
+      {
+        "id": "p0198-b003",
+        "blocks": [
+          "p0198-b003",
+          "p0198-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 463.71
+      },
+      {
+        "id": "p0198-b006",
+        "blocks": [
+          "p0198-b006",
+          "p0198-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 705.3
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1112 @@
+{
+  "schema_version": 3,
+  "pdf_page": 142,
+  "printed_page": "142",
+  "title": "评个等级",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:12:45.534705+00:00",
+  "reference_size": [
+    975.57845,
+    1400
+  ],
+  "physical_size_pt": [
+    495.12,
+    710.52
+  ],
+  "image_url": "/assets/p0142.jpg",
+  "image_sha256": "f01fdc2899bda0cd403a384644aada2d21b7f21b6d20d3a65782a7537a64e81a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0142/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0142-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Making the Grade",
+        "raw": "Making the Grade",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29621401,
+          0.05774286,
+          0.4846663,
+          0.07139286
+        ],
+        "mask_bbox": [
+          0.29488146,
+          0.05702857,
+          0.48599885,
+          0.07246429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "评个等级",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29656252,
+          0.048,
+          0.89703703,
+          0.07214286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29656252,
+          0.048,
+          0.89703703,
+          0.07214286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 105.0
+    },
+    {
+      "id": "p0142-b002",
+      "kind": "aside",
+      "source": {
+        "text": "The Japanese word ~ tegami (\"a postal letter\") combines the words te (\"hand\") with kami (\"piece of paper\")",
+        "raw": "The Japanese word ~\ntegami (\"a postal\nletter\") combines the\nwords te (\"hand\")\nwith kami (\"piece of\npaper\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1339923,
+          0.088,
+          0.28453888,
+          0.17551429
+        ],
+        "mask_bbox": [
+          0.13265976,
+          0.08728571,
+          0.28587142,
+          0.17658571
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "日语 tegami（信）由 te（手）和 kami（纸）组成，写作“手紙”。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 14,
+            "end": 16,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 21,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11787878,
+          0.08657143,
+          0.28453888,
+          0.17908571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11787878,
+          0.08657143,
+          0.28453888,
+          0.17908571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus laments that Undyne, his boss and friend, doesn't write him letters:",
+        "raw": "Papyrus laments that Undyne, his boss and friend, doesn't write him letters:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.296091,
+          0.23315,
+          0.88172304,
+          0.24553571
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.23243571,
+          0.8990871,
+          0.24660714
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 抱怨上司兼朋友 Undyne 不给他写信：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296009,
+          0.23214286,
+          0.90920418,
+          0.25285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.25285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.296009,
+          0.23214286,
+          0.90920418,
+          0.25285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Papyrus: WHY DIDN'T SHE WRITE A LETTER TO ME INSTEAD? Undyne: Fine, you want a letter!? I'll give you a letter!!! YOU GET AN \"F\"! Papyrus: OH NO!!! WHAT'S THE F FOR? Undyne: Friendship!!!",
+        "raw": "Papyrus: WHY DIDN'T SHE WRITE A LETTER TO ME INSTEAD?\nUndyne: Fine, you want a letter!? I'll give you a letter!!! YOU GET AN \"F\"!\nPapyrus: OH NO!!! WHAT'S THE F FOR?\nUndyne: Friendship!!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34042367,
+          0.26028571,
+          0.90149593,
+          0.32895
+        ],
+        "mask_bbox": [
+          0.33909113,
+          0.25957143,
+          0.90282847,
+          0.33002143
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "Papyrus：她怎么不给我写封 letter（信）？\nUndyne：好，想要 letter（字母）？给你个 F（不及格）！\nPapyrus：噢不！！！F 代表什么？\nUndyne：Friendship（友谊）！！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34133595,
+          0.25928571,
+          0.90920418,
+          0.33642857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3364285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34133595,
+          0.25928571,
+          0.90920418,
+          0.33642857
+        ],
+        "font_size": 18.5,
+        "leading": 25.9
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The translator replicated this joke by splitting the compound word tegami:",
+        "raw": "The translator replicated this joke by splitting the compound word tegami:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.296009,
+          0.34395714,
+          0.87393279,
+          0.35634286
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.34324286,
+          0.8990871,
+          0.35741429
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "译者拆开复合词 tegami（信），重现了这个笑话：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296009,
+          0.34142857,
+          0.90920418,
+          0.36214286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.36214285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.296009,
+          0.34142857,
+          0.90920418,
+          0.36214286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b006",
+      "kind": "quote",
+      "source": {
+        "text": "Papyrus: WHY WON'T UNDYNE WRITE ME A LETTER!? Undyne: Oh, you want a letter, huh!? Then take THIS! Papyrus: WI-IA--!? WHAT IS THIS LETTER? IT'S SHAPED FUNNY. .. Undyne: It's a tegami (\"letter') ... Ate (\"hand')-shaped kami (\"piece ofp aper')!",
+        "raw": "Papyrus: WHY WON'T UNDYNE WRITE ME A LETTER!?\nUndyne: Oh, you want a letter, huh!? Then take THIS!\nPapyrus: WI-IA--!? WHAT IS THIS LETTER? IT'S SHAPED FUNNY. ..\nUndyne: It's a tegami (\"letter') ... Ate (\"hand')-shaped kami (\"piece ofp aper')!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34090544,
+          0.37107857,
+          0.90477603,
+          0.43775
+        ],
+        "mask_bbox": [
+          0.3395729,
+          0.37036429,
+          0.90610858,
+          0.43882143
+        ],
+        "line_ids": [
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Papyrus：Undyne 为什么不给我写信！？\nUndyne：哦，想要信是吧！？那就拿着！\nPapyrus：什——！？这信怎么长得这么奇怪？\nUndyne：这是 tegami（信），te（手）形的 kami（纸）！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 83,
+            "end": 89,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 93,
+            "end": 95,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 101,
+            "end": 105,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34133595,
+          0.36714286,
+          0.90920418,
+          0.44428571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4442857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34133595,
+          0.36714286,
+          0.90920418,
+          0.44428571
+        ],
+        "font_size": 18.5,
+        "leading": 25.9
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Japanese fans are asked to imagine a strangely shaped letter that looks like this",
+        "raw": "Japanese fans are\nasked to imagine a\nstrangely shaped letter\nthat looks like this",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12590479,
+          0.42646429,
+          0.27023967,
+          0.48424286
+        ],
+        "mask_bbox": [
+          0.12457225,
+          0.42575,
+          0.27157221,
+          0.48531429
+        ],
+        "line_ids": [
+          20,
+          21,
+          23,
+          25
+        ]
+      },
+      "translation": {
+        "text": "日本玩家需要想象的，就是这样一封形状奇特的信。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11787878,
+          0.42503571,
+          0.27093669,
+          0.48781429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5301142828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11787878,
+          0.42503571,
+          0.27093669,
+          0.48781429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new Japanese line remains letter-themed and includes Undyne teasing Papyrus. The gag about getting an \"F\" and \"friendship\" is lost, however.",
+        "raw": "This new Japanese line remains letter-themed and includes Undyne teasing\nPapyrus. The gag about getting an \"F\" and \"friendship\" is lost, however.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29651126,
+          0.45305,
+          0.88470589,
+          0.48402857
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.45233571,
+          0.8990871,
+          0.4851
+        ],
+        "line_ids": [
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "日文仍谈信件，也保留了 Undyne 对 Papyrus 的调侃，却失去了“不及格 F”和 Friendship（友谊）的笑点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.296009,
+          0.45142857,
+          0.90920418,
+          0.49285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4928571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.296009,
+          0.45142857,
+          0.90920418,
+          0.49285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Shed Head",
+        "raw": "Shed Head",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29790531,
+          0.50732857,
+          0.40766583,
+          0.52097857
+        ],
+        "mask_bbox": [
+          0.29657277,
+          0.50661429,
+          0.40899837,
+          0.52205
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "酷棚子",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29656252,
+          0.49728571,
+          0.89703703,
+          0.52142857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5214285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29656252,
+          0.49728571,
+          0.89703703,
+          0.52142857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 734.0
+    },
+    {
+      "id": "p0142-b010",
+      "kind": "aside",
+      "source": {
+        "text": "This game has so many weird lines only accessible under weird circumstances, I'll never be able to cover everything in this book",
+        "raw": "This game has so\nmany weird lines\nonly accessible under\nweird circumstances,\nI'll never be able to\ncover everything in\nthis book",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13703665,
+          0.53725714,
+          0.27201298,
+          0.64130714
+        ],
+        "mask_bbox": [
+          0.1357041,
+          0.53654286,
+          0.27334552,
+          0.64237857
+        ],
+        "line_ids": [
+          27,
+          29,
+          30,
+          31,
+          32,
+          35,
+          39
+        ]
+      },
+      "translation": {
+        "text": "这游戏有太多奇怪台词，只有在奇怪条件下才能看到。本书恐怕永远也讲不完。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11787878,
+          0.53582857,
+          0.27201298,
+          0.64487857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11787878,
+          0.53582857,
+          0.27201298,
+          0.64487857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "After Papyrus talks about his shed, Undyne makes a simple shed pun:",
+        "raw": "After Papyrus talks about his shed, Undyne makes a simple shed pun:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29661377,
+          0.68307857,
+          0.83387451,
+          0.69546429
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.68236429,
+          0.8990871,
+          0.69653571
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 谈起自家棚子后，Undyne 用 shed（棚子）开了个简单的玩笑：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29656252,
+          0.68165,
+          0.89703703,
+          0.70379286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29656252,
+          0.68165,
+          0.89703703,
+          0.70379286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Papyrus: THAT'S JUST MY COOL TOOLSHED. Undyne: Do you call it your COOLSHED!?",
+        "raw": "Papyrus: THAT'S JUST MY COOL TOOLSHED.\nUndyne: Do you call it your COOLSHED!?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34236099,
+          0.71122143,
+          0.71160858,
+          0.74172143
+        ],
+        "mask_bbox": [
+          0.34102844,
+          0.71050714,
+          0.71294113,
+          0.74279286
+        ],
+        "line_ids": [
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "Papyrus：那只是我很酷的工具棚（COOL TOOLSHED）。\nUndyne：所以你叫它“酷棚”（COOLSHED）！？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34236099,
+          0.70979286,
+          0.89703703,
+          0.74529286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0142-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.34236099,
+          0.70979286,
+          0.89703703,
+          0.74529286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because this English wordplay would be lost in a straightforward translation, the translator replaced it with a .Japanese play on the words mono-sugoku (\"extremely\") and mono-oki (\"shed\"):",
+        "raw": "Because this English wordplay would be lost in a straightforward translation,\nthe translator replaced it with a .Japanese play on the words mono-sugoku\n(\"extremely\") and mono-oki (\"shed\"):",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29839733,
+          0.75637857,
+          0.89703703,
+          0.80559286
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.75566429,
+          0.8990871,
+          0.80666429
+        ],
+        "line_ids": [
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "英语双关无法直译，译者便改用日语 mono-sugoku（非常）和 mono-oki（储物棚）共有的 mono：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 34,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29656252,
+          0.75495,
+          0.89703703,
+          0.80916429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0142-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29656252,
+          0.75495,
+          0.89703703,
+          0.80916429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b014",
+      "kind": "quote",
+      "source": {
+        "text": "Papyrus: THAT'S MY EXTREMELY COOL SHED. Undyne: Your \"mono-sugoku\" coo/ \"mono-oki\", huh ...",
+        "raw": "Papyrus: THAT'S MY EXTREMELY COOL SHED.\nUndyne: Your \"mono-sugoku\" coo/ \"mono-oki\", huh ...",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34284275,
+          0.82133571,
+          0.75508023,
+          0.85185714
+        ],
+        "mask_bbox": [
+          0.34151021,
+          0.82062143,
+          0.75641277,
+          0.85292857
+        ],
+        "line_ids": [
+          47,
+          48
+        ]
+      },
+      "translation": {
+        "text": "Papyrus：那是我非常酷的储物棚。\nUndyne：“mono-sugoku”酷的“mono-oki”，是吧……",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34284275,
+          0.81990714,
+          0.89703703,
+          0.85542857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0142-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.34284275,
+          0.81990714,
+          0.89703703,
+          0.85542857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0142-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "The resulting Japanese joke works differently than the English joke, but remains mildly amusing through the use of this new wordplay.",
+        "raw": "The resulting Japanese joke works differently than the English joke, but\nremains mildly amusing through the use of this new wordplay.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29844858,
+          0.86650714,
+          0.85527719,
+          0.89780714
+        ],
+        "mask_bbox": [
+          0.29395893,
+          0.86579286,
+          0.8990871,
+          0.89887857
+        ],
+        "line_ids": [
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "日语笑话的手法与英语不同，但借着这个新的文字游戏，仍然带着一点逗趣。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29656252,
+          0.86507857,
+          0.89703703,
+          0.90137857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0142-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.29656252,
+          0.86507857,
+          0.89703703,
+          0.90137857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "06761380abefb50d3ed10c26c00a1aa6ae76d05b8d71201e8589c38d42960d87"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          7,
+          9,
+          28,
+          33,
+          34,
+          36,
+          37,
+          38,
+          40,
+          51
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.32,
+      875.13
+    ],
+    "text_runs": [
+      {
+        "id": "p0142-b011",
+        "blocks": [
+          "p0142-b011",
+          "p0142-b012",
+          "p0142-b013",
+          "p0142-b014",
+          "p0142-b015"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

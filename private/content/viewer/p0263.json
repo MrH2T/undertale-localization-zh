@@ -1,0 +1,1088 @@
+{
+  "schema_version": 3,
+  "pdf_page": 263,
+  "printed_page": "263",
+  "title": "我的收获与零散感想",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.337467+00:00",
+  "reference_size": [
+    986.417256,
+    1400
+  ],
+  "physical_size_pt": [
+    501.72,
+    712.08
+  ],
+  "image_url": "/assets/p0263.jpg",
+  "image_sha256": "c015d8fe6403957d044a48ab8814c3d6a19f444a7b9885bc4882faf81588f4d0",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0263/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0263-b001",
+      "kind": "heading",
+      "source": {
+        "text": "What I've Learned",
+        "raw": "What I've Learned",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0999577,
+          0.06332857,
+          0.28630886,
+          0.07652857
+        ],
+        "mask_bbox": [
+          0.0986398,
+          0.06261429,
+          0.28762676,
+          0.0776
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "我的收获",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.053,
+          0.70712469,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.053,
+          0.70712469,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0263-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although I was only on the sidelines during most of Underta/e's English-to Japanese localization, watching everything come together was an enlightening experience for me. I learned just as much while writing this book too.",
+        "raw": "Although I was only on the sidelines during most of Underta/e's English-to\nJapanese localization, watching everything come together was an enlightening\nexperience for me. I learned just as much while writing this book too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0980214,
+          0.09063571,
+          0.70142731,
+          0.1392
+        ],
+        "mask_bbox": [
+          0.09599386,
+          0.08992143,
+          0.70915223,
+          0.14027143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》从英文译成日文的过程中，我多数时候只是旁观者，但亲眼看着一切逐渐成形，仍让我大受启发。写这本书时，我也学到了同样多的东西。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.08920714,
+          0.70712469,
+          0.14277143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.08920714,
+          0.70712469,
+          0.14277143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "My biggest challenge was finding a way to explain Underta/e's English-to Japanese translation for readers who know nothing about Undertale, video games, translation, the Japanese language, or Japanese culture. Packaging all of these complex topics in a clear, understandable way took so long that I basically ended up rewriting this book twice over the course of several years.",
+        "raw": "My biggest challenge was finding a way to explain Underta/e's English-to\nJapanese translation for readers who know nothing about Undertale, video\ngames, translation, the Japanese language, or Japanese culture. Packaging\nall of these complex topics in a clear, understandable way took so long that I\nbasically ended up rewriting this book twice over the course of several years.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09892365,
+          0.15467857,
+          0.68860312,
+          0.24065
+        ],
+        "mask_bbox": [
+          0.09599386,
+          0.15396429,
+          0.70915223,
+          0.24172143
+        ],
+        "line_ids": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "最大的挑战，是如何向完全不了解《Undertale》、电子游戏、翻译、日语或日本文化的读者，解释它的英译日。把这些复杂主题讲得清楚易懂，耗费了很长时间；几年下来，我基本把整本书重写了两遍。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 16,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.15325,
+          0.70712469,
+          0.24422143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.15325,
+          0.70712469,
+          0.24422143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Anyway, looking back now, it feels like I just finished taking and finished teaching a two-semester university course on media translation. Hopefully this look at Underta/e's localization has been educational and entertaining for you, too.",
+        "raw": "Anyway, looking back now, it feels like I just finished taking and finished teaching\na two-semester university course on media translation. Hopefully this look at\nUnderta/e's localization has been educational and entertaining for you, too.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09849787,
+          0.25578571,
+          0.70712469,
+          0.30468571
+        ],
+        "mask_bbox": [
+          0.09599386,
+          0.25507143,
+          0.70915223,
+          0.30575714
+        ],
+        "line_ids": [
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "现在回头看，感觉像是刚上完、也刚教完一门持续两个学期的大学媒体翻译课。希望这次对《Undertale》本地化的考察，也让你有所收获，读得开心。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 41,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.25435714,
+          0.70712469,
+          0.30825714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.25435714,
+          0.70712469,
+          0.30825714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b005",
+      "kind": "aside",
+      "source": {
+        "text": "I also had to devise my own writing style guide, which I'll call the \"Legends of Localization Style\", or \"LoL Style\" for short. You basically ignore other style guides and just do whatever makes the most sense for your situation - but try to remain consistent throughout.",
+        "raw": "I also had to devise my own writing style guide, which I'll call the \"Legends\nof Localization Style\", or \"LoL Style\" for short. You basically ignore other\nstyle guides and just do whatever makes the most sense for your situation -\nbut try to remain consistent throughout.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11846914,
+          0.33128571,
+          0.68736632,
+          0.39132143
+        ],
+        "mask_bbox": [
+          0.11715124,
+          0.33057143,
+          0.68868422,
+          0.39239286
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "我还得自己制定写作规范，姑且叫它“Legends of Localization Style”，简称“LoL Style”。基本原则就是：先不管其他规范，按当前情况选最合理的做法，但尽量全书保持一致。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11846914,
+          0.32985714,
+          0.68736632,
+          0.39489286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.39714285714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11846914,
+          0.32985714,
+          0.68736632,
+          0.39489286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Loose Thoughts",
+        "raw": "Loose Thoughts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10146822,
+          0.42902143,
+          0.26431006,
+          0.44222143
+        ],
+        "mask_bbox": [
+          0.10015032,
+          0.42830714,
+          0.26562796,
+          0.44329286
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "零散感想",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.41871429,
+          0.70712469,
+          0.44285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.44285714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.41871429,
+          0.70712469,
+          0.44285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 624.0
+    },
+    {
+      "id": "p0263-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "There were many other topics I had hoped to cover in this book, but could never find quite the right place to put them. So here are a few other points of interest if you've come this far:",
+        "raw": "There were many other topics I had hoped to cover in this book, but could\nnever find quite the right place to put them. So here are a few other points of\ninterest if you've come this far:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09981577,
+          0.45733571,
+          0.68784279,
+          0.50657143
+        ],
+        "mask_bbox": [
+          0.09599386,
+          0.45662143,
+          0.70915223,
+          0.50764286
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "原本还有许多话题想写进本书，却一直找不到合适的位置。既然你已经读到这里，就再补充几点：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871076,
+          0.45590714,
+          0.70712469,
+          0.51014286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871076,
+          0.45590714,
+          0.70712469,
+          0.51014286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Think of localization as redrawing an existing painting, but with different tools - it's like if you tried to redraw the Mona Lisa with crayons or markers instead of paint. You could do a really good job, but it's still going to be different in the end, no matter what",
+        "raw": "Think of localization as redrawing an existing painting, but with different\ntools - it's like if you tried to redraw the Mona Lisa with crayons or\nmarkers instead of paint. You could do a really good job, but it's still going\nto be different in the end, no matter what",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1447866,
+          0.52105,
+          0.70760117,
+          0.5895
+        ],
+        "mask_bbox": [
+          0.10798676,
+          0.52033571,
+          0.70891907,
+          0.59057143
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "• 可以把本地化想成换一种工具重画现有的画。比如不用颜料，而用蜡笔或马克笔重画《蒙娜丽莎》。你可能画得非常好，但无论如何，最终都不会一模一样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1447866,
+          0.51962143,
+          0.70760117,
+          0.59307143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.1447866,
+          0.51962143,
+          0.70760117,
+          0.59307143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Because most localization choices are essentially personal choices, and because different target audiences usually have different expectations, it's probably not possible for a \"perfect, universal localization\" to exist",
+        "raw": "Because most localization choices are essentially personal choices, and\nbecause different target audiences usually have different expectations, it's\nprobably not possible for a \"perfect, universal localization\" to exist",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14485756,
+          0.60395,
+          0.70862507,
+          0.65285
+        ],
+        "mask_bbox": [
+          0.10805772,
+          0.60323571,
+          0.70994297,
+          0.65392143
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "• 大多数本地化选择说到底是个人选择，不同目标受众的期待通常也不同，因此“完美、放之四海而皆准的本地化”大概并不存在。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14485756,
+          0.60252143,
+          0.70862507,
+          0.65642143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.14485756,
+          0.60252143,
+          0.70862507,
+          0.65642143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b010",
+      "kind": "quote",
+      "source": {
+        "text": "I've only covered a hundred or so Undertale localization changes in this book, but there were actually thousands of other, smaller localization issues that had to be solved. Had I covered every localization issue at my usual level of detail, this book would be about 18,000 pages long and weigh approximately 128 pounds (56 kilograms)",
+        "raw": "I've only covered a hundred or so Undertale localization changes in this\nbook, but there were actually thousands of other, smaller localization\nissues that had to be solved. Had I covered every localization issue at\nmy usual level of detail, this book would be about 18,000 pages long and\nweigh approximately 128 pounds (56 kilograms)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14495894,
+          0.66798571,
+          0.69371252,
+          0.75396429
+        ],
+        "mask_bbox": [
+          0.1081591,
+          0.66727143,
+          0.69503042,
+          0.75503571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "• 本书只谈了《Undertale》的一百多处本地化改动，实际还解决了成千上万个更小的问题。假如每个问题都按我惯常的细致程度来讲，这本书大约会有 18,000 页，重约 128 磅（56 千克）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14495894,
+          0.66655714,
+          0.70712469,
+          0.75753571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.14495894,
+          0.66655714,
+          0.70712469,
+          0.75753571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b011",
+      "kind": "quote",
+      "source": {
+        "text": "If you're fixated on only one or two lines in a full-scale localization, keep in mind you're probably only looking at like 0.01% of the entire thing",
+        "raw": "If you're fixated on only one or two lines in a full-scale localization, keep\nin mind you're probably only looking at like 0.01% of the entire thing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14522252,
+          0.76931429,
+          0.70000803,
+          0.80013571
+        ],
+        "mask_bbox": [
+          0.10842268,
+          0.7686,
+          0.70132593,
+          0.80120714
+        ],
+        "line_ids": [
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "• 如果你只盯着一部完整译作中的一两句，别忘了，你看到的可能只有全貌的 0.01%。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14522252,
+          0.76788571,
+          0.70712469,
+          0.80370714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.14522252,
+          0.76788571,
+          0.70712469,
+          0.80370714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Note that \"entertainment Japanese\" is quite different from \"real-life Japanese\" and shouldn't be used in real life unless you know what you're doing",
+        "raw": "Note that \"entertainment Japanese\" is quite different from \"real-life Japanese\"\nand shouldn't be used in real life unless you know what you're doing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14571927,
+          0.81461429,
+          0.70899003,
+          0.84565
+        ],
+        "mask_bbox": [
+          0.10891942,
+          0.8139,
+          0.71030793,
+          0.84672143
+        ],
+        "line_ids": [
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "• “娱乐作品里的日语”和“现实中的日语”很不一样。除非清楚自己在做什么，否则别直接搬到现实里用。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14571927,
+          0.81318571,
+          0.70899003,
+          0.84922143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.14571927,
+          0.81318571,
+          0.70899003,
+          0.84922143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b013",
+      "kind": "quote",
+      "source": {
+        "text": "It could be fun to make a Japanese version of this book, but it would probably be a bit different, as I'd need to explain American culture everywhere instead of Japanese culture",
+        "raw": "It could be fun to make a Japanese version of this book, but it would\nprobably be a bit different, as I'd need to explain American culture\neverywhere instead of Japanese culture",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14528335,
+          0.86146429,
+          0.66506339,
+          0.91002857
+        ],
+        "mask_bbox": [
+          0.1084835,
+          0.86075,
+          0.66638129,
+          0.9111
+        ],
+        "line_ids": [
+          37,
+          38,
+          41
+        ]
+      },
+      "translation": {
+        "text": "• 给本书做个日文版也许很有趣，但内容大概会有些变化：我得处处解释美国文化，而非日本文化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14528335,
+          0.86003571,
+          0.70712469,
+          0.9136
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0263-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.14528335,
+          0.86003571,
+          0.70712469,
+          0.9136
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0263-b014",
+      "kind": "aside",
+      "source": {
+        "text": "I'm pretty sure I did the math right",
+        "raw": "I'm pretty sure I did\nthe math right",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73660512,
+          0.88176429,
+          0.8575073,
+          0.90695714
+        ],
+        "mask_bbox": [
+          0.73528722,
+          0.88105,
+          0.8588252,
+          0.90802857
+        ],
+        "line_ids": [
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "我相当确定，自己没算错。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73551024,
+          0.88033571,
+          0.88149309,
+          0.91052857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73551024,
+          0.88033571,
+          0.88149309,
+          0.91052857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0263-b015",
+      "kind": "footer",
+      "source": {
+        "text": "Final Thoughts",
+        "raw": "Final Thoughts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6038621,
+          0.93906429,
+          0.71005449,
+          0.94875
+        ],
+        "mask_bbox": [
+          0.6025442,
+          0.93835,
+          0.71137239,
+          0.94982143
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "结语",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6038621,
+          0.93763571,
+          0.71005449,
+          0.95563571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9556357142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6038621,
+          0.93763571,
+          0.71005449,
+          0.95563571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Thoughts",
+        "chapter_id": "chapter-260"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "16a47c5fb517a14560189a7dca3a20afa3677326354cbfaa530f587ecb657b60"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          42
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      97.37,
+      697.52
+    ],
+    "text_runs": [
+      {
+        "id": "p0263-b002",
+        "blocks": [
+          "p0263-b002",
+          "p0263-b003",
+          "p0263-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 440.0
+      },
+      {
+        "id": "p0263-b007",
+        "blocks": [
+          "p0263-b007",
+          "p0263-b008",
+          "p0263-b009",
+          "p0263-b010",
+          "p0263-b011",
+          "p0263-b012",
+          "p0263-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

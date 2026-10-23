@@ -1,0 +1,879 @@
+{
+  "schema_version": 3,
+  "pdf_page": 12,
+  "printed_page": "12",
+  "title": "难得的机会",
+  "subtitle": "引言 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    993.006757,
+    1400
+  ],
+  "physical_size_pt": [
+    503.88,
+    710.4
+  ],
+  "image_url": "/assets/p0012.jpg",
+  "image_sha256": "37120480d968f02839f9b6778acc89414309eaa5d0bfb5e962738c068cf18de1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0012/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0012-b001",
+      "kind": "heading",
+      "source": {
+        "text": "A Rare Opportunity",
+        "raw": "A Rare Opportunity",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28722866,
+          0.06134286,
+          0.49052033,
+          0.07471429
+        ],
+        "mask_bbox": [
+          0.2859195,
+          0.06062857,
+          0.49182948,
+          0.07578571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "难得的机会",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28953479,
+          0.05157143,
+          0.89277338,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28953479,
+          0.05157143,
+          0.89277338,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110.0
+    },
+    {
+      "id": "p0012-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because I specialize in Japanese-to-English translation, I usually write about how games are translated from Japanese into English. But Undertale gives us a chance to look at the opposite side of things: how English games are translated into Japanese.",
+        "raw": "Because I specialize in Japanese-to-English translation, I usually write about\nhow games are translated from Japanese into English. But Undertale gives us a\nchance to look at the opposite side of things: how English games are translated\ninto Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28808465,
+          0.09019286,
+          0.88698289,
+          0.15710714
+        ],
+        "mask_bbox": [
+          0.28607056,
+          0.08947857,
+          0.89478747,
+          0.15817857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "我专做日译英，平时写的大多是日本游戏如何译成英语。不过，Undertale 让我们有机会从另一面看看：英语游戏如何译成日语。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 37,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28953479,
+          0.08876429,
+          0.89277338,
+          0.16067857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.16479285285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28953479,
+          0.08876429,
+          0.89277338,
+          0.16067857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Legends of Localization Book 1, we looked at how the original Legend of Zelda was translated into English. There was one key issue, though - the game is so old that nobody remembers who the actual translator was or how the game's translation process worked. As a result, we could see how things changed in translation, but there was no way to ask why.",
+        "raw": "In Legends ofL ocalization Book 1, we\nlooked at how the original Legend\nofZ elda was translated into English.\nThere was one key issue, though\n- the game is so old that nobody\nremembers who the actual translator\nwas or how the game's translation\nprocess worked. As a result, we could\nsee how things changed in translation,\nbut there was no way to ask why.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.59804225,
+          0.17193571,
+          0.89503923,
+          0.34966429
+        ],
+        "mask_bbox": [
+          0.5967331,
+          0.17122143,
+          0.89634838,
+          0.35073571
+        ],
+        "line_ids": [
+          10,
+          13,
+          15,
+          18,
+          20,
+          25,
+          28,
+          30,
+          31,
+          32
+        ]
+      },
+      "translation": {
+        "text": "在《Legends of Localization》第1卷，我们研究了初代《The Legend of Zelda》如何译成英语。不过有个关键问题：游戏太老，已经没人记得究竟是谁翻译的，也没人记得翻译是怎么进行的。因此，我们看得见翻译改了什么，却无从追问为什么。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 38,
+            "end": 57,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.59804225,
+          0.17050714,
+          0.89503923,
+          0.35323571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5671571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.59804225,
+          0.17050714,
+          0.89503923,
+          0.35323571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Legends of Localization Book 2, we looked at how the classic game EarthBound was translated into English. Luckily, through personal connections and friendships, I was able to ask the game's creator and the game's head localizer a handful of questions. Given that EarthBound was twenty years old by then, I was thankful to receive any kind of inside information at all.",
+        "raw": "In Legends ofL ocalization Book 2,\nwe looked at how the classic game\nEarthBound was translated into\nEnglish. Luckily, through personal\nconnections and friendships, I was\nable to ask the game's creator and\nthe game's head localizer a handful\nof questions. Given that EarthBound\nwas twenty years old by then, I was\nthankful to receive any kind of inside\ninformation at all.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60407444,
+          0.36485,
+          0.88835246,
+          0.55912143
+        ],
+        "mask_bbox": [
+          0.60276528,
+          0.36413571,
+          0.88966162,
+          0.56019286
+        ],
+        "line_ids": [
+          33,
+          36,
+          38,
+          40,
+          42,
+          44,
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "在第2卷，我们研究了经典游戏 EarthBound 如何译成英语。幸运的是，通过私人关系和朋友帮忙，我得以向游戏创作者和本地化负责人提几个问题。那时 EarthBound 已问世二十年，能得到任何内部信息，我都十分感激。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 75,
+            "end": 85,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60407444,
+          0.36342143,
+          0.88835246,
+          0.56269286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5671571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0012-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.60407444,
+          0.36342143,
+          0.88835246,
+          0.56269286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Now, in Book 3, we'll see how Undertale was translated into Japanese. But this time, I have an unparalleled amount of inside access. I've been friends with the game's creator for years, and I've worked alongside the translation staff in the past. I was even brought on as a consultant during the game's Japanese translation. In other words, I can share firsthand and secondhand knowledge about Undertale's translation process, as well as details about the original game itself that have never seen the light of day.",
+        "raw": "Now, in Book 3, we'll see how Undertale was translated into Japanese. But this\ntime, I have an unparalleled amount of inside access. I've been friends with\nthe game's creator for years, and I've worked alongside the translation staff\nin the past. I was even brought on as a consultant during the game's Japanese\ntranslation. In other words, I can share firsthand and secondhand knowledge\nabout Underta/e's translation process, as well as details about the original game\nitself that have never seen the light of day.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29098493,
+          0.5743,
+          0.89277338,
+          0.69797143
+        ],
+        "mask_bbox": [
+          0.28607056,
+          0.57358571,
+          0.89478747,
+          0.69904286
+        ],
+        "line_ids": [
+          51,
+          52,
+          53,
+          54,
+          55,
+          56,
+          57
+        ]
+      },
+      "translation": {
+        "text": "如今到了第3卷，我们将看看 Undertale 如何译成日语。这次，我能接触到前所未有的内部资料。我与游戏创作者相识多年，也曾与翻译人员共事；游戏翻译成日语时，我还受邀担任顾问。也就是说，我可以分享 Undertale 翻译过程的一手、二手信息，以及原版游戏中从未公开过的细节。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 100,
+            "end": 109,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28953479,
+          0.57287143,
+          0.89277338,
+          0.70154286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7056857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28953479,
+          0.57287143,
+          0.89277338,
+          0.70154286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, Undertale offers us a rare opportunity to see how English-to .Japanese game translation works, and in unprecedented detail. So when the game's creator suggested I write a Legends of Localization book about the Japanese version of Undertale, I jumped at the chance.",
+        "raw": "In short, Undertale offers us a rare\nopportunity to see how English-to\n.Japanese game translation works, and\nin unprecedented detail. So when\nthe game's creator suggested I write\na Legends ofL ocalization book about\nthe Japanese version of Undertale, I\njumped at the chance.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60649134,
+          0.71282857,
+          0.89548233,
+          0.85372857
+        ],
+        "mask_bbox": [
+          0.60518219,
+          0.71211429,
+          0.89679148,
+          0.8548
+        ],
+        "line_ids": [
+          58,
+          62,
+          65,
+          69,
+          72,
+          75,
+          78,
+          80
+        ]
+      },
+      "translation": {
+        "text": "总之，Undertale 给了我们一个难得的机会，以前所未有的细致程度了解游戏英译日的过程。因此，当游戏创作者提议让我写一本介绍 Undertale 日语版的《Legends of Localization》时，我立刻就答应了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 65,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 80,
+            "end": 103,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60649134,
+          0.7114,
+          0.89548233,
+          0.8573
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60649134,
+          0.7114,
+          0.89548233,
+          0.8573
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b007",
+      "kind": "caption",
+      "source": {
+        "text": "The older a game gets, the harder it is to document its past. So being right there during Undertale's localization was like watching history happen!",
+        "raw": "The older a game\ngets, the harder it is to\ndocument its past. So\nbeing right there during\nUndertale's localization\nwas like watching\nhistory happen!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1159408,
+          0.17315,
+          0.26265682,
+          0.27724286
+        ],
+        "mask_bbox": [
+          0.11463165,
+          0.17243571,
+          0.26396598,
+          0.27831429
+        ],
+        "line_ids": [
+          11,
+          12,
+          14,
+          17,
+          19,
+          21,
+          26
+        ]
+      },
+      "translation": {
+        "text": "游戏越老，过去就越难考证。亲身参与 Undertale 的本地化，就像看着历史发生！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 18,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1159408,
+          0.17172143,
+          0.26265682,
+          0.28081429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.3592642828571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.1159408,
+          0.17172143,
+          0.26265682,
+          0.28081429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b008",
+      "kind": "caption",
+      "source": {
+        "text": "My book about EarthBound ended up around 420 pages long. This Undertale book is a bit shorter, but could've easily been double the size!",
+        "raw": "My book about\nEarthBound ended\nup around 420 pages\nlong. This Undertale\nbook is a bit shorter,\nbut could've easily\nbeen double the size!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13215419,
+          0.36640714,
+          0.26359337,
+          0.46912143
+        ],
+        "mask_bbox": [
+          0.13084503,
+          0.36569286,
+          0.26490253,
+          0.47019286
+        ],
+        "line_ids": [
+          34,
+          35,
+          37,
+          39,
+          41,
+          43,
+          45
+        ]
+      },
+      "translation": {
+        "text": "我写 EarthBound 的那本书最终约有420页。这本 Undertale 稍短一些，但要再写一倍也不难！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 30,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13215419,
+          0.36497857,
+          0.26359337,
+          0.47269286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7069000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13215419,
+          0.36497857,
+          0.26359337,
+          0.47269286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0012-b009",
+      "kind": "caption",
+      "source": {
+        "text": "I'm listed in ~ Undertale's credits under \"Localization Support\", and I did help with stuff, but I'd say my role was pretty minor overall",
+        "raw": "I'm listed in ~\nUnderta/e's credits\nunder \"Localization\nSupport\", and I did\nhelp with stuff, but I'd\nsay my role was pretty\nminor overall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12705855,
+          0.71404286,
+          0.28103535,
+          0.81844286
+        ],
+        "mask_bbox": [
+          0.1257494,
+          0.71332857,
+          0.2823445,
+          0.81951429
+        ],
+        "line_ids": [
+          59,
+          61,
+          64,
+          67,
+          70,
+          73,
+          76
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的制作名单把我列在“本地化支持”一栏。我确实帮了些忙，不过总体而言，我的作用相当有限。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12705855,
+          0.71261429,
+          0.28103535,
+          0.82201429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12705855,
+          0.71261429,
+          0.28103535,
+          0.82201429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "1a6f0071c1fe4e14557a0411a7a7196af2d3b963c4988a1804187bffd4fbce5c"
+  },
+  "chapter_id": "chapter-8",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          6
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          24
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          60
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          71
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          74
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          77
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          79
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          81
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.51,
+      886.53
+    ],
+    "text_runs": [
+      {
+        "id": "p0012-b003",
+        "blocks": [
+          "p0012-b003",
+          "p0012-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 794.02
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

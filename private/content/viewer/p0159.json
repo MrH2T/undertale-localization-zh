@@ -1,0 +1,913 @@
+{
+  "schema_version": 3,
+  "pdf_page": 159,
+  "printed_page": "159",
+  "title": "Monster Kid 的说话方式",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.225704+00:00",
+  "reference_size": [
+    979.716504,
+    1400
+  ],
+  "physical_size_pt": [
+    497.64,
+    711.12
+  ],
+  "image_url": "/assets/p0159.jpg",
+  "image_sha256": "b2d66da2014553418583831c62df833ff382b47b4319030fed14ea8216dacfaf",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0159/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0159-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Monster Kid Speaks",
+        "raw": "Monster Kid Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08926052,
+          0.06084286,
+          0.2964429,
+          0.07434286
+        ],
+        "mask_bbox": [
+          0.0879336,
+          0.06012857,
+          0.29776981,
+          0.07541429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Monster Kid 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08772946,
+          0.05234286,
+          0.69644637,
+          0.07648572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07648571714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08772946,
+          0.05234286,
+          0.69644637,
+          0.07648572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Although Monster Kid uses the masculine pronoun オレ (ore) in Japanese, Toby designed the character to have no clear gender.",
+        "raw": "Although Monster Kid\nuses the masculine\npronoun 7f\" I.... (ore)\nin Japanese, Toby\ndesigned the character\nto have no clear gender",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.72826169,
+          0.0913,
+          0.87418146,
+          0.1784
+        ],
+        "mask_bbox": [
+          0.72693478,
+          0.09058571,
+          0.87550837,
+          0.17947143
+        ],
+        "line_ids": [
+          2,
+          7,
+          10,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Monster Kid 在日语中虽然用偏男性的“オレ”（ore，我），但 Toby 设计这个角色时，并没有明确其性别。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 28,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72502607,
+          0.08987143,
+          0.87418146,
+          0.18197143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.22285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72502607,
+          0.08987143,
+          0.87418146,
+          0.18197143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English script, a character called \"Monster Kid\" speaks like an energetic youth who loves to use slang. The translator preserved these attributes in Japanese, but this led to a problem: Monster Kid's gender is never specified in the original script, yet this Japanese speaking style makes the character sound like a teenage boy. After consulting with Toby, the translator gave Monster Kid the assertive, masculine pronoun ore.",
+        "raw": "In the English script, a character called \"Monster Kid\" speaks like an energetic\nyouth who loves to use slang. The translator preserved these attributes in\nJapanese, but this led to a problem: Monster Kid's gender is never specified in\nthe original script, yet this Japanese speaking style makes the character sound\nlike a teenage boy. After consulting with Toby, the translator gave Monster Kid\nthe assertive, masculine pronoun ore.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08767842,
+          0.26222143,
+          0.69644637,
+          0.36685714
+        ],
+        "mask_bbox": [
+          0.08563702,
+          0.26150714,
+          0.69848777,
+          0.36792857
+        ],
+        "line_ids": [
+          20,
+          23,
+          25,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "英文剧本中，Monster Kid 像个精力旺盛、爱说俚语的孩子。译者在日语里保留了这些特征，却遇到了问题：原文从未说明 Monster Kid 的性别，但这种日语说话风格，会让角色听起来像个少年。征询 Toby 后，译者为 Monster Kid 选用了态度鲜明、偏男性的第一人称 ore（我）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 142,
+            "end": 145,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08772946,
+          0.26079286,
+          0.69644637,
+          0.37042857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4654285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08772946,
+          0.26079286,
+          0.69644637,
+          0.37042857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In early drafts of the Japanese script, Monster Kid's laughter was denoted by the letter \"w\", which is the Japanese equivalent of \"LOL\" (laughing out loud) in English. Eventually, the localization team agreed that \"w\" felt too out of place, and gave the character a normal laugh instead.",
+        "raw": "In early drafts of the Japanese script, Monster Kid's laughter was denoted by\nthe letter \"w\", which is the Japanese equivalent of \"LOL\" (laughing out loud)\nin English. Eventually, the localization team agreed that \"w\" felt too out of\nplace, and gave the character a normal laugh instead.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08907679,
+          0.38237143,
+          0.68345281,
+          0.44920714
+        ],
+        "mask_bbox": [
+          0.08563702,
+          0.38165714,
+          0.69848777,
+          0.45027857
+        ],
+        "line_ids": [
+          33,
+          35,
+          38,
+          40
+        ]
+      },
+      "translation": {
+        "text": "早期日文译稿用字母“w”表示 Monster Kid 的笑声，相当于英语的“LOL”（放声大笑）。后来，团队一致认为“w”太突兀，便改成普通的笑声。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08772946,
+          0.38094286,
+          0.69644637,
+          0.45277857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4654285728571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0159-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.08772946,
+          0.38094286,
+          0.69644637,
+          0.45277857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b005",
+      "kind": "aside",
+      "source": {
+        "text": "This use of Japanese Internet slang was meant to emphasize the Monster Kid's excitable youthfulness",
+        "raw": "This use of Japanese\nInternet slang was\nmeant to emphasize\nthe Monster\nKid's excitable\nyouthfulness",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72863935,
+          0.35555714,
+          0.85623749,
+          0.44402143
+        ],
+        "mask_bbox": [
+          0.72731244,
+          0.35484286,
+          0.8575644,
+          0.44509286
+        ],
+        "line_ids": [
+          31,
+          32,
+          34,
+          36,
+          37,
+          39
+        ]
+      },
+      "translation": {
+        "text": "使用这种日语网络用语，本来是想突出 Monster Kid 年轻又容易兴奋的性格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72502607,
+          0.35412857,
+          0.87200736,
+          0.44759286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.49590000285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72502607,
+          0.35412857,
+          0.87200736,
+          0.44759286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Out Darned Spot",
+        "raw": "Out Darned Spot",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08944424,
+          0.47257143,
+          0.26195333,
+          0.48607143
+        ],
+        "mask_bbox": [
+          0.08811733,
+          0.47185714,
+          0.26328024,
+          0.48714286
+        ],
+        "line_ids": [
+          41
+        ]
+      },
+      "translation": {
+        "text": "滚开，可恶的污点",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08772946,
+          0.463,
+          0.69644637,
+          0.48714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.48714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08772946,
+          0.463,
+          0.69644637,
+          0.48714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 686.0
+    },
+    {
+      "id": "p0159-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Wow, what do you know, my high school English literature classes did come in handy for my future job!",
+        "raw": "Wow, what do you\nknow, my high school\nEnglish literature\nclasses did come in\nhandy for my\nfuture job!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72903743,
+          0.50304286,
+          0.86489305,
+          0.59115714
+        ],
+        "mask_bbox": [
+          0.72771051,
+          0.50232857,
+          0.86621997,
+          0.59222857
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "哇，没想到我高中上的英国文学课，还真在未来的工作中派上用场了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72502607,
+          0.50161429,
+          0.87200736,
+          0.59472857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6980571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72502607,
+          0.50161429,
+          0.87200736,
+          0.59472857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "A local monster named Woshua lives to clean. Just before attacking the main character, Woshua sometimes says in English:",
+        "raw": "A local monster named Woshua lives to clean. Just before attacking the main\ncharacter, Woshua sometimes says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08772946,
+          0.63009286,
+          0.67968642,
+          0.66082143
+        ],
+        "mask_bbox": [
+          0.08563702,
+          0.62937857,
+          0.69848777,
+          0.66189286
+        ],
+        "line_ids": [
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "这里有个名叫 Woshua 的怪物，毕生热爱清洁。攻击主角之前，它有时会在英语版里说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08772946,
+          0.62866429,
+          0.69644637,
+          0.66439286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6965214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08772946,
+          0.62866429,
+          0.69644637,
+          0.66439286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Out!!! Darned spot",
+        "raw": "Out!!! Darned spot",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13473285,
+          0.67608571,
+          0.27457943,
+          0.68846429
+        ],
+        "mask_bbox": [
+          0.13340594,
+          0.67537143,
+          0.27590635,
+          0.68953571
+        ],
+        "line_ids": [
+          50
+        ]
+      },
+      "translation": {
+        "text": "滚开！！！可恶的污点。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13473285,
+          0.67465714,
+          0.69644637,
+          0.69524643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6965214328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0159-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.13473285,
+          0.67465714,
+          0.69644637,
+          0.69524643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby noted that this is reference to the famous quote from Shakespeare's Macbeth, \"Out, damned spot! Out, I say!\". Naturally, the translator consulted a Japanese translation of Macbeth and adapted the equivalent quote for Woshua's battle text. Although the reference is less recognizable in Japanese, the line fortunately still fits Woshua's dirt despising personality.",
+        "raw": "Toby noted that this is reference to\nthe famous quote from Shakespeare's\nMacbeth, \"Out, damned spot! Out,\nI say!\". Naturally, the translator\nconsulted a Japanese translation\nof Macbeth and adapted the\nequivalent quote for Woshua's battle\ntext. Although the reference is less\nrecognizable in Japanese, the line\nfortunately still fits Woshua's dirt\ndespising personality.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08857664,
+          0.70366429,
+          0.37733365,
+          0.90112857
+        ],
+        "mask_bbox": [
+          0.08563702,
+          0.70295,
+          0.37866056,
+          0.9022
+        ],
+        "line_ids": [
+          51,
+          58,
+          63,
+          67,
+          70,
+          73,
+          76,
+          78,
+          81,
+          83,
+          84
+        ]
+      },
+      "translation": {
+        "text": "Toby 指出，这引用了莎士比亚《麦克白》的名句：“滚开，该死的污点！滚开，我说！”译者自然去查了日译本，把对应台词改写为 Woshua 的战斗文字。虽然日本玩家未必那么容易认出典故，但这句话仍然符合 Woshua 痛恨污垢的性格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08767842,
+          0.70223571,
+          0.37733365,
+          0.9047
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08767842,
+          0.70223571,
+          0.37733365,
+          0.9047
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Lady Macbeth shouts this famous line while trying to wash imaginary blood from her hands",
+        "raw": "Lady Macbeth shouts\nthis famous line\nwhile trying to wash\nimaginary blood from\nher hands",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72959881,
+          0.7052,
+          0.86458684,
+          0.77812857
+        ],
+        "mask_bbox": [
+          0.7282719,
+          0.70448571,
+          0.86591376,
+          0.7792
+        ],
+        "line_ids": [
+          53,
+          57,
+          62,
+          65,
+          69
+        ]
+      },
+      "translation": {
+        "text": "麦克白夫人试图洗掉手上想象中的血迹时，喊出了这句名言。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72502607,
+          0.70377143,
+          0.87200736,
+          0.7817
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72502607,
+          0.70377143,
+          0.87200736,
+          0.7817
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0159-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63415284,
+          0.9374,
+          0.70278494,
+          0.94836429
+        ],
+        "mask_bbox": [
+          0.63282592,
+          0.93668571,
+          0.70411185,
+          0.94943571
+        ],
+        "line_ids": [
+          85
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63415284,
+          0.93597143,
+          0.70278494,
+          0.95397143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9539714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63415284,
+          0.93597143,
+          0.70278494,
+          0.95397143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "2ad3352463e30dd563dfbb14f5b3b7c93f66dbb79d1709313d5c0666c9759dc0"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          5,
+          6,
+          8,
+          9,
+          11,
+          12,
+          16,
+          17,
+          18,
+          19,
+          21,
+          22,
+          24,
+          26,
+          27,
+          52,
+          54,
+          55,
+          56,
+          59,
+          60,
+          61,
+          64,
+          66,
+          68,
+          71,
+          72,
+          74,
+          75,
+          77,
+          79,
+          80,
+          82,
+          86
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      85.95,
+      682.32
+    ],
+    "text_runs": [
+      {
+        "id": "p0159-b003",
+        "blocks": [
+          "p0159-b003",
+          "p0159-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 651.6
+      },
+      {
+        "id": "p0159-b008",
+        "blocks": [
+          "p0159-b008",
+          "p0159-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 975.13
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,574 @@
+{
+  "schema_version": 3,
+  "pdf_page": 55,
+  "printed_page": "55",
+  "title": "日本的成功",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    982.311321,
+    1400
+  ],
+  "physical_size_pt": [
+    499.8,
+    712.32
+  ],
+  "image_url": "/assets/p0055.jpg",
+  "image_sha256": "103981f9cd4090841611f7b6d0b250ee845151e0e0383d328f4fa1a57afa136f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0055/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0055-b001",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale shot to the top of multiple sales charts in Japan after its official Japanese release",
+        "raw": "Underta/e shot to\nthe top of multiple\nsales charts in Japan\nafter its official\nJapanese release",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73597849,
+          0.07208571,
+          0.86371803,
+          0.14541429
+        ],
+        "mask_bbox": [
+          0.73465508,
+          0.07137143,
+          0.86504144,
+          0.14648571
+        ],
+        "line_ids": [
+          1,
+          5,
+          6,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "官方日语版发行后，Undertale 冲到了日本多个销量榜的榜首。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73597849,
+          0.07065714,
+          0.86371803,
+          0.14898571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.2857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73597849,
+          0.07065714,
+          0.86371803,
+          0.14898571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0055-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Toby accepts a ~ Japanese video game award from Sony, but I dunno, that just looks like some annoying dog to me",
+        "raw": "Toby accepts a ~\nJapanese video\ngame award\nfrom Sony, but\nI dunno, that\njust looks like\nsome annoying\ndog to me",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46473047,
+          0.29196429,
+          0.57432912,
+          0.41126429
+        ],
+        "mask_bbox": [
+          0.46340706,
+          0.29125,
+          0.57565253,
+          0.41233571
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "Toby 从索尼手中接过日本游戏奖项，不过……我怎么看着就是只烦人的狗。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.46473047,
+          0.29053571,
+          0.57432912,
+          0.41483571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4692857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.46473047,
+          0.29053571,
+          0.57432912,
+          0.41483571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0055-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Undertale concerts come in many sizes in Japan. This one took place in Japan's most prestigious event hall, where the Beatles played 50 years earlier",
+        "raw": "Underta/e concerts come\nin many sizes in Japan. This\none took place in Japan's\nmost prestigious event hall,\nwhere the Beatles played\n50 years earlier",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08565513,
+          0.47503571,
+          0.25600845,
+          0.56389286
+        ],
+        "mask_bbox": [
+          0.08433172,
+          0.47432143,
+          0.25733186,
+          0.56496429
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "日本的 Undertale 音乐会规模各异。这一场在日本最负盛名的演出场馆举行，50年前披头士也曾在此演出。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08565513,
+          0.47360714,
+          0.25600845,
+          0.56746429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5782714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.08565513,
+          0.47360714,
+          0.25600845,
+          0.56746429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0055-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Game companies like ~ Nintendo, Namco Bandai, and TAITO reached out to Toby for Undertale crossover content and collaborations",
+        "raw": "Game companies like ~\nNintendo, Namco Bandai,\nand TAITO reached out\nto Toby for Undertale\ncrossover content and\ncollaborations",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09665978,
+          0.58541429,
+          0.26892696,
+          0.67373571
+        ],
+        "mask_bbox": [
+          0.09533637,
+          0.5847,
+          0.27025037,
+          0.67480714
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "任天堂、南梦宫万代、TAITO 等游戏公司联系 Toby，商谈 Undertale 联动内容与合作。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 32,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09665978,
+          0.58398571,
+          0.26892696,
+          0.67730714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09665978,
+          0.58398571,
+          0.26892696,
+          0.67730714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0055-b005",
+      "kind": "caption",
+      "source": {
+        "text": "~ The gaming world was shocked when Nintendo added Undertale content to the ultra-popular Super Smash Bros. series",
+        "raw": "~ The gaming world\nwas shocked when\nNintendo added\nUnderta/e content\nto the ultra-popular\nSuper Smash Bros.\nseries",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.720291,
+          0.70401429,
+          0.86070473,
+          0.80815
+        ],
+        "mask_bbox": [
+          0.71896759,
+          0.7033,
+          0.86202814,
+          0.80922143
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38,
+          40,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "任天堂将 Undertale 内容加入超热门的《Super Smash Bros.》系列时，整个游戏界都震动了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.720291,
+          0.70258571,
+          0.86070473,
+          0.81172143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.720291,
+          0.70258571,
+          0.86070473,
+          0.81172143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0055-b006",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65803986,
+          0.93705,
+          0.71153613,
+          0.94673571
+        ],
+        "mask_bbox": [
+          0.65671645,
+          0.93633571,
+          0.71285954,
+          0.94780714
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65803986,
+          0.93562143,
+          0.71153613,
+          0.95362143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9536214285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65803986,
+          0.93562143,
+          0.71153613,
+          0.95362143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f2cda3a6ce2cfffe9f9b739623582647278d91c57a16eb3ccd7a02a86c8b30ae"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          41
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

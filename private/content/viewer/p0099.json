@@ -1,0 +1,717 @@
+{
+  "schema_version": 3,
+  "pdf_page": 99,
+  "printed_page": "99",
+  "title": "棍子的文字游戏",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 7,
+  "updated_at": "2026-10-22T16:48:26.249477+00:00",
+  "reference_size": [
+    978.4465366509751,
+    1400
+  ],
+  "physical_size_pt": [
+    498.84,
+    713.76
+  ],
+  "image_url": "/assets/p0099.jpg",
+  "image_sha256": "2a666e921022184a7c2990a686c811cd5a0279e59d84fbc45be23608089176fa",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0099/page.json",
+  "blocks": [
+    {
+      "id": "p0099-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Sticking to It",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0930046,
+          0.0621429,
+          0.7133757,
+          0.0814286
+        ],
+        "mask_bbox": [
+          0.0930046,
+          0.0621429,
+          0.7133757,
+          0.0814286
+        ]
+      },
+      "translation": {
+        "text": "棍子的文字游戏",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0970927,
+          0.0578571,
+          0.7103096,
+          0.08500004285714287
+        ],
+        "font_size": 26,
+        "line_height": 1.3076923076923077,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0970927,
+          0.0578571,
+          0.7103096,
+          0.08500004285714287
+        ],
+        "font_size": 26,
+        "leading": 34.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Another Japanese semi-proverb that I really like is “the weaker the dog, the more it barks”",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7307502,
+          0.0921429,
+          0.8707681,
+          0.1692857
+        ],
+        "mask_bbox": [
+          0.7307502,
+          0.0921429,
+          0.8707681,
+          0.1692857
+        ]
+      },
+      "translation": {
+        "text": "还有一句近似谚语的日语说法，我也很喜欢：“越弱的狗，叫得越凶。”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7348383,
+          0.0921429,
+          0.903473,
+          0.1785714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7348383,
+          0.0921429,
+          0.903473,
+          0.1785714
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "The main character’s initial weapon is a simple wooden stick. In English, the stick’s description is:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0919825,
+          0.2535714,
+          0.7133757,
+          0.2907143
+        ],
+        "mask_bbox": [
+          0.0919825,
+          0.2535714,
+          0.7133757,
+          0.2907143
+        ]
+      },
+      "translation": {
+        "text": "主角最初的武器是一根普通木棍。英文版对它的说明是：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0960707,
+          0.2521429,
+          0.7103096,
+          0.2935714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0960707,
+          0.2521429,
+          0.7103096,
+          0.2935714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Its bark is worse than its bite.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1359298,
+          0.2985714,
+          0.7103096,
+          0.3192857
+        ],
+        "mask_bbox": [
+          0.1359298,
+          0.2985714,
+          0.7103096,
+          0.3192857
+        ]
+      },
+      "translation": {
+        "text": "Its bark is worse than its bite.（叫声比咬人更凶。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 3,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 4,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 9,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 12,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 18,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 23,
+            "end": 26,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 27,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1410399,
+          0.2978571,
+          0.7103096,
+          0.3221429
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1410399,
+          0.2978571,
+          0.7103096,
+          0.3221429
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This is a groaningly simple pun on the word “bark” – as in “tree bark” – and the dog-themed English idiom, “its bark is worse than its bite”.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0919825,
+          0.3271429,
+          0.7143977,
+          0.3642857
+        ],
+        "mask_bbox": [
+          0.0919825,
+          0.3271429,
+          0.7143977,
+          0.3642857
+        ]
+      },
+      "translation": {
+        "text": "这是个简单得让人想叹气的双关：bark 既指“树皮”，也指“狗叫”，而 its bark is worse than its bite 是一句形容“叫得凶、咬得轻”的英语习语。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0960707,
+          0.3242857,
+          0.7103096,
+          0.3714286
+        ],
+        "font_size": 18,
+        "line_height": 1.3888888888888888,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0960707,
+          0.3242857,
+          0.7103096,
+          0.3714286
+        ],
+        "font_size": 18,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This English-language joke would be lost in a straightforward translation, so the localizers replaced it with a simple joke about a Japanese proverb:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0919825,
+          0.3728571,
+          0.7143977,
+          0.41
+        ],
+        "mask_bbox": [
+          0.0919825,
+          0.3728571,
+          0.7143977,
+          0.41
+        ]
+      },
+      "translation": {
+        "text": "这个英文笑话直译成日文就会失效，因此译者换成了一个取材于日语谚语的小笑话，日版大意是：",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0960707,
+          0.3721429,
+          0.7103096,
+          0.4142857
+        ],
+        "font_size": 19,
+        "line_height": 1.4736842105263157,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0960707,
+          0.3721429,
+          0.7103096,
+          0.4142857
+        ],
+        "font_size": 19,
+        "leading": 28.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Dogs on walks often run into these.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1369518,
+          0.4185714,
+          0.7103096,
+          0.4378571
+        ],
+        "mask_bbox": [
+          0.1369518,
+          0.4185714,
+          0.7103096,
+          0.4378571
+        ]
+      },
+      "translation": {
+        "text": "Dogs on walks often run into these.（散步的狗经常撞上它们。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 4,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 5,
+            "end": 7,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 8,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 14,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 20,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 29,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "layout": {
+        "bbox": [
+          0.1410399,
+          0.4171429,
+          0.7103096,
+          0.4428571
+        ],
+        "font_size": 17,
+        "line_height": 1.4705882352941178,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.1410399,
+          0.4171429,
+          0.7103096,
+          0.4428571
+        ],
+        "font_size": 17,
+        "leading": 25.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This is a comedic reference to one of the most famous proverbs in the Japanese language: “even a dog runs into a stick/pole when walking”. Originally, this proverb meant something like “if you’re too forward, you’ll meet with disaster”, but it has since gained the separate meaning of “nothing ventured, nothing gained”.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0919825,
+          0.4464286,
+          0.7154198,
+          0.52
+        ],
+        "mask_bbox": [
+          0.0919825,
+          0.4464286,
+          0.7154198,
+          0.52
+        ]
+      },
+      "translation": {
+        "text": "这里打趣的是日语中最有名的谚语之一：“狗走路也会撞到棍子／柱子。”它原本的意思近似于“过于冒进，就会遭殃”，后来又衍生出了另一层意思：“不去冒险，就不会有所收获。”",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.0970927,
+          0.4442857,
+          0.7113317,
+          0.5271429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.0970927,
+          0.4442857,
+          0.7113317,
+          0.5271429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b009",
+      "kind": "aside",
+      "source": {
+        "text": "This dog proverb is why so many things in Japan show dogs walking into sticks and poles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7297282,
+          0.5292857,
+          0.8728121,
+          0.6092857
+        ],
+        "mask_bbox": [
+          0.7297282,
+          0.5292857,
+          0.8728121,
+          0.6092857
+        ]
+      },
+      "translation": {
+        "text": "正因为这句关于狗的谚语，日本才有那么多狗走路撞上棍子和柱子的形象。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7358603,
+          0.53,
+          0.904495,
+          0.61
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7358603,
+          0.53,
+          0.904495,
+          0.61
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b010",
+      "kind": "aside",
+      "source": {
+        "text": "I don’t think I’ve ever seen a dog walk into a stick or pole in real life, now that I think about it",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7307502,
+          0.6128571,
+          0.8738342,
+          0.6942857
+        ],
+        "mask_bbox": [
+          0.7307502,
+          0.6128571,
+          0.8738342,
+          0.6942857
+        ]
+      },
+      "translation": {
+        "text": "仔细想想，我在现实中好像从没见过狗走路撞上棍子或柱子。",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.7358603,
+          0.6135714,
+          0.904495,
+          0.6957143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.4838709677419355,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left"
+      },
+      "notes": "原图与截图保留；译文为待审校初稿。",
+      "calibration": {
+        "bbox": [
+          0.7358603,
+          0.6135714,
+          0.904495,
+          0.6957143
+        ],
+        "font_size": 15.5,
+        "leading": 23.0
+      },
+      "annotations": []
+    },
+    {
+      "id": "p0099-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6666265736508701,
+          0.9363031294832996,
+          0.7126316846684309,
+          0.9508739936393186
+        ],
+        "mask_bbox": [
+          0.6666265736508701,
+          0.9363031294832996,
+          0.7126316846684309,
+          0.9508739936393186
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "layout": {
+        "bbox": [
+          0.6666265736508701,
+          0.9363031294832996,
+          0.7126316846684309,
+          0.9508739936393186
+        ],
+        "font_size": 14,
+        "line_height": 1.2857142857142858,
+        "font_weight": 700,
+        "text_align": "right",
+        "color": "#555555",
+        "mask_color": "#ffffff",
+        "background": "transparent",
+        "resize_anchor": "right"
+      },
+      "annotations": [],
+      "calibration": {
+        "bbox": [
+          0.6666265736508701,
+          0.9363031294832996,
+          0.7126316846684309,
+          0.9508739936393186
+        ],
+        "font_size": 14,
+        "leading": 18
+      },
+      "structure": {
+        "role": "running-footer",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "visually_checked",
+    "layout_checked_at": "2026-10-22T15:23:46.987774+00:00",
+    "scope": "Compared with original scans; all ten final PDF pages rendered and checked. Translation remains draft.",
+    "presentation": {
+      "policy": "purpose-based-minimal-gloss",
+      "date": "2026-10-23",
+      "status": "applied_translation_draft",
+      "annotations": "disabled_by_user",
+      "blocks_checked": 10
+    }
+  },
+  "chapter_id": "chapter-80"
+}

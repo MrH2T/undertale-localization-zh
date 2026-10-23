@@ -1,0 +1,653 @@
+{
+  "schema_version": 3,
+  "pdf_page": 205,
+  "printed_page": "205",
+  "title": "日语人称代词：atashi",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.776426+00:00",
+  "reference_size": [
+    988.040541,
+    1400
+  ],
+  "physical_size_pt": [
+    501.36,
+    710.4
+  ],
+  "image_url": "/assets/p0205.jpg",
+  "image_sha256": "d3f802e4e8e8988ca61166ace08fbbc6ad79e21f18cfeab3b02791af06061937",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0205/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0205-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Japanese Personal Pronouns: atashi",
+        "raw": "Japanese Personal Pronouns: atashi",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.21579074,
+          0.0891,
+          0.58708117,
+          0.10472857
+        ],
+        "mask_bbox": [
+          0.21447501,
+          0.08838571,
+          0.58839691,
+          0.1058
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "日语人称代词：atashi",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12347671,
+          0.08272857,
+          0.67810983,
+          0.10687143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10687142714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12347671,
+          0.08272857,
+          0.67810983,
+          0.10687143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In modern Japanese, atashi is an informal, feminine personal pronoun. Atashi is less formal than watashi, and is far more common in everyday Japanese than achishi. Other fictional characters who use atashi include:",
+        "raw": "In modern Japanese, atashi is an informal, feminine personal pronoun.\nAtashi is less formal than watashi, and is far more common in everyday\nJapanese than achishi. Other fictional characters who use atashi include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12264679,
+          0.12113571,
+          0.6695373,
+          0.16507857
+        ],
+        "mask_bbox": [
+          0.12062258,
+          0.12042143,
+          0.67156151,
+          0.16615
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "现代日语中，atashi 是随意、女性化的“我”。它比 watashi（我）不正式，在日常日语中又远比 achishi（我）常见。使用 atashi 的其他虚构角色包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 28,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 52,
+            "end": 59,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 68,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12264679,
+          0.11071429,
+          0.69227929,
+          0.17285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.17285714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.12264679,
+          0.11071429,
+          0.69227929,
+          0.17285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "atashi-box-intro"
+    },
+    {
+      "id": "p0205-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Musashi/Jessie (Pokemon series)",
+        "raw": "Musashi/Jessie\n(Pokemon series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20454626,
+          0.36696429,
+          0.30844888,
+          0.39075714
+        ],
+        "mask_bbox": [
+          0.20323053,
+          0.36625,
+          0.30976462,
+          0.39182857
+        ],
+        "line_ids": [
+          5,
+          7
+        ]
+      },
+      "translation": {
+        "text": "Musashi／Jessie\n（《宝可梦》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13056144,
+          0.36553571,
+          0.38156329,
+          0.39432857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13056144,
+          0.36553571,
+          0.38156329,
+          0.39432857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Sailor Moon (Sailor Moon series)",
+        "raw": "Sailor Moon\n(Sailor Moon series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.4869537,
+          0.36662143,
+          0.60858839,
+          0.39075714
+        ],
+        "mask_bbox": [
+          0.48563797,
+          0.36590714,
+          0.60990412,
+          0.39182857
+        ],
+        "line_ids": [
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Sailor Moon\n（《美少女战士》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42204746,
+          0.36519286,
+          0.6720372,
+          0.39432857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.4007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42204746,
+          0.36519286,
+          0.6720372,
+          0.39432857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Wendy Koopa (Super Mario Bros. series)",
+        "raw": "Wendy Koopa\n(Super Mario Bros. series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17773562,
+          0.59093571,
+          0.33622102,
+          0.61506429
+        ],
+        "mask_bbox": [
+          0.17641989,
+          0.59022143,
+          0.33753676,
+          0.61613571
+        ],
+        "line_ids": [
+          9,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Wendy Koopa\n（《超级马力欧兄弟》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13056144,
+          0.58950714,
+          0.38055119,
+          0.61863571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13056144,
+          0.58950714,
+          0.38055119,
+          0.61863571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b006",
+      "kind": "caption",
+      "source": {
+        "text": "Lardna (MOTHER 2/EarthBound)",
+        "raw": "Lardna\n(MOTHER 2/EarthBound)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.47215674,
+          0.59093571,
+          0.62378007,
+          0.61542143
+        ],
+        "mask_bbox": [
+          0.470841,
+          0.59022143,
+          0.62509581,
+          0.61649286
+        ],
+        "line_ids": [
+          10,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Lardna\n（《MOTHER 2／EarthBound》）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42305956,
+          0.58950714,
+          0.6720372,
+          0.61899286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6257142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42305956,
+          0.58950714,
+          0.6720372,
+          0.61899286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Yuffie Kisaragi (Final Fantasy series)",
+        "raw": "Yuffie Kisaragi\n(Final Fantasy series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.19590289,
+          0.81696429,
+          0.32233495,
+          0.84143571
+        ],
+        "mask_bbox": [
+          0.19458716,
+          0.81625,
+          0.32365069,
+          0.84250714
+        ],
+        "line_ids": [
+          13,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Yuffie Kisaragi\n（《最终幻想》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.19590289,
+          0.81553571,
+          0.38055119,
+          0.84500714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8528571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.19590289,
+          0.81553571,
+          0.38055119,
+          0.84500714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Saria (The Legend of Zelda series)",
+        "raw": "Saria\n(The Legend of Zelda series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.46401942,
+          0.8173,
+          0.63396184,
+          0.84177143
+        ],
+        "mask_bbox": [
+          0.46270369,
+          0.81658571,
+          0.63527758,
+          0.84284286
+        ],
+        "line_ids": [
+          14,
+          16
+        ]
+      },
+      "translation": {
+        "text": "Saria\n（《塞尔达传说》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42305956,
+          0.81587143,
+          0.67406141,
+          0.84534286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8528571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42305956,
+          0.81587143,
+          0.67406141,
+          0.84534286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0205-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6502466,
+          0.94240714,
+          0.7079163,
+          0.95155714
+        ],
+        "mask_bbox": [
+          0.64893086,
+          0.94169286,
+          0.70923203,
+          0.95262857
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6502466,
+          0.94097857,
+          0.7079163,
+          0.95897857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9589785714285713,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6502466,
+          0.94097857,
+          0.7079163,
+          0.95897857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "890d55fceacbe74823de6ccd3ca7cee8165243e4ca62d967f6e6eb40d54eaf0e"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          17
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1261 @@
+{
+  "schema_version": 3,
+  "pdf_page": 256,
+  "printed_page": "256",
+  "title": "篝火点心与预订双关",
+  "subtitle": "结局 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.789028+00:00",
+  "reference_size": [
+    987.626093,
+    1400
+  ],
+  "physical_size_pt": [
+    503.52,
+    713.76
+  ],
+  "image_url": "/assets/p0256.jpg",
+  "image_sha256": "29d85e88892109d706fc8864aaba47af8cbad4e6583a177bbe9c0c438b5dc0d6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0256/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0256-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Playing with Fire",
+        "raw": "Playing with Fire",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29557745,
+          0.06015714,
+          0.46789975,
+          0.07375
+        ],
+        "mask_bbox": [
+          0.29426116,
+          0.05944286,
+          0.46921604,
+          0.07482143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "玩火",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.05014286,
+          0.90232529,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.05014286,
+          0.90232529,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108
+    },
+    {
+      "id": "p0256-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Incidentally, Japanese ~ people love to cook Japanese-style \"curry rice\" over campfires, it's like the default camping meal - try it sometime!",
+        "raw": "Incidentally, Japanese ~\npeople love to cook\nJapanese-style \"curry\nrice\" over campfires,\nit's like the default\ncamping meal - try it\nsometime!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13211478,
+          0.09017143,
+          0.28361948,
+          0.19215714
+        ],
+        "mask_bbox": [
+          0.13079849,
+          0.08945714,
+          0.28493577,
+          0.19322857
+        ],
+        "line_ids": [
+          2,
+          9,
+          15,
+          16,
+          17,
+          20,
+          24
+        ]
+      },
+      "translation": {
+        "text": "顺带一提，日本人很爱用营火煮日式咖喱饭，几乎是露营的标配。不妨试试！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11644083,
+          0.08874286,
+          0.28361948,
+          0.19572857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.24142857142857144,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11644083,
+          0.08874286,
+          0.28361948,
+          0.19572857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the Core, a creepy monster explains its fondness for a creepy pit of fire:",
+        "raw": "In the Core, a creepy monster explains its fondness for a creepy pit of fire:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29538507,
+          0.24319286,
+          0.8555667,
+          0.25552143
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.24247857,
+          0.90435035,
+          0.25659286
+        ],
+        "line_ids": [
+          29
+        ]
+      },
+      "translation": {
+        "text": "核心区一个阴森的怪物，说起自己为何喜欢那口阴森的火坑：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.24176429,
+          0.90232529,
+          0.26390714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45316428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.24176429,
+          0.90232529,
+          0.26390714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Now it is my special place. It is nice for cooking s'mores and things like that.",
+        "raw": "Now it is my special place. It is nice for cooking s'mores and things like that.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33953133,
+          0.27053571,
+          0.89794104,
+          0.28272857
+        ],
+        "mask_bbox": [
+          0.33821504,
+          0.26982143,
+          0.89925733,
+          0.2838
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "现在它是我的专属地方了。很适合做 s’mores（烤棉花糖巧克力夹心饼）之类的东西。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33953133,
+          0.26910714,
+          0.90232529,
+          0.28969643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.45316428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33953133,
+          0.26910714,
+          0.90232529,
+          0.28969643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Cooking s'mores over a campfire is a common tradition in some English speaking regions. This practice isn't as widespread in Japan, however, so the reference to s'mores was altered slightly:",
+        "raw": "Cooking s'mores over a campfire is a common tradition in some English\nspeaking regions. This practice isn't as widespread in Japan, however, so the\nreference to s'mores was altered slightly:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29582045,
+          0.298,
+          0.87745758,
+          0.34630714
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.29728571,
+          0.90435035,
+          0.34737857
+        ],
+        "line_ids": [
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "在一些英语地区，用篝火做 s’mores 是常见传统。日本却没那么普遍，因此这处稍作了调整：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.29657143,
+          0.90232529,
+          0.34987857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45316428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.29657143,
+          0.90232529,
+          0.34987857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Traditional s'mores are made with graham crackers, chocolate, and marshmallow toasted over a campfire",
+        "raw": "Traditional s'mores are\nmade with graham\ncrackers, chocolate, and\nmarshmallow toasted\nover a campfire",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1199543,
+          0.34405714,
+          0.26794553,
+          0.4169
+        ],
+        "mask_bbox": [
+          0.11863802,
+          0.34334286,
+          0.26926182,
+          0.41797143
+        ],
+        "line_ids": [
+          34,
+          35,
+          37,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "传统的 s’mores 用全麦饼干、巧克力，以及在篝火上烤过的棉花糖制成。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11644083,
+          0.34262857,
+          0.27028954,
+          0.42047143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4831642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11644083,
+          0.34262857,
+          0.27028954,
+          0.42047143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b007",
+      "kind": "quote",
+      "source": {
+        "text": "It's a special place to me now. It's perfect for roasting marshmallows and stuff like that.",
+        "raw": "It's a special place to me now. It's perfect for roasting marshmallows and\nstuff like that.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33955158,
+          0.36167143,
+          0.87753858,
+          0.39234286
+        ],
+        "mask_bbox": [
+          0.33823529,
+          0.36095714,
+          0.87885487,
+          0.39341429
+        ],
+        "line_ids": [
+          36,
+          38
+        ]
+      },
+      "translation": {
+        "text": "现在它对我来说是个特别的地方。用来烤棉花糖什么的，再合适不过了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33955158,
+          0.36024286,
+          0.90232529,
+          0.39591429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.45316428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.33955158,
+          0.36024286,
+          0.90232529,
+          0.39591429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, the s'mores reference was replaced with a reference to roasting marshmallows over a campfire, which is a more common practice in Japan.",
+        "raw": "As we can see, the s'mores reference was replaced with a reference to roasting\nmarshmallows over a campfire, which is a more common practice in Japan.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29454467,
+          0.40660714,
+          0.89040782,
+          0.43710714
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.40589286,
+          0.90435035,
+          0.43817857
+        ],
+        "line_ids": [
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "可见，原文的 s’mores 被换成了日本更常见的篝火烤棉花糖。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.40517857,
+          0.90232529,
+          0.44067857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.45316428285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.40517857,
+          0.90232529,
+          0.44067857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Jokes in Reserve",
+        "raw": "Jokes in Reserve",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29592171,
+          0.46030714,
+          0.46380913,
+          0.47389286
+        ],
+        "mask_bbox": [
+          0.29460542,
+          0.45959286,
+          0.46512542,
+          0.47496429
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "“预订”好的笑话",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.45014286,
+          0.90232529,
+          0.47428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.45014286,
+          0.90232529,
+          0.47428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 668
+    },
+    {
+      "id": "p0256-b010",
+      "kind": "aside",
+      "source": {
+        "text": "The localization ~ team turned this untranslatable English pun into a Japanese joke that hits three goals simultaneously",
+        "raw": "The localization ~\nteam turned this\nuntranslatable English\npun into a Japanese\njoke that hits three\ngoals simultaneously",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13222615,
+          0.49030714,
+          0.28553316,
+          0.57815
+        ],
+        "mask_bbox": [
+          0.13090987,
+          0.48959286,
+          0.28684945,
+          0.57922143
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "团队把这个无法直译的英语双关，换成了一个同时达到三个目的的日语笑话。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11644083,
+          0.48887857,
+          0.28553316,
+          0.58172143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11644083,
+          0.48887857,
+          0.28553316,
+          0.58172143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "The monsters in the Underground are now free to venture out into the human world. Back at the MTT Hotel, a reservation-obsessed receptionist says in English:",
+        "raw": "The monsters in the Underground are now free to venture out into the human\nworld. Back at the MTT Hotel, a reservation-obsessed receptionist says in English:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29679248,
+          0.64433571,
+          0.89723227,
+          0.67483571
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.64362143,
+          0.90435035,
+          0.67590714
+        ],
+        "line_ids": [
+          60,
+          61
+        ]
+      },
+      "translation": {
+        "text": "地下世界的怪物终于能自由前往人类世界。MTT 酒店那个满脑子都是预订的前台接待员，在英文中说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.64290714,
+          0.90232529,
+          0.67840714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.64290714,
+          0.90232529,
+          0.67840714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Now we can live life without reservations.",
+        "raw": "Now we can live life without reservations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34143488,
+          0.6904,
+          0.65027646,
+          0.70272857
+        ],
+        "mask_bbox": [
+          0.3401186,
+          0.68968571,
+          0.65159275,
+          0.7038
+        ],
+        "line_ids": [
+          62
+        ]
+      },
+      "translation": {
+        "text": "Now we can live life without reservations.（现在我们能毫无顾虑／无需预订地生活了。）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 21,
+            "end": 41,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34143488,
+          0.68897143,
+          0.90232529,
+          0.70956071
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0256-b011",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34143488,
+          0.68897143,
+          0.90232529,
+          0.70956071
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "This line is a pun on the phrase \"without reservations\", which normally means \"without any worries\" but also means \"without making advance arrangements\" in this case. Because this English pun would be lost in a literal translation, the localization team replaced it with a Japanese pun on the words yōyaku (\"finally\") and yoyaku (\"reservations; advance arrangements\"):",
+        "raw": "This line is a pun on the phrase \"without reservations\", which normally means\n\"without any worries\" but also means \"without making advance arrangements\"\nin this case. Because this English pun would be lost in a literal translation,\nthe localization team replaced it with a Japanese pun on the words yoyaku\n(\"finally\") and yoyaku (\"reservations; advance arrangements\"):",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29136533,
+          0.71798571,
+          0.89645262,
+          0.8036
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.71727143,
+          0.90435035,
+          0.80467143
+        ],
+        "line_ids": [
+          63,
+          64,
+          65,
+          66,
+          67
+        ]
+      },
+      "translation": {
+        "text": "without reservations 通常表示“毫无顾虑”，在这里又指“不必提前预订”。这个英语双关无法直译，团队便换成日语 yōyaku（终于）与 yoyaku（预订）的近音双关：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 65,
+            "end": 71,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 83,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.71655714,
+          0.90232529,
+          0.80717143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.71655714,
+          0.90232529,
+          0.80717143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b014",
+      "kind": "quote",
+      "source": {
+        "text": "We can finally go wherever we want without needing reservations.",
+        "raw": "We can finally go wherever we want without needing reservations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34209303,
+          0.81897143,
+          0.83044586,
+          0.83115714
+        ],
+        "mask_bbox": [
+          0.34077674,
+          0.81825714,
+          0.83176215,
+          0.83222857
+        ],
+        "line_ids": [
+          68
+        ]
+      },
+      "translation": {
+        "text": "我们终于（yōyaku）可以不必预订（yoyaku），想去哪儿就去哪儿了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 19,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34209303,
+          0.81754286,
+          0.90232529,
+          0.83813214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.34209303,
+          0.81754286,
+          0.90232529,
+          0.83813214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0256-b015",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new line accomplishes three things: it conveys the surface-level information of the original line, it parallels the wordplay of the original line, and it preserves this character's uniqueness as the hotel's \"annoying reservation guy\".",
+        "raw": "This new line accomplishes three things: it conveys the surface-level information\nof the original line, it parallels the wordplay of the original line, and it preserves\nthis character's uniqueness as the hotel's \"annoying reservation guy\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29776451,
+          0.84542143,
+          0.90232529,
+          0.89474286
+        ],
+        "mask_bbox": [
+          0.28934027,
+          0.84470714,
+          0.90435035,
+          0.89581429
+        ],
+        "line_ids": [
+          69,
+          70,
+          71
+        ]
+      },
+      "translation": {
+        "text": "新台词一举三得：传达了原句表面的信息，再现了原句的文字游戏，也保住了这个“烦人的预订接待员”的独特性格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29560276,
+          0.84399286,
+          0.90232529,
+          0.89831429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0256-b014"
+      },
+      "calibration": {
+        "bbox": [
+          0.29560276,
+          0.84399286,
+          0.90232529,
+          0.89831429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "149cdec1946fed1150c5c102ceace2dcdb99d33d0b7c51615a93ce7023d7f290"
+  },
+  "chapter_id": "chapter-252",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          27
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          56
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          58
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          59
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.94,
+      891.16
+    ],
+    "text_runs": [
+      {
+        "id": "p0256-b003",
+        "blocks": [
+          "p0256-b003",
+          "p0256-b004",
+          "p0256-b005",
+          "p0256-b007",
+          "p0256-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 634.43
+      },
+      {
+        "id": "p0256-b011",
+        "blocks": [
+          "p0256-b011",
+          "p0256-b012",
+          "p0256-b013",
+          "p0256-b014",
+          "p0256-b015"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

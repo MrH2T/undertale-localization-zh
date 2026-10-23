@@ -1,0 +1,76 @@
+[
+  {
+    "id": "p0060-b001",
+    "pdf_page": 60,
+    "printed_page": "60",
+    "order": 1,
+    "kind": "heading",
+    "regions": [
+      {
+        "pdf_page": 60,
+        "bbox": [
+          0.29,
+          0.044,
+          0.9,
+          0.08
+        ]
+      }
+    ],
+    "source": {
+      "raw": "Getting it Localized",
+      "corrected": "Getting it Localized",
+      "languages": [
+        "en"
+      ],
+      "status": "corrected",
+      "revision": 1
+    },
+    "translation": {
+      "zh_hans": "让游戏走向本地化",
+      "status": "draft",
+      "source_revision": 1
+    },
+    "asset_ids": [],
+    "related_segment_ids": [],
+    "notes": [
+      "标题及首段为结构示例；不代表整页对照文本已经完成。坐标为根据渲染图人工估定的区域。"
+    ]
+  },
+  {
+    "id": "p0060-b002",
+    "pdf_page": 60,
+    "printed_page": "60",
+    "order": 2,
+    "kind": "paragraph",
+    "regions": [
+      {
+        "pdf_page": 60,
+        "bbox": [
+          0.29,
+          0.098,
+          0.9,
+          0.168
+        ]
+      }
+    ],
+    "source": {
+      "raw": "Before Underta/e's English releas e, Toby told me th at he int ended to relea se the \ngame in Japa nese sometime. He faced some big quest ions, thou gh. How do you \nget a game translated and localized ? And how do you ensure th e final produ ct \nis good if you don't even know the langu age yourse lf?",
+      "corrected": "Before Undertale’s English release, Toby told me that he intended to release the game in Japanese sometime. He faced some big questions, though. How do you get a game translated and localized? And how do you ensure the final product is good if you don’t even know the language yourself?",
+      "languages": [
+        "en"
+      ],
+      "status": "corrected",
+      "revision": 1
+    },
+    "translation": {
+      "zh_hans": "在 Undertale 英文版发售之前，Toby 告诉我，他打算日后推出日文版。不过，他面临着几个大问题：该怎样找人翻译并完成游戏的本地化？如果自己连那门语言都不懂，又该如何确保最终成品的质量？",
+      "status": "draft",
+      "source_revision": 1
+    },
+    "asset_ids": [],
+    "related_segment_ids": [],
+    "notes": [
+      "英文已对照页图修正 OCR 空格和 Undertale 误识；中文为可编辑草稿，与整页生成图分开维护。"
+    ]
+  }
+]

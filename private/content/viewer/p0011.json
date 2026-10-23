@@ -1,0 +1,698 @@
+{
+  "schema_version": 3,
+  "pdf_page": 11,
+  "printed_page": "11",
+  "title": "关于我",
+  "subtitle": "引言 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.088114+00:00",
+  "reference_size": [
+    993.006757,
+    1400
+  ],
+  "physical_size_pt": [
+    503.88,
+    710.4
+  ],
+  "image_url": "/assets/p0011.jpg",
+  "image_sha256": "1f77a77971305cbc78249cd41abc3f9e78359e2a9ad11a738582cb3c140bb028",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0011/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0011-b001",
+      "kind": "heading",
+      "source": {
+        "text": "About Me",
+        "raw": "About Me",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1028996,
+          0.06180714,
+          0.2048123,
+          0.07503571
+        ],
+        "mask_bbox": [
+          0.10159045,
+          0.06109286,
+          0.20612146,
+          0.07610714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "关于我",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10371531,
+          0.05157143,
+          0.71085115,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10371531,
+          0.05157143,
+          0.71085115,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110.0
+    },
+    {
+      "id": "p0011-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "My name is Clyde Mandelin, but I'm more commonly known on line as \"Tomato\" or just \"Mato\". I'm a professional Japanese-to-English translator and have been in the industry for about twenty years. I specialize in translating Japanese movies, anime, games, and other entertainment into English.",
+        "raw": "My name is Clyde Mandelin, but I'm more commonly known on line as\n\"Tomato\" or just \"Mato\". I'm a professional Japanese-to-English translator and\nhave been in the industry for about twenty years. I specialize in translating\nJapanese movies, anime, games, and other entertainment into English.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09732059,
+          0.09040714,
+          0.70115334,
+          0.15695714
+        ],
+        "mask_bbox": [
+          0.0953065,
+          0.08969286,
+          0.71286524,
+          0.15802857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "我叫 Clyde Mandelin，不过大家在网上更熟悉的名字是“Tomato”，或简称“Mato”。我是一名职业日译英译者，从业约二十年，主要将日本电影、动画、游戏及其他娱乐作品译成英语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10371531,
+          0.08897857,
+          0.71085115,
+          0.16052857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43357142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10371531,
+          0.08897857,
+          0.71085115,
+          0.16052857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "During my journey to become a professional translator, I studied Japanese-to English translation in university, in Japan, and on my own as a hobby. As part of my hobby study, I translated old Japanese games that had never been released in English. In short, translation has been a major part of my personal life and professional life for decades.",
+        "raw": "During my journey to become a professional translator, I studied Japanese-to\nEnglish translation in university, in Japan, and on my own as a hobby. As part of\nmy hobby study, I translated old Japanese games that had never been released\nin English. In short, translation has been a major part of my personal life and\nprofessional life for decades.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10373545,
+          0.17180714,
+          0.71085115,
+          0.25795714
+        ],
+        "mask_bbox": [
+          0.0953065,
+          0.17109286,
+          0.71286524,
+          0.25902857
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "在成为职业译者的过程中，我在大学、在日本，以及作为业余爱好自学过日译英。业余学习的一部分，是翻译从未推出英语版的日本老游戏。可以说，几十年来，翻译一直是我生活和工作的主要部分。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10371531,
+          0.17037857,
+          0.71085115,
+          0.26152857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43357142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0011-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.10371531,
+          0.17037857,
+          0.71085115,
+          0.26152857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Several years ago, I started Legends of Localization, a website and a book series dedicated to explaining how popular games and movies change during the jump between languages. I've also written books about the history of bad video game translation and what happens when you try to let a computer translate an entire video game on its own.",
+        "raw": "Several years ago, I started Legends of Localization, a website and a book series\ndedicated to explaining how popular games and movies change during the\njump between languages. I've also written books about the history of bad video\ngame translation and what happens when you try to let a computer translate an\nentire video game on its own.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10369517,
+          0.27250714,
+          0.70877665,
+          0.35863571
+        ],
+        "mask_bbox": [
+          0.0953065,
+          0.27179286,
+          0.71286524,
+          0.35970714
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "几年前，我创办了 Legends of Localization 网站和同名书系，介绍热门游戏、电影跨越语言时会发生什么变化。我还写过关于糟糕游戏翻译的历史，以及把整款游戏交给电脑自行翻译会发生什么的书。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10371531,
+          0.27107857,
+          0.71085115,
+          0.36220714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43357142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0011-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.10371531,
+          0.27107857,
+          0.71085115,
+          0.36220714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Basically, I just really like translation and showing how the translation process works. Naturally, this detailed look at Undertale's Japanese translation is another passion project for me.",
+        "raw": "Basically, I just really like translation and showing how the translation process\nworks. Naturally, this detailed look at Underta/e's Japanese translation is\nanother passion project for me.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10375559,
+          0.37418571,
+          0.70134467,
+          0.4225
+        ],
+        "mask_bbox": [
+          0.0953065,
+          0.37347143,
+          0.71286524,
+          0.42357143
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "我就是很喜欢翻译，也很喜欢向大家展示翻译的过程。如此细看 Undertale 的日语翻译，自然又是一个出于热爱的项目。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 29,
+            "end": 38,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10371531,
+          0.37275714,
+          0.71085115,
+          0.42607143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.43357142857142855,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0011-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.10371531,
+          0.37275714,
+          0.71085115,
+          0.42607143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b006",
+      "kind": "quote",
+      "source": {
+        "text": "From time to time, I'll share my thoughts and insights about Undertale, localization, business experiences, personal experiences, and so on. So keep your eyes out for the little tomato! Well, not literally \"out\". That would be weird.",
+        "raw": "From time to time, I'll share my thoughts and insights about Undertale,\nlocalization, business experiences, personal experiences, and so on. So keep your\neyes out for the little tomato! Well, not literally \"out\". That would be weird.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12175144,
+          0.84682143,
+          0.6925834,
+          0.88971429
+        ],
+        "mask_bbox": [
+          0.12044228,
+          0.84610714,
+          0.69389256,
+          0.89078571
+        ],
+        "line_ids": [
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "我会不时分享自己对 Undertale、本地化的想法，以及工作和生活中的经历。所以，请留意那颗小番茄！英语里叫 keep your eyes out，可别真把眼睛“拿出来”，那也太奇怪了。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1208451,
+          0.84428571,
+          0.69385228,
+          0.89857143
+        ],
+        "font_size": 18,
+        "line_height": 1.388889,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8985714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.1208451,
+          0.84428571,
+          0.69385228,
+          0.89857143
+        ],
+        "font_size": 18,
+        "leading": 25.000002000000002
+      },
+      "review_issues": [],
+      "region_id": "author-speech-bubble"
+    },
+    {
+      "id": "p0011-b007",
+      "kind": "caption",
+      "source": {
+        "text": "As a professional, I translate and localize all types and genres of Japanese entertainment into English. Each project is fun, unique, and educational!",
+        "raw": "As a professional,\nI translate and\nlocalize all types and\ngenres of Japanese\nentertainment into\nEnglish. Each project\nis fun, unique, and\neducational!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73571503,
+          0.4387,
+          0.86374035,
+          0.55964286
+        ],
+        "mask_bbox": [
+          0.73440588,
+          0.43798571,
+          0.8650495,
+          0.56071429
+        ],
+        "line_ids": [
+          19,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "工作中，我把各种类型、各种题材的日本娱乐作品译成英语并做本地化。每个项目都独特、有趣，也能学到东西！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73571503,
+          0.43727143,
+          0.86374035,
+          0.56321429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5873142828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73571503,
+          0.43727143,
+          0.86374035,
+          0.56321429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b008",
+      "kind": "caption",
+      "source": {
+        "text": "And as a hobby, I sometimes create unofficial translations of classic games never released outside of Japan",
+        "raw": "And as a hobby, I\nsometimes create\nunofficial translations\nof classic games never\nreleased outside of\nJapan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73612792,
+          0.59445714,
+          0.87312598,
+          0.68464286
+        ],
+        "mask_bbox": [
+          0.73481877,
+          0.59374286,
+          0.87443514,
+          0.68571429
+        ],
+        "line_ids": [
+          28,
+          30,
+          31,
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "业余时，我偶尔会为从未在日本以外发行的经典游戏制作非官方译版。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73612792,
+          0.59302857,
+          0.87312598,
+          0.68821429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73612792,
+          0.59302857,
+          0.87312598,
+          0.68821429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0011-b009",
+      "kind": "footer",
+      "source": {
+        "text": "Introduction",
+        "raw": "Introduction",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61794141,
+          0.94002857,
+          0.71104249,
+          0.9496
+        ],
+        "mask_bbox": [
+          0.61663226,
+          0.93931429,
+          0.71235165,
+          0.95067143
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "引言",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61794141,
+          0.9386,
+          0.71104249,
+          0.9566
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9566,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61794141,
+          0.9386,
+          0.71104249,
+          0.9566
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Introduction",
+        "chapter_id": "chapter-8"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "fef78cd74d28f76724363cccea6ef7de3c7da04b7d67513dda0012ee7f8450a3"
+  },
+  "chapter_id": "chapter-8",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          20
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      102.99,
+      705.88
+    ],
+    "text_runs": [
+      {
+        "id": "p0011-b002",
+        "blocks": [
+          "p0011-b002",
+          "p0011-b003",
+          "p0011-b004",
+          "p0011-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 607.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

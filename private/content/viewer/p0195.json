@@ -1,0 +1,1092 @@
+{
+  "schema_version": 3,
+  "pdf_page": 195,
+  "printed_page": "195",
+  "title": "兼顾不同版本",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    983.962264,
+    1400
+  ],
+  "physical_size_pt": [
+    500.64,
+    712.32
+  ],
+  "image_url": "/assets/p0195.jpg",
+  "image_sha256": "98a8378aba6f07fb2811bec68f93494841e7bdf0a47d27338c182011eb328d20",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0195/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0195-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Version Juggling",
+        "raw": "Version Juggling",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09014573,
+          0.06365,
+          0.26285561,
+          0.07726429
+        ],
+        "mask_bbox": [
+          0.08882454,
+          0.06293571,
+          0.2641768,
+          0.07833571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "兼顾不同版本",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.05371429,
+          0.69955935,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.05371429,
+          0.69955935,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113
+    },
+    {
+      "id": "p0195-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Different versions of Undertale have slightly different text than other versions - sometimes the differences are as tiny as this",
+        "raw": "Different versions\nof Undertale have\nslightly different text\nthan other versions\n- sometimes the\ndifferences are as\ntiny as this",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72277162,
+          0.09428571,
+          0.85816299,
+          0.19729286
+        ],
+        "mask_bbox": [
+          0.72145043,
+          0.09357143,
+          0.85948418,
+          0.19836429
+        ],
+        "line_ids": [
+          3,
+          7,
+          8,
+          9,
+          11,
+          12,
+          17
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》各版本的文本略有不同，有时差异就像这样细小。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72277162,
+          0.09285714,
+          0.8743628,
+          0.20086429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5537928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72277162,
+          0.09285714,
+          0.8743628,
+          0.20086429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've seen, not every version of Under tale is the same - for example, the PlayStation 4 version has content not found in the Nintendo Switch version, and vice-versa. These differences range in size, from secret rooms with new content to minor text changes that rely on alternate programming.",
+        "raw": "As we've seen, not every version of Under tale is the same - for example, the\nPlayStation 4 version has content not found in the Nintendo Switch version,\nand vice-versa. These differences range in size, from secret rooms with new\ncontent to minor text changes that rely on alternate programming.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09008476,
+          0.23819286,
+          0.67362339,
+          0.30559286
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.23747857,
+          0.70159195,
+          0.30666429
+        ],
+        "line_ids": [
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "我们已经看到，《Undertale》的各版本并不完全相同。例如 PlayStation 4 版有 Nintendo Switch 版没有的内容，反过来也一样。差别有大有小，从装着新内容的隐藏房间，到因程序不同而产生的细微文字变化。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 17,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.23676429,
+          0.69955935,
+          0.30916429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5234857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.23676429,
+          0.69955935,
+          0.30916429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "The fact that there are so many different·versions of Undertale means that there are multiple English scripts that need to be managed, organized, and actively maintained. This holds true on the Japanese side of things too, meaning that Toby and 8-4 currently have to keep track of ten or so versions of the game. Understandably, this is a level of support not offered by most generic translation companies.",
+        "raw": "The fact that there are so many different·versions of Undertale means that\nthere are multiple English scripts that need to be managed, organized, and\nactively maintained. This holds true on the Japanese side of things too,\nmeaning that Toby and 8-4 currently have to keep track of ten or so versions of\nthe game. Understandably, this is a level of support not offered by most generic\ntranslation companies.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09092828,
+          0.32106429,
+          0.69625638,
+          0.42522143
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.32035,
+          0.70159195,
+          0.42629286
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》版本众多，就意味着有好几套英语剧本需要管理、整理并持续维护。日语这边也是如此，所以 Toby 和 8-4 目前得同时照管大约十个版本。可以想见，一般翻译公司大多不会提供这种程度的支持。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.31963571,
+          0.69955935,
+          0.42879286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5234857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.31963571,
+          0.69955935,
+          0.42879286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "What's more, each time Toby adds new content or fixes a bug, all of these separate versions need to be updated, which can lead to even more versions to keep track of. All of this illustrates how game localization can be an ongoing process rather than a one-and-done affair.",
+        "raw": "What's more, each time Toby adds new content or fixes a bug, all of these\nseparate versions need to be updated, which can lead to even more versions to\nkeep track of. All of this illustrates how game localization can be an ongoing\nprocess rather than a one-and-done affair.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09054209,
+          0.44,
+          0.69129684,
+          0.50808571
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.43928571,
+          0.70159195,
+          0.50915714
+        ],
+        "line_ids": [
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "而且，每次 Toby 增添内容或修复错误，都得更新各个版本，这又可能产生更多需要追踪的版本。这说明游戏本地化可以是一项持续的工作，而非一次交付就结束。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.43857143,
+          0.69955935,
+          0.51165714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5234857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.43857143,
+          0.69955935,
+          0.51165714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Fun with Letters",
+        "raw": "Fun with Letters",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09258485,
+          0.53062857,
+          0.26243893,
+          0.54425
+        ],
+        "mask_bbox": [
+          0.09126366,
+          0.52991429,
+          0.26376012,
+          0.54532143
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "字母的趣味",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.52085714,
+          0.69955935,
+          0.545
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.545,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.52085714,
+          0.69955935,
+          0.545
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 767.0
+    },
+    {
+      "id": "p0195-b007",
+      "kind": "aside",
+      "source": {
+        "text": "This secret enemy creates two new enemies named Doodlebog. Because there are three enemies total, the second Doodlebog is automatically (and unintentionally) called Doodlebog C",
+        "raw": "This secret enemy creates\ntwo new enemies named\nDoodlebog. Because there\nare three enemies total,\nthe second Doodlebog\nis automatically (and\nunintentionally) called\nDoodlebog C",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72858485,
+          0.56093571,
+          0.88596894,
+          0.67977143
+        ],
+        "mask_bbox": [
+          0.72726366,
+          0.56022143,
+          0.88729012,
+          0.68084286
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          45,
+          55
+        ]
+      },
+      "translation": {
+        "text": "这个隐藏敌人会创造两个叫 Doodlebog 的新敌人。由于场上总共有三个敌人，第二个 Doodlebog 被自动——也意外地——叫作 Doodlebog C。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72801573,
+          0.55950714,
+          0.88596894,
+          0.68334286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72801573,
+          0.55950714,
+          0.88596894,
+          0.68334286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "A secret battle features an artist and two \"Doodlebog\" enemies. In his translation notes, Toby explained that the second Doodlebog is automatically named \"Doodle bog C\" instead of \"Doodle bog B\" due to a programming bug. He liked this bug enough to give Doodlebog C its own pun-based description:",
+        "raw": "A secret battle features an artist and two \"Doodlebog\" enemies. In his\ntranslation notes, Toby explained that the second Doodlebog is automatically\nnamed \"Doodle bog C\" instead of \"Doodle bog B\" due to a programming bug. He\nliked this bug enough to give Doodlebog C its own pun-based description:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09056242,
+          0.70650714,
+          0.69955935,
+          0.77358571
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.70579286,
+          0.70159195,
+          0.77465714
+        ],
+        "line_ids": [
+          56,
+          57,
+          58,
+          59
+        ]
+      },
+      "translation": {
+        "text": "一场隐藏战斗中有一名画家和两个“Doodlebog”敌人。Toby 在翻译说明中解释，由于程序错误，第二个 Doodlebog 会被自动叫作“Doodlebog C”，而不是“Doodlebog B”。他很喜欢这个错误，于是给 Doodlebog C 写了一条专门的双关说明：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.70507857,
+          0.69955935,
+          0.77715714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.70507857,
+          0.69955935,
+          0.77715714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b009",
+      "kind": "quote",
+      "source": {
+        "text": "The \"C\" stands for \"seafaring:\" It likes to ride in a boat.",
+        "raw": "The \"C\" stands for \"seafaring:\" It likes to ride in a boat.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13674305,
+          0.78872143,
+          0.54436031,
+          0.80121429
+        ],
+        "mask_bbox": [
+          0.13542186,
+          0.78800714,
+          0.5456815,
+          0.80228571
+        ],
+        "line_ids": [
+          60
+        ]
+      },
+      "translation": {
+        "text": "“C”代表“seafaring”（航海；sea 与 C 同音）。它喜欢坐船。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13674305,
+          0.78729286,
+          0.69955935,
+          0.80788214
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.13674305,
+          0.78729286,
+          0.69955935,
+          0.80788214
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "This wordplay would be lost in a literal translation, so the description became:",
+        "raw": "This wordplay would be lost in a literal translation, so the description became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09140594,
+          0.81636429,
+          0.69385791,
+          0.82885714
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.81565,
+          0.70159195,
+          0.82992857
+        ],
+        "line_ids": [
+          61
+        ]
+      },
+      "translation": {
+        "text": "直译会失去这个文字游戏，所以日文说明变成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.81493571,
+          0.69955935,
+          0.83707857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.81493571,
+          0.69955935,
+          0.83707857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b011",
+      "kind": "quote",
+      "source": {
+        "text": "The \"C'' stands for \"Vitamin C\". It helps your skin look more supple.",
+        "raw": "The \"C'' stands for \"Vitamin C\". It helps your skin look more supple.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13674305,
+          0.84398571,
+          0.64064449,
+          0.85605714
+        ],
+        "mask_bbox": [
+          0.13542186,
+          0.84327143,
+          0.64196568,
+          0.85712857
+        ],
+        "line_ids": [
+          62
+        ]
+      },
+      "translation": {
+        "text": "“C”代表“维生素 C”。它能让你的皮肤更有弹性。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13674305,
+          0.84255714,
+          0.69955935,
+          0.86314643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.13674305,
+          0.84255714,
+          0.69955935,
+          0.86314643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "This change was actually Toby's idea - he understood that the pun would be lost in translation and prepared this suggestion ahead of time.",
+        "raw": "This change was actually Toby's idea - he understood that the pun would be\nlost in translation and prepared this suggestion ahead of time.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0918836,
+          0.87195714,
+          0.67566616,
+          0.90297857
+        ],
+        "mask_bbox": [
+          0.08805216,
+          0.87124286,
+          0.70159195,
+          0.90405
+        ],
+        "line_ids": [
+          63,
+          64
+        ]
+      },
+      "translation": {
+        "text": "这个改动其实是 Toby 的主意。他知道双关在翻译中会消失，因此事先准备了这个建议。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09074535,
+          0.87052857,
+          0.69955935,
+          0.90655
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0195-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09074535,
+          0.87052857,
+          0.69955935,
+          0.90655
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0195-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64447593,
+          0.94007857,
+          0.70222205,
+          0.94976429
+        ],
+        "mask_bbox": [
+          0.64315475,
+          0.93936429,
+          0.70354324,
+          0.95083571
+        ],
+        "line_ids": [
+          65
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64447593,
+          0.93865,
+          0.70222205,
+          0.95665
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.95665,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64447593,
+          0.93865,
+          0.70222205,
+          0.95665
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "406cfbbde1ee032b5260c0e07db8718162cacede082e59aab9b75ae26b7a97f2"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          50
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          53
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          66
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      89.29,
+      688.34
+    ],
+    "text_runs": [
+      {
+        "id": "p0195-b003",
+        "blocks": [
+          "p0195-b003",
+          "p0195-b004",
+          "p0195-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 732.88
+      },
+      {
+        "id": "p0195-b008",
+        "blocks": [
+          "p0195-b008",
+          "p0195-b009",
+          "p0195-b010",
+          "p0195-b011",
+          "p0195-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

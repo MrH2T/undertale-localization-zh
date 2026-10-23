@@ -1,0 +1,932 @@
+{
+  "schema_version": 3,
+  "pdf_page": 191,
+  "printed_page": "191",
+  "title": "表里不一的词",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    981.628181,
+    1400
+  ],
+  "physical_size_pt": [
+    499.2,
+    711.96
+  ],
+  "image_url": "/assets/p0191.jpg",
+  "image_sha256": "b01cef9f3ef49b684ffe83d230d4923a37990a7477387ceb95c8257d0aa513d0",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0191/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0191-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Polarizing Vocabulary",
+        "raw": "Polarizing Vocabulary",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09236695,
+          0.05942857,
+          0.31886819,
+          0.07332857
+        ],
+        "mask_bbox": [
+          0.09104262,
+          0.05871429,
+          0.32019252,
+          0.0744
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "表里不一的词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08977432,
+          0.05014286,
+          0.70308699,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08977432,
+          0.05014286,
+          0.70308699,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0191-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Tsundere characters stereotypically say things like \"it's not like I like you or anything, dummy\"",
+        "raw": "Tsundere characters\nstereotypically say\nthings like \"it's not\nlike I like you or\nanything, dummy\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73026632,
+          0.08950714,
+          0.85295025,
+          0.16067143
+        ],
+        "mask_bbox": [
+          0.72894199,
+          0.08879286,
+          0.85427458,
+          0.16174286
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "傲娇角色的典型台词是：“才不是喜欢你呢，笨蛋。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73026632,
+          0.08807857,
+          0.87830608,
+          0.16424286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73026632,
+          0.08807857,
+          0.87830608,
+          0.16424286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Underta/e's English script sometimes uses the Japanese word tsundere. In broad terms, tsundere - roughly pronounced \"tsoon deh reh\" - describes the trait of having an unfriendly attitude on the outside that gives way to an affectionate inner attitude over time.",
+        "raw": "Underta/e's English script sometimes uses the Japanese word tsundere. In\nbroad terms, tsundere - roughly pronounced \"tsoon deh reh\" - describes\nthe trait of having an unfriendly attitude on the outside that gives way to an\naffectionate inner attitude over time.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09176591,
+          0.23402857,
+          0.67177167,
+          0.301
+        ],
+        "mask_bbox": [
+          0.0857453,
+          0.23331429,
+          0.70512442,
+          0.30207143
+        ],
+        "line_ids": [
+          16,
+          19,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "《Undertale》的英文剧本偶尔会用日语词 tsundere（傲娇，读音大致是“tsoon deh reh”）。广义上，它形容一种性格：表面不友善，内心的亲昵却随着时间渐渐显露。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 1,
+            "end": 10,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08977432,
+          0.2326,
+          0.70308699,
+          0.30457143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.44857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08977432,
+          0.2326,
+          0.70308699,
+          0.30457143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Twndere is a common word in Japanese entertainment, but is notoriously troublesome to translate into English because it has no solid equivalent. For this reason, English-speaking fans of Japanese entertainment - such as Toby - tend to leave the word untranslated. Basically, tsundere is in the process of becoming a loan word in English like \"karate\" and \"karaoke\", but it hasn't yet reached mainstream recognition. As such, the word tsundere might confuse some English-speaking players, but it poses little problem for Japanese players.",
+        "raw": "Twndere is a common word in Japanese entertainment, but is notoriously\ntroublesome to translate into English because it has no solid equivalent. For\nthis reason, English-speaking fans of Japanese entertainment - such as Toby\n- tend to leave the word untranslated. Basically, tsundere is in the process of\nbecoming a loan word in English like \"karate\" and \"karaoke\", but it hasn't yet\nreached mainstream recognition. As such, the word tsundere might confuse\nsome English-speaking players, but it poses little problem for Japanese players.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08778273,
+          0.31594286,
+          0.70308699,
+          0.43853571
+        ],
+        "mask_bbox": [
+          0.0857453,
+          0.31522857,
+          0.70512442,
+          0.43960714
+        ],
+        "line_ids": [
+          23,
+          24,
+          25,
+          27,
+          29,
+          31,
+          34
+        ]
+      },
+      "translation": {
+        "text": "Tsundere 在日本娱乐作品中很常见，却因英语没有确切的对应词而出了名地难译。因此，像 Toby 这样的英语圈日本娱乐爱好者，通常直接保留原词。它正在像 karate（空手道）、karaoke（卡拉 OK）那样成为英语借词，但还没被主流广泛认识。所以它可能让一些英语玩家困惑，日本玩家却很容易理解。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 8,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08977432,
+          0.31451429,
+          0.70308699,
+          0.44210714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.44857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0191-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.08977432,
+          0.31451429,
+          0.70308699,
+          0.44210714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b005",
+      "kind": "aside",
+      "source": {
+        "text": "Toby also included jokes about how the cactus is a tsundere plant because of its sharp exterior needles",
+        "raw": "Toby also included\njokes about how the\ncactus is a tsundere\nplant because of its\nsharp exterior needles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73061268,
+          0.36289286,
+          0.86808836,
+          0.43608571
+        ],
+        "mask_bbox": [
+          0.72928835,
+          0.36217857,
+          0.86941269,
+          0.43715714
+        ],
+        "line_ids": [
+          26,
+          28,
+          30,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "Toby 还拿仙人掌开玩笑，说它外表长满尖刺，是一种傲娇植物。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73061268,
+          0.36146429,
+          0.87830608,
+          0.43965714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73061268,
+          0.36146429,
+          0.87830608,
+          0.43965714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Tsundere Up Close",
+        "raw": "Tsundere Up Close",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30316978,
+          0.47068571,
+          0.4921721,
+          0.48459286
+        ],
+        "mask_bbox": [
+          0.30184545,
+          0.46997143,
+          0.49349643,
+          0.48566429
+        ],
+        "line_ids": [
+          35
+        ]
+      },
+      "translation": {
+        "text": "近看傲娇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11918973,
+          0.46085714,
+          0.6764272,
+          0.485
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.485,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11918973,
+          0.46085714,
+          0.6764272,
+          0.485
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 683.0
+    },
+    {
+      "id": "p0191-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese entertainment, tsundere characters seem cold, indifferent, or harsh on the outside, but have an unseen, affectionate side that comes out over time when around certain people. Famous tsundere characters include:",
+        "raw": "In Japanese entertainment, tsundere characters seem cold, indifferent, or\nharsh on the outside, but have an unseen, affectionate side that comes out\nover time when around certain people. Famous tsundere characters include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12053444,
+          0.49954286,
+          0.67473613,
+          0.54602143
+        ],
+        "mask_bbox": [
+          0.11921011,
+          0.49882857,
+          0.67606046,
+          0.54709286
+        ],
+        "line_ids": [
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "日本娱乐作品里的傲娇角色外表冷淡、漠不关心或态度严厉，但与特定的人相处久了，隐藏的亲昵一面便会显现。著名的傲娇角色包括：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12053444,
+          0.49285714,
+          0.70308699,
+          0.555
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.555,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.12053444,
+          0.49285714,
+          0.70308699,
+          0.555
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "tsundere-box-intro"
+    },
+    {
+      "id": "p0191-b008",
+      "kind": "caption",
+      "source": {
+        "text": "Haruhi Suzumiya (Haruhi Suzumiya series)",
+        "raw": "Haruhi Suzumiya\n(Haruhi Suzumiya series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.17752139,
+          0.68989286,
+          0.32756802,
+          0.71451429
+        ],
+        "mask_bbox": [
+          0.17619706,
+          0.68917857,
+          0.32889235,
+          0.71558571
+        ],
+        "line_ids": [
+          39,
+          41
+        ]
+      },
+      "translation": {
+        "text": "Haruhi Suzumiya\n（《凉宫春日》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12632074,
+          0.68846429,
+          0.37590608,
+          0.71808571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.725,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12632074,
+          0.68846429,
+          0.37590608,
+          0.71808571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Kurisu Makise (Steins;Gate series)",
+        "raw": "Kurisu Makise\n(Steins;Gate series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.48716002,
+          0.68989286,
+          0.60304911,
+          0.71451429
+        ],
+        "mask_bbox": [
+          0.48583569,
+          0.68917857,
+          0.60437344,
+          0.71558571
+        ],
+        "line_ids": [
+          40,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Kurisu Makise\n（《命运石之门》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.42072957,
+          0.68846429,
+          0.66827747,
+          0.71808571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.725,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.42072957,
+          0.68846429,
+          0.66827747,
+          0.71808571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b010",
+      "kind": "caption",
+      "source": {
+        "text": "Princess Ruto (The Legend of Zelda series)",
+        "raw": "Princess Ruto\n(The Legend of Zelda series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.16746667,
+          0.86010714,
+          0.33814229,
+          0.88475714
+        ],
+        "mask_bbox": [
+          0.16614234,
+          0.85939286,
+          0.33946662,
+          0.88582857
+        ],
+        "line_ids": [
+          43,
+          45
+        ]
+      },
+      "translation": {
+        "text": "Princess Ruto\n（《塞尔达传说》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12835817,
+          0.85867857,
+          0.33814229,
+          0.88832857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8964285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12835817,
+          0.85867857,
+          0.33814229,
+          0.88832857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Rin Tohsaka (Fate series)",
+        "raw": "Rin Tohsaka\n(Fate series)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.50881791,
+          0.86010714,
+          0.58189038,
+          0.8851
+        ],
+        "mask_bbox": [
+          0.50749358,
+          0.85939286,
+          0.58321472,
+          0.88617143
+        ],
+        "line_ids": [
+          44,
+          46
+        ]
+      },
+      "translation": {
+        "text": "Rin Tohsaka\n（《Fate》系列）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.4747215,
+          0.85867857,
+          0.62345398,
+          0.88867143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.8964285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.4747215,
+          0.85867857,
+          0.62345398,
+          0.88867143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0191-b012",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64681313,
+          0.93517857,
+          0.70473731,
+          0.94529286
+        ],
+        "mask_bbox": [
+          0.6454888,
+          0.93446429,
+          0.70606164,
+          0.94636429
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64681313,
+          0.93375,
+          0.70473731,
+          0.95175
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.95175,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64681313,
+          0.93375,
+          0.70473731,
+          0.95175
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0665f1d7e860c71b5a62796b1c7f71c2dd6243c0fb21605860a9dc55b27a2f22"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      88.13,
+      690.17
+    ],
+    "text_runs": [
+      {
+        "id": "p0191-b003",
+        "blocks": [
+          "p0191-b003",
+          "p0191-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 628.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

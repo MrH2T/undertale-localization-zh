@@ -1,0 +1,792 @@
+{
+  "schema_version": 3,
+  "pdf_page": 265,
+  "printed_page": "265",
+  "title": "三的力量",
+  "subtitle": "结语 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.337467+00:00",
+  "reference_size": [
+    996.417709,
+    1400
+  ],
+  "physical_size_pt": [
+    505.44,
+    710.16
+  ],
+  "image_url": "/assets/p0265.jpg",
+  "image_sha256": "ab855a7929d4a4a4dedf03b5ad66d42c3c496c80b3a9a38fcd5c200939c02fbe",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0265/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0265-b001",
+      "kind": "heading",
+      "source": {
+        "text": "The Power of Three",
+        "raw": "The Power of Three",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10576889,
+          0.06248571,
+          0.30405923,
+          0.07572143
+        ],
+        "mask_bbox": [
+          0.10446422,
+          0.06177143,
+          0.3053639,
+          0.07679286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "三的力量",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10640116,
+          0.05372143,
+          0.709602,
+          0.07786429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07786428714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10640116,
+          0.05372143,
+          0.709602,
+          0.07786429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the world of Underta/e, important things come in threes. The monsters, the humans, and the player. The three members of the Dreemur family. The three entities vying for control of the main character's body. Three main story routes. Three triangles in the Delta Rune. And so on.",
+        "raw": "In the world of Underta/e, important things come in threes. The monsters, the\nhumans, and the player. The three members of the Dreemur family. The three\nentities vying for control of the main character's body. Three main story routes.\nThree triangles in the Delta Rune. And so on.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10572875,
+          0.09065714,
+          0.709602,
+          0.15813571
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.08994286,
+          0.71160919,
+          0.15920714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "在《Undertale》的世界里，重要的事物常常以三为一组：怪物、人类和玩家；Dreemurr 家的三位成员；争夺主角身体控制权的三个存在；三条主要故事路线；Delta Rune 中的三个三角形，等等。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10640116,
+          0.08922857,
+          0.709602,
+          0.16170714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46867143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10640116,
+          0.08922857,
+          0.709602,
+          0.16170714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As I finish this book, I now see that the number three is important in localization too. Specifically, I see that there are three sides to any successful localization: the creator's side, the localizer's side, and the audience's side. Without all three sides, the final localization will be flawed, incomplete, or meaningless. If even one side is weak, the final localization will feel weak too. But if all three sides are present and solid, the resulting localization will shine brightly. I believe this holds true not just for games, but for any form of artistic transformation.",
+        "raw": "As I finish this book, I now see that the number three is important in\nlocalization too. Specifically, I see that there are three sides to any successful\nlocalization: the creator's side, the localizer's side, and the audience's side.\nWithout all three sides, the final localization will be flawed, incomplete, or\nmeaningless. If even one side is weak, the final localization will feel weak too.\nBut if all three sides are present and solid, the resulting localization will shine\nbrightly. I believe this holds true not just for games, but for any form of artistic\ntransformation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10442408,
+          0.17245,
+          0.70317899,
+          0.31360714
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.17173571,
+          0.71160919,
+          0.31467857
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          13,
+          15,
+          17
+        ]
+      },
+      "translation": {
+        "text": "写到本书结尾，我发现“三”在本地化中也很重要。一次成功的本地化需要三方：创作者、本地化人员和受众。缺了任何一方，最终的本地化就会有缺陷、不完整，甚至失去意义。即使只有一方薄弱，成品也会显得薄弱。但如果三方齐备、各自扎实，最终的本地化就能大放异彩。我相信，这不仅适用于游戏，也适用于任何形式的艺术转化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10640116,
+          0.17102143,
+          0.709602,
+          0.31717857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46867143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0265-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.10640116,
+          0.17102143,
+          0.709602,
+          0.31717857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b004",
+      "kind": "aside",
+      "source": {
+        "text": "If you've read the entire book all the way through, then I sincerely thank you and congratulate you",
+        "raw": "If you've read the\nentire book all the\nway through, then I\nsincerely thank you and\ncongratulate you",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73726108,
+          0.24779286,
+          0.88147771,
+          0.32056429
+        ],
+        "mask_bbox": [
+          0.73595641,
+          0.24707857,
+          0.88278238,
+          0.32163571
+        ],
+        "line_ids": [
+          11,
+          12,
+          14,
+          16,
+          18
+        ]
+      },
+      "translation": {
+        "text": "如果你从头到尾读完了这本书，我由衷地感谢你，也向你道一声恭喜！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73726108,
+          0.24636429,
+          0.88222037,
+          0.32413571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.71,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73726108,
+          0.24636429,
+          0.88222037,
+          0.32413571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "On occasion, I'll finish a lengthy localization analysis with some sort of final score or rating. I don't think that would be appropriate this time, given my personal involvement with the project. Instead, I'll just say that all three sides of Underta/e's Japanese localization are solid: the localization team brought experience and passion, Toby brought care and excitement, and the players brought support and respect. Without a doubt, Underta/e's Japanese localization is filled with DETERMINATION.",
+        "raw": "On occasion, I'll finish a lengthy localization analysis with some sort of final\nscore or rating. I don't think that would be appropriate this time, given my\npersonal involvement with the project. Instead, I'll just say that all three\nsides of Underta/e's Japanese localization are solid: the localization team\nbrought experience and passion, Toby brought care and excitement, and the\nplayers brought support and respect. Without a doubt, Underta/e's Japanese\nlocalization is filled with DETERMINATION.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10707357,
+          0.32925,
+          0.68514439,
+          0.45248571
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.32853571,
+          0.71160919,
+          0.45355714
+        ],
+        "line_ids": [
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "有时，我会在一篇长篇本地化分析的末尾给出评分或评价。但这次我亲自参与了项目，觉得这样做不太合适。我只想说，《Undertale》日语本地化的三方都很扎实：本地化团队带来了经验与热情，Toby 带来了用心与兴奋，玩家带来了支持与尊重。毫无疑问，《Undertale》的日语本地化充满了决心。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10640116,
+          0.32782143,
+          0.709602,
+          0.45605714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.46867143285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0265-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.10640116,
+          0.32782143,
+          0.709602,
+          0.45605714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Your Turn",
+        "raw": "Your Turn",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10543771,
+          0.47581429,
+          0.20388036,
+          0.48905
+        ],
+        "mask_bbox": [
+          0.10413303,
+          0.4751,
+          0.20518503,
+          0.49012143
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "轮到你了",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10640116,
+          0.46705,
+          0.709602,
+          0.49119286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4911928571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10640116,
+          0.46705,
+          0.709602,
+          0.49119286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "On a final note, I leave you two challenges before you close this book.",
+        "raw": "On a final note, I leave you two challenges before you close this book.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10713378,
+          0.50363571,
+          0.63007712,
+          0.51602143
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.50292143,
+          0.71160919,
+          0.51709286
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "最后，在你合上这本书之前，我想留给你两道挑战。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.71,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "final-challenges"
+    },
+    {
+      "id": "p0265-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "First, why do you think it's called \"localization\" and not something else like \"globalization\", \"regionalization\", or \"culturalization\"? Is there a better name that would work instead? The term \"localization\" is still relatively new and in flux, so who knows, maybe it'll go by a different name someday.",
+        "raw": "First, why do you think it's called \"localization\" and not something else like\n\"globalization\", \"regionalization\", or \"culturalization\"? Is there a better name\nthat would work instead? The term \"localization\" is still relatively new and in\nflux, so who knows, maybe it'll go by a different name someday.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1008011,
+          0.53134286,
+          0.69674595,
+          0.59883571
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.53062857,
+          0.71160919,
+          0.59990714
+        ],
+        "line_ids": [
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "第一，你觉得为什么叫“本地化”（localization），不叫“全球化”（globalization）、“地区化”（regionalization）或“文化化”（culturalization）？有没有更合适的名称？“本地化”这个术语还比较新，也在变化。谁知道呢，说不定将来会换个名字。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.71,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0265-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "final-challenges"
+    },
+    {
+      "id": "p0265-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "My second challenge to you is this: the next time you watch your favorite movie, read your favorite book, or listen to your favorite music, keep an eye out for things that would be lost in a straightforward, literal translation into another language. Then come up with a way to localize it somehow. Think of it as a game. Or a bad time. Nyehehe!",
+        "raw": "My second challenge to you is this: the next time you watch your favorite\nmovie, read your favorite book, or listen to your favorite music, keep an eye\nout for things that would be lost in a straightforward, literal translation into\nanother language. Then come up with a way to localize it somehow. Think of it\nas a game. Or a bad time. Nyehehe!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10723414,
+          0.61382143,
+          0.7057783,
+          0.70054286
+        ],
+        "mask_bbox": [
+          0.09879391,
+          0.61310714,
+          0.71160919,
+          0.70161429
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "第二道挑战是：下次看你最喜欢的电影、读你最喜欢的书，或听你最喜欢的音乐时，留意哪些东西会在直白、逐字的外语翻译中丢失，再想办法把它们本地化。把这当成一场游戏吧。也可能是一段苦日子。捏嘿嘿！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.71,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0265-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.1008011,
+          0.50071429,
+          0.709602,
+          0.71
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "final-challenges"
+    },
+    {
+      "id": "p0265-b010",
+      "kind": "aside",
+      "source": {
+        "text": "But seriously, if you do come across any cool localization changes in a game or whatever, share it sometime. I live for this stuff, and I'm always looking for more legends of localization!",
+        "raw": "But seriously, if you do come across any cool localization changes in a game\nor whatever, share it sometime. I live for this stuff, and I'm always looking\nfor more legends of localization!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12567019,
+          0.72835,
+          0.6912061,
+          0.7711
+        ],
+        "mask_bbox": [
+          0.12436551,
+          0.72763571,
+          0.69251078,
+          0.77217143
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "不过说真的，如果你在游戏或其他作品中发现了有趣的本地化改动，不妨分享出来。我就靠这些东西活着，也一直在寻找更多本地化传奇！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12567019,
+          0.72692143,
+          0.6912061,
+          0.77467143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12567019,
+          0.72692143,
+          0.6912061,
+          0.77467143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0265-b011",
+      "kind": "footer",
+      "source": {
+        "text": "Final Thoughts",
+        "raw": "Final Thoughts",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6070145,
+          0.94136429,
+          0.71135829,
+          0.95093571
+        ],
+        "mask_bbox": [
+          0.60570983,
+          0.94065,
+          0.71266297,
+          0.95200714
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "结语",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6070145,
+          0.93993571,
+          0.71135829,
+          0.95793571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9579357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6070145,
+          0.93993571,
+          0.71135829,
+          0.95793571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Thoughts",
+        "chapter_id": "chapter-260"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f1e27961a123dca0490e6652b29304db78817a08370fb8c283040a5f76358dd1"
+  },
+  "chapter_id": "chapter-260",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          41
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      106.02,
+      707.06
+    ],
+    "text_runs": [
+      {
+        "id": "p0265-b002",
+        "blocks": [
+          "p0265-b002",
+          "p0265-b003",
+          "p0265-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 656.14
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

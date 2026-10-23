@@ -1,0 +1,548 @@
+{
+  "schema_version": 3,
+  "pdf_page": 23,
+  "printed_page": "23",
+  "title": "文化典故的处理",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    989.500338,
+    1400
+  ],
+  "physical_size_pt": [
+    502.44,
+    710.88
+  ],
+  "image_url": "/assets/p0023.jpg",
+  "image_sha256": "f04cde13b661ae8b4b5f4c153a5f6396726dfb4ea5da3068f48133b843b2201b",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0023/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0023-b001",
+      "kind": "caption",
+      "source": {
+        "text": "There are several ways of handling cultural matters in translation. In academia, it's standard practice to translate everything literally and include lots of explanatory footnotes. In entertainment, it's more common to localize foreign cultural references by replacing them with something similar, but more familiar to the target audience",
+        "raw": "There are several ways of\nhandling cultural matters\nin translation. In academia,\nit's standard practice\nto translate everything\nliterally and include lots\nof explanatory footnotes.\nIn entertainment, it's\nmore common to localize\nforeign cultural references\nby replacing them with\nsomething similar, but\nmore familiar to the\ntarget audience",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73648282,
+          0.07208571,
+          0.90153582,
+          0.28312143
+        ],
+        "mask_bbox": [
+          0.73516903,
+          0.07137143,
+          0.90284962,
+          0.28419286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          12,
+          15,
+          17,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "翻译处理文化问题有几种办法。学术作品通常照字面翻译，再附上大量解释性脚注。娱乐作品则更常进行本地化，把外国文化典故换成目标受众更熟悉、又相近的事物。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73648282,
+          0.07065714,
+          0.90153582,
+          0.28669286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.29350714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73648282,
+          0.07065714,
+          0.90153582,
+          0.28669286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0023-b002",
+      "kind": "caption",
+      "source": {
+        "text": "A Japanese line about \"Hanako\" was translated literally into English, making it completely meaningless for most players outside of Japan. For players in Japan, it's an obvious reference to the famous urban legend of Hanako, the ghost girl who haunts bathrooms (Game: Breath of Fire II)",
+        "raw": "A Japanese line about\n\"Hanako\" was translated\nliterally into English,\nmaking it completely\nmeaningless for most\nplayers outside of Japan.\nFor players in Japan, it's\nan obvious reference\nto the famous urban\nlegend of Hanako, the\nghost girl who haunts\nbathrooms (Game:\nBreath of Fire II)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73111648,
+          0.30065,
+          0.89184406,
+          0.49783571
+        ],
+        "mask_bbox": [
+          0.72980268,
+          0.29993571,
+          0.89315786,
+          0.49890714
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30,
+          31,
+          35,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "一句提到 Hanako 的日语台词被直译成英语，对日本以外的大多数玩家毫无意义。日本玩家却一看就知道，它指的是著名都市传说中出没于厕所的幽灵女孩 Hanako。（游戏：Breath of Fire II）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73111648,
+          0.29922143,
+          0.89184406,
+          0.50140714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5133000028571427,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73111648,
+          0.29922143,
+          0.89184406,
+          0.50140714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0023-b003",
+      "kind": "caption",
+      "source": {
+        "text": "Originally, this character delivered food from a generically named Japanese-style Chinese restaurant. Because the name's significance would've been lost on players outside of Japan, the package was replaced with a generic pizza box for the English release (Game: Tricky Kick)",
+        "raw": "Originally, this character\ndelivered food from\na generically named\nJapanese-style Chinese\nrestaurant. Because\nthe name's significance\nwould've been lost on\nplayers outside of Japan,\nthe package was replaced\nwith a generic pizza box\nfor the English release\n(Game: Tricky Kick)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73736205,
+          0.52044286,
+          0.89750348,
+          0.69432857
+        ],
+        "mask_bbox": [
+          0.73604826,
+          0.51972857,
+          0.89881728,
+          0.6954
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          48,
+          49,
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "这个角色原本给一家名字很普通的日式中餐馆送外卖。日本以外的玩家不容易看懂店名的意义，因此英语版把包装换成了普通的披萨盒。（游戏：Tricky Kick）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73736205,
+          0.51901429,
+          0.89750348,
+          0.6979
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7067357128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73736205,
+          0.51901429,
+          0.89750348,
+          0.6979
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0023-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese players are asked to hold the controller like a traditional okappiki. But because most players outside of Japan wouldn't understand this reference, the English version asks players to hold the controller like a boxer instead (Game: WarioWare: Smooth Moves)",
+        "raw": "Japanese players\nare asked to hold\nthe controller like a\ntraditional okappiki.\nBut because most\nplayers outside of Japan\nwouldn't understand this\nreference, the English\nversion asks players to\nhold the controller like\na boxer instead (Game:\nWarioWare: Smooth Moves)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73742269,
+          0.71387857,
+          0.89790773,
+          0.89655714
+        ],
+        "mask_bbox": [
+          0.73610889,
+          0.71316429,
+          0.89922152,
+          0.89762857
+        ],
+        "line_ids": [
+          53,
+          55,
+          56,
+          58,
+          59,
+          60,
+          61,
+          64,
+          66,
+          67,
+          69,
+          71
+        ]
+      },
+      "translation": {
+        "text": "日版让玩家像传统的 okappiki（捕吏）那样握住控制器。但日本以外的大多数玩家不懂这个比喻，因此英语版改成让玩家像拳击手那样握住控制器。（游戏：WarioWare: Smooth Moves）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 18,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73742269,
+          0.71245,
+          0.89790773,
+          0.90012857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73742269,
+          0.71245,
+          0.89790773,
+          0.90012857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0023-b005",
+      "kind": "footer",
+      "source": {
+        "text": "What is Localization?",
+        "raw": "What is Localization?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.55695787,
+          0.93804286,
+          0.71150051,
+          0.94718571
+        ],
+        "mask_bbox": [
+          0.55564407,
+          0.93732857,
+          0.71281431,
+          0.94825714
+        ],
+        "line_ids": [
+          73
+        ]
+      },
+      "translation": {
+        "text": "什么是本地化？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.55695787,
+          0.93661429,
+          0.71150051,
+          0.95461429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9546142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.55695787,
+          0.93661429,
+          0.71150051,
+          0.95461429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "What is Localization?",
+        "chapter_id": "chapter-14"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "9543a48753fefd45845b6015cd290cd1c62f2ba556e825f68671979e3f3a6833"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          36
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          62
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          63
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          68
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          70
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

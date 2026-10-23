@@ -1,0 +1,1074 @@
+{
+  "schema_version": 3,
+  "pdf_page": 20,
+  "printed_page": "20",
+  "title": "惯用语、谚语与多层含义",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "reference_size": [
+    985.735964,
+    1400
+  ],
+  "physical_size_pt": [
+    501.12,
+    711.72
+  ],
+  "image_url": "/assets/p0020.jpg",
+  "image_sha256": "2994bcce2eb3b5e9bb89cb867370d13b5fec88d2e346d6e313abe2e2919628db",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0020/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0020-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Idioms, Proverbs, and Multi-Layered Phrases",
+        "raw": "Idioms, Proverbs, and Multi-Layered Phrases",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28695311,
+          0.0636,
+          0.74790819,
+          0.07652857
+        ],
+        "mask_bbox": [
+          0.2854314,
+          0.06288571,
+          0.7494299,
+          0.0776
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "惯用语、谚语与多层含义",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.05331429142857143,
+          0.89679187,
+          0.0776
+        ],
+        "font_size": 26,
+        "line_height": 1.307692,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.0776,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.05331429142857143,
+          0.89679187,
+          0.0776
+        ],
+        "font_size": 26,
+        "leading": 33.999992
+      },
+      "review_issues": [],
+      "region_id": "heading-1",
+      "rule_y": 112.64
+    },
+    {
+      "id": "p0020-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Every language has its own unique set of colorful phrases that have a literal meaning and a functional meaning. For example, the English phrase \"I'm in a pickle\" literally means \"I am inside of a pickle\" but functionally means \"I'm in a difficult situation\".",
+        "raw": "Every language has its own unique set\nof colorful phrases that have a literal\nmeaning and a functional meaning.\nFor example, the English phrase \"I'm\nin a pickle\" literally means \"I am\ninside of a pickle\" but functionally\nmeans \"I'm in a difficult situation\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28577632,
+          0.09185714,
+          0.57327725,
+          0.21378571
+        ],
+        "mask_bbox": [
+          0.28405172,
+          0.09114286,
+          0.57723368,
+          0.21521429
+        ],
+        "line_ids": [
+          2,
+          3,
+          5,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "每种语言都有一套生动的说法，既有字面意思，也有实际含义。例如英语 I’m in a pickle，字面是“我在一根酸黄瓜里”，实际却是“我陷入了困境”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.09,
+          0.57621921,
+          0.31785714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.31785714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.09,
+          0.57621921,
+          0.31785714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "upper-left-wrap"
+    },
+    {
+      "id": "p0020-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "These problematic, multi-layered phrases come in all types. Idioms, for example, are notorious for having very different literal and functional meanings:",
+        "raw": "These problematic, multi-layered\nphrases come in all types. Idioms, for\nexample, are notorious for having\nvery different literal and functional\nmeanings:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28577632,
+          0.22907143,
+          0.56942226,
+          0.31457143
+        ],
+        "mask_bbox": [
+          0.28405172,
+          0.22835714,
+          0.57723368,
+          0.316
+        ],
+        "line_ids": [
+          12,
+          13,
+          15,
+          17,
+          19
+        ]
+      },
+      "translation": {
+        "text": "这种棘手的多层表达有很多种。惯用语的字面意思与实际含义往往相差很远，就是出了名的例子：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.22764286,
+          0.57621921,
+          0.31785714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.31785714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.22764286,
+          0.57621921,
+          0.31785714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "upper-left-wrap"
+    },
+    {
+      "id": "p0020-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Imagine this title being translated literally - it'd still be kind of silly to see this weird guy in a pickle suit, but the reason for the suit would be lost",
+        "raw": "Imagine this title being translated literally -\nit'd still be kind of silly to see this weird guy\nin a pickle suit, but the reason for the suit\nwould be lost",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60488815,
+          0.25714286,
+          0.87434164,
+          0.31347143
+        ],
+        "mask_bbox": [
+          0.60356933,
+          0.25642857,
+          0.87566045,
+          0.31454286
+        ],
+        "line_ids": [
+          14,
+          16,
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "想象一下把这个标题照字面翻译。看到这怪人穿着酸黄瓜服，或许仍觉得好笑，却不知道他为什么这样穿。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60259544,
+          0.25571429,
+          0.89679187,
+          0.31785714
+        ],
+        "font_size": 16,
+        "line_height": 1.4375,
+        "font_weight": 400,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.31785714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.60259544,
+          0.25571429,
+          0.89679187,
+          0.31785714
+        ],
+        "font_size": 16,
+        "leading": 23.0
+      },
+      "review_issues": [],
+      "region_id": "image-caption"
+    },
+    {
+      "id": "p0020-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Japanese idiom: nodo kara te ga deru Literal meaning: to have your hand coming out of your mouth Functional meaning: to want something very much",
+        "raw": "Japanese idiom: nodo kara te ga deru\nLiteral meaning: to have your hand coming out of your mouth\nFunctional meaning: to want something very much",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3308391,
+          0.33066429,
+          0.80227366,
+          0.37865714
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.32923571,
+          0.89679187,
+          0.38008571
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "• 日语惯用语：nodo kara te ga deru\n字面意思：手从嘴里伸出来\n实际含义：非常想要某样东西",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.32928571,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.32928571,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b006",
+      "kind": "quote",
+      "source": {
+        "text": "Finnish idiom: heittää lusikka nurkkaan Literal meaning: to throw the spoon in the corner Functional meaning: to die",
+        "raw": "Finnish idiom: heittiiii lusikka nurkkaan\nLiteral meaning: to throw the spoon in the corner\nFunctional meaning: to die",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3313159,
+          0.39304286,
+          0.71095103,
+          0.44239286
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.39161429,
+          0.89679187,
+          0.44382143
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "• 芬兰语惯用语：heittää lusikka nurkkaan\n字面意思：把勺子扔到角落\n实际含义：死去",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.39161429,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.39161429,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Proverbs are another source of tricky phrases with multiple meanings:",
+        "raw": "Proverbs are another source of tricky phrases with multiple meanings:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28727774,
+          0.45801429,
+          0.82532243,
+          0.47037857
+        ],
+        "mask_bbox": [
+          0.28506619,
+          0.4573,
+          0.89679187,
+          0.47180714
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "谚语也是这种棘手的多义表达的来源：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.45658571,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.45658571,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b008",
+      "kind": "quote",
+      "source": {
+        "text": "German proverb: Morgenstund hat Gold im Mund Literal meaning: the morning hour has gold in the mouth Functional meaning: early risers get the best opportunities",
+        "raw": "German proverb: Morgenstund hat Gold im Mund\nLiteral meaning: the morning hour has gold in the mouth\nFunctional meaning: early risers get the best opportunities",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3313159,
+          0.48545714,
+          0.7794988,
+          0.53446429
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.48402857,
+          0.89679187,
+          0.53589286
+        ],
+        "line_ids": [
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "• 德语谚语：Morgenstund hat Gold im Mund\n字面意思：早晨嘴里有黄金\n实际含义：早起的人能得到最好的机会",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.48402857,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.48402857,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Japanese proverb: hiza to mo dangō Literal meaning: consult even your knees Functional meaning: consulting others can be unexpectedly useful",
+        "raw": "Japanese proverb: hiza to mo dango\nLiteral meaning: consult even your knees\nFunctional meaning: consulting others can be unexpectedly useful",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3313159,
+          0.54985,
+          0.83912937,
+          0.59818571
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.54842143,
+          0.89679187,
+          0.59961429
+        ],
+        "line_ids": [
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "• 日语谚语：hiza to mo dangō\n字面意思：连自己的膝盖也不妨商量一下\n实际含义：向别人请教，可能意外地有用",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.54842143,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.54842143,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "Slang, jargon, and other multi-layered phrases provide a similar challenge for translators:",
+        "raw": "Slang, jargon, and other multi-layered phrases provide a similar challenge\nfor translators:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28799801,
+          0.61347143,
+          0.85228705,
+          0.64439286
+        ],
+        "mask_bbox": [
+          0.28506619,
+          0.61275714,
+          0.89679187,
+          0.64582143
+        ],
+        "line_ids": [
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "俚语、行话和其他多层表达，也给译者带来类似的难题：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.61204286,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.61204286,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b011",
+      "kind": "quote",
+      "source": {
+        "text": "Japanese slang: denpa Literal meaning: electromagnetic wave Functional meaning: a person with a wildly incoherent and delusional mindset",
+        "raw": "Japanese slang: denpa\nLiteral meaning: electromagnetic wave\nFunctional meaning: a person with a wildly incoherent and\ndelusional mindset",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33185357,
+          0.65977857,
+          0.78307988,
+          0.72733571
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.65835,
+          0.89679187,
+          0.72876429
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "• 日语俚语：denpa\n字面意思：电磁波\n实际含义：想法极度混乱、充满妄想的人",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.65835,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.65835,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Choctaw phrase: oka mali hashi akuchaka itintakla Literal meaning: head towards water wind while heading towards the sun’s home Functional meaning: southeast",
+        "raw": "Choctaw phrase: o/w mali hashi alwchalw itintakla\nLiteral meaning: head towards water wind while heading towards\nthe sun's home\nFunctional meaning: southeast",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33227965,
+          0.74273571,
+          0.83752651,
+          0.80927857
+        ],
+        "mask_bbox": [
+          0.30332666,
+          0.74130714,
+          0.89679187,
+          0.81070714
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "• 乔克托语短语：oka mali hashi akuchaka itintakla\n字面意思：朝着水风，同时朝着太阳的家前进\n实际含义：东南方",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31042796,
+          0.74130714,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.4,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.31042796,
+          0.74130714,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 28.0
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "examples"
+    },
+    {
+      "id": "p0020-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we can see, idioms, proverbs, and other multi-layered phrases are rarely meant to be taken literally, so it doesn't always make sense to translate them literally. Instead, it's usually more helpful to focus on preserving their functional meanings, even if it means ignoring their literal wordings.",
+        "raw": "As we can see, idioms, proverbs, and other multi-layered phrases are rarely\nmeant to be taken literally, so it doesn't always make sense to translate\nthem literally. Instead, it's usually more helpful to focus on preserving their\nfunctional meanings, even if it means ignoring their literal wordings.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28686181,
+          0.82524286,
+          0.86606356,
+          0.89190714
+        ],
+        "mask_bbox": [
+          0.28506619,
+          0.82452857,
+          0.89679187,
+          0.89333571
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "可见，惯用语、谚语等多层表达很少是让人按字面理解的，因此照字面翻译未必合理。通常，着重保留实际含义更有帮助，即使这意味着放下原来的字面措辞。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28810961,
+          0.82381429,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0020-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.28810961,
+          0.82381429,
+          0.89679187,
+          0.91428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "examples"
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "7f29a3035118eba408dde0762a5fcd8890a3775b1f8e01808fc0cb3a4fc78df9"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      283.18,
+      853.71
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  },
+  "regions": [
+    {
+      "id": "upper-left-wrap",
+      "kind": "continuous-text",
+      "frame": [
+        284,
+        126,
+        568,
+        445
+      ],
+      "block_indexes": [
+        2,
+        3
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    },
+    {
+      "id": "examples",
+      "kind": "continuous-text",
+      "frame": [
+        284,
+        461,
+        884,
+        1280
+      ],
+      "block_indexes": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "paragraph_gap": 12,
+      "text_flow": "Use rendered height; do not reapply individual OCR y positions after the first block."
+    }
+  ],
+  "protected_regions": [
+    {
+      "kind": "image",
+      "bbox": [
+        593,
+        127,
+        884,
+        334
+      ],
+      "description": "Pickle illustration and its embedded English title stay untouched."
+    },
+    {
+      "kind": "decoration",
+      "bbox": [
+        593,
+        342,
+        608,
+        352
+      ],
+      "description": "Red pointer above picture caption."
+    },
+    {
+      "kind": "rule",
+      "bbox": [
+        281,
+        112.0,
+        885,
+        113.3
+      ]
+    },
+    {
+      "kind": "footer",
+      "bbox": [
+        237,
+        1310,
+        885,
+        1329
+      ]
+    }
+  ],
+  "layout_review": {
+    "status": "region-reviewed",
+    "reference": "layout-review-010-089.json",
+    "scope": "p20 original scan + calibrated pilot rules"
+  }
+}

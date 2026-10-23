@@ -1,0 +1,273 @@
+{
+  "schema_version": 3,
+  "pdf_page": 181,
+  "printed_page": "181",
+  "title": "灵感聚焦：Chrono Trigger",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    977.800304,
+    1400
+  ],
+  "physical_size_pt": [
+    496.08,
+    710.28
+  ],
+  "image_url": "/assets/p0181.jpg",
+  "image_sha256": "3608059684772d402a0bd9e6098a6e8a070d9d35425797828aaddc716cf84cc4",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0181/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0181-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Inspiration Spotlight: Chrono Trigger",
+        "raw": "Inspiration Spotlight: Chrono Trigger",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.20327259,
+          0.06709286,
+          0.59168523,
+          0.08047143
+        ],
+        "mask_bbox": [
+          0.20194307,
+          0.06637857,
+          0.59301475,
+          0.08154286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "灵感聚焦：Chrono Trigger",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 19,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.114542816,
+          0.057285714,
+          0.680097968,
+          0.081428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.081428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.114542816,
+          0.057285714,
+          0.680097968,
+          0.081428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 118
+    },
+    {
+      "id": "p0181-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 1995, Square released Chrono Trigger for the Japanese Super Famicom and the North American Super NES. This classic, influential Japanese RPG introduced new gameplay concepts not found in its contemporaries, including time-travel mechanics, branching storylines, and multi character battle techniques. As the product of a dream team of game developers, Chrono Trigger enjoyed commercial and critical success upon release, and remains well regarded to this day.",
+        "raw": "In 1995, Square released Chrono Trigger for the Japanese Super Famicom\nand the North American Super NES. This classic, influential Japanese\nRPG introduced new gameplay concepts not found in its contemporaries,\nincluding time-travel mechanics, branching storylines, and multi\ncharacter battle techniques. As the product of a dream team of game\ndevelopers, Chrono Trigger enjoyed commercial and critical success upon\nrelease, and remains well regarded to this day.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11691549,
+          0.77622143,
+          0.67688668,
+          0.88955714
+        ],
+        "mask_bbox": [
+          0.11487008,
+          0.77550714,
+          0.67893209,
+          0.89062857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "1995 年，Square 在日本 Super Famicom 与北美 Super NES 平台发行了 Chrono Trigger。这部经典日式 RPG 影响深远，加入了当时同类作品未见的玩法构想，包括时间旅行机制、分支剧情，以及多人合体战技。它由游戏开发者组成的梦之队打造，上市时销量与口碑俱佳，至今仍备受推崇。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 52,
+            "end": 66,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11691549,
+          0.77479286,
+          0.67688668,
+          0.89312857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11691549,
+          0.77479286,
+          0.67688668,
+          0.89312857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0181-b003",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63618307,
+          0.93647143,
+          0.70400878,
+          0.94604286
+        ],
+        "mask_bbox": [
+          0.63485356,
+          0.93575714,
+          0.7053383,
+          0.94711429
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63618307,
+          0.93504286,
+          0.70400878,
+          0.95304286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9530428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63618307,
+          0.93504286,
+          0.70400878,
+          0.95304286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "fcc66c21dd27786b118fe41000bf69f42c3bfcd8e2953967ffad3688240a26f5"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      114.32,
+      661.86
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1014 @@
+{
+  "schema_version": 3,
+  "pdf_page": 138,
+  "printed_page": "138",
+  "title": "自造词怎么译",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 4,
+  "updated_at": "2026-10-22T19:12:45.533720+00:00",
+  "reference_size": [
+    980.425963,
+    1400
+  ],
+  "physical_size_pt": [
+    497.16,
+    709.92
+  ],
+  "image_url": "/assets/p0138.jpg",
+  "image_sha256": "7474c380f6b2b59e3fddd71cf740614e0f274225ba8954c5a68e7d8bf2ac7002",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0138/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0138-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Take My Word For It",
+        "raw": "Take My Word For It",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29097557,
+          0.05862143,
+          0.50057834,
+          0.07312857
+        ],
+        "mask_bbox": [
+          0.28964961,
+          0.05790714,
+          0.50190429,
+          0.0742
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "自造词怎么译",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.049428571,
+          0.90522899,
+          0.073571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.073571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.049428571,
+          0.90522899,
+          0.073571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 107
+    },
+    {
+      "id": "p0138-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Having direct ~ input from Toby helped limit misinterpretations of his invented English words",
+        "raw": "Having direct ~\ninput from Toby\nhelped limit\nmisinterpretations of\nhis invented English\nwords",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13438037,
+          0.08953571,
+          0.28097991,
+          0.17698571
+        ],
+        "mask_bbox": [
+          0.13305441,
+          0.08882143,
+          0.28230587,
+          0.17805714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "有 Toby 直接提供意见，团队便较少误解他自造的英语词。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11729596,
+          0.08810714,
+          0.28097991,
+          0.18055714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11729596,
+          0.08810714,
+          0.28097991,
+          0.18055714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Language dictionaries are an essential tool for any translator, but what happens when an author invents completely new words never seen before? This was a consistent issue during Underta/e's localization. Some problematic words included:",
+        "raw": "Language dictionaries are an essential tool for any translator, but what happens\nwhen an author invents completely new words never seen before? This was\na consistent issue during Underta/e's localization. Some problematic words\nincluded:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29203633,
+          0.25218571,
+          0.90522899,
+          0.32084286
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.25147143,
+          0.90726892,
+          0.32191429
+        ],
+        "line_ids": [
+          11,
+          12,
+          13,
+          14
+        ]
+      },
+      "translation": {
+        "text": "词典是译者不可或缺的工具，但作者要是造出了前所未见的新词，又该怎么办？这个问题贯穿了 Undertale 的本地化过程。下面这些词都曾给团队出难题：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 43,
+            "end": 52,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.25075714,
+          0.90522899,
+          0.32441429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.32785714285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.25075714,
+          0.90522899,
+          0.32441429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Jippity jumpity joodle Low jinks Dapsolutely Passioneer Poff Sparkular Water sausage",
+        "raw": "Jippity jumpity joodle\nLow jinks\nDapsolutely\nPassioneer\nPoff\nSparkular\nWater sausage",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33737377,
+          0.335,
+          0.50837087,
+          0.45707857
+        ],
+        "mask_bbox": [
+          0.30034904,
+          0.33428571,
+          0.50969682,
+          0.45815
+        ],
+        "line_ids": [
+          15,
+          17,
+          19,
+          21,
+          23,
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "• Jippity jumpity joodle\n• Low jinks\n• Dapsolutely\n• Passioneer\n• Poff\n• Sparkular\n• Water sausage",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33658839,
+          0.33071428571428574,
+          0.60993897,
+          0.45999999571428574
+        ],
+        "font_size": 18.5,
+        "line_height": 1.351351,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4614285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.33658839,
+          0.33071428571428574,
+          0.60993897,
+          0.45999999571428574
+        ],
+        "font_size": 18.5,
+        "leading": 24.9999935
+      },
+      "review_issues": [
+        "此表列举自造词，原书在此没有逐词释义；保留原例，不猜测中文含义。"
+      ],
+      "content_role": "list",
+      "region_id": "p0138-list-left"
+    },
+    {
+      "id": "p0138-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Fabuful Persistenester Aclog Freakadacious Japers Hotbaby Gentlebeauties",
+        "raw": "Fabuful\nPersistenester\nAclog\nFreakadacious\nJapers\nHotbaby\nGentlebeauties",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6583771,
+          0.335,
+          0.77474489,
+          0.45672857
+        ],
+        "mask_bbox": [
+          0.62135237,
+          0.33428571,
+          0.77607084,
+          0.4578
+        ],
+        "line_ids": [
+          16,
+          18,
+          20,
+          22,
+          24,
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "• Fabuful\n• Persistenester\n• Aclog\n• Freakadacious\n• Japers\n• Hotbaby\n• Gentlebeauties",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6293183,
+          0.33071428571428574,
+          0.90266887,
+          0.45999999571428574
+        ],
+        "font_size": 18.5,
+        "line_height": 1.351351,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4614285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.6293183,
+          0.33071428571428574,
+          0.90266887,
+          0.45999999571428574
+        ],
+        "font_size": 18.5,
+        "leading": 24.9999935
+      },
+      "review_issues": [],
+      "content_role": "list",
+      "region_id": "p0138-list-right"
+    },
+    {
+      "id": "p0138-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby knew these invented words wouldn't translate well, so he always included helpful notes whenever they appeared in the script. He also answered the localization team's follow-up questions regarding these unique words.",
+        "raw": "Toby knew these invented words wouldn't translate well, so he always\nincluded helpful notes whenever they appeared in the script. He also answered\nthe localization team's follow-up questions regarding these unique words.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2928625,
+          0.47226429,
+          0.9047598,
+          0.52197857
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.47155,
+          0.90726892,
+          0.52305
+        ],
+        "line_ids": [
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Toby 知道这些自造词很难翻译，因此只要剧本里出现，就会附上说明。本地化团队进一步询问这些特殊词语时，他也会解答。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29203633,
+          0.47214286,
+          0.90674873,
+          0.53285714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29203633,
+          0.47214286,
+          0.90674873,
+          0.53285714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "p0138-prose-below-list"
+    },
+    {
+      "id": "p0138-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Even with Toby's input, however, each invented word became its own translation challenge. The localization team's general solution was to translate each invented word's intended meaning while adjusting the encompassing line to match the word's \"feeling\".",
+        "raw": "Even with Toby's input, however, each invented word became its own\ntranslation challenge. The localization team's general solution was to translate\neach invented word's intended meaning while adjusting the encompassing line\nto match the word's \"feeling\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29340308,
+          0.5365,
+          0.90230169,
+          0.60446429
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.53578571,
+          0.90726892,
+          0.60553571
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "不过，即便有 Toby 帮忙，每个自造词仍是独立的翻译难题。团队通常会译出它原本想表达的意思，再调整整句台词，传达这个词的“感觉”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.53507143,
+          0.90522899,
+          0.60803571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.53507143,
+          0.90522899,
+          0.60803571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In one scene, for example, Papyrus leaves a letter for the main character. The letter ends with the message:",
+        "raw": "In one scene, for example, Papyrus leaves a letter for the main character. The\nletter ends with the message:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29385187,
+          0.61898571,
+          0.88697162,
+          0.64976429
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.61827143,
+          0.90726892,
+          0.65083571
+        ],
+        "line_ids": [
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "例如，有一幕中，Papyrus 给主角留下一封信，结尾写道：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.61755714,
+          0.90522899,
+          0.65333571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.61755714,
+          0.90522899,
+          0.65333571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b009",
+      "kind": "quote",
+      "source": {
+        "text": "- SLIGHTLY BONETROUSLED, PAPYRUS",
+        "raw": "- SLIGHTLY BONETROUSLED,\nPAPYRUS",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33288592,
+          0.66472143,
+          0.58764254,
+          0.69638571
+        ],
+        "mask_bbox": [
+          0.33155997,
+          0.66400714,
+          0.58896849,
+          0.69745714
+        ],
+        "line_ids": [
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "——有点 BONETROUSLED 的\nPapyrus",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33288592,
+          0.66329286,
+          0.90522899,
+          0.69995714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0138-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33288592,
+          0.66329286,
+          0.90522899,
+          0.69995714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [
+        "BONETROUSLED 为本段正在解释的无固定词义自造词，中文解释见随后引文。"
+      ]
+    },
+    {
+      "id": "p0138-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In his translation notes, Toby explained \"bonetrousled\" with:",
+        "raw": "In his translation notes, Toby explained \"bonetrousled\" with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29433125,
+          0.71127857,
+          0.76630978,
+          0.72381429
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.71056429,
+          0.90726892,
+          0.72488571
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译注释中这样解释“bonetrousled”：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.70985,
+          0.90522899,
+          0.73199286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.70985,
+          0.90522899,
+          0.73199286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b011",
+      "kind": "quote",
+      "source": {
+        "text": "'' Bonetrousle is the name ofP apyrus's boss theme. It's also a completely made up word that has absolutely no meaning but probably something akin to \"bothered\" or \"troubled\"?",
+        "raw": "'' Bonetrousle is the name ofP apyrus's boss theme. It's also a completely\nmade up word that has absolutely no meaning but probably something akin\nto \"bothered\" or \"troubled\"?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29476984,
+          0.7391,
+          0.90282187,
+          0.78801429
+        ],
+        "mask_bbox": [
+          0.29344388,
+          0.73838571,
+          0.90414782,
+          0.78908571
+        ],
+        "line_ids": [
+          41,
+          42,
+          43
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.293749871,
+            0.735714286,
+            0.319248992,
+            0.750714286
+          ],
+          "offset": [
+            -43.9163,
+            2.9125
+          ]
+        }
+      },
+      "translation": {
+        "text": "Bonetrousle 是 Papyrus 首领战主题曲的名字。它也是一个完全编出来、没有实际意义的词，不过大概接近“烦恼”或“困扰”吧？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33854292,
+          0.73767143,
+          0.90522899,
+          0.79158571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.33854292,
+          0.73767143,
+          0.90522899,
+          0.79158571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "With this helpful information, the translator rephrased the Japanese line to say:",
+        "raw": "With this helpful information, the translator rephrased the Japanese line to say:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29344388,
+          0.80322143,
+          0.8961615,
+          0.81575714
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.80250714,
+          0.90726892,
+          0.81682857
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "有了这条线索，译者把日文改写为：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.80179286,
+          0.90522899,
+          0.82393571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.80179286,
+          0.90522899,
+          0.82393571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b013",
+      "kind": "quote",
+      "source": {
+        "text": "A bit bugged to the bone From Papyrus",
+        "raw": "A bit bugged to the bone\nFrom Papyrus",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33721057,
+          0.83072857,
+          0.51969248,
+          0.86104286
+        ],
+        "mask_bbox": [
+          0.33588462,
+          0.83001429,
+          0.52101843,
+          0.86211429
+        ],
+        "line_ids": [
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "有点烦到骨头里的\nPapyrus 敬上",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33721057,
+          0.8293,
+          0.90522899,
+          0.86461429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0138-b012",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33721057,
+          0.8293,
+          0.90522899,
+          0.86461429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0138-b014",
+      "kind": "paragraph",
+      "source": {
+        "text": "Other made-up words were handled in a similar way, with varying results.",
+        "raw": "Other made-up words were handled in a similar way, with varying results.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29525942,
+          0.87659286,
+          0.86773508,
+          0.88912857
+        ],
+        "mask_bbox": [
+          0.2899964,
+          0.87587857,
+          0.90726892,
+          0.8902
+        ],
+        "line_ids": [
+          47
+        ]
+      },
+      "translation": {
+        "text": "其他自造词也采用了类似的处理方式，效果各不相同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29344388,
+          0.87516429,
+          0.90522899,
+          0.89730714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0138-b013"
+      },
+      "calibration": {
+        "bbox": [
+          0.29344388,
+          0.87516429,
+          0.90522899,
+          0.89730714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "046f188fb1fbc0e46cb1da130ef24bcaa89ec53288d63493df1e718a927592b7"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          48
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.7,
+      887.51
+    ],
+    "text_runs": [
+      {
+        "id": "p0138-b006",
+        "blocks": [
+          "p0138-b006",
+          "p0138-b007",
+          "p0138-b008",
+          "p0138-b009",
+          "p0138-b010",
+          "p0138-b011",
+          "p0138-b012",
+          "p0138-b013",
+          "p0138-b014"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

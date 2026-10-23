@@ -1,0 +1,927 @@
+{
+  "schema_version": 3,
+  "pdf_page": 62,
+  "printed_page": "62",
+  "title": "组建团队",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.138280+00:00",
+  "reference_size": [
+    983.668639,
+    1400
+  ],
+  "physical_size_pt": [
+    498.72,
+    709.8
+  ],
+  "image_url": "/assets/p0062.jpg",
+  "image_sha256": "8e5f8e627e3f2dc275bfe1d097442b88c7ee56e87ef98789aff76f4e0fc6ddbd",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0062/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0062-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Team Building",
+        "raw": "Team Building",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28957922,
+          0.06195714,
+          0.43644779,
+          0.07590714
+        ],
+        "mask_bbox": [
+          0.28825764,
+          0.06124286,
+          0.43776937,
+          0.07697857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "组建团队",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.053,
+          0.90187891,
+          0.07714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07714285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.053,
+          0.90187891,
+          0.07714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 112.0
+    },
+    {
+      "id": "p0062-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Not all localization projects are the same - a massive, big-budget game might call for a large team of translators and editors with specialized skill sets, while a small indie game might only warrant a single person juggling multiple responsibi Ii ties.",
+        "raw": "Not all localization projects are the same - a massive, big-budget game might\ncall for a large team of translators and editors with specialized skill sets, while\na small indie game might only warrant a single person juggling multiple\nresponsibi Ii ties.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290484,
+          0.09139286,
+          0.87675866,
+          0.15787143
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.09067857,
+          0.90391212,
+          0.15894286
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "本地化项目各不相同：大型高预算游戏可能需要很多各有专长的译者和编辑；小型独立游戏则可能只需一人身兼数职。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.08996429,
+          0.90187891,
+          0.16144286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5975071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.08996429,
+          0.90187891,
+          0.16144286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In-house localization departments and industry-specific localization companies usually have more resources at their disposal than generic \"one stop shop\" translation agencies. These extra resources allow for larger localization teams filled with qualified specialists. This means that 8-4, as a dedicated game localization company, was able to give Undertale the same treatment as a big-budget game from a major studio.",
+        "raw": "In-house localization departments and industry-specific localization\ncompanies usually have more resources at their disposal than generic \"one\nstop shop\" translation agencies. These extra resources allow for larger\nlocalization teams filled with qualified specialists. This means that 8-4, as a\ndedicated game localization company, was able to give Undertale the same\ntreatment as a big-budget game from a major studio.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.290545,
+          0.17355714,
+          0.86906298,
+          0.27790714
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.17284286,
+          0.90391212,
+          0.27897857
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "公司内部的本地化部门、专注某个行业的本地化公司，通常比普通“一站式”翻译机构拥有更多资源，能组建更大的团队，配齐合格的专业人员。因此，作为专门的游戏本地化公司，8-4 能让 Undertale 享受到大型工作室高预算游戏的待遇。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 87,
+            "end": 96,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.17212857,
+          0.90187891,
+          0.28147857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5975071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0062-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.17212857,
+          0.90187891,
+          0.28147857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's localization team consisted of:",
+        "raw": "Underta/e's localization team consisted of:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29108379,
+          0.29358571,
+          0.61562398,
+          0.30598571
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.29287143,
+          0.61694556,
+          0.30705714
+        ],
+        "line_ids": [
+          12
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的本地化团队包括：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.29215714,
+          0.90187891,
+          0.3143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5975071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0062-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.29215714,
+          0.90187891,
+          0.3143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b005",
+      "kind": "quote",
+      "source": {
+        "text": "One English-to-Japanese translator who performed all of the raw text translation and localization, as well as the final polishing pass A programmer who reprogrammed parts of the game to work properly in Japanese and on game consoles Multiple bilingual translators who pointed out translation mistakes and oversights, and made alternative localization suggestions Multiple editors who documented text issues and offered feedback for the lead translator to consider implementing during the final polishing phase A producer who managed all of these people",
+        "raw": "One English-to-Japanese translator who performed all of the raw text\ntranslation and localization, as well as the final polishing pass\nA programmer who reprogrammed parts of the game to work properly in\nJapanese and on game consoles\nMultiple bilingual translators who pointed out translation mistakes and\noversights, and made alternative localization suggestions\nMultiple editors who documented text issues and offered feedback for the\nlead translator to consider implementing during the final polishing phase\nA producer who managed all of these people",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33585497,
+          0.32062143,
+          0.90034384,
+          0.51731429
+        ],
+        "mask_bbox": [
+          0.2989523,
+          0.31990714,
+          0.90166542,
+          0.51838571
+        ],
+        "line_ids": [
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "• 一名英译日译者，负责全部初译与本地化，以及最后一轮润色\n• 一名程序员，重写部分程序，让游戏能正确显示日语并在主机运行\n• 多名双语译者，指出误译与疏漏，提出其他本地化方案\n• 多名编辑，记录文字问题、提供反馈，供主译在最后润色时考虑采用\n• 一名制作人，管理上述人员",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33585497,
+          0.31919286,
+          0.90187891,
+          0.52088571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5975071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0062-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.33585497,
+          0.31919286,
+          0.90187891,
+          0.52088571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0062-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In addition, Toby and 8-4 also pulled in outside help for art asset localization, quality assurance testing, and further language checks. Undertale's Japanese localization was unquestionably a team effort.",
+        "raw": "In addition, Toby and 8-4 also pulled in outside help for art asset localization,\nquality assurance testing, and further language checks. Undertale's Japanese\nlocalization was unquestionably a team effort.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29196824,
+          0.53129286,
+          0.88815478,
+          0.58052857
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.53057857,
+          0.90391212,
+          0.5816
+        ],
+        "line_ids": [
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "此外，Toby 和 8-4 还请外部人员协助美术资源本地化、质量测试和进一步的语言检查。Undertale 的日语本地化，毫无疑问是团队合作的成果。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 44,
+            "end": 53,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.52986429,
+          0.90187891,
+          0.5841
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5975071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0062-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.52986429,
+          0.90187891,
+          0.5841
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Slow and Steady",
+        "raw": "Slow and Steady",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29287301,
+          0.60465,
+          0.46607158,
+          0.61859286
+        ],
+        "mask_bbox": [
+          0.29155143,
+          0.60393571,
+          0.46739317,
+          0.61966429
+        ],
+        "line_ids": [
+          25
+        ]
+      },
+      "translation": {
+        "text": "慢工出细活",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.59514286,
+          0.90187891,
+          0.61928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6192857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.59514286,
+          0.90187891,
+          0.61928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 871.0
+    },
+    {
+      "id": "p0062-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Normally, the complexity of Undertale's script might've warranted two English-to-Japanese translators in order to achieve a timely release. Instead, 8-4 opted to take it slow and only go with one. This meant the game would take longer and cost more money to localize, but it also brought benefits with it:",
+        "raw": "Normally, the complexity of Undertale's script might've warranted two\nEnglish-to-Japanese translators in order to achieve a timely release. Instead,\n8-4 opted to take it slow and only go with one. This meant the game would take\nlonger and cost more money to localize, but it also brought benefits with it:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29248671,
+          0.63271429,
+          0.90187891,
+          0.7009
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.632,
+          0.90391212,
+          0.70197143
+        ],
+        "line_ids": [
+          26,
+          29,
+          33,
+          36
+        ]
+      },
+      "translation": {
+        "text": "按 Undertale 剧本的复杂程度，通常可能要用两名英译日译者，才能及时发行。8-4 却决定慢慢来，只用一名。这样本地化会耗时更久、花费更多，但也有好处：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 2,
+            "end": 11,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.63128571,
+          0.90187891,
+          0.70447143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.63128571,
+          0.90187891,
+          0.70447143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b009",
+      "kind": "quote",
+      "source": {
+        "text": "The resulting translation would have a single, consistent voice throughout the game The team could take its time to polish everything without rushing It reduced the amount of last-minute crunch in general",
+        "raw": "The resulting translation would have a single, consistent voice\nthroughout the game\nThe team could take its time to polish everything without rushing\nIt reduced the amount of last-minute crunch in general",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33766452,
+          0.71622857,
+          0.84410539,
+          0.80167857
+        ],
+        "mask_bbox": [
+          0.30076185,
+          0.71551429,
+          0.84542697,
+          0.80275
+        ],
+        "line_ids": [
+          41,
+          43,
+          45,
+          48
+        ]
+      },
+      "translation": {
+        "text": "• 全篇译文会保持统一、一致的口吻\n• 团队可以从容打磨，不必赶工\n• 整体减少最后关头的突击加班",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33766452,
+          0.7148,
+          0.90187891,
+          0.80525
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0062-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.33766452,
+          0.7148,
+          0.90187891,
+          0.80525
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0062-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "As the fan translations demonstrated, it would've been feasible to produce a bare-bones Japanese version of Undertale in a matter of months. Toby and 8-4 weren't in a rush to push a release out the door, though, so the localization team took its time with the project. In total, eighteen months of work went into Undertale's Japanese release.",
+        "raw": "As the fan translations demonstrated, it would've been feasible to produce a\nbare-bones Japanese version of Underta/e in a matter of months. Toby and 8-4\nweren't in a rush to push a release out the door, though, so the localization\nteam took its time with the project. In total, eighteen months of work went\ninto Undertale's Japanese release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29110413,
+          0.81700714,
+          0.89324795,
+          0.90242143
+        ],
+        "mask_bbox": [
+          0.28845079,
+          0.81629286,
+          0.90391212,
+          0.90349286
+        ],
+        "line_ids": [
+          51,
+          53,
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "民间译版已经证明，几个月内做出一个基本的日语版完全可行。但 Toby 和 8-4 不急着推出游戏，团队因此能慢慢完成项目。Undertale 日语版总共投入了18个月的工作。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 61,
+            "end": 70,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29110413,
+          0.81557857,
+          0.90187891,
+          0.90599286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0062-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29110413,
+          0.81557857,
+          0.90187891,
+          0.90599286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0062-b011",
+      "kind": "caption",
+      "source": {
+        "text": "For reference: Breath of Fire /l's localizers were only given a few weeks. EarthBound's localizers took about 10 months",
+        "raw": "For reference: Breath\nof Fire /l's localizers\nwere only given a few\nweeks. EarthBound's\nlocalizers took about\n10 months",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12993197,
+          0.75283571,
+          0.26792559,
+          0.84214286
+        ],
+        "mask_bbox": [
+          0.12861038,
+          0.75212143,
+          0.26924717,
+          0.84321429
+        ],
+        "line_ids": [
+          44,
+          46,
+          47,
+          49,
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "对比一下：《Breath of Fire II》的本地化人员只有几周；EarthBound 的本地化花了约10个月。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 6,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 35,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12993197,
+          0.75140714,
+          0.26792559,
+          0.84571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12993197,
+          0.75140714,
+          0.26792559,
+          0.84571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "21f3adba9290786bc1e606e773451e4a5ece92c627becbc5db6e1baadf500491"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          27
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          37
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          38
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          39
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          40
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          42
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          57
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.35,
+      887.15
+    ],
+    "text_runs": [
+      {
+        "id": "p0062-b002",
+        "blocks": [
+          "p0062-b002",
+          "p0062-b003",
+          "p0062-b004",
+          "p0062-b005",
+          "p0062-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 836.51
+      },
+      {
+        "id": "p0062-b008",
+        "blocks": [
+          "p0062-b008",
+          "p0062-b009",
+          "p0062-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

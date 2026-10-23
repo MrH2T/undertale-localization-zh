@@ -1,0 +1,879 @@
+{
+  "schema_version": 3,
+  "pdf_page": 100,
+  "printed_page": "100",
+  "title": "奇特的派",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "reference_size": [
+    975.821952,
+    1400
+  ],
+  "physical_size_pt": [
+    496.08,
+    711.72
+  ],
+  "image_url": "/assets/p0100.jpg",
+  "image_sha256": "8e1bba833210732757761e5d627639c2c45102a009bad886fe4315770e388850",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0100/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0100-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Peculiar Pies",
+        "raw": "Peculiar Pies",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28938681,
+          0.06607143,
+          0.41879566,
+          0.07927857
+        ],
+        "mask_bbox": [
+          0.2880546,
+          0.06535714,
+          0.42012787,
+          0.08035
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "奇特的派",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28992481,
+          0.05585714,
+          0.88922984,
+          0.08
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28992481,
+          0.05585714,
+          0.88922984,
+          0.08
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 116.0
+    },
+    {
+      "id": "p0100-b002",
+      "kind": "aside",
+      "source": {
+        "text": "I wonder if any ~ especially zealous fans have made snail pie after seeing it referenced in Undertale, similar to how EarthBound fans have made real-life trout yogurt",
+        "raw": "I wonder if any ~\nespecially zealous\nfans have made snail\npie after seeing it\nreferenced in Undertale,\nsimilar to how\nEarthBound fans have\nmade real-life trout\nyogurt",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11389373,
+          0.09583571,
+          0.2777146,
+          0.23005
+        ],
+        "mask_bbox": [
+          0.11256152,
+          0.09512143,
+          0.27904681,
+          0.23112143
+        ],
+        "line_ids": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          11,
+          12,
+          15,
+          19
+        ]
+      },
+      "translation": {
+        "text": "不知道有没有特别热情的粉丝在 Undertale 中见到蜗牛派后，真的动手做了一份，就像 EarthBound 的粉丝做出了现实版鳟鱼酸奶一样。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 15,
+            "end": 24,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 45,
+            "end": 55,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11389373,
+          0.09440714,
+          0.2777146,
+          0.23362143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.39859285285714285,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11389373,
+          0.09440714,
+          0.2777146,
+          0.23362143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toriel suggests that she was considering baking \"snail pie\" to celebrate the main character’s arrival. This outlandish-sounding dish is a reference to Illusion of Gaia, one of Toby’s favorite Japanese games from the mid-1990s.",
+        "raw": "Torie! suggests that she was considering baking \"snail pie\" to celebrate the\nmain character's arrival. This outlandish-sounding dish is a reference to\nIllusion of Gaia, one of Toby's favorite Japanese games from the mid-1990s.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.288526,
+          0.2594,
+          0.86569071,
+          0.30785714
+        ],
+        "mask_bbox": [
+          0.28647644,
+          0.25868571,
+          0.8912794,
+          0.30892857
+        ],
+        "line_ids": [
+          24,
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Toriel 说，她原本考虑烤一个“蜗牛派”来庆祝主角的到来。这道听起来很古怪的菜，出自 Toby 喜爱的日本游戏 Illusion of Gaia，发行于20世纪90年代中期。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 58,
+            "end": 74,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28992481,
+          0.25797143,
+          0.88922984,
+          0.31142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3992857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28992481,
+          0.25797143,
+          0.88922984,
+          0.31142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "The Undertale translator encountered an unexpected problem when translating this line, however: the original Japanese version of Illusion of Gaia never mentioned \"snail pie\" - it was originally just \"meat pie\", which doesn't sound nearly as bizarre or memorable.",
+        "raw": "The Undertale translator encountered an unexpected problem when\ntranslating this line, however: the original Japanese version of Illusion of Gaia\nnever mentioned \"snail pie\" - it was originally just \"meat pie\", which doesn't\nsound nearly as bizarre or memorable.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2891716,
+          0.32312857,
+          0.88922984,
+          0.39013571
+        ],
+        "mask_bbox": [
+          0.28647644,
+          0.32241429,
+          0.8912794,
+          0.39120714
+        ],
+        "line_ids": [
+          27,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "不过，Undertale 的译者翻译这句台词时遇到了意想不到的问题：Illusion of Gaia 的日文原版根本没有“蜗牛派”，原本只是“肉派”，远没有那么古怪，也没那么令人难忘。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 34,
+            "end": 50,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28992481,
+          0.3217,
+          0.88922984,
+          0.39370714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3992857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0100-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.28992481,
+          0.3217,
+          0.88922984,
+          0.39370714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b005",
+      "kind": "aside",
+      "source": {
+        "text": "I feel that calling it ~ \"meat pie with whipped cream on top\" would make the Illusion of Gaia reference recognizable, but then the snail connection to Toriel's book later on would be lost",
+        "raw": "I feel that calling it ~\n\"meat pie with whipped\ncream on top\" would\nmake the Illusion\nof Gaia reference\nrecognizable, but then\nthe snail connection to\nToriel's book later on\nwould be lost",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11157773,
+          0.40573571,
+          0.27916978,
+          0.54028571
+        ],
+        "mask_bbox": [
+          0.11024552,
+          0.40502143,
+          0.28050199,
+          0.54135714
+        ],
+        "line_ids": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          40,
+          45,
+          48,
+          49
+        ]
+      },
+      "translation": {
+        "text": "我觉得叫它“上面浇了鲜奶油的肉派”，或许能让人认出 Illusion of Gaia 的梗，但这样就失去了与 Toriel 后面那本书之间的蜗牛联系。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 26,
+            "end": 42,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11157773,
+          0.40430714,
+          0.27916978,
+          0.54385714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11157773,
+          0.40430714,
+          0.27916978,
+          0.54385714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because Toby's original \"snail pie\" reference would be lost on Japanese Undertale players, the translator had to make a choice:",
+        "raw": "Because Toby's original \"snail pie\" reference would be lost on Japanese\nUndertale players, the translator had to make a choice:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29067803,
+          0.56121429,
+          0.84095259,
+          0.59211429
+        ],
+        "mask_bbox": [
+          0.28647644,
+          0.5605,
+          0.8912794,
+          0.59318571
+        ],
+        "line_ids": [
+          50,
+          51
+        ]
+      },
+      "translation": {
+        "text": "日本 Undertale 玩家无法领会 Toby 原本的“蜗牛派”梗，因此译者需要作出选择：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28992481,
+          0.55978571,
+          0.88922984,
+          0.59568571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28992481,
+          0.55978571,
+          0.88922984,
+          0.59568571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b007",
+      "kind": "quote",
+      "source": {
+        "text": "Leave it as \"snail pie\" in Japanese, which would avoid the need to write all-new text when Torie! later quotes a book called 72 Uses for Snails",
+        "raw": "Leave it as \"snail pie\" in Japanese, which would avoid the need to write\nall-new text when Torie! later quotes a book called 72 Uses for Snails",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33565549,
+          0.60674286,
+          0.88650393,
+          0.6373
+        ],
+        "mask_bbox": [
+          0.29845609,
+          0.60602857,
+          0.88783614,
+          0.63837143
+        ],
+        "line_ids": [
+          52,
+          53
+        ]
+      },
+      "translation": {
+        "text": "日文继续用“蜗牛派”，这样 Toriel 后面引用《蜗牛的72种用途》时，就不用重写那些引文。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33565549,
+          0.60531429,
+          0.88922984,
+          0.64087143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0100-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.33565549,
+          0.60531429,
+          0.88922984,
+          0.64087143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0100-b008",
+      "kind": "quote",
+      "source": {
+        "text": "Use \"meat pie\" to stay consistent with the original Illusion ofG aia reference and write all-new text for the 72 Uses for Snails quotes, even though the reference would be almost impossible to recognize",
+        "raw": "Use \"meat pie\" to stay consistent with the original Illusion ofG aia\nreference and write all-new text for the 72 Uses for Snails quotes, even\nthough the reference would be almost impossible to recognize",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33572723,
+          0.65258571,
+          0.87826473,
+          0.70170714
+        ],
+        "mask_bbox": [
+          0.29852782,
+          0.65187143,
+          0.87959694,
+          0.70277857
+        ],
+        "line_ids": [
+          54,
+          55,
+          56
+        ]
+      },
+      "translation": {
+        "text": "改用“肉派”，与 Illusion of Gaia 的原始出处一致，并重写《蜗牛的72种用途》的引文——尽管玩家几乎不可能认出这个梗。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33572723,
+          0.65115714,
+          0.88922984,
+          0.70527857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0100-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.33572723,
+          0.65115714,
+          0.88922984,
+          0.70527857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0100-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Force some other bizarre food reference into the line and write all-new text for the 72 Uses for Snails quotes",
+        "raw": "Force some other bizarre food reference into the line and write all-new\ntext for the 72 Uses for Snails quotes",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33615764,
+          0.71667143,
+          0.88748772,
+          0.74757143
+        ],
+        "mask_bbox": [
+          0.29895823,
+          0.71595714,
+          0.88881993,
+          0.74864286
+        ],
+        "line_ids": [
+          57,
+          58
+        ]
+      },
+      "translation": {
+        "text": "硬塞入另一种古怪食物的梗，并重写《蜗牛的72种用途》的引文。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33615764,
+          0.71524286,
+          0.88922984,
+          0.75114286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0100-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.33615764,
+          0.71524286,
+          0.88922984,
+          0.75114286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0100-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "The localization team weighed the options and chose to keep it \"snail pie\" in the Japanese script.",
+        "raw": "The localization team weighed the options and chose to keep it \"snail pie\" in\nthe Japanese script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29107769,
+          0.76252143,
+          0.88210764,
+          0.79309286
+        ],
+        "mask_bbox": [
+          0.28647644,
+          0.76180714,
+          0.8912794,
+          0.79416429
+        ],
+        "line_ids": [
+          59,
+          60
+        ]
+      },
+      "translation": {
+        "text": "本地化团队权衡各个方案后，决定在日文剧本中保留“蜗牛派”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28992481,
+          0.76109286,
+          0.88922984,
+          0.79666429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0100-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.28992481,
+          0.76109286,
+          0.88922984,
+          0.79666429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0100-b011",
+      "kind": "quote",
+      "source": {
+        "text": "As a translation student, I was taught the importance of studying influential literature to broaden my knowledge base. I think the same is equally as important for entertainment translation, except you'd have to study hundreds of movies, play hundreds of games, and so on. I wonder if any universities out there study game translations the same way they study literary translations.",
+        "raw": "As a translation student, I was taught the importance of studying influential\nliterature to broaden my knowledge base. I think the same is equally as\nimportant for entertainment translation, except you'd have to study hundreds\nof movies, play hundreds of games, and so on. I wonder if any universities out\nthere study game translations the same way they study literary translations.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30964665,
+          0.82286429,
+          0.88554064,
+          0.89469286
+        ],
+        "mask_bbox": [
+          0.30831444,
+          0.82215,
+          0.88687285,
+          0.89576429
+        ],
+        "line_ids": [
+          61,
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "translation": {
+        "text": "学习翻译时，老师告诉我，要阅读有影响力的文学作品，拓宽知识面。我觉得娱乐作品的翻译也一样重要，只不过需要研究几百部电影、玩几百款游戏，诸如此类。不知道有没有大学会像研究文学翻译那样，研究游戏翻译。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30964665,
+          0.82143571,
+          0.88922984,
+          0.89826429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9021428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.30964665,
+          0.82143571,
+          0.88922984,
+          0.89826429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "8cd640c195a012dcde1e98532fde0c197d388df92bcf5c6056a9c2baf0ed70ce"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2,
+          3,
+          4,
+          10,
+          13,
+          14,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          36,
+          37,
+          38,
+          39,
+          41,
+          42,
+          43,
+          44,
+          46,
+          47,
+          66
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      282.91,
+      867.73
+    ],
+    "text_runs": [
+      {
+        "id": "p0100-b003",
+        "blocks": [
+          "p0100-b003",
+          "p0100-b004"
+        ],
+        "gap": 12,
+        "limit_bottom": 559.0
+      },
+      {
+        "id": "p0100-b006",
+        "blocks": [
+          "p0100-b006",
+          "p0100-b007",
+          "p0100-b008",
+          "p0100-b009",
+          "p0100-b010"
+        ],
+        "gap": 12,
+        "limit_bottom": 1124.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

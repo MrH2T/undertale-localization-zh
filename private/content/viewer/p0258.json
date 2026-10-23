@@ -1,0 +1,1029 @@
+{
+  "schema_version": 3,
+  "pdf_page": 258,
+  "printed_page": "258",
+  "title": "裤子里的时尚宣言",
+  "subtitle": "结局 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.327059+00:00",
+  "reference_size": [
+    993.708777,
+    1400
+  ],
+  "physical_size_pt": [
+    503.64,
+    709.56
+  ],
+  "image_url": "/assets/p0258.jpg",
+  "image_sha256": "5274590823b81c170c321ee28568a5a749b12f06f40b526a498e3b23cddd790a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0258/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0258-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Fashion Statement",
+        "raw": "Fashion Statement",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28979315,
+          0.06153571,
+          0.48307916,
+          0.07436429
+        ],
+        "mask_bbox": [
+          0.28848492,
+          0.06082143,
+          0.48438739,
+          0.07543571
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "时尚宣言",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28957176,
+          0.05085714,
+          0.89511135,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28957176,
+          0.05085714,
+          0.89511135,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 109.0
+    },
+    {
+      "id": "p0258-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Ice Wolf also speaks ._ with fragmented Japanese grammar to mimic the phrasing of Ice Wolf's English dialogue",
+        "raw": "Ice Wolf also speaks ._\nwith fragmented\nJapanese grammar to\nmimic the phrasing\nof Ice Wolf's English\ndialogue",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12904183,
+          0.09060714,
+          0.27901535,
+          0.17902857
+        ],
+        "mask_bbox": [
+          0.1277336,
+          0.08989286,
+          0.28032358,
+          0.1801
+        ],
+        "line_ids": [
+          2,
+          6,
+          9,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Ice Wolf 的日语语法也断断续续，模仿了英文台词的措辞。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11572807,
+          0.08917857,
+          0.27901535,
+          0.1826
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.32357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11572807,
+          0.08917857,
+          0.27901535,
+          0.1826
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A monster named Ice Wolf is glad to finally have a break from throwing ice cubes all day as a job:",
+        "raw": "A monster named Ice Wolf is glad to finally have a break from throwing ice\ncubes all day as a job:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28730752,
+          0.23709286,
+          0.85652861,
+          0.26720714
+        ],
+        "mask_bbox": [
+          0.28529485,
+          0.23637857,
+          0.89712401,
+          0.26827857
+        ],
+        "line_ids": [
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "名叫 Ice Wolf 的怪物终于不用整天扔冰块，能歇一歇了，非常高兴：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28957176,
+          0.23566429,
+          0.89511135,
+          0.27077857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3871428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28957176,
+          0.23566429,
+          0.89511135,
+          0.27077857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Ice Wolf can take a break to buy some pants now. Ice Wolf thinking ofc hanging their name to Jimmy Hotpants.",
+        "raw": "Ice Wolf can take a break to buy some pants now.\nIce Wolf thinking ofc hanging their name to Jimmy Hotpants.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33279368,
+          0.28174286,
+          0.78863146,
+          0.31287143
+        ],
+        "mask_bbox": [
+          0.33148545,
+          0.28102857,
+          0.78993969,
+          0.31394286
+        ],
+        "line_ids": [
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Ice Wolf 现在可以休息，去买裤子。Ice Wolf 考虑改名叫 Jimmy Hotpants（热裤 Jimmy）。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33279368,
+          0.28031429,
+          0.89511135,
+          0.31644286
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3871428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33279368,
+          0.28031429,
+          0.89511135,
+          0.31644286
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "The name \"Jimmy Hotpants\" comes from a personal experience Toby had during a game of laser tag. Apparently, the top scorer at one point was named \"Jimmy Hotpants\", and the name was so ridiculous that it stuck with Toby long after.",
+        "raw": "The name \"Jimmy Hotpants\" comes from a personal experience Toby had during\na game of laser tag. Apparently, the top scorer at one point was named \"Jimmy\nHotpants\", and the name was so ridiculous that it stuck with Toby long after.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28909878,
+          0.32909286,
+          0.89266596,
+          0.37815
+        ],
+        "mask_bbox": [
+          0.28529485,
+          0.32837857,
+          0.89712401,
+          0.37922143
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "“Jimmy Hotpants”这个名字来自 Toby 玩镭射对战时的一次亲身经历。据说当时积分榜第一名就叫这个名字。它实在太荒唐，Toby 很久以后还记得。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28957176,
+          0.32766429,
+          0.89511135,
+          0.38172143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3871428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.28957176,
+          0.32766429,
+          0.89511135,
+          0.38172143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b006",
+      "kind": "aside",
+      "source": {
+        "text": "In laser tag, you shoot light guns at other players and hope they don't shoot you first",
+        "raw": "In laser tag, you shoot\nlight guns at other\nplayers and hope they\ndon't shoot you first",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12637505,
+          0.44913571,
+          0.26382981,
+          0.50610714
+        ],
+        "mask_bbox": [
+          0.12506682,
+          0.44842143,
+          0.26513804,
+          0.50717857
+        ],
+        "line_ids": [
+          21,
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "镭射对战中，你用光枪射击其他玩家，同时希望他们别先射中你。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11572807,
+          0.44770714,
+          0.26441348,
+          0.50967857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11572807,
+          0.44770714,
+          0.26441348,
+          0.50967857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b007",
+      "kind": "caption",
+      "source": {
+        "text": "The name \"Jimmy Hotpants\" evokes the image of very short shorts like these",
+        "raw": "The name \"Jimmy Hotpants\" evokes the image The name \"Jimmy Zubonski\" evokes the image\nof very short shorts like these",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28982334,
+          0.56357143,
+          0.57864036,
+          0.58928571
+        ],
+        "mask_bbox": [
+          0.28851511,
+          0.56285714,
+          0.57994859,
+          0.59035714
+        ],
+        "line_ids": [
+          25,
+          26
+        ]
+      },
+      "translation": {
+        "text": "“Jimmy Hotpants”让人想到这样短得不能再短的热裤。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28982334,
+          0.56214286,
+          0.57864036,
+          0.59285714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5955714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.28982334,
+          0.56214286,
+          0.57864036,
+          0.59285714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b008",
+      "kind": "caption",
+      "source": {
+        "text": "The name \"Jimmy Zubonski\" evokes the image of ordinary, full-length pants",
+        "raw": "of ordinary, full-length pants",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.60883029,
+          0.56357143,
+          0.89563464,
+          0.58928571
+        ],
+        "mask_bbox": [
+          0.60752206,
+          0.56285714,
+          0.89694287,
+          0.59035714
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "“Jimmy Zubonski”让人想到普通的长裤。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60883029,
+          0.56214286,
+          0.89563464,
+          0.59285714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5955714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.60883029,
+          0.56214286,
+          0.89563464,
+          0.59285714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The ridiculous sound and associated imagery of the name \"Jimmy Hotpants\" would be dulled in a literal transcription into Japanese. As such, the translator altered the name to \"Jimmy Zubonski\", which contains three levels of wordplay:",
+        "raw": "The ridiculous sound and associated imagery of the name \"Jimmy Hotpants\"\nwould be dulled in a literal transcription into Japanese. As such, the translator\naltered the name to \"Jimmy Zubonski\", which contains three levels of wordplay:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29004474,
+          0.60271429,
+          0.89511135,
+          0.65246429
+        ],
+        "mask_bbox": [
+          0.28529485,
+          0.602,
+          0.89712401,
+          0.65353571
+        ],
+        "line_ids": [
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "把“Jimmy Hotpants”直接音译成日语，会削弱它荒唐的音感与联想。译者于是改为“Jimmy Zubonski”，其中有三层文字游戏：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28957176,
+          0.60128571,
+          0.89511135,
+          0.65603571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.28957176,
+          0.60128571,
+          0.89511135,
+          0.65603571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b010",
+      "kind": "quote",
+      "source": {
+        "text": "\"Jimmy Zubonski\" sounds like a plausible, real-life Russian name",
+        "raw": "\"Jimmy Zubonski\" sounds like a plausible, real-life Russian name",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33466546,
+          0.66799286,
+          0.83016274,
+          0.68053571
+        ],
+        "mask_bbox": [
+          0.29813564,
+          0.66727857,
+          0.83147097,
+          0.68160714
+        ],
+        "line_ids": [
+          31
+        ]
+      },
+      "translation": {
+        "text": "• “Jimmy Zubonski”听起来像个现实中可能存在的俄国人名。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33466546,
+          0.66656429,
+          0.89511135,
+          0.68715357
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.33466546,
+          0.66656429,
+          0.89511135,
+          0.68715357
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0258-b011",
+      "kind": "quote",
+      "source": {
+        "text": "\"Zubonski\" is a play on the Japanese word zubon (\"pants\")",
+        "raw": "\"Zubonski\" is a play on the Japanese word zubon (\"pants\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33513843,
+          0.68625714,
+          0.77979587,
+          0.6988
+        ],
+        "mask_bbox": [
+          0.29860861,
+          0.68554286,
+          0.7811041,
+          0.69987143
+        ],
+        "line_ids": [
+          32
+        ]
+      },
+      "translation": {
+        "text": "• Zubonski 里包含日语 zubon（裤子）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 22,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33513843,
+          0.68482857,
+          0.89511135,
+          0.70541786
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.33513843,
+          0.68482857,
+          0.89511135,
+          0.70541786
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0258-b012",
+      "kind": "quote",
+      "source": {
+        "text": "\"Zubonski\" is also a play on the Japanese word suki (\"to like; to love\")",
+        "raw": "\"Zubonski\" is also a play on the Japanese word suki (\"to like; to love\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33466546,
+          0.70418571,
+          0.86354274,
+          0.71672857
+        ],
+        "mask_bbox": [
+          0.29813564,
+          0.70347143,
+          0.86485097,
+          0.7178
+        ],
+        "line_ids": [
+          33
+        ]
+      },
+      "translation": {
+        "text": "• Zubonski 也呼应日语 suki（喜欢、喜爱）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 17,
+            "end": 21,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33466546,
+          0.70275714,
+          0.89511135,
+          0.72334643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.33466546,
+          0.70275714,
+          0.89511135,
+          0.72334643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0258-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "In this way, the Japanese version of this line preserves the original joke in tone and humor. At the same time, it arguably surpasses the humor of the original line.",
+        "raw": "In this way, the Japanese version of this line preserves the original joke in tone\nand humor. At the same time, it arguably surpasses the humor of the original line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.291041,
+          0.73227143,
+          0.89509122,
+          0.76340714
+        ],
+        "mask_bbox": [
+          0.28529485,
+          0.73155714,
+          0.89712401,
+          0.76447857
+        ],
+        "line_ids": [
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "这样，日文保住了原句的语气和幽默，甚至可以说更好笑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.28957176,
+          0.73084286,
+          0.89511135,
+          0.76697857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7728571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0258-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.28957176,
+          0.73084286,
+          0.89511135,
+          0.76697857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0258-b014",
+      "kind": "aside",
+      "source": {
+        "text": "On a mostly unrelated topic, a rare practice in localization is something I call \"reverse localization\". As an example, let's pretend you're translating a Japanese game into English. But instead of translating like normal, imagine that what you're looking at is actually a Japanese translation of something that was originally in English. It's then your job to get as close to that \"original\" text as possible. Naturally, this requires an incredible amount of experience and skill to accomplish successfully.",
+        "raw": "On a mostly unrelated topic, a rare practice in localization is something I\ncall \"reverse localization\". As an example, let's pretend you're translating a\nJapanese game into English. But instead of translating like normal, imagine\nthat what you're looking at is actually a Japanese translation of something\nthat was originally in English. It's then your job to get as close to that\n\"original\" text as possible. Naturally, this requires an incredible amount of\nexperience and skill to accomplish successfully.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30285533,
+          0.79142143,
+          0.87518599,
+          0.89574286
+        ],
+        "mask_bbox": [
+          0.3015471,
+          0.79070714,
+          0.87649422,
+          0.89681429
+        ],
+        "line_ids": [
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "说个基本不相干的话题：本地化里有种少见的做法，我称为“反向本地化”。例如，你在把一款日本游戏译成英文，却不按通常思路翻译，而是假想眼前的日文原本就是从英文译来的。你的任务就是尽可能还原那个假想的“英文原文”。要做好这件事，自然需要极丰富的经验与技巧。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30285533,
+          0.78999286,
+          0.87518599,
+          0.89931429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9021428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.30285533,
+          0.78999286,
+          0.87518599,
+          0.89931429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "db00cd8d876cf7b0811a95491b797dd7065a54f464713a257617ba35e5867b3a"
+  },
+  "chapter_id": "chapter-252",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          5
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.75,
+      889.48
+    ],
+    "text_runs": [
+      {
+        "id": "p0258-b003",
+        "blocks": [
+          "p0258-b003",
+          "p0258-b004",
+          "p0258-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 542.0
+      },
+      {
+        "id": "p0258-b009",
+        "blocks": [
+          "p0258-b009",
+          "p0258-b010",
+          "p0258-b011",
+          "p0258-b012",
+          "p0258-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1082.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

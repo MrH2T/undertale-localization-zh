@@ -1,0 +1,937 @@
+{
+  "schema_version": 3,
+  "pdf_page": 126,
+  "printed_page": "126",
+  "title": "寻找单词",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    984.463087,
+    1400
+  ],
+  "physical_size_pt": [
+    502.92,
+    715.2
+  ],
+  "image_url": "/assets/p0126.jpg",
+  "image_sha256": "a90a145fa005387b9451d63280d96d619ee4160506c655ed2e074f10c35b6ef1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0126/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0126-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Searching for Words",
+        "raw": "Searching for Words",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29328677,
+          0.06363571,
+          0.50401077,
+          0.07775714
+        ],
+        "mask_bbox": [
+          0.29196625,
+          0.06292143,
+          0.50533129,
+          0.07882857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "寻找单词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.05442857,
+          0.89818502,
+          0.07857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07857142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.05442857,
+          0.89818502,
+          0.07857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 114.0
+    },
+    {
+      "id": "p0126-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Reader Challenge #3: ~ Solve both word searches and see how their solutions are different",
+        "raw": "Reader Challenge #3: ~\nSolve both word\nsearches and see how\ntheir solutions are\ndifferent",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13159457,
+          0.09314286,
+          0.28300706,
+          0.16563571
+        ],
+        "mask_bbox": [
+          0.13027406,
+          0.09242857,
+          0.28432757,
+          0.16670714
+        ],
+        "line_ids": [
+          2,
+          4,
+          7,
+          12,
+          17
+        ]
+      },
+      "translation": {
+        "text": "读者挑战③：解开这两道寻词题，看看它们的答案有何不同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681494,
+          0.09171429,
+          0.28300706,
+          0.16920714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.47760714285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681494,
+          0.09171429,
+          0.28300706,
+          0.16920714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Papyrus plants a trap to stall the main character's progress: a word search puzzle intended for children.",
+        "raw": "Papyrus plants a trap to stall the main character's progress: a word search\npuzzle intended for children.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29340866,
+          0.25601429,
+          0.85440481,
+          0.28659286
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.2553,
+          0.90021659,
+          0.28766429
+        ],
+        "line_ids": [
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 布下陷阱，想拖住主角：一道给孩子玩的寻词题。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.25458571,
+          0.89818502,
+          0.29016429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4474285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.25458571,
+          0.89818502,
+          0.29016429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "The English word search puzzle features one nonsense word and eleven normal words for the player to find. Some of the words are related to smoking because the puzzle's in-game creator loves to smoke.",
+        "raw": "The English word search puzzle features one nonsense word and eleven\nnormal words for the player to find. Some of the words are related to smoking\nbecause the puzzle's in-game creator loves to smoke.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2933274,
+          0.30064286,
+          0.88878904,
+          0.34966429
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.29992857,
+          0.90021659,
+          0.35073571
+        ],
+        "line_ids": [
+          32,
+          33,
+          34
+        ]
+      },
+      "translation": {
+        "text": "英语寻词题里有一个无意义的词和十一个普通单词，供玩家寻找。其中几个词与吸烟有关，因为游戏中这道题的创作者很爱抽烟。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.29921429,
+          0.89818502,
+          0.35323571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4474285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0126-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.29921429,
+          0.89818502,
+          0.35323571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Just like the English word search, the Japanese word search features one nonsense word and eleven normal words as well. However, the Japanese word search has been resized and contains fewer total letters. Because of this, the English solutions and the Japanese solutions don't match.",
+        "raw": "Just like the English word search, the Japanese word search features one\nnonsense word and eleven normal words as well. However, the Japanese word\nsearch has been resized and contains fewer total letters. Because of this, the\nEnglish solutions and the Japanese solutions don't match.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29291093,
+          0.36507143,
+          0.89196844,
+          0.4302
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.36435714,
+          0.90021659,
+          0.43127143
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "和英语版一样，日语寻词题也有一个无意义的词和十一个普通词。不过，日语题目调整了尺寸，字符总数减少了。因此，英语版与日语版的答案位置并不相同。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.36364286,
+          0.89818502,
+          0.43377143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4474285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0126-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.36364286,
+          0.89818502,
+          0.43377143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b006",
+      "kind": "heading",
+      "source": {
+        "text": "Breaking the Ice",
+        "raw": "Breaking the Ice",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29543007,
+          0.45457143,
+          0.46284112,
+          0.46869286
+        ],
+        "mask_bbox": [
+          0.29410955,
+          0.45385714,
+          0.46416164,
+          0.46976429
+        ],
+        "line_ids": [
+          39
+        ]
+      },
+      "translation": {
+        "text": "打破坚冰",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.445857143,
+          0.89818502,
+          0.47
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.47,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.445857143,
+          0.89818502,
+          0.47
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 662
+    },
+    {
+      "id": "p0126-b007",
+      "kind": "aside",
+      "source": {
+        "text": "The more I look, the ~ more it seems like the Duck Hunt dog's face is stuck on an ice cube",
+        "raw": "The more I look, the ~\nmore it seems like the\nDuck Hunt dog's face is\nstuck on an ice cube",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12437236,
+          0.48475,
+          0.28491673,
+          0.54013571
+        ],
+        "mask_bbox": [
+          0.12305185,
+          0.48403571,
+          0.28623724,
+          0.54120714
+        ],
+        "line_ids": [
+          40,
+          42,
+          43,
+          46
+        ]
+      },
+      "translation": {
+        "text": "越看越觉得，这就像把 Duck Hunt 那只狗的脸贴到了冰块上。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681494,
+          0.48332143,
+          0.28491673,
+          0.54370714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6142857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681494,
+          0.48332143,
+          0.28491673,
+          0.54370714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, the word search puzzle is presented by a dog-faced ice cube mascot named \"Ice-E\", a play on the word \"icy\". A text bubble also includes a message from Ice-E:",
+        "raw": "In English, the word search puzzle is presented by a dog-faced ice cube mascot\nnamed \"Ice-E\", a play on the word \"icy\". A text bubble also includes a message\nfrom Ice-E:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29484092,
+          0.6191,
+          0.89818502,
+          0.66812143
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.61838571,
+          0.90021659,
+          0.66919286
+        ],
+        "line_ids": [
+          53,
+          54,
+          55
+        ]
+      },
+      "translation": {
+        "text": "英语版的寻词题由一个长着狗脸的冰块吉祥物介绍，名叫“Ice-E”，谐音 icy（冰冷的）。对话气泡里还有 Ice-E 的一句话：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.61767143,
+          0.89818502,
+          0.67169286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.61767143,
+          0.89818502,
+          0.67169286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b009",
+      "kind": "quote",
+      "source": {
+        "text": "Hey, kid's! Can you help me solve this puzzle?",
+        "raw": "Hey, kid's! Can you help me solve this puzzle?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33943375,
+          0.68397857,
+          0.67630773,
+          0.69627857
+        ],
+        "mask_bbox": [
+          0.33811324,
+          0.68326429,
+          0.67762825,
+          0.69735
+        ],
+        "line_ids": [
+          56
+        ]
+      },
+      "translation": {
+        "text": "Hey, kid’s! Can you help me solve this puzzle?\n嘿，孩子们！能帮我解开这道题吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33943375,
+          0.68255,
+          0.89818502,
+          0.70313929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0126-b008",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33943375,
+          0.68255,
+          0.89818502,
+          0.70313929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b010",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Japanese, the mascot was renamed Burudokkun, which is also a play on words. Buru is the Japanese sound effect for shivering, the name ends with the friendly name suffix -kun, and the name resembles the word burudoggu, the Japanese word for \"bulldog\".",
+        "raw": "In Japanese, the mascot was renamed Burudokkun, which is also a play on\nwords. Buru is the Japanese sound effect for shivering, the name ends with the\nfriendly name suffix -kun, and the name resembles the word burudoggu, the\nJapanese word for \"bulldog\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29529802,
+          0.71106429,
+          0.89433521,
+          0.77785714
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.71035,
+          0.90021659,
+          0.77892857
+        ],
+        "line_ids": [
+          57,
+          58,
+          60,
+          62
+        ]
+      },
+      "translation": {
+        "text": "日语中，这个吉祥物改名为 Burudokkun，同样是文字游戏。buru 是日语的颤抖拟声词，名字末尾是亲切的称呼后缀 -kun，而且整个名字很像日语的 burudoggu（斗牛犬）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 32,
+            "end": 36,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 60,
+            "end": 64,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 77,
+            "end": 86,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.70963571,
+          0.89818502,
+          0.78142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0126-b009"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.70963571,
+          0.89818502,
+          0.78142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b011",
+      "kind": "aside",
+      "source": {
+        "text": "Random trivia: there's a bulldog character in Shiren the Wanderer 4 (Nintendo DS, 2010) also called Burudokkun in Japanese, but it's just a coincidence",
+        "raw": "Random trivia: there's\na bulldog character in\nShiren the Wanderer 4\n(Nintendo DS, 2010)\nalso called Burudokkun\nin Japanese, but it's just\na coincidence",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1218837,
+          0.7391,
+          0.26996441,
+          0.84283571
+        ],
+        "mask_bbox": [
+          0.12056318,
+          0.73838571,
+          0.27128493,
+          0.84390714
+        ],
+        "line_ids": [
+          59,
+          61,
+          63,
+          64,
+          66,
+          68,
+          70
+        ]
+      },
+      "translation": {
+        "text": "冷知识：Shiren the Wanderer 4（Nintendo DS，2010）里也有只斗牛犬，日文名同样叫 Burudokkun，不过只是巧合。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 4,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 58,
+            "end": 68,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11681494,
+          0.73767143,
+          0.26996441,
+          0.84640714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11681494,
+          0.73767143,
+          0.26996441,
+          0.84640714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0126-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "Ice-E’s Japanese text bubble closely matches what he says in English. It even emulates the \"kid’s\" apostrophe mistake in the English message by including a basic Japanese grammar mistake: using the character お (o) when を (o) should be used. With these two changes, the translator was able to keep the Japanese version of Ice-E an ice-themed mascot with an ice-themed name, saying something with bad grammar.",
+        "raw": "Ice-E's Japanese text bubble closely matches what he says in English. It even\nemulates the \"kid's\" apostrophe mistake in the English message by including a\nbasic Japanese grammar mistake: using the character}) (o) when~ (o) should\nbe used. With these two changes, the translator was able to keep the Japanese\nversion oflce-E an ice-themed mascot with an ice-themed name, saying\nsomething with bad grammar.",
+        "status": "corrected",
+        "languages": [
+          "en",
+          "ja"
+        ],
+        "bbox": [
+          0.29623254,
+          0.79292857,
+          0.89726066,
+          0.89665714
+        ],
+        "mask_bbox": [
+          0.29087937,
+          0.79221429,
+          0.90021659,
+          0.89772857
+        ],
+        "line_ids": [
+          65,
+          67,
+          69,
+          71,
+          72,
+          73
+        ]
+      },
+      "translation": {
+        "text": "Ice-E 日语气泡里的话与英语基本一致，甚至还用一个基础日语语法错误，重现了英语“kid’s”中多余的撇号：把本该用“を”（o，宾语助词）的地方写成了同音的“お”。通过这两处改动，译者让日语版的 Ice-E 仍然是个以冰为主题、名字带冰的梗、说话语法有错的吉祥物。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29412479,
+          0.7915,
+          0.89818502,
+          0.90022857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0126-b010"
+      },
+      "calibration": {
+        "bbox": [
+          0.29412479,
+          0.7915,
+          0.89818502,
+          0.90022857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "466c16fb063e8ac7e8e7b8c929d77e24bad29b159f111e7d3abf6841a53278cc"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          6,
+          8,
+          9,
+          10,
+          11,
+          13,
+          14,
+          15,
+          16,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          41,
+          44,
+          45,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          74
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.55,
+      884.23
+    ],
+    "text_runs": [
+      {
+        "id": "p0126-b003",
+        "blocks": [
+          "p0126-b003",
+          "p0126-b004",
+          "p0126-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 626.4
+      },
+      {
+        "id": "p0126-b008",
+        "blocks": [
+          "p0126-b008",
+          "p0126-b009",
+          "p0126-b010",
+          "p0126-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

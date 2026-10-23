@@ -1,0 +1,1079 @@
+{
+  "schema_version": 3,
+  "pdf_page": 257,
+  "printed_page": "257",
+  "title": "双重核心与慷慨顾客",
+  "subtitle": "结局 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.327059+00:00",
+  "reference_size": [
+    995.886023,
+    1400
+  ],
+  "physical_size_pt": [
+    506.28,
+    711.72
+  ],
+  "image_url": "/assets/p0257.jpg",
+  "image_sha256": "8330c7b307c43ac51bdbe35d0830b8a60637553180dd04a39d4b94b14a8bc4b6",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0257/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0257-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Dual Core",
+        "raw": "Dual Core",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.1062471,
+          0.06102143,
+          0.20606776,
+          0.07465
+        ],
+        "mask_bbox": [
+          0.10494173,
+          0.06030714,
+          0.20737313,
+          0.07572143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "双重“核心”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.05157143,
+          0.702239,
+          0.07571429
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07571428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.05157143,
+          0.702239,
+          0.07571429
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110.0
+    },
+    {
+      "id": "p0257-b002",
+      "kind": "aside",
+      "source": {
+        "text": "I wonder how many times apples have come up in this book so far",
+        "raw": "I wonder how many\ntimes apples have come\nup in this book so far",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73471259,
+          0.0909,
+          0.88082369,
+          0.13171429
+        ],
+        "mask_bbox": [
+          0.73340722,
+          0.09018571,
+          0.88212906,
+          0.13278571
+        ],
+        "line_ids": [
+          2,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "不知道本书到这里，苹果已经出现多少次了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73035467,
+          0.08947143,
+          0.88082369,
+          0.13528571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5764071428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73035467,
+          0.08947143,
+          0.88082369,
+          0.13528571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "A construction monster in the Core laments his luck. In English, he says:",
+        "raw": "A construction monster in the Core laments his luck. In English, he says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10377694,
+          0.23490714,
+          0.6539403,
+          0.24712857
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.23419286,
+          0.70424726,
+          0.2482
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "核心区一个搞建设的怪物，感叹自己运气不佳。英文中他说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.23347857,
+          0.702239,
+          0.25562143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.23347857,
+          0.702239,
+          0.25562143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b004",
+      "kind": "quote",
+      "source": {
+        "text": "So, if we're leaving, will my job. .. ? Ugh, and I just got a raise! Well, guess every apple has its CORE, heheh.",
+        "raw": "So, if we're leaving, will my job. .. ? Ugh, and I just got a raise!\nWell, guess every apple has its CORE, heheh.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14916366,
+          0.26222857,
+          0.59203562,
+          0.29374286
+        ],
+        "mask_bbox": [
+          0.14785829,
+          0.26151429,
+          0.59334099,
+          0.29481429
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "所以，大家都要走了，我的工作会……？唉，我才刚加薪啊！算了，看来每个苹果都有它的 CORE（果核／核心），嘿嘿。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14916366,
+          0.2608,
+          0.702239,
+          0.29731429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.14916366,
+          0.2608,
+          0.702239,
+          0.29731429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This final sentence uses figurative speech that means \"all good things have a downside\" or \"you gotta take the good with the bad\". The line also contains a pun on the phrase \"apple core\" and the place known as the \"Core\".",
+        "raw": "This final sentence uses figurative speech that means \"all good things have a\ndownside\" or \"you gotta take the good with the bad\". The line also contains a\npun on the phrase \"apple core\" and the place known as the \"Core\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10555425,
+          0.30874286,
+          0.68960703,
+          0.35670714
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.30802857,
+          0.70424726,
+          0.35777857
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "最后一句是个比喻，意思是“好事也有不如意的一面”，或“有好有坏，都得接受”。同时，apple core（苹果核）与地名 Core（核心）又构成了双关。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.30731429,
+          0.702239,
+          0.36027857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.30731429,
+          0.702239,
+          0.36027857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the Japanese language has its own word for apple cores, the wordplay in this line would be lost in a straightforward translation. To compensate, the translator replaced the apple core pun with something completely new:",
+        "raw": "Because the Japanese language has its own word for apple cores, the wordplay\nin this line would be lost in a straightforward translation. To compensate, the\ntranslator replaced the apple core pun with something completely new:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10610652,
+          0.37213571,
+          0.7007328,
+          0.42145714
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.37142143,
+          0.70424726,
+          0.42252857
+        ],
+        "line_ids": [
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "日语另有表示“苹果核”的词，直接翻译便无法保留这层文字游戏。译者于是把苹果核双关换成了全新的说法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.37070714,
+          0.702239,
+          0.42502857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.37070714,
+          0.702239,
+          0.42502857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b007",
+      "kind": "quote",
+      "source": {
+        "text": "If everyone's going to the surface world, what'll happen to my job ... ? Ugh! And I just got a pay raise, too! Boy, life sure is hardCORE. Heheheh.",
+        "raw": "If everyone's going to the surface world, what'll happen to my job ... ?\nUgh! And I just got a pay raise, too!\nBoy, life sure is hardCORE. Heheheh.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14899295,
+          0.43643571,
+          0.64845774,
+          0.48590714
+        ],
+        "mask_bbox": [
+          0.14768758,
+          0.43572143,
+          0.64976311,
+          0.48697857
+        ],
+        "line_ids": [
+          25,
+          26,
+          27
+        ]
+      },
+      "translation": {
+        "text": "如果大家都去地表，我的工作怎么办……？唉！我才刚加薪啊！人生真是 hardCORE（艰难／硬“核”）啊，嘿嘿嘿。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14899295,
+          0.43500714,
+          0.702239,
+          0.48947857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.14899295,
+          0.43500714,
+          0.702239,
+          0.48947857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new line closely parallels the original line in content and intent: the monster reluctantly accepts his situation while making a pun about his old job.",
+        "raw": "This new line closely parallels the original line in content and intent: the\nmonster reluctantly accepts his situation while making a pun about his old job.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10555425,
+          0.50061429,
+          0.702239,
+          0.53071429
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.4999,
+          0.70424726,
+          0.53178571
+        ],
+        "line_ids": [
+          28,
+          29
+        ]
+      },
+      "translation": {
+        "text": "新台词的内容和意图都紧贴原文：怪物无奈接受现状，同时拿自己原来的工作地点开了个双关玩笑。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.49918571,
+          0.702239,
+          0.53428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5468642828571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.49918571,
+          0.702239,
+          0.53428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Small Business Donor",
+        "raw": "Small Business Donor",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10693995,
+          0.55400714,
+          0.32841108,
+          0.56763571
+        ],
+        "mask_bbox": [
+          0.10563458,
+          0.55329286,
+          0.32971645,
+          0.56870714
+        ],
+        "line_ids": [
+          30
+        ]
+      },
+      "translation": {
+        "text": "小生意的大赞助者",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.54442857,
+          0.702239,
+          0.56857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5685714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.54442857,
+          0.702239,
+          0.56857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 800.0
+    },
+    {
+      "id": "p0257-b010",
+      "kind": "aside",
+      "source": {
+        "text": "For reference, you need to spend over 100 Gold to get this message",
+        "raw": "For reference, you\nneed to spend over\n100 Gold to get this\nmessage",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73479292,
+          0.58355,
+          0.85790942,
+          0.64191429
+        ],
+        "mask_bbox": [
+          0.73348755,
+          0.58283571,
+          0.85921479,
+          0.64298571
+        ],
+        "line_ids": [
+          31,
+          34,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "供你参考：花费超过 100 金币才会触发这条消息。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73035467,
+          0.58212143,
+          0.87494953,
+          0.64548571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73035467,
+          0.58212143,
+          0.87494953,
+          0.64548571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Muffet thanks the player for spending so much money at her bake sales throughout the game:",
+        "raw": "Muffet thanks the player for spending so much money at her bake sales\nthroughout the game:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10753239,
+          0.72047857,
+          0.64582692,
+          0.75125
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.71976429,
+          0.70424726,
+          0.75232143
+        ],
+        "line_ids": [
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Muffet 感谢玩家一路上在她的糕点义卖中花了那么多钱：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.71905,
+          0.702239,
+          0.75482143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.71905,
+          0.702239,
+          0.75482143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b012",
+      "kind": "quote",
+      "source": {
+        "text": "It's all because ofy ou (r money).",
+        "raw": "It's all because ofy ou\n(r money).",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.149977,
+          0.76725,
+          0.30724399,
+          0.79815
+        ],
+        "mask_bbox": [
+          0.14867163,
+          0.76653571,
+          0.30854936,
+          0.79922143
+        ],
+        "line_ids": [
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "It’s all because of you\n(r money).\n全都多亏了你（的钱）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 24,
+            "end": 34,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.149977,
+          0.76582143,
+          0.702239,
+          0.80172143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0257-b011",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.149977,
+          0.76582143,
+          0.702239,
+          0.80172143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "To make this spelling joke work in Japanese, the translator first gave the line a literal translation. Because this pushed the \"(r money\") part to the middle of the sentence instead of the end, the localization programmer then modified the game to display \"(r money)\" in its own tiny font. The result looks different from the original English line, but achieves a similar, comical effect.",
+        "raw": "To make this spelling joke work in Japanese, the translator first gave the line a\nliteral translation. Because this pushed the \"(r money\") part to the middle of\nthe sentence instead of the end, the localization programmer then modified\nthe game to display \"(r money)\" in its own tiny font. The result looks different\nfrom the original English line, but achieves a similar, comical effect.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.10651821,
+          0.81288571,
+          0.69833293,
+          0.89963571
+        ],
+        "mask_bbox": [
+          0.10176867,
+          0.81217143,
+          0.70424726,
+          0.90070714
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45,
+          46
+        ]
+      },
+      "translation": {
+        "text": "原文把 you（你）接成 your money（你的钱）。为了让这个拼写笑话在日文中奏效，译者先照字面翻译。但“的钱”因此被挪到句子中间，不再位于句末。本地化程序员于是修改游戏，专门用极小的字体显示括号里的这部分。结果看起来与英文不同，却产生了相近的滑稽效果。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.10583038,
+          0.81145714,
+          0.702239,
+          0.90320714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0257-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.10583038,
+          0.81145714,
+          0.702239,
+          0.90320714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0257-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Ending",
+        "raw": "Ending",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65957347,
+          0.93626429,
+          0.70947878,
+          0.94624286
+        ],
+        "mask_bbox": [
+          0.6582681,
+          0.93555,
+          0.71078415,
+          0.94731429
+        ],
+        "line_ids": [
+          48
+        ]
+      },
+      "translation": {
+        "text": "结局",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65957347,
+          0.93483571,
+          0.70947878,
+          0.95283571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9528357142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65957347,
+          0.93483571,
+          0.70947878,
+          0.95283571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ending",
+        "chapter_id": "chapter-252"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "a38bc653b016df7c2a1bcab693d13da3e1df3f61a6f93d8dc21f435fbd0bc27a"
+  },
+  "chapter_id": "chapter-252",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          6
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          33
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          35
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      105.4,
+      699.35
+    ],
+    "text_runs": [
+      {
+        "id": "p0257-b003",
+        "blocks": [
+          "p0257-b003",
+          "p0257-b004",
+          "p0257-b005",
+          "p0257-b006",
+          "p0257-b007",
+          "p0257-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 765.61
+      },
+      {
+        "id": "p0257-b011",
+        "blocks": [
+          "p0257-b011",
+          "p0257-b012",
+          "p0257-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,1012 @@
+{
+  "schema_version": 3,
+  "pdf_page": 196,
+  "printed_page": "196",
+  "title": "绳索双关",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 4,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    981.584727,
+    1400
+  ],
+  "physical_size_pt": [
+    498.0,
+    710.28
+  ],
+  "image_url": "/assets/p0196.jpg",
+  "image_sha256": "32999aafbf4931d50c69bafc63c0966d08af42b383b74b5d41185ccaef678f94",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0196/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0196-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Tying it Together",
+        "raw": "Tying it Together",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29434036,
+          0.06495714,
+          0.47106479,
+          0.07847143
+        ],
+        "mask_bbox": [
+          0.29301597,
+          0.06424286,
+          0.47238918,
+          0.07954286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "绳索双关",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.05514286,
+          0.9079094,
+          0.07928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07928571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.05514286,
+          0.9079094,
+          0.07928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115
+    },
+    {
+      "id": "p0196-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Incidentally, Pyropes ~ use the assertive, masculine pronoun ore in Japanese",
+        "raw": "Incidentally, Pyropes ~\nuse the assertive,\nmasculine pronoun\nore in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13933591,
+          0.09445,
+          0.28483532,
+          0.15232857
+        ],
+        "mask_bbox": [
+          0.13801152,
+          0.09373571,
+          0.28615971,
+          0.1534
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5
+        ]
+      },
+      "translation": {
+        "text": "顺带一提，Pyrope 在日语里用强势、男性化的 ore（我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 25,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11715749,
+          0.09302143,
+          0.28483532,
+          0.1559
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.5542857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11715749,
+          0.09302143,
+          0.28483532,
+          0.1559
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Flaming rope monsters known as \"Pyropes\" appear in Hotland. During battle, the player can invite each Pyrope to \"hang out\". In the English script, the Pyrope will respond with:",
+        "raw": "Flaming rope monsters known as \"Pyropes\" appear in Hotland. During battle,\nthe player can invite each Pyrope to \"hang out\". In the English script, the\nPyrope will respond with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29582775,
+          0.23966429,
+          0.89522583,
+          0.28855
+        ],
+        "mask_bbox": [
+          0.29255753,
+          0.23895,
+          0.90994692,
+          0.28962143
+        ],
+        "line_ids": [
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "热域里会出现叫作 Pyrope 的燃烧绳索怪物。战斗中，玩家可以邀它“hang out”（一起玩，也有悬挂之意）。英文剧本里，它会回答：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.23823571,
+          0.9079094,
+          0.29212143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.23823571,
+          0.9079094,
+          0.29212143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b004",
+      "kind": "quote",
+      "source": {
+        "text": "Sorry!! I'm all tied up!!",
+        "raw": "Sorry!! I'm all tied up!!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3416618,
+          0.30363571,
+          0.51239591,
+          0.31588571
+        ],
+        "mask_bbox": [
+          0.34033741,
+          0.30292143,
+          0.5137203,
+          0.31695714
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "抱歉！！我忙得脱不开身（tied up，也指被绑住）！！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3416618,
+          0.30220714,
+          0.9079094,
+          0.32279643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0196-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.3416618,
+          0.30220714,
+          0.9079094,
+          0.32279643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Toby understood that these rope-themed English puns would be lost in a literal translation, so he left a note in the translation spreadsheet:",
+        "raw": "Toby understood that these rope-themed English puns would be lost in a literal\ntranslation, so he left a note in the translation spreadsheet:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29624544,
+          0.33122143,
+          0.9079094,
+          0.36219286
+        ],
+        "mask_bbox": [
+          0.29255753,
+          0.33050714,
+          0.90994692,
+          0.36326429
+        ],
+        "line_ids": [
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Toby 明白，这些围绕绳索的英语双关无法直接译出来，于是在翻译表格里留下说明：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.32979286,
+          0.9079094,
+          0.36576429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.32979286,
+          0.9079094,
+          0.36576429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b006",
+      "kind": "quote",
+      "source": {
+        "text": "'' TIED UP??? GET IT??? ITS A JOKE BECAUSE HE'S A ROPE!!! btw since all this command does is trigger a pun,feelfree to change it to anything you like",
+        "raw": "'' TIED UP??? GET IT??? ITS A JOKE BECAUSE HE'S A ROPE!!!\nbtw since all this command does is trigger a pun,feelfree to change it to\nanything you like",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2981709,
+          0.37728571,
+          0.87750958,
+          0.42501429
+        ],
+        "mask_bbox": [
+          0.29684651,
+          0.37657143,
+          0.87883397,
+          0.42608571
+        ],
+        "line_ids": [
+          12,
+          13,
+          14
+        ],
+        "quote_mark": {
+          "bbox": [
+            0.29645938,
+            0.374285714,
+            0.321928399,
+            0.388571429
+          ],
+          "offset": [
+            -44.5128,
+            3.4125
+          ]
+        }
+      },
+      "translation": {
+        "text": "TIED UP？？？懂了吗？？？这是个笑话，因为它是根绳子！！！\n对了，这个指令唯一的作用就是引出双关，所以你想改成什么都行。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34180723,
+          0.37585714,
+          0.9079094,
+          0.42858571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.34180723,
+          0.37585714,
+          0.9079094,
+          0.42858571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "To make these rope puns work in Japanese, the translator adjusted the lines slightly:",
+        "raw": "To make these rope puns work in Japanese, the translator adjusted the lines\nslightly:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29672426,
+          0.44103571,
+          0.87969991,
+          0.47236429
+        ],
+        "mask_bbox": [
+          0.29255753,
+          0.44032143,
+          0.90994692,
+          0.47343571
+        ],
+        "line_ids": [
+          15,
+          16
+        ]
+      },
+      "translation": {
+        "text": "为了让绳索双关在日语里成立，译者稍微调整了台词：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.43960714,
+          0.9079094,
+          0.47593571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.43960714,
+          0.9079094,
+          0.47593571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b008",
+      "kind": "quote",
+      "source": {
+        "text": "\"Hang out\" became burabura wru (\"to loiter/idle about; to dangle/ hang down\")",
+        "raw": "\"Hang out\" became burabura wru (\"to loiter/idle about; to dangle/\nhang down\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3423138,
+          0.48699286,
+          0.85503572,
+          0.51696429
+        ],
+        "mask_bbox": [
+          0.30533279,
+          0.48627857,
+          0.85636011,
+          0.51803571
+        ],
+        "line_ids": [
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "“Hang out”改成了 burabura suru（闲逛／无所事事；悬着／垂着）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3423138,
+          0.48556429,
+          0.9079094,
+          0.52053571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.3423138,
+          0.48556429,
+          0.9079094,
+          0.52053571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0196-b009",
+      "kind": "quote",
+      "source": {
+        "text": "\"Tied up\" became yotei ni shibararete (\"to be bound/tied up by one's schedule\")",
+        "raw": "\"Tied up\" became yotei ni shibararete (\"to be bound/tied up by one's schedule\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34279262,
+          0.53192857,
+          0.90862253,
+          0.54432143
+        ],
+        "mask_bbox": [
+          0.3058116,
+          0.53121429,
+          0.90994692,
+          0.54539286
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "“Tied up”改成了 yotei ni shibararete（被日程束缚／缠住）。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 13,
+            "end": 33,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34279262,
+          0.5305,
+          0.90862253,
+          0.55108929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5557142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.34279262,
+          0.5305,
+          0.90862253,
+          0.55108929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": [],
+      "content_role": "list"
+    },
+    {
+      "id": "p0196-b010",
+      "kind": "aside",
+      "source": {
+        "text": "These two screenshots are actually mock-ups I had to make, as a game bug appears to make this text inaccessible under normal circumstances",
+        "raw": "These two screenshots\nare actually mock-ups\nI had to make, as a\ngame bug appears\nto make this text\ninaccessible under\nnormal circumstances",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12907699,
+          0.56142857,
+          0.27204987,
+          0.66585714
+        ],
+        "mask_bbox": [
+          0.1277526,
+          0.56071429,
+          0.27337426,
+          0.66692857
+        ],
+        "line_ids": [
+          20,
+          22,
+          23,
+          24,
+          25,
+          27,
+          33
+        ]
+      },
+      "translation": {
+        "text": "这两张截图其实是我制作的示意图，因为游戏里的一个错误似乎让这些文字无法在正常游玩时出现。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11715749,
+          0.56,
+          0.27204987,
+          0.66942857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11715749,
+          0.56,
+          0.27204987,
+          0.66942857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "A similar rope pun appears outside of battle, in a block of text that appears to be unused due to a programming issue. In English, a Pyrope character is supposed to say:",
+        "raw": "A similar rope pun appears outside of battle, in a block of text that appears\nto be unused due to a programming issue. In English, a Pyrope character is\nsupposed to say:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29730495,
+          0.70765,
+          0.87389298,
+          0.75719286
+        ],
+        "mask_bbox": [
+          0.29255753,
+          0.70693571,
+          0.90994692,
+          0.75826429
+        ],
+        "line_ids": [
+          35,
+          36,
+          37
+        ]
+      },
+      "translation": {
+        "text": "战斗外也有类似的绳索双关，不过这段文本似乎因为程序问题而没有用上。英文原本要让一个 Pyrope 说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.70622143,
+          0.9079094,
+          0.76076429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.70622143,
+          0.9079094,
+          0.76076429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b012",
+      "kind": "quote",
+      "source": {
+        "text": "Haha, ha ha ha. Ya wanna \"hang\" out?",
+        "raw": "Haha, ha ha ha. Ya wanna \"hang\" out?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34279262,
+          0.77228571,
+          0.63493245,
+          0.78453571
+        ],
+        "mask_bbox": [
+          0.34146823,
+          0.77157143,
+          0.63625684,
+          0.78560714
+        ],
+        "line_ids": [
+          38
+        ]
+      },
+      "translation": {
+        "text": "哈哈，哈哈哈。想一起“hang out”（玩玩／挂着）吗？",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34279262,
+          0.77085714,
+          0.9079094,
+          0.79144643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0196-b011",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.34279262,
+          0.77085714,
+          0.9079094,
+          0.79144643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0196-b013",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this line seems to be inaccessible through normal play, the translator localized it into Japanese for completeness' sake. In this case, the translator replaced the phrase \"hang out\" with tanomi no tsww, which literally means \"a rope of reliance\", but functionally means \"a mainstay\" or \"something you can depend on\". Thus the final Japanese line drops the invitation and instead roughly says \"Hehe ... Hehehe ... I'm a real reliable 'lifeline', y'know?\".",
+        "raw": "Although this line seems to be inaccessible through normal play, the translator\nlocalized it into Japanese for completeness' sake. In this case, the translator\nreplaced the phrase \"hang out\" with tanomi no tsww, which literally means\n\"a rope of reliance\", but functionally means \"a mainstay\" or \"something you\ncan depend on\". Thus the final Japanese line drops the invitation and instead\nroughly says \"Hehe ... Hehehe ... I'm a real reliable 'lifeline', y'know?\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29459505,
+          0.79954286,
+          0.90225528,
+          0.90351429
+        ],
+        "mask_bbox": [
+          0.29255753,
+          0.79882857,
+          0.90994692,
+          0.90458571
+        ],
+        "line_ids": [
+          39,
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "虽然正常游玩似乎看不到这句，译者还是为了完整性把它译成了日语。这回，“hang out”换成了 tanomi no tsuna，字面是“依靠之绳”，实际指“支柱”或“可以依赖的东西”。因此，最终日文去掉了邀请，大意变成：“嘿嘿……嘿嘿嘿……我可是可靠的‘救命绳’，对吧？”",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 48,
+            "end": 63,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29624544,
+          0.79811429,
+          0.9079094,
+          0.90708571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0196-b012"
+      },
+      "calibration": {
+        "bbox": [
+          0.29624544,
+          0.79811429,
+          0.9079094,
+          0.90708571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "bb21d6b3661dd76cd34a8eb4cad7129bb7bad8d89cbfacead689b16527c6b13d"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          26
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          29
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          31
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          34
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      290.79,
+      891.19
+    ],
+    "text_runs": [
+      {
+        "id": "p0196-b003",
+        "blocks": [
+          "p0196-b003",
+          "p0196-b004",
+          "p0196-b005",
+          "p0196-b006",
+          "p0196-b007",
+          "p0196-b008",
+          "p0196-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 778.0
+      },
+      {
+        "id": "p0196-b011",
+        "blocks": [
+          "p0196-b011",
+          "p0196-b012",
+          "p0196-b013"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

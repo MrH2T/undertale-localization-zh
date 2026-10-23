@@ -1,0 +1,1890 @@
+{
+  "schema_version": 3,
+  "pdf_page": 28,
+  "printed_page": "28",
+  "title": "创意的表达形式",
+  "subtitle": "什么是本地化？ · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "reference_size": [
+    989.266971,
+    1400
+  ],
+  "physical_size_pt": [
+    500.88,
+    708.84
+  ],
+  "image_url": "/assets/p0028.jpg",
+  "image_sha256": "36b0f36f5003fb93349c59e14306b3d28ca044f255bc24da571037b7e817c016",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0028/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0028-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Creative Packaging",
+        "raw": "Creative Packaging",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29250951,
+          0.05990714,
+          0.48902876,
+          0.07317143
+        ],
+        "mask_bbox": [
+          0.29119541,
+          0.05919286,
+          0.49034286,
+          0.07424286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "创意的表达形式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.05014286,
+          0.90150589,
+          0.07428571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07428571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.05014286,
+          0.90150589,
+          0.07428571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 108.0
+    },
+    {
+      "id": "p0028-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sometimes, it's not the words themselves that are difficult to translate, but how they're presented. Literal translations tend to fall apart when this type of \"creative packaging\" is involved. Here are a few simple examples.",
+        "raw": "Sometimes, it's not the words themselves that are difficult to translate, but\nhow they're presented. Literal translations tend to fall apart when this type of\n\"creative packaging\" is involved. Here are a few simple examples.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28621192,
+          0.08880714,
+          0.89046741,
+          0.1371
+        ],
+        "mask_bbox": [
+          0.28419022,
+          0.08809286,
+          0.90352759,
+          0.13817143
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "有时难译的不是词语本身，而是它们的呈现方式。碰上这种“创意包装”，直译往往会失效。下面是几个简单例子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.08737857,
+          0.90150589,
+          0.14067143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.14891428285714287,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.08737857,
+          0.90150589,
+          0.14067143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b003",
+      "kind": "subheading",
+      "source": {
+        "text": "Clues and Hints",
+        "raw": "Clues and Hints",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29300483,
+          0.15605714,
+          0.4355245,
+          0.16805
+        ],
+        "mask_bbox": [
+          0.29169073,
+          0.15534286,
+          0.4368386,
+          0.16912143
+        ],
+        "line_ids": [
+          5
+        ]
+      },
+      "translation": {
+        "text": "线索与提示",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.14605,
+          0.90150589,
+          0.17019286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.17019285714285715,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.14605,
+          0.90150589,
+          0.17019286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "Writers sometimes include meticulously worded hints meant to guide the reader or lead the reader astray. Such hints might be used as mystery clues, as foreshadowing devices, or to say something indirectly. Naturally, a carefully crafted hint can easily break during translation.",
+        "raw": "Writers sometimes include meticulously worded hints meant to guide the\nreader or lead the reader astray. Such hints might be used as mystery clues, as\nforeshadowing devices, or to say something indirectly. Naturally, a carefully\ncrafted hint can easily break during translation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29175138,
+          0.17954286,
+          0.88647456,
+          0.24781429
+        ],
+        "mask_bbox": [
+          0.28419022,
+          0.17882857,
+          0.90352759,
+          0.24888571
+        ],
+        "line_ids": [
+          6,
+          7,
+          8,
+          9
+        ]
+      },
+      "translation": {
+        "text": "作者有时会用精心斟酌的措辞引导读者，或把读者引向歧途。这些提示可以是谜题线索、伏笔，也可以用来委婉表达。这样的精巧安排，自然很容易在翻译中失灵。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.17811429,
+          0.90150589,
+          0.25138571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2596285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.17811429,
+          0.90150589,
+          0.25138571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b005",
+      "kind": "subheading",
+      "source": {
+        "text": "Poetry",
+        "raw": "Poetry",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29382362,
+          0.26677143,
+          0.35390851,
+          0.27876429
+        ],
+        "mask_bbox": [
+          0.29250951,
+          0.26605714,
+          0.35522261,
+          0.27983571
+        ],
+        "line_ids": [
+          10
+        ]
+      },
+      "translation": {
+        "text": "诗歌",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.25676429,
+          0.90150589,
+          0.28090715
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.28090714714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.25676429,
+          0.90150589,
+          0.28090715
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "Rhyme, rhythm, and syllable counts are important in poetry, but tend to get lost in a literal translation. For example, a literal translation of a Japanese haiku into English will probably have too many syllables to still be a traditional haiku.",
+        "raw": "Rhyme, rhythm, and syllable counts are important in poetry, but tend to get lost\nin a literal translation. For example, a literal translation of a Japanese haiku\ninto English will probably have too many syllables to still be a traditional haiku.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29268136,
+          0.28990714,
+          0.90150589,
+          0.33957143
+        ],
+        "mask_bbox": [
+          0.28419022,
+          0.28919286,
+          0.90352759,
+          0.34064286
+        ],
+        "line_ids": [
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "押韵、节奏和音节数对诗歌很重要，却往往在直译中丢失。例如，把日语俳句直译成英语，音节通常会多到不再符合传统俳句的形式。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.28847857,
+          0.90150589,
+          0.34314286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.35170714285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.28847857,
+          0.90150589,
+          0.34314286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b007",
+      "kind": "subheading",
+      "source": {
+        "text": "Songs",
+        "raw": "Songs",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29354058,
+          0.35885,
+          0.34867231,
+          0.37084286
+        ],
+        "mask_bbox": [
+          0.29222648,
+          0.35813571,
+          0.34998641,
+          0.37191429
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "歌曲",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.34884286,
+          0.90150589,
+          0.37298572
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3729857171428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.34884286,
+          0.90150589,
+          0.37298572
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Songs present a similar creative packaging problem. A literal translation of \"Rudolph the Red-Nosed Reindeer\" into Japanese, for example, will result in lyrics that no longer fit the music. The natural solution, then, is to tweak the translation until they do fit the music:",
+        "raw": "Songs present a similar creative packaging problem. A literal translation of\n\"Rudolph the Red-Nosed Reindeer\" into Japanese, for example, will result in\nlyrics that no longer fit the music. The natural solution, then, is to tweak the\ntranslation until they do fit the music:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28667691,
+          0.38132857,
+          0.8754563,
+          0.44960714
+        ],
+        "mask_bbox": [
+          0.28419022,
+          0.38061429,
+          0.90352759,
+          0.45067857
+        ],
+        "line_ids": [
+          15,
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "歌曲也有类似的形式难题。例如，将《Rudolph the Red-Nosed Reindeer》（红鼻子驯鹿鲁道夫）直译成日语，歌词就唱不进原来的旋律了。自然的办法是调整译词，直到能配合旋律：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.3799,
+          0.90150589,
+          0.45317857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4592857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.3799,
+          0.90150589,
+          0.45317857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b009",
+      "kind": "table-cell",
+      "source": {
+        "text": "English Lyrics",
+        "raw": "English Lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31257488,
+          0.47758571,
+          0.41224463,
+          0.48971429
+        ],
+        "mask_bbox": [
+          0.31126077,
+          0.47687143,
+          0.41355874,
+          0.49078571
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "英语歌词（释义）",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31257488,
+          0.47615714,
+          0.59483437,
+          0.49415714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4927285685714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#4a4a4a"
+      },
+      "calibration": {
+        "bbox": [
+          0.31257488,
+          0.47615714,
+          0.59483437,
+          0.49415714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b010",
+      "kind": "table-cell",
+      "source": {
+        "text": "Localized Japanese Lyrics",
+        "raw": "Localized Japanese Lyrics",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61823554,
+          0.47793571,
+          0.80658712,
+          0.49007143
+        ],
+        "mask_bbox": [
+          0.61692144,
+          0.47722143,
+          0.80790123,
+          0.49114286
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "日语改编歌词",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61823554,
+          0.47650714,
+          0.89341909,
+          0.49450714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.4930785685714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "color": "#ffffff",
+        "mask_color": "#4a4a4a"
+      },
+      "calibration": {
+        "bbox": [
+          0.61823554,
+          0.47650714,
+          0.89341909,
+          0.49450714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b011",
+      "kind": "table-cell",
+      "source": {
+        "text": "Rudolph the red-nosed reindeer had a very shiny nose",
+        "raw": "Rudolph the red-nosed reindeer\nhad a very shiny nose",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31307019,
+          0.50950714,
+          0.54127957,
+          0.53538571
+        ],
+        "mask_bbox": [
+          0.31175609,
+          0.50879286,
+          0.54259367,
+          0.53645714
+        ],
+        "line_ids": [
+          21,
+          23
+        ]
+      },
+      "translation": {
+        "text": "红鼻子驯鹿 Rudolph，\n有个亮闪闪的鼻子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.50785714,
+          0.59336864,
+          0.54214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.50785714,
+          0.59336864,
+          0.54214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-1"
+    },
+    {
+      "id": "p0028-b012",
+      "kind": "table-cell",
+      "source": {
+        "text": "makka na ohana no tonakai san wa (The reindeer with a bright red nose)",
+        "raw": "makka na ohana no tonakai san wa\n(The reindeer with a bright red nose)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61754816,
+          0.50895714,
+          0.88004555,
+          0.53538571
+        ],
+        "mask_bbox": [
+          0.61623406,
+          0.50824286,
+          0.88135966,
+          0.53645714
+        ],
+        "line_ids": [
+          22,
+          24
+        ]
+      },
+      "translation": {
+        "text": "makka na ohana no tonakai san wa\n（那只鼻子鲜红的驯鹿）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.50785714,
+          0.89864518,
+          0.54214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5428571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.50785714,
+          0.89864518,
+          0.54214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-1"
+    },
+    {
+      "id": "p0028-b013",
+      "kind": "table-cell",
+      "source": {
+        "text": "And if you ever saw it you would even say it glows",
+        "raw": "And if you ever saw it\nyou would even say it glows",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31147305,
+          0.55354286,
+          0.51046888,
+          0.5784
+        ],
+        "mask_bbox": [
+          0.31015894,
+          0.55282857,
+          0.51178298,
+          0.57947143
+        ],
+        "line_ids": [
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "如果你亲眼见到，\n一定也会说它在发光。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.55142857,
+          0.59336864,
+          0.58571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5864285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.55142857,
+          0.59336864,
+          0.58571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-2"
+    },
+    {
+      "id": "p0028-b014",
+      "kind": "table-cell",
+      "source": {
+        "text": "itsumo minna no waraimono (was always laughed at by everyone)",
+        "raw": "itsumo minna no waraimono\n(was always laughed at by everyone)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61743697,
+          0.55297143,
+          0.87668953,
+          0.57872143
+        ],
+        "mask_bbox": [
+          0.61612286,
+          0.55225714,
+          0.87800364,
+          0.57979286
+        ],
+        "line_ids": [
+          26,
+          28
+        ]
+      },
+      "translation": {
+        "text": "itsumo minna no waraimono\n（总是被大家取笑）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 25,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.55142857,
+          0.89864518,
+          0.58571429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5864285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.55142857,
+          0.89864518,
+          0.58571429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-2"
+    },
+    {
+      "id": "p0028-b015",
+      "kind": "table-cell",
+      "source": {
+        "text": "All of the other reindeer used to laugh and call him names",
+        "raw": "All of the other reindeer\nused to laugh and call him names",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31147305,
+          0.59618571,
+          0.54894181,
+          0.62172143
+        ],
+        "mask_bbox": [
+          0.31015894,
+          0.59547143,
+          0.55025591,
+          0.62279286
+        ],
+        "line_ids": [
+          30,
+          33
+        ]
+      },
+      "translation": {
+        "text": "其他驯鹿总是\n嘲笑他、骂他。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.59428571,
+          0.59336864,
+          0.62857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.59428571,
+          0.59336864,
+          0.62857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-3"
+    },
+    {
+      "id": "p0028-b016",
+      "kind": "table-cell",
+      "source": {
+        "text": "demo sono toshi no kurisumasu no hi (But on Christmas Day that year)",
+        "raw": "demo sono toshi no kurisumasu no hi\n(But on Christmas Day that year)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61707306,
+          0.59563571,
+          0.88185498,
+          0.62172143
+        ],
+        "mask_bbox": [
+          0.61575896,
+          0.59492143,
+          0.88316908,
+          0.62279286
+        ],
+        "line_ids": [
+          31,
+          34
+        ]
+      },
+      "translation": {
+        "text": "demo sono toshi no kurisumasu no hi\n（可是那年圣诞节）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.59428571,
+          0.89864518,
+          0.62857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6292857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.59428571,
+          0.89864518,
+          0.62857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-3"
+    },
+    {
+      "id": "p0028-b017",
+      "kind": "table-cell",
+      "source": {
+        "text": "They never let poor Rudolph play in any reindeer games",
+        "raw": "They never let poor Rudolph\nplay in any reindeer games",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31135175,
+          0.6402,
+          0.5147751,
+          0.66541429
+        ],
+        "mask_bbox": [
+          0.31003764,
+          0.63948571,
+          0.5160892,
+          0.66648571
+        ],
+        "line_ids": [
+          37,
+          40
+        ]
+      },
+      "translation": {
+        "text": "它们从不让可怜的 Rudolph\n加入驯鹿们的游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.63785714,
+          0.59336864,
+          0.67214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6728571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.63785714,
+          0.59336864,
+          0.67214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-4"
+    },
+    {
+      "id": "p0028-b018",
+      "kind": "table-cell",
+      "source": {
+        "text": "santa no ojisan wa iimashita (old man Santa said)",
+        "raw": "santa no ojisan wa iimashita\n(old man Santa said)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61721458,
+          0.63966429,
+          0.81662486,
+          0.66541429
+        ],
+        "mask_bbox": [
+          0.61590048,
+          0.63895,
+          0.81793896,
+          0.66648571
+        ],
+        "line_ids": [
+          38,
+          41
+        ]
+      },
+      "translation": {
+        "text": "santa no ojisan wa iimashita\n（圣诞老爷爷说）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 28,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.63785714,
+          0.89864518,
+          0.67214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6728571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.63785714,
+          0.89864518,
+          0.67214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-4"
+    },
+    {
+      "id": "p0028-b019",
+      "kind": "table-cell",
+      "source": {
+        "text": "Then one foggy Christmas Eve Santa ca me to say",
+        "raw": "Then one foggy Christmas Eve\nSanta ca me to say",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31135175,
+          0.68287857,
+          0.52638976,
+          0.70805714
+        ],
+        "mask_bbox": [
+          0.31003764,
+          0.68216429,
+          0.52770386,
+          0.70912857
+        ],
+        "line_ids": [
+          44,
+          47
+        ]
+      },
+      "translation": {
+        "text": "后来在一个雾蒙蒙的平安夜，\n圣诞老人前来说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.68071429,
+          0.59336864,
+          0.715
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.68071429,
+          0.59336864,
+          0.715
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-5"
+    },
+    {
+      "id": "p0028-b020",
+      "kind": "table-cell",
+      "source": {
+        "text": "kurai yomichi wa pika pika no (On the dark night path)",
+        "raw": "kurai yomichi wa pika pika no\n(On the dark night path)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61785142,
+          0.68232857,
+          0.82912907,
+          0.70805714
+        ],
+        "mask_bbox": [
+          0.61653731,
+          0.68161429,
+          0.83044317,
+          0.70912857
+        ],
+        "line_ids": [
+          45,
+          48
+        ]
+      },
+      "translation": {
+        "text": "kurai yomichi wa pika pika no\n（在漆黑的夜路上）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.68071429,
+          0.89864518,
+          0.715
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7157142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.68071429,
+          0.89864518,
+          0.715
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-5"
+    },
+    {
+      "id": "p0028-b021",
+      "kind": "table-cell",
+      "source": {
+        "text": "Rudolph with your nose so bright won't you guide my sleigh tonight?",
+        "raw": "Rudolph with your nose so bright\nwon't you guide my sleigh tonight?",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31241314,
+          0.72687857,
+          0.56403379,
+          0.75242857
+        ],
+        "mask_bbox": [
+          0.31109903,
+          0.72616429,
+          0.5653479,
+          0.7535
+        ],
+        "line_ids": [
+          50,
+          52
+        ]
+      },
+      "translation": {
+        "text": "“Rudolph，你的鼻子这么亮，\n今晚愿替我的雪橇引路吗？”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.72428571,
+          0.59336864,
+          0.75857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7592857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.72428571,
+          0.59336864,
+          0.75857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-6"
+    },
+    {
+      "id": "p0028-b022",
+      "kind": "table-cell",
+      "source": {
+        "text": "omae no hana ga yaku ni tatsu no sa (your shiny nose will be useful)",
+        "raw": "omae no hana ga yaku ni tatsu no sa\n(your shiny nose will be useful)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61749762,
+          0.72632857,
+          0.87651769,
+          0.75242857
+        ],
+        "mask_bbox": [
+          0.61618352,
+          0.72561429,
+          0.87783179,
+          0.7535
+        ],
+        "line_ids": [
+          51,
+          53
+        ]
+      },
+      "translation": {
+        "text": "omae no hana ga yaku ni tatsu no sa\n（你亮闪闪的鼻子会派上用场）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.72428571,
+          0.89864518,
+          0.75857143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7592857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.72428571,
+          0.89864518,
+          0.75857143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-6"
+    },
+    {
+      "id": "p0028-b023",
+      "kind": "table-cell",
+      "source": {
+        "text": "Then how the reindeer loved him as they shouted out with glee",
+        "raw": "Then how the reindeer loved him\nas they shouted out with glee",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31135175,
+          0.76987857,
+          0.54846671,
+          0.79475
+        ],
+        "mask_bbox": [
+          0.31003764,
+          0.76916429,
+          0.54978081,
+          0.79582143
+        ],
+        "line_ids": [
+          55,
+          57
+        ]
+      },
+      "translation": {
+        "text": "这下驯鹿们多么喜爱他，\n欢欢喜喜地高声叫：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.76785714,
+          0.59336864,
+          0.80214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.76785714,
+          0.59336864,
+          0.80214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-7"
+    },
+    {
+      "id": "p0028-b024",
+      "kind": "table-cell",
+      "source": {
+        "text": "itsumo naiteta tonakai san wa (The reindeer who always used to cry)",
+        "raw": "itsumo naiteta tonakai san wa\n(The reindeer who always used to cry)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61785142,
+          0.76932857,
+          0.88111705,
+          0.79475
+        ],
+        "mask_bbox": [
+          0.61653731,
+          0.76861429,
+          0.88243116,
+          0.79582143
+        ],
+        "line_ids": [
+          56,
+          58
+        ]
+      },
+      "translation": {
+        "text": "itsumo naiteta tonakai san wa\n（那只总是哭泣的驯鹿）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.76785714,
+          0.89864518,
+          0.80214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8028571428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.76785714,
+          0.89864518,
+          0.80214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-7"
+    },
+    {
+      "id": "p0028-b025",
+      "kind": "table-cell",
+      "source": {
+        "text": "\"Rudolph the red-nosed reindeer You'll go down in history!\"",
+        "raw": "\"Rudolph the red-nosed reindeer\nYou'll go down in history!\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30645924,
+          0.81289286,
+          0.54266443,
+          0.83808571
+        ],
+        "mask_bbox": [
+          0.30514513,
+          0.81217857,
+          0.54397854,
+          0.83915714
+        ],
+        "line_ids": [
+          59,
+          61
+        ]
+      },
+      "translation": {
+        "text": "“红鼻子驯鹿 Rudolph，\n你将名留青史！”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31134164,
+          0.81071429,
+          0.59336864,
+          0.845
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8457142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31134164,
+          0.81071429,
+          0.59336864,
+          0.845
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-8"
+    },
+    {
+      "id": "p0028-b026",
+      "kind": "table-cell",
+      "source": {
+        "text": "koyoi koso wa to yorokobimashita (gleefully felt \"tonight's finally my night'\")",
+        "raw": "koyoi koso wa to yorokobimashita\n(gleefully felt \"tonight's finally my night'\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61787163,
+          0.81234286,
+          0.8837857,
+          0.83842857
+        ],
+        "mask_bbox": [
+          0.61655753,
+          0.81162857,
+          0.8850998,
+          0.8395
+        ],
+        "line_ids": [
+          60,
+          62
+        ]
+      },
+      "translation": {
+        "text": "koyoi koso wa to yorokobimashita\n（高兴地想：今晚终于轮到我了！）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 32,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.60752054,
+          0.81071429,
+          0.89864518,
+          0.845
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.8457142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.60752054,
+          0.81071429,
+          0.89864518,
+          0.845
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lyrics-row-8"
+    },
+    {
+      "id": "p0028-b027",
+      "kind": "caption",
+      "source": {
+        "text": "Incidentally, this particular localization from 1960 is the standard version everyone in Japan sings today, but many other localizations exist. One even somehow inserts Jesus into the lyrics!",
+        "raw": "Incidentally, this\nparticular localization\nfrom 1960 is the\nstandard version\neveryone in Japan sings\ntoday, but many other\nlocalizations exist. One\neven somehow inserts\nJesus into the lyrics!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12012935,
+          0.58467143,
+          0.26716752,
+          0.71992143
+        ],
+        "mask_bbox": [
+          0.11881525,
+          0.58395714,
+          0.26848162,
+          0.72099286
+        ],
+        "line_ids": [
+          29,
+          32,
+          35,
+          36,
+          39,
+          42,
+          43,
+          46,
+          49
+        ]
+      },
+      "translation": {
+        "text": "顺便一提，这个1960年的改编版是如今日本人人会唱的标准版本，不过另有许多译版。其中一版甚至莫名把耶稣写进了歌词！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12012935,
+          0.58324286,
+          0.26716752,
+          0.72349286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.12012935,
+          0.58324286,
+          0.26716752,
+          0.72349286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0028-b028",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although these .Japanese lyrics don't fully match the English lyrics, they still tell roughly the same story with words that can be sung to the original tune.",
+        "raw": "Although these .Japanese lyrics don't fully match the English lyrics, they still\ntell roughly the same story with words that can be sung to the original tune.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29224669,
+          0.86991429,
+          0.87651769,
+          0.90061429
+        ],
+        "mask_bbox": [
+          0.28419022,
+          0.8692,
+          0.90352759,
+          0.90168571
+        ],
+        "line_ids": [
+          63,
+          64
+        ]
+      },
+      "translation": {
+        "text": "日语歌词与英语歌词并不完全一致，但仍讲了大致相同的故事，也能配着原来的曲调唱。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29175138,
+          0.86848571,
+          0.90150589,
+          0.90418571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29175138,
+          0.86848571,
+          0.90150589,
+          0.90418571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3e60bf16aed7a86eb85be3093720dc7d60a5fe68ff300442c93fd6515224e1ad"
+  },
+  "chapter_id": "chapter-14",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          65
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.62,
+      891.83
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

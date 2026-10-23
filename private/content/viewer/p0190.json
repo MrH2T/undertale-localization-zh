@@ -1,0 +1,1057 @@
+{
+  "schema_version": 3,
+  "pdf_page": 190,
+  "printed_page": "190",
+  "title": "有趣的表情",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.254705+00:00",
+  "reference_size": [
+    980.939597,
+    1400
+  ],
+  "physical_size_pt": [
+    501.12,
+    715.2
+  ],
+  "image_url": "/assets/p0190.jpg",
+  "image_sha256": "28c81c3d800c7e5d98036c9eb6e8ab64f4704bc15970a18356525e79093375c5",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0190/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0190-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Funny Faces",
+        "raw": "Funny Faces",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2960325,
+          0.05971429,
+          0.41934284,
+          0.07285714
+        ],
+        "mask_bbox": [
+          0.29470724,
+          0.059,
+          0.4206681,
+          0.07392857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "有趣的表情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29471233,
+          0.04942857,
+          0.89426505,
+          0.07357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29471233,
+          0.04942857,
+          0.89426505,
+          0.07357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 107.0
+    },
+    {
+      "id": "p0190-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Dr. Al phys regularly posts on the Undernet, the Underground's version of the Internet. As such, she often includes smilies, emoticons, and Internet slang in her social media messages.",
+        "raw": "Dr. Al phys regularly posts on the Undernet, the Underground's version of the\nInternet. As such, she often includes smilies, emoticons, and Internet slang in\nher social media messages.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29490093,
+          0.08732857,
+          0.88761836,
+          0.13622857
+        ],
+        "mask_bbox": [
+          0.29248488,
+          0.08661429,
+          0.89630391,
+          0.1373
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "Alphys 博士经常在地下世界的互联网 Undernet 上发帖，因此她的社交消息里常有笑脸、颜文字和网络俚语。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29471233,
+          0.0859,
+          0.89426505,
+          0.1398
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.21071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29471233,
+          0.0859,
+          0.89426505,
+          0.1398
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "As we've already seen, different cultures use different emoticons and Internet slang, so many of Alphys' Undernet emoticons transformed during Underta/e's localization process. Some examples include:",
+        "raw": "As we've already seen, different cultures use different emoticons and Internet\nslang, so many of Alphys' Undernet emoticons transformed during Underta/e's\nlocalization process. Some examples include:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29452374,
+          0.15110714,
+          0.89426505,
+          0.19963571
+        ],
+        "mask_bbox": [
+          0.29248488,
+          0.15039286,
+          0.89630391,
+          0.20070714
+        ],
+        "line_ids": [
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "前面已经看到，不同文化使用的颜文字和网络俚语各不相同，因此《Undertale》本地化时，Alphys 在 Undernet 上用的许多表情都变了。比如：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 30,
+            "end": 39,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29471233,
+          0.14967857,
+          0.89426505,
+          0.20320714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.21071428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0190-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29471233,
+          0.14967857,
+          0.89426505,
+          0.20320714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b004",
+      "kind": "caption",
+      "source": {
+        "text": "English: a sideways winking face",
+        "raw": "English: a sideways winking face",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34163164,
+          0.38865,
+          0.54203134,
+          0.39913571
+        ],
+        "mask_bbox": [
+          0.34030638,
+          0.38793571,
+          0.5433566,
+          0.40020714
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "英语：横着看的眨眼笑脸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30582923,
+          0.38722143,
+          0.54641489,
+          0.40522143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30582923,
+          0.38722143,
+          0.54641489,
+          0.40522143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b005",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: a winking face emitting a sparkle",
+        "raw": "Japanese: a winking face emitting a sparkle",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.62490086,
+          0.38865,
+          0.89385728,
+          0.39913571
+        ],
+        "mask_bbox": [
+          0.6235756,
+          0.38793571,
+          0.89518254,
+          0.40020714
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "日语：眨眼并闪出星光的脸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62490086,
+          0.38722143,
+          0.89385728,
+          0.40522143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.41,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62490086,
+          0.38722143,
+          0.89385728,
+          0.40522143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b006",
+      "kind": "caption",
+      "source": {
+        "text": "English: \"LMAO\" is short for \"laughing my ass off\"",
+        "raw": "English: \"LMAO\" is short for \"laughing my ass off\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29950876,
+          0.48025714,
+          0.58882321,
+          0.49075
+        ],
+        "mask_bbox": [
+          0.2981835,
+          0.47954286,
+          0.59014847,
+          0.49182143
+        ],
+        "line_ids": [
+          17
+        ]
+      },
+      "translation": {
+        "text": "英语：LMAO 是 laughing my ass off\n（笑死我了）的缩写",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29471743,
+          0.46857143,
+          0.59182033,
+          0.50214286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5021428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.29471743,
+          0.46857143,
+          0.59182033,
+          0.50214286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "lmao-caption"
+    },
+    {
+      "id": "p0190-b007",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: \"w\" means warai (\"laugh\")",
+        "raw": "Japanese: \"w\" means warai (\"laugh\")",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6416603,
+          0.47937857,
+          0.87807649,
+          0.49112857
+        ],
+        "mask_bbox": [
+          0.64033504,
+          0.47866429,
+          0.87940175,
+          0.4922
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "日语：“w”表示 warai（笑）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 9,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6228722,
+          0.47795,
+          0.89302135,
+          0.49595
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5014285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.6228722,
+          0.47795,
+          0.89302135,
+          0.49595
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b008",
+      "kind": "caption",
+      "source": {
+        "text": "English: a happy or peppy smile",
+        "raw": "English: a happy or peppy smile",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3454647,
+          0.57188571,
+          0.53945218,
+          0.58237143
+        ],
+        "mask_bbox": [
+          0.34413944,
+          0.57117143,
+          0.54077744,
+          0.58344286
+        ],
+        "line_ids": [
+          19
+        ]
+      },
+      "translation": {
+        "text": "英语：开心或精神十足的微笑",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30582923,
+          0.57045714,
+          0.5698618,
+          0.58845714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5928571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30582923,
+          0.57045714,
+          0.5698618,
+          0.58845714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b009",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: a \"goofing around\" face",
+        "raw": "Japanese: a \"goofing around\" face",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65268035,
+          0.57153571,
+          0.86722975,
+          0.58202143
+        ],
+        "mask_bbox": [
+          0.65135509,
+          0.57082143,
+          0.86855501,
+          0.58309286
+        ],
+        "line_ids": [
+          20
+        ]
+      },
+      "translation": {
+        "text": "日语：搞怪的表情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64224138,
+          0.57010714,
+          0.89302135,
+          0.58810714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5928571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.64224138,
+          0.57010714,
+          0.89302135,
+          0.58810714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b010",
+      "kind": "caption",
+      "source": {
+        "text": "English: a happy cat face",
+        "raw": "English: a happy cat face",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.36701546,
+          0.66247857,
+          0.51856404,
+          0.67296429
+        ],
+        "mask_bbox": [
+          0.3656902,
+          0.66176429,
+          0.5198893,
+          0.67403571
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "英语：开心的猫脸",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3048098,
+          0.66105,
+          0.5800561,
+          0.67905
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.3048098,
+          0.66105,
+          0.5800561,
+          0.67905
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b011",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: same as English",
+        "raw": "Japanese: same as English",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.67950157,
+          0.66281429,
+          0.84076533,
+          0.6733
+        ],
+        "mask_bbox": [
+          0.67817631,
+          0.6621,
+          0.84209059,
+          0.67437143
+        ],
+        "line_ids": [
+          22
+        ]
+      },
+      "translation": {
+        "text": "日语：与英语相同",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.67950157,
+          0.66138571,
+          0.89302135,
+          0.67938571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.67950157,
+          0.66138571,
+          0.89302135,
+          0.67938571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b012",
+      "kind": "caption",
+      "source": {
+        "text": "English: a face showing dismay or sadness",
+        "raw": "English: a face showing dismay or sadness",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31385215,
+          0.75475714,
+          0.57344,
+          0.76524286
+        ],
+        "mask_bbox": [
+          0.31252689,
+          0.75404286,
+          0.57476526,
+          0.76631429
+        ],
+        "line_ids": [
+          23
+        ]
+      },
+      "translation": {
+        "text": "英语：沮丧或悲伤的表情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3048098,
+          0.75332857,
+          0.5800561,
+          0.77132857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.3048098,
+          0.75332857,
+          0.5800561,
+          0.77132857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b013",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: a person on their hands and knees showing regret or despair",
+        "raw": "Japanese: a person on their hands and knees\nshowing regret or despair",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6225052,
+          0.75475714,
+          0.89849569,
+          0.779
+        ],
+        "mask_bbox": [
+          0.62117994,
+          0.75404286,
+          0.89982095,
+          0.78007143
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "日语：双手双膝跪地，表示懊悔或绝望",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61080213,
+          0.75357143,
+          0.89849569,
+          0.78428571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7842857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.61080213,
+          0.75357143,
+          0.89849569,
+          0.78428571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "region_id": "orz-caption"
+    },
+    {
+      "id": "p0190-b014",
+      "kind": "caption",
+      "source": {
+        "text": "English: a face showing dismay or sadness",
+        "raw": "English: a face showing dismay or sadness",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31433128,
+          0.85477143,
+          0.57344,
+          0.86525714
+        ],
+        "mask_bbox": [
+          0.31300602,
+          0.85405714,
+          0.57476526,
+          0.86632857
+        ],
+        "line_ids": [
+          26
+        ]
+      },
+      "translation": {
+        "text": "英语：沮丧或悲伤的表情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.30582923,
+          0.85334286,
+          0.5800561,
+          0.87134286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.30582923,
+          0.85334286,
+          0.5800561,
+          0.87134286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0190-b015",
+      "kind": "caption",
+      "source": {
+        "text": "Japanese: a face showing worry or anxiety",
+        "raw": "Japanese: a face showing worry or anxiety",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63065045,
+          0.85477143,
+          0.89244027,
+          0.86525714
+        ],
+        "mask_bbox": [
+          0.62932519,
+          0.85405714,
+          0.89376553,
+          0.86632857
+        ],
+        "line_ids": [
+          27
+        ]
+      },
+      "translation": {
+        "text": "日语：担忧或焦虑的表情",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62491106,
+          0.85334286,
+          0.89302135,
+          0.87134286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62491106,
+          0.85334286,
+          0.89302135,
+          0.87134286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "ba23d44b7a803127ed4f4a7192e23666896cb0a929924d59f74599fd7fdab1a5"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "page-number"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.09,
+      877.22
+    ],
+    "text_runs": [
+      {
+        "id": "p0190-b002",
+        "blocks": [
+          "p0190-b002",
+          "p0190-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 295.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

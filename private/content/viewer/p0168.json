@@ -1,0 +1,957 @@
+{
+  "schema_version": 3,
+  "pdf_page": 168,
+  "printed_page": "168",
+  "title": "火热甩卖",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    979.905437,
+    1400
+  ],
+  "physical_size_pt": [
+    497.4,
+    710.64
+  ],
+  "image_url": "/assets/p0168.jpg",
+  "image_sha256": "1d430204ea73ed3f5a98e0449bac032d1f79b12d01d596816e6cdd4c75a01e4a",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0168/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0168-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Hot Stuff",
+        "raw": "Hot Stuff",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29147711,
+          0.06436429,
+          0.38733329,
+          0.07815
+        ],
+        "mask_bbox": [
+          0.29015045,
+          0.06365,
+          0.38865995,
+          0.07922143
+        ],
+        "line_ids": [
+          3
+        ]
+      },
+      "translation": {
+        "text": "火热甩卖",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29279355,
+          0.055142857,
+          0.90616907,
+          0.079285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.079285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29279355,
+          0.055142857,
+          0.90616907,
+          0.079285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 115
+    },
+    {
+      "id": "p0168-b002",
+      "kind": "aside",
+      "source": {
+        "text": "\"Stop, drop, and roll\" is one of those phrases every kid in America learns over and over at an early age, along with \"stranger danger\"",
+        "raw": "\"Stop, drop, and\nroll\" is one of those\nphrases every kid\nin America learns\nover and over at an\nearly age, along with\n\"stranger danger\"",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13206376,
+          0.09451429,
+          0.26766869,
+          0.19775714
+        ],
+        "mask_bbox": [
+          0.1307371,
+          0.0938,
+          0.26899534,
+          0.19882857
+        ],
+        "line_ids": [
+          4,
+          7,
+          8,
+          9,
+          10,
+          11,
+          14
+        ]
+      },
+      "translation": {
+        "text": "“停下、趴下、打滚”和“小心陌生人”一样，是美国孩子从小反复学的口诀。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11735826,
+          0.09308571,
+          0.26766869,
+          0.20132857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3251285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11735826,
+          0.09308571,
+          0.26766869,
+          0.20132857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Papyrus suggests that the player visit Gerson's shop by saying:",
+        "raw": "In English, Papyrus suggests that the player visit Gerson's shop by saying:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29129341,
+          0.23952857,
+          0.85900125,
+          0.25191429
+        ],
+        "mask_bbox": [
+          0.2892524,
+          0.23881429,
+          0.90821008,
+          0.25298571
+        ],
+        "line_ids": [
+          18
+        ]
+      },
+      "translation": {
+        "text": "英语版中，Papyrus 这样建议玩家去 Gerson 的商店看看：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29279355,
+          0.2381,
+          0.90616907,
+          0.26024286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2596285728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29279355,
+          0.2381,
+          0.90616907,
+          0.26024286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b004",
+      "kind": "quote",
+      "source": {
+        "text": "IF YOU SEE A SHOP, YOU SHOULD STOP. .. DROP, AND ROLL... INTO SOME GREAT DEALS!! BECAUSE WE'RE HAVING A FIRE SALE!! AT MY IMAGINARY STORE, WHICH SELLS FLAMES.",
+        "raw": "IF YOU SEE A SHOP, YOU SHOULD STOP. .. DROP, AND ROLL...\nINTO SOME GREAT DEALS!! BECAUSE WE'RE HAVING A FIRE\nSALE!! AT MY IMAGINARY STORE, WHICH SELLS FLAMES.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33552217,
+          0.26677143,
+          0.85041879,
+          0.31602143
+        ],
+        "mask_bbox": [
+          0.33419551,
+          0.26605714,
+          0.85174545,
+          0.31709286
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "看到商店，你就该停下……趴下，然后滚……进超值优惠里！！我们正在举办 FIRE SALE（火灾后大甩卖）！！就在我那家想象中的、专卖火焰的店里。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33574668,
+          0.265,
+          0.90825091,
+          0.32571429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.32571428571428573,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.33574668,
+          0.265,
+          0.90825091,
+          0.32571429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In some English-speaking regions, children are taught the phrase \"stop, drop, and roll\" as a way to remember what to do if their clothes catch on fire. This reference and Papyrus' fire puns would be lost in a literal translation, so the translator adjusted the line:",
+        "raw": "In some English-speaking regions,\nchildren are taught the phrase \"stop,\ndrop, and roll\" as a way to remember\nwhat to do if their clothes catch on fire.\nThis reference and Papyrus' fire puns\nwould be lost in a literal translation, so\nthe translator adjusted the line:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61120183,
+          0.33105,
+          0.90828152,
+          0.45253571
+        ],
+        "mask_bbox": [
+          0.60987518,
+          0.33033571,
+          0.90960818,
+          0.45360714
+        ],
+        "line_ids": [
+          22,
+          25,
+          27,
+          29,
+          31,
+          33,
+          36
+        ]
+      },
+      "translation": {
+        "text": "一些英语地区会教孩子 stop, drop, and roll（停下、趴下、打滚），记住衣服着火时的应对方法。这一典故和 Papyrus 的火焰双关直译就没了，因此译者改成：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61128347,
+          0.33,
+          0.90927141,
+          0.46142857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4614285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.61128347,
+          0.33,
+          0.90927141,
+          0.46142857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b006",
+      "kind": "aside",
+      "source": {
+        "text": "I heard \"stop, drop, and roll\" so often as a kid that it almost felt like catching on fire was a common problem we'd all face daily when we grew up - same with quicksand, too",
+        "raw": "I heard \"stop, drop, and\nroll\" so often as a kid\nthat it almost felt like\ncatching on fire was a\ncommon problem we'd\nall face daily when we\ngrew up - same with\nquicksand, too",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11537848,
+          0.33227143,
+          0.26599505,
+          0.4507
+        ],
+        "mask_bbox": [
+          0.11405182,
+          0.33155714,
+          0.26732171,
+          0.45177143
+        ],
+        "line_ids": [
+          23,
+          24,
+          26,
+          28,
+          30,
+          32,
+          34,
+          35
+        ]
+      },
+      "translation": {
+        "text": "我小时候听“停下、趴下、打滚”听得太多，差点以为长大后身上着火会是天天遇到的问题——流沙也是一样。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11537848,
+          0.33084286,
+          0.26728089,
+          0.45427143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6270500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11537848,
+          0.33084286,
+          0.26728089,
+          0.45427143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b007",
+      "kind": "quote",
+      "source": {
+        "text": "IF YOU SHOULD SPOT A SHOP. .. GO IN WITHOUT A SECOND THOUGHT! YOU'RE SURE TO FIND A GREAT BARGAIN! A BARGAIN ON WHAT? HOW SHOULD I KNOW?! BUT ANY BARGAIN IS A MUST-BUY IN MY BOOK!",
+        "raw": "IF YOU SHOULD SPOT A SHOP. .. GO IN WITHOUT A SECOND\nTHOUGHT! YOU'RE SURE TO FIND A GREAT BARGAIN!\nA BARGAIN ON WHAT? HOW SHOULD I KNOW?! BUT ANY\nBARGAIN IS A MUST-BUY IN MY BOOK!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33512417,
+          0.46772857,
+          0.83892789,
+          0.5352
+        ],
+        "mask_bbox": [
+          0.33379752,
+          0.46701429,
+          0.84025455,
+          0.53627143
+        ],
+        "line_ids": [
+          37,
+          38,
+          39,
+          40
+        ]
+      },
+      "translation": {
+        "text": "看见商店……就别犹豫，进去吧！你一定能找到好划算的东西！什么东西划算？我怎么知道？！反正只要划算，在我看来就必须买！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33676719,
+          0.47,
+          0.90927141,
+          0.54285714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.59,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.33676719,
+          0.47,
+          0.90927141,
+          0.54285714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new line lacks the multiple comedic punches of the original English line, but it still sounds silly and fits Papyrus' \"weird yet happy-go-lucky\" personality.",
+        "raw": "This new line lacks the multiple comedic punches of the original English line,\nbut it still sounds silly and fits Papyrus' \"weird yet happy-go-lucky\" personality.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29274253,
+          0.54955714,
+          0.90616907,
+          0.58019286
+        ],
+        "mask_bbox": [
+          0.2892524,
+          0.54884286,
+          0.90821008,
+          0.58126429
+        ],
+        "line_ids": [
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "新版台词没有原版层层推进的笑点，但仍然傻乎乎的，也符合 Papyrus 古怪却乐天的性格。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29129341,
+          0.54928571,
+          0.90927141,
+          0.59
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.59,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0168-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29129341,
+          0.54928571,
+          0.90927141,
+          0.59
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Sea of Creativi-Tea",
+        "raw": "Sea of Creativi-Tea",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29413042,
+          0.6044,
+          0.48723069,
+          0.61818571
+        ],
+        "mask_bbox": [
+          0.29280376,
+          0.60368571,
+          0.48855735,
+          0.61925714
+        ],
+        "line_ids": [
+          43
+        ]
+      },
+      "translation": {
+        "text": "海茶的创意",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29279355,
+          0.59514286,
+          0.90616907,
+          0.61928571
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6192857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29279355,
+          0.59514286,
+          0.90616907,
+          0.61928571
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 871.0
+    },
+    {
+      "id": "p0168-b010",
+      "kind": "aside",
+      "source": {
+        "text": "I've seen Japanese fans praise this minor, unimportant item name, which shows that even the smallest things do matter and do get noticed in a localization!",
+        "raw": "I've seen Japanese\nfans praise this minor,\nunimportant item\nname, which shows\nthat even the smallest\nthings do matter and\ndo get noticed in a\nlocalization!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12923696,
+          0.63419286,
+          0.26906678,
+          0.75398571
+        ],
+        "mask_bbox": [
+          0.1279103,
+          0.63347857,
+          0.27039344,
+          0.75505714
+        ],
+        "line_ids": [
+          44,
+          48,
+          52,
+          55,
+          60,
+          61,
+          62,
+          63
+        ]
+      },
+      "translation": {
+        "text": "我见过日本粉丝称赞这件不起眼的小道具的译名。这说明，本地化中再小的细节，也有意义，也会有人留意！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11735826,
+          0.63276429,
+          0.26906678,
+          0.75755714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7657142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11735826,
+          0.63276429,
+          0.26906678,
+          0.75755714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "Gerson sells a Waterfall-exclusive item named \"Sea Tea\" in the English script. This name contains a basic rhyme, but no wordplay beyond that.",
+        "raw": "Gerson sells a Waterfall-exclusive item named \"Sea Tea\" in the English script.\nThis name contains a basic rhyme, but no wordplay beyond that.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29415083,
+          0.77042857,
+          0.89573949,
+          0.80140714
+        ],
+        "mask_bbox": [
+          0.2892524,
+          0.76971429,
+          0.90821008,
+          0.80247857
+        ],
+        "line_ids": [
+          64,
+          65
+        ]
+      },
+      "translation": {
+        "text": "Gerson 出售一种瀑布特产，英语名为“Sea Tea”（海茶）。这个名字简单地押了韵，没有其他文字游戏。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29279355,
+          0.769,
+          0.90616907,
+          0.80497857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29279355,
+          0.769,
+          0.90616907,
+          0.80497857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "After some brainstorming, the localization team chose a new name for \"Sea Tea\": Bichabi-cha. This is a play on the Japanese words cha (\"tea\") and bichabicha (\"sopping wet; soggy\"), and was intended to sound like real-life tea brands such as Sokenbicha. Thus, the Japanese name for \"Sea Tea\" has a level of wordplay that goes beyond the simple rhyme of the original English name.",
+        "raw": "After some brainstorming, the localization team chose a new name for \"Sea\nTea\": Bichabi-cha. This is a play on the Japanese words cha (\"tea\") and\nbichabicha (\"sopping wet; soggy\"), and was intended to sound like real-life tea\nbrands such as Sokenbicha. Thus, the Japanese name for \"Sea Tea\" has a level\nof wordplay that goes beyond the simple rhyme of the original English name.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29284458,
+          0.81671429,
+          0.89645385,
+          0.90272143
+        ],
+        "mask_bbox": [
+          0.2892524,
+          0.816,
+          0.90821008,
+          0.90379286
+        ],
+        "line_ids": [
+          66,
+          67,
+          68,
+          69,
+          71
+        ]
+      },
+      "translation": {
+        "text": "团队集思广益后，为“Sea Tea”取了新名字：Bichabi-cha。它结合了日语 cha（茶）与 bichabicha（湿漉漉、湿透了），同时有意模仿 Sōkenbicha（爽健美茶）等现实茶饮品牌。因此，日文名的文字游戏比英文原名的简单押韵又多了一层。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 24,
+            "end": 35,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 43,
+            "end": 46,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 51,
+            "end": 61,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 78,
+            "end": 88,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29279355,
+          0.81528571,
+          0.90616907,
+          0.90629286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0168-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.29279355,
+          0.81528571,
+          0.90616907,
+          0.90629286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0168-b013",
+      "kind": "caption",
+      "source": {
+        "text": "I am a Sokenbicha bottle",
+        "raw": "I am a Sokenbicha bottle",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11344972,
+          0.88243571,
+          0.26706659,
+          0.89312857
+        ],
+        "mask_bbox": [
+          0.11212306,
+          0.88172143,
+          0.26839324,
+          0.8942
+        ],
+        "line_ids": [
+          70
+        ]
+      },
+      "translation": {
+        "text": "我是一瓶爽健美茶。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11344972,
+          0.88100714,
+          0.26706659,
+          0.89900714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11344972,
+          0.88100714,
+          0.26706659,
+          0.89900714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4b3680234cdfbc44b022c01f98831f4cac5afecefb63c653f03914fd3c9d1410"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          1,
+          2,
+          5,
+          6,
+          12,
+          13,
+          15,
+          16,
+          17,
+          45,
+          46,
+          47,
+          49,
+          50,
+          51,
+          53,
+          54,
+          56,
+          57,
+          58,
+          59,
+          72
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      286.91,
+      887.96
+    ],
+    "text_runs": [
+      {
+        "id": "p0168-b011",
+        "blocks": [
+          "p0168-b011",
+          "p0168-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

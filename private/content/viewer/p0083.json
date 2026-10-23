@@ -1,0 +1,369 @@
+{
+  "schema_version": 3,
+  "pdf_page": 83,
+  "printed_page": "83",
+  "title": "灵感聚焦：EarthBound",
+  "subtitle": "遗迹 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.722669+00:00",
+  "reference_size": [
+    986.213853,
+    1400
+  ],
+  "physical_size_pt": [
+    502.8,
+    713.76
+  ],
+  "image_url": "/assets/p0083.jpg",
+  "image_sha256": "9f6975a4d03c9a81e651988361906797f97c79e7ad91b2a2a324592d62270fe8",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0083/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0083-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Inspiration Spotlight: EarthBound",
+        "raw": "Inspiration Spotlight: EarthBound",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.22155438,
+          0.07451429,
+          0.57259386,
+          0.08782857
+        ],
+        "mask_bbox": [
+          0.22023621,
+          0.0738,
+          0.57391204,
+          0.0889
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "灵感聚焦：EarthBound",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 5,
+            "end": 15,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11863553,
+          0.06442857,
+          0.67328196,
+          0.08857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.08857142857142856,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11863553,
+          0.06442857,
+          0.67328196,
+          0.08857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 128.0
+    },
+    {
+      "id": "p0083-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "In 1994, Nintendo released a Super Famicom role-playing game known as MOTHER 2 in Japan. The game sold hundreds of thousands of copies and was a hit among fans and critics alike.",
+        "raw": "In 1994, Nintendo released a Super Famicom role-playing game known\nas MOTHER 2 in Japan. The game sold hundreds of thousands of copies\nand was a hit among fans and critics alike.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12490192,
+          0.75000714,
+          0.65922822,
+          0.79442143
+        ],
+        "mask_bbox": [
+          0.12287396,
+          0.74929286,
+          0.67916304,
+          0.79549286
+        ],
+        "line_ids": [
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "1994年，任天堂在日本的 Super Famicom 平台推出角色扮演游戏 MOTHER 2。游戏卖出数十万份，深受玩家和评论界好评。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 39,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12490192,
+          0.745,
+          0.67916304,
+          0.78642857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.12490192,
+          0.745,
+          0.67916304,
+          0.78642857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "earthbound-history-inset"
+    },
+    {
+      "id": "p0083-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Hoping for similar success outside of Japan, Nintendo localized MOTHER 2 into English and released the game as EarthBound in 1995. The game sold poorly and was quickly moved to bargain bins. Despite its commercial failure, EarthBound eventually became a cult classic that continues to influence game developers around the world.",
+        "raw": "Hoping for similar success outside of Japan, Nintendo localized MOTHER 2\ninto English and released the game as EarthBound in 1995. The game sold\npoorly and was quickly moved to bargain bins. Despite its commercial\nfailure, EarthBound eventually became a cult classic that continues to\ninfluence game developers around the world.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12550016,
+          0.80717143,
+          0.67713508,
+          0.88824286
+        ],
+        "mask_bbox": [
+          0.12287396,
+          0.80645714,
+          0.67916304,
+          0.88931429
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "任天堂希望海外也有同样的成绩，于是将 MOTHER 2 译成英语，于1995年以 EarthBound 之名发行。然而销量不佳，游戏很快就进了特价区。商业失利并没妨碍它后来成为拥有忠实追随者的经典，至今仍影响着全球的游戏开发者。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 19,
+            "end": 27,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 41,
+            "end": 51,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.12490192,
+          0.795,
+          0.67916304,
+          0.89857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0083-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.12490192,
+          0.795,
+          0.67916304,
+          0.89857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": [],
+      "region_id": "earthbound-history-inset"
+    },
+    {
+      "id": "p0083-b004",
+      "kind": "footer",
+      "source": {
+        "text": "Ruins",
+        "raw": "Ruins",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.66654914,
+          0.93987857,
+          0.70629712,
+          0.94955
+        ],
+        "mask_bbox": [
+          0.66523097,
+          0.93916429,
+          0.70761529,
+          0.95062143
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "遗迹",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.66654914,
+          0.93845,
+          0.70629712,
+          0.95645
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.95645,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.66654914,
+          0.93845,
+          0.70629712,
+          0.95645
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Ruins",
+        "chapter_id": "chapter-80"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "366dc11109f95a7b39655bf1d6f945330a51f6ee80960408ee77455be3fc9b7f"
+  },
+  "chapter_id": "chapter-80",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

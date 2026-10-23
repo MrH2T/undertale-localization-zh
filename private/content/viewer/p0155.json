@@ -1,0 +1,522 @@
+{
+  "schema_version": 3,
+  "pdf_page": 155,
+  "printed_page": "155",
+  "title": "认识莉卡娃娃",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.225704+00:00",
+  "reference_size": [
+    974.077195,
+    1400
+  ],
+  "physical_size_pt": [
+    495.36,
+    711.96
+  ],
+  "image_url": "/assets/p0155.jpg",
+  "image_sha256": "5da550e64a44e0a9161cc03fb980b9b1d0a41e79b96d48fcd47c9942dbf91106",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0155/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0155-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Meet Licca-chan",
+        "raw": "Meet Licca-chan",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.30913361,
+          0.09041429,
+          0.47603003,
+          0.10305714
+        ],
+        "mask_bbox": [
+          0.30779901,
+          0.0897,
+          0.47736463,
+          0.10412857
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "认识莉卡娃娃",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11324051,
+          0.07942857,
+          0.66886896,
+          0.10357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.10357142857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11324051,
+          0.07942857,
+          0.66886896,
+          0.10357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 149.0
+    },
+    {
+      "id": "p0155-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Licca-chan is a classic dress-up doll series in Japan that debuted in the late 1960s. In simple terms, Licca-chan is the Japanese equivalent of the United States' popular Barbie doll series.",
+        "raw": "Licca-chan is a classic dress-up doll series in Japan that debuted in the late\n1960s. In simple terms, Licca-chan is the Japanese equivalent of the United\nStates' popular Barbie doll series.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11190078,
+          0.11850714,
+          0.66886896,
+          0.16402857
+        ],
+        "mask_bbox": [
+          0.10984756,
+          0.11779286,
+          0.67092218,
+          0.1651
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "莉卡（Licca-chan）是20世纪60年代末推出的日本经典换装娃娃，相当于美国流行的芭比娃娃。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11324051,
+          0.11707857,
+          0.66886896,
+          0.1676
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.17357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11324051,
+          0.11707857,
+          0.66886896,
+          0.1676
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0155-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Licca-chan's popularity among Japanese children spawned a \"Talk to Licca-chan\" phone service that began operating in 1968. Being old enough to call Licca-chan is almost like a generational rite of passage in some parents' eyes.",
+        "raw": "Licca-chan's popularity among Japanese children spawned a \"Talk to\nLicca-chan\" phone service that began operating in 1968. Being old\nenough to call Licca-chan is almost like a generational rite of passage in\nsome parents' eyes.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11369735,
+          0.44852857,
+          0.65197091,
+          0.51057143
+        ],
+        "mask_bbox": [
+          0.10984756,
+          0.44781429,
+          0.67092218,
+          0.51164286
+        ],
+        "line_ids": [
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "莉卡深受日本儿童喜爱，催生了 1968 年开通的“与莉卡通话”电话服务。在一些家长眼中，孩子长到能给莉卡打电话的年纪，几乎是代代相传的成长仪式。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11190078,
+          0.44357143,
+          0.66935147,
+          0.51428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6342857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11190078,
+          0.44357143,
+          0.66935147,
+          0.51428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0155-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "When someone calls the Licca-chan hotline - which is just a pre-recorded message that changes monthly - Licca-chan answers with:",
+        "raw": "When someone calls the Licca-chan hotline - which is just a pre-recorded\nmessage that changes monthly - Licca-chan answers with:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11430306,
+          0.52099286,
+          0.66007089,
+          0.54933571
+        ],
+        "mask_bbox": [
+          0.10984756,
+          0.52027857,
+          0.67092218,
+          0.55040714
+        ],
+        "line_ids": [
+          9,
+          10
+        ]
+      },
+      "translation": {
+        "text": "拨打莉卡热线时——其实只是每月更新的预录留言——莉卡会这样接听：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11324051,
+          0.51956429,
+          0.66886896,
+          0.55290714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6342857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0155-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.11324051,
+          0.51956429,
+          0.66886896,
+          0.55290714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0155-b005",
+      "kind": "quote",
+      "source": {
+        "text": "Hello, this is Licca-chan !",
+        "raw": "Hello, this is Licca-chan !",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.15969987,
+          0.56773571,
+          0.33764264,
+          0.57869286
+        ],
+        "mask_bbox": [
+          0.15836527,
+          0.56702143,
+          0.33897724,
+          0.57976429
+        ],
+        "line_ids": [
+          11
+        ]
+      },
+      "translation": {
+        "text": "你好，我是莉卡！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.15969987,
+          0.56630714,
+          0.66886896,
+          0.58689643
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6342857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0155-b004",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.15969987,
+          0.56630714,
+          0.66886896,
+          0.58689643
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0155-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "This opening sentence, which also serves as the hotline's catchphrase, has been featured in countless commercials and advertisements for decades.",
+        "raw": "This opening sentence, which also serves as the hotline's catchphrase, has\nbeen featured in countless commercials and advertisements for decades.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11278367,
+          0.59515,
+          0.66360244,
+          0.62282143
+        ],
+        "mask_bbox": [
+          0.10984756,
+          0.59443571,
+          0.67092218,
+          0.62389286
+        ],
+        "line_ids": [
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "这句开场白也是热线的招牌台词，几十年来出现在无数电视广告及其他宣传中。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11324051,
+          0.59372143,
+          0.66886896,
+          0.62639286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6342857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0155-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.11324051,
+          0.59372143,
+          0.66886896,
+          0.62639286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0155-b007",
+      "kind": "footer",
+      "source": {
+        "text": "Snowdin",
+        "raw": "Snowdin",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63939491,
+          0.93797143,
+          0.70381486,
+          0.94794286
+        ],
+        "mask_bbox": [
+          0.63806031,
+          0.93725714,
+          0.70514945,
+          0.94901429
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "雪镇",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63939491,
+          0.93654286,
+          0.70381486,
+          0.95454286
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9545428571428572,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63939491,
+          0.93654286,
+          0.70381486,
+          0.95454286
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Snowdin",
+        "chapter_id": "chapter-106"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "cfa8c26d32f0d1ac6df1448a33411c0dd0b42aecfaeca9c911d04f437e0a78d7"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      110.3,
+      651.53
+    ],
+    "text_runs": [
+      {
+        "id": "p0155-b003",
+        "blocks": [
+          "p0155-b003",
+          "p0155-b004",
+          "p0155-b005",
+          "p0155-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 888.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "schema_version": 3,
+  "pdf_page": 243,
+  "printed_page": "243",
+  "title": "从隔扣到致命拥抱",
+  "subtitle": "最终战斗 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.317254+00:00",
+  "reference_size": [
+    981.818182,
+    1400
+  ],
+  "physical_size_pt": [
+    498.96,
+    711.48
+  ],
+  "image_url": "/assets/p0243.jpg",
+  "image_sha256": "c0dd364f599a7f88df2a8f5c66bb0316d35b648f794ddc8aa7c17c116b372ee8",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0243/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0243-b001",
+      "kind": "caption",
+      "source": {
+        "text": "English-speaking fans sometimes draw Sans dunking on the main character in a basketball game",
+        "raw": "English-speaking\nfans sometimes draw\nSans dunking on the\nmain character in a\nbasketball game",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73350648,
+          0.07101429,
+          0.86588333,
+          0.14391429
+        ],
+        "mask_bbox": [
+          0.73218241,
+          0.0703,
+          0.86720741,
+          0.14498571
+        ],
+        "line_ids": [
+          1,
+          3,
+          4,
+          5,
+          6
+        ]
+      },
+      "translation": {
+        "text": "英语圈粉丝有时会画 Sans 打篮球、隔着主角扣篮的场景。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73350648,
+          0.06958571,
+          0.86588333,
+          0.14748571
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.39411428285714284,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73350648,
+          0.06958571,
+          0.86588333,
+          0.14748571
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0243-b002",
+      "kind": "caption",
+      "source": {
+        "text": "Because Sans' line is completely different in the Japanese release, Japanese fans sometimes draw Sans hugging the main character to death instead",
+        "raw": "Because Sans' line is\ncompletely different\nin the Japanese\nrelease, Japanese fans\nsometimes draw Sans\nhugging the main\ncharacter to death\ninstead",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73336389,
+          0.40125714,
+          0.87194352,
+          0.52104286
+        ],
+        "mask_bbox": [
+          0.73203981,
+          0.40054286,
+          0.87326759,
+          0.52211429
+        ],
+        "line_ids": [
+          7,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "日版的台词完全不同，于是日本粉丝有时会改画 Sans 把主角抱死的场景。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73336389,
+          0.39982857,
+          0.87194352,
+          0.52461429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73336389,
+          0.39982857,
+          0.87194352,
+          0.52461429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0243-b003",
+      "kind": "footer",
+      "source": {
+        "text": "Final Battles",
+        "raw": "Final Battles",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.61585741,
+          0.93782857,
+          0.70676019,
+          0.94752857
+        ],
+        "mask_bbox": [
+          0.61453333,
+          0.93711429,
+          0.70808426,
+          0.9486
+        ],
+        "line_ids": [
+          16
+        ]
+      },
+      "translation": {
+        "text": "最终战斗",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.61585741,
+          0.9364,
+          0.70676019,
+          0.9544
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9544,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.61585741,
+          0.9364,
+          0.70676019,
+          0.9544
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Final Battles",
+        "chapter_id": "chapter-236"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "f126aa2697e3efb69bc2de379cebcd61bced94ca2e15814a94e6560cd415666f"
+  },
+  "chapter_id": "chapter-236",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          8
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

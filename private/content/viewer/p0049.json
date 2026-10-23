@@ -1,0 +1,600 @@
+{
+  "schema_version": 3,
+  "pdf_page": 49,
+  "printed_page": "49",
+  "title": "走出游戏圈",
+  "subtitle": "历史 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T18:27:45.127552+00:00",
+  "reference_size": [
+    985.719109,
+    1400
+  ],
+  "physical_size_pt": [
+    500.52,
+    710.88
+  ],
+  "image_url": "/assets/p0049.jpg",
+  "image_sha256": "5ac4dbab758b99357618ed17c2cb8f531130560058e8a5d544c03f77c4d409ed",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0049/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0049-b001",
+      "kind": "caption",
+      "source": {
+        "text": "~ Undertale was a massive success among players and critics alike",
+        "raw": "~ Undertale was a\nmassive success\namong players and\ncritics alike",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72023561,
+          0.07311429,
+          0.85417843,
+          0.13053571
+        ],
+        "mask_bbox": [
+          0.71891677,
+          0.0724,
+          0.85549726,
+          0.13160714
+        ],
+        "line_ids": [
+          1,
+          5,
+          6,
+          8
+        ]
+      },
+      "translation": {
+        "text": "Undertale 在玩家与评论者中都大获成功。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72023561,
+          0.07168571,
+          0.85417843,
+          0.13410714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.25,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72023561,
+          0.07168571,
+          0.85417843,
+          0.13410714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0049-b002",
+      "kind": "caption",
+      "source": {
+        "text": "News is made when an Undertale fan gives the Pope a copy of Undertale",
+        "raw": "News is made when an\nUndertale fan gives the\nPope a copy of Undertale",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0908068,
+          0.45763571,
+          0.2452017,
+          0.49885
+        ],
+        "mask_bbox": [
+          0.08948797,
+          0.45692143,
+          0.24652053,
+          0.49992143
+        ],
+        "line_ids": [
+          14,
+          16,
+          20
+        ]
+      },
+      "translation": {
+        "text": "一名 Undertale 玩家将游戏送给教皇，成了新闻。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 3,
+            "end": 12,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.0908068,
+          0.45620714,
+          0.2452017,
+          0.50242143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5112785728571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.0908068,
+          0.45620714,
+          0.2452017,
+          0.50242143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0049-b003",
+      "kind": "caption",
+      "source": {
+        "text": "A popular character from Undertale causes concern for the Christian Broadcasting Network",
+        "raw": "A popular character\nfrom Undertale\ncauses concern for the\nChristian Broadcasting\nNetwork",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73701523,
+          0.45797143,
+          0.87775513,
+          0.53058571
+        ],
+        "mask_bbox": [
+          0.7356964,
+          0.45725714,
+          0.87907396,
+          0.53165714
+        ],
+        "line_ids": [
+          15,
+          18,
+          21,
+          23,
+          26
+        ]
+      },
+      "translation": {
+        "text": "Undertale 的一个热门角色，引起了基督教广播网的担忧。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73701523,
+          0.45654286,
+          0.87775513,
+          0.53415714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5879000028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.73701523,
+          0.45654286,
+          0.87775513,
+          0.53415714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0049-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Toby gives his implied ~ approval for fans to translate Undertale into other languages",
+        "raw": "Toby gives his implied ~\napproval for fans to\ntranslate Undertale into\nother languages",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09871981,
+          0.51842143,
+          0.26326973,
+          0.5765
+        ],
+        "mask_bbox": [
+          0.09740097,
+          0.51770714,
+          0.26458856,
+          0.57757143
+        ],
+        "line_ids": [
+          24,
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "Toby 含蓄地认可玩家将 Undertale 翻成其他语言。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 14,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09871981,
+          0.51699286,
+          0.26326973,
+          0.58007143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5892857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.09871981,
+          0.51699286,
+          0.26326973,
+          0.58007143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0049-b005",
+      "kind": "caption",
+      "source": {
+        "text": "~ Toby at an awards show, standing alongside legendary game designers Tim Schafer (Monkey Island series, Grim Fandango), Alexey Pajitnov (Tetris), and Patrice Desilets (Assassins Creed series)",
+        "raw": "~ Toby at an awards\nshow, standing\nalongside legendary\ngame designers Tim\nSchafer (Monkey\nIsland series, Grim\nFandango), Alexey\nPajitnov (Tetris), and\nPatrice Desilets\n(Assassins Creed\nseries)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72116893,
+          0.59504286,
+          0.86425229,
+          0.76218571
+        ],
+        "mask_bbox": [
+          0.7198501,
+          0.59432857,
+          0.86557113,
+          0.76325714
+        ],
+        "line_ids": [
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          42
+        ]
+      },
+      "translation": {
+        "text": "Toby 在颁奖典礼上，与传奇游戏设计师 Tim Schafer（《Monkey Island》系列、《Grim Fandango》）、Alexey Pajitnov（《Tetris》）及 Patrice Désilets（《Assassin’s Creed》系列）站在一起。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 34,
+            "end": 47,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 52,
+            "end": 65,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 85,
+            "end": 91,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 113,
+            "end": 129,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72116893,
+          0.59361429,
+          0.86425229,
+          0.76575714
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.72116893,
+          0.59361429,
+          0.86425229,
+          0.76575714
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0049-b006",
+      "kind": "footer",
+      "source": {
+        "text": "History",
+        "raw": "History",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.65847359,
+          0.93985714,
+          0.71199797,
+          0.94928571
+        ],
+        "mask_bbox": [
+          0.65715476,
+          0.93914286,
+          0.7133168,
+          0.95035714
+        ],
+        "line_ids": [
+          44
+        ]
+      },
+      "translation": {
+        "text": "历史",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.65847359,
+          0.93842857,
+          0.71199797,
+          0.95642857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9564285714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.65847359,
+          0.93842857,
+          0.71199797,
+          0.95642857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "History",
+        "chapter_id": "chapter-36"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "03bb02e55af21c2112c296277a0e9d34f81a23b14d43a5cc58922a550bd99fcc"
+  },
+  "chapter_id": "chapter-36",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          2
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          4
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          25
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          28
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          30
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          43
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      83,
+      684
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

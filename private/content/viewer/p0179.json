@@ -1,0 +1,1026 @@
+{
+  "schema_version": 3,
+  "pdf_page": 179,
+  "printed_page": "179",
+  "title": "击倒与鱼腥味",
+  "subtitle": "瀑布 · 私人学习译稿",
+  "revision": 2,
+  "updated_at": "2026-10-22T19:02:24.752660+00:00",
+  "reference_size": [
+    977.657597,
+    1400
+  ],
+  "physical_size_pt": [
+    495.84,
+    710.04
+  ],
+  "image_url": "/assets/p0179.jpg",
+  "image_sha256": "dfa424909a73831499c617629dc7fcd79dbebad2d6fcc117a0f71de30dea7106",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0179/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0179-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Fatal Fall",
+        "raw": "Fatal Fall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08864044,
+          0.06035714,
+          0.1803699,
+          0.07373571
+        ],
+        "mask_bbox": [
+          0.08731073,
+          0.05964286,
+          0.18169961,
+          0.07480714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "把你打倒",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08793467,
+          0.05085714,
+          0.70445931,
+          0.075
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08793467,
+          0.05085714,
+          0.70445931,
+          0.075
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 109.0
+    },
+    {
+      "id": "p0179-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Toby didn't note this reference, so the translator initially missed it, but luckily an American member of the localization team was there to point it out",
+        "raw": "Toby didn't note this\nreference, so the\ntranslator initially\nmissed it, but luckily\nan American member\nof the localization\nteam was there to\npoint it out",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73031704,
+          0.09111429,
+          0.8654666,
+          0.20978571
+        ],
+        "mask_bbox": [
+          0.72898733,
+          0.0904,
+          0.86679631,
+          0.21085714
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          11,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Toby 没有注明这处引用，因此译者最初没有发现。幸好，本地化团队的一位美国成员指出了出处。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73031704,
+          0.08968571,
+          0.88039002,
+          0.21335714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.28439285285714283,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73031704,
+          0.08968571,
+          0.88039002,
+          0.21335714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In the English version of Undertale, Undyne shouts at the main character:",
+        "raw": "In the English version of Undertale, Undyne shouts at the main character:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08795513,
+          0.23535,
+          0.65760242,
+          0.24774286
+        ],
+        "mask_bbox": [
+          0.08522411,
+          0.23463571,
+          0.70650502,
+          0.24881429
+        ],
+        "line_ids": [
+          14
+        ]
+      },
+      "translation": {
+        "text": "Undertale 英语版中，Undyne 冲主角大喊：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08793467,
+          0.23392143,
+          0.70445931,
+          0.25606429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.2553500028571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08793467,
+          0.23392143,
+          0.70445931,
+          0.25606429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b004",
+      "kind": "quote",
+      "source": {
+        "text": "I, Undyne, will knock you down!",
+        "raw": "I, Undyne, will /mock you down!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13231626,
+          0.26249286,
+          0.37186843,
+          0.27474286
+        ],
+        "mask_bbox": [
+          0.13098655,
+          0.26177857,
+          0.37319814,
+          0.27581429
+        ],
+        "line_ids": [
+          15
+        ]
+      },
+      "translation": {
+        "text": "I, Undyne, will knock you down!（我，Undyne，要把你打倒！）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 31,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13194804,
+          0.26214286,
+          0.70576857,
+          0.28285714
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.28285714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.13194804,
+          0.26214286,
+          0.70576857,
+          0.28285714
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "This laughable threat comes from a famous line in the 1990 English translation of Final Fantasy: \"I, Garland, will knock you all down!\".",
+        "raw": "This laughable threat comes from\na famous line in the 1990 English\ntranslation of Final Fantasy: \"I,\nGarland, will knock you all down!\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0874437,
+          0.29043571,
+          0.35950214,
+          0.35758571
+        ],
+        "mask_bbox": [
+          0.08522411,
+          0.28972143,
+          0.36083185,
+          0.35865714
+        ],
+        "line_ids": [
+          16,
+          19,
+          24,
+          28
+        ]
+      },
+      "translation": {
+        "text": "这句好笑的威胁出自 Final Fantasy 1990 年英译版的名句：“I, Garland, will knock you all down!”（我，Garland，要把你们全都打倒！）",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 10,
+            "end": 23,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08726982,
+          0.29071429,
+          0.38663843,
+          0.43428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08726982,
+          0.29071429,
+          0.38663843,
+          0.43428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b006",
+      "kind": "aside",
+      "source": {
+        "text": "In Japanese, Garland roughly says \"I, Garland, will vanquish you!\", which makes it less memorable than the awkwardly phrased English translation",
+        "raw": "In Japanese,\nGarland roughly\nsays \"I, Garland,\nwill vanquish you!\",\nwhich makes it less\nmemorable than the\nawkwardly phrased\nEnglish translation",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73071595,
+          0.29153571,
+          0.85776452,
+          0.41157143
+        ],
+        "mask_bbox": [
+          0.72938624,
+          0.29082143,
+          0.85909423,
+          0.41264286
+        ],
+        "line_ids": [
+          17,
+          18,
+          23,
+          27,
+          29,
+          31,
+          33,
+          35
+        ]
+      },
+      "translation": {
+        "text": "日文中，Garland 大致是在说“我，Garland，要消灭你们！”不像措辞别扭的英译那样令人难忘。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73071595,
+          0.29010714,
+          0.88039002,
+          0.41514286
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5411857128571428,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73071595,
+          0.29010714,
+          0.88039002,
+          0.41514286
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Undertale's translator retained this reference by quoting the same line from the original Japanese version of Final Fantasy.",
+        "raw": "Undertale's translator retained this\nreference by quoting the same line\nfrom the original Japanese version of\nFinal Fantasy.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08726982,
+          0.36310714,
+          0.37724864,
+          0.43157857
+        ],
+        "mask_bbox": [
+          0.08522411,
+          0.36239286,
+          0.37857835,
+          0.43265
+        ],
+        "line_ids": [
+          30,
+          32,
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "日版译者引用 Final Fantasy 日文原句，保留这处致敬。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 7,
+            "end": 20,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08726982,
+          0.43714286,
+          0.70576857,
+          0.45857143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.4585714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08726982,
+          0.43714286,
+          0.70576857,
+          0.45857143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "However, this Final Fantasy quote is famous because of its odd translation - the original Japanese line was normal and unremarkable. For this reason, the Final Fantasy reference is less recognizable in Japanese than in English.",
+        "raw": "However, this Final Fantasy quote is famous because of its odd translation - the\noriginal Japanese line was normal and unremarkable. For this reason, the Final\nFantasy reference is less recognizable in Japanese than in English.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08726982,
+          0.44659286,
+          0.70236247,
+          0.49582857
+        ],
+        "mask_bbox": [
+          0.08522411,
+          0.44587857,
+          0.70650502,
+          0.4969
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "这句台词因英译古怪而出名，日文原句却平淡无奇。因此，日语版的 Final Fantasy 致敬比英语版更难认出来。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 31,
+            "end": 44,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08726982,
+          0.46428571,
+          0.70576857,
+          0.50571429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5057142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.08726982,
+          0.46428571,
+          0.70576857,
+          0.50571429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b009",
+      "kind": "heading",
+      "source": {
+        "text": "Fishy Ideas",
+        "raw": "Fishy Ideas",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08960192,
+          0.51905,
+          0.20324089,
+          0.53242857
+        ],
+        "mask_bbox": [
+          0.08827221,
+          0.51833571,
+          0.2045706,
+          0.5335
+        ],
+        "line_ids": [
+          40
+        ]
+      },
+      "translation": {
+        "text": "鱼腥味的笑料",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08793467,
+          0.508714286,
+          0.70445931,
+          0.532857143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.532857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08793467,
+          0.508714286,
+          0.70445931,
+          0.532857143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 750
+    },
+    {
+      "id": "p0179-b010",
+      "kind": "aside",
+      "source": {
+        "text": "In Japanese, sushi technically refers to a type of vinegared rice rather than raw fish, meaning there are genuine, authentic, non-fish types of sushi if you don't like fish (inari is my favorite!)",
+        "raw": "In Japanese, sushi\ntechnically refers to\na type of vinegared\nrice rather than raw\nfish, meaning there\nare genuine, authentic,\nnon-fish types of sushi\nif you don't like fish\n(inari is my favorite!)",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73120692,
+          0.54832857,
+          0.87488708,
+          0.6847
+        ],
+        "mask_bbox": [
+          0.72987721,
+          0.54761429,
+          0.87621679,
+          0.68577143
+        ],
+        "line_ids": [
+          41,
+          42,
+          43,
+          44,
+          45,
+          46,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "严格说来，日语 sushi（寿司）指的是一种醋饭，并非生鱼。因此，不喜欢鱼的人也能吃到正宗的无鱼寿司——我最喜欢稻荷寿司！",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 8,
+            "end": 13,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73120692,
+          0.5469,
+          0.88039002,
+          0.68827143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.7440857128571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73120692,
+          0.5469,
+          0.88039002,
+          0.68827143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "The text \"smells like sushi\" will occasionally appear while fighting Undyne. This humorous reference to raw fish makes sense, given that Undyne is a fish monster.",
+        "raw": "The text \"smells like sushi\" will occasionally appear while fighting Undyne. This\nhumorous reference to raw fish makes sense, given that Undyne is a fish monster.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08793467,
+          0.70485,
+          0.70445931,
+          0.7348
+        ],
+        "mask_bbox": [
+          0.08522411,
+          0.70413571,
+          0.70650502,
+          0.73587143
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "与 Undyne 战斗时，偶尔会出现“闻起来像寿司”。Undyne 是鱼形怪物，用生鱼的气味打趣她自然说得通。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08726982,
+          0.70285714,
+          0.70576857,
+          0.745
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.745,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08726982,
+          0.70285714,
+          0.70576857,
+          0.745
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "At first, the translator changed \"smells like sushi\" to \"smells like a fish market\" and explained that Japanese players are more likely to associate the smell of sushi with vinegared rice rather than raw fish. Much later, Toby noted that \"smells like sushi\" is a fan-favorite quote and asked that it be reinstated in Japanese.",
+        "raw": "At first, the translator changed\n\"smells like sushi\" to \"smells like a fish\nmarket\" and explained that Japanese\nplayers are more likely to associate\nthe smell of sushi with vinegared rice\nrather than raw fish. Much later, Toby\nnoted that \"smells like sushi\" is a\nfan-favorite quote and asked that it be\nreinstated in Japanese.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08242149,
+          0.7498,
+          0.38303799,
+          0.91057857
+        ],
+        "mask_bbox": [
+          0.08109179,
+          0.74908571,
+          0.3843677,
+          0.91165
+        ],
+        "line_ids": [
+          53,
+          57,
+          59,
+          61,
+          63,
+          65,
+          68,
+          70,
+          71
+        ]
+      },
+      "translation": {
+        "text": "最初，译者把“闻起来像寿司”改成了“闻起来像鱼市”，并解释说，日本玩家闻到寿司，更容易想到醋饭，而不是生鱼。很久以后，Toby 指出“闻起来像寿司”是玩家很喜欢的台词，要求日文也恢复这一说法。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08242149,
+          0.74837143,
+          0.38303799,
+          0.91415
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08242149,
+          0.74837143,
+          0.38303799,
+          0.91415
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b013",
+      "kind": "aside",
+      "source": {
+        "text": "This line was originally localized as \"smells like a fish market\" to better retain the joke about Undyne being a fish monster, but it was un-localized due to external influences",
+        "raw": "This line was\noriginally localized\nas \"smells like a fish\nmarket\" to better\nretain the joke about\nUndyne being a fish\nmonster, but it was\nun-localized due to\nexternal influences",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73079778,
+          0.75122857,
+          0.86289924,
+          0.88850714
+        ],
+        "mask_bbox": [
+          0.72946807,
+          0.75051429,
+          0.86422895,
+          0.88957857
+        ],
+        "line_ids": [
+          54,
+          56,
+          58,
+          60,
+          62,
+          64,
+          66,
+          67,
+          69
+        ]
+      },
+      "translation": {
+        "text": "最初译作“闻起来像鱼市”，是为了更好地保留 Undyne 是鱼形怪物的笑点。后来由于游戏以外的影响，这处本地化改动又被撤回。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73079778,
+          0.7498,
+          0.88039002,
+          0.89207857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73079778,
+          0.7498,
+          0.88039002,
+          0.89207857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0179-b014",
+      "kind": "footer",
+      "source": {
+        "text": "Waterfall",
+        "raw": "Waterfall",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63546788,
+          0.93815,
+          0.70393766,
+          0.94913571
+        ],
+        "mask_bbox": [
+          0.63413817,
+          0.93743571,
+          0.70526737,
+          0.95020714
+        ],
+        "line_ids": [
+          72
+        ]
+      },
+      "translation": {
+        "text": "瀑布",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.63546788,
+          0.93672143,
+          0.70393766,
+          0.95472143
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9547214285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.63546788,
+          0.93672143,
+          0.70393766,
+          0.95472143
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Waterfall",
+        "chapter_id": "chapter-156"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "d00725ea8227aab4c8413d266b8cc425acaf49bba33fa079b1c7fee77ad2af27"
+  },
+  "chapter_id": "chapter-156",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          8,
+          9,
+          10,
+          13,
+          20,
+          21,
+          22,
+          25,
+          26,
+          47,
+          55,
+          73
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      85.97,
+      688.72
+    ],
+    "text_runs": [],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

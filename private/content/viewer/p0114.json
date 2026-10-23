@@ -1,0 +1,697 @@
+{
+  "schema_version": 3,
+  "pdf_page": 114,
+  "printed_page": "114",
+  "title": "Papyrus 改用竖排",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    980.661492,
+    1400
+  ],
+  "physical_size_pt": [
+    498.12,
+    711.12
+  ],
+  "image_url": "/assets/p0114.jpg",
+  "image_sha256": "ecf41cd6cc74b2b5544266a6eef0d474cdbadaaa668166c56dff19c5e4f7907f",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0114/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0114-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Papyrus Gets Vertical",
+        "raw": "Papyrus Gets Vertical",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29444411,
+          0.06510714,
+          0.51513188,
+          0.07874286
+        ],
+        "mask_bbox": [
+          0.29311847,
+          0.06439286,
+          0.51645752,
+          0.07981429
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 改用竖排",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.055857143,
+          0.90509315,
+          0.08
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.08,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.055857143,
+          0.90509315,
+          0.08
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 116
+    },
+    {
+      "id": "p0114-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Papyrus' text box was ~ redesigned for the Japanese localization, although this made his Japanese font smaller than his English font",
+        "raw": "Papyrus' text box was ~\nredesigned for the\nJapanese localization,\nalthough this made his\nJapanese font smaller\nthan his English font",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12366143,
+          0.09446429,
+          0.28330877,
+          0.18208571
+        ],
+        "mask_bbox": [
+          0.12233579,
+          0.09375,
+          0.2846344,
+          0.18315714
+        ],
+        "line_ids": [
+          2,
+          5,
+          8,
+          9,
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "日语本地化重新设计了 Papyrus 的对话框，不过这也使他的日文字号比英文字号小。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11726778,
+          0.09303571,
+          0.28330877,
+          0.18565714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.265,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11726778,
+          0.09303571,
+          0.28330877,
+          0.18565714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans has a skeleton brother named Papyrus, whose name is also a reference to a cheesy, overused computer font. Papyrus' English text is unique in two ways: his dialogue uses the Papyrus computer font, and he only uses capital letters. This combination lends his dialogue a humorous \"oddball\" quality that no other characters in the game share.",
+        "raw": "Sans has a skeleton brother named Papyrus, whose name is also a reference to\na cheesy, overused computer font. Papyrus' English text is unique in two ways:\nhis dialogue uses the Papyrus computer font, and he only uses capital letters.\nThis combination lends his dialogue a humorous \"oddball\" quality that no\nother characters in the game share.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2937405,
+          0.26760714,
+          0.89925016,
+          0.35235
+        ],
+        "mask_bbox": [
+          0.2871837,
+          0.26689286,
+          0.90713259,
+          0.35342143
+        ],
+        "line_ids": [
+          12,
+          13,
+          15,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "Sans 有个名叫 Papyrus 的骷髅兄弟，名字同样来自一种俗气、被用滥的电脑字体。Papyrus 的英文台词有两个特点：使用 Papyrus 字体，而且全是大写字母。这种组合给他的台词带来滑稽的“怪人”气质，游戏中其他角色都没有。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.26617857,
+          0.90509315,
+          0.35592143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.26617857,
+          0.90509315,
+          0.35592143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b004",
+      "kind": "aside",
+      "source": {
+        "text": "Like Comic Sans, the Papyrus font has a bad reputation for overuse and misuse",
+        "raw": "Like Comic Sans, the\nPapyrus font has a bad\nreputation for overuse\nand misuse",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.12589461,
+          0.37862143,
+          0.26672812,
+          0.43419286
+        ],
+        "mask_bbox": [
+          0.12456898,
+          0.37790714,
+          0.26805376,
+          0.43526429
+        ],
+        "line_ids": [
+          21,
+          23,
+          25,
+          27
+        ]
+      },
+      "translation": {
+        "text": "和 Comic Sans 一样，Papyrus 字体也因过度使用和滥用而声名狼藉。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11726778,
+          0.37719286,
+          0.26836987,
+          0.43776429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.4990500028571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11726778,
+          0.37719286,
+          0.26836987,
+          0.43776429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Unfortunately, the Papyrus font doesn't support Japanese characters, nor does the Japanese language have capital letters. So, to ensure that Papyrus' text remained visually weird, funny, and memorable in Japanese, 8-4's technical team redesigned Papyrus' dialogue boxes to display text in Japanese tate style (vertically from top to bottom, moving right to left) instead of horizontally. The result is immediately striking and reinforces the idea that Papyrus is a happy go-lucky oddball who's oblivious to the world around him.",
+        "raw": "Unfortunately, the Papyrus font doesn't support Japanese characters, nor does\nthe Japanese language have capital letters. So, to ensure that Papyrus' text\nremained visually weird, funny, and memorable in Japanese, 8-4's technical\nteam redesigned Papyrus' dialogue boxes to display text in Japanese tate style\n(vertically from top to bottom, moving right to left) instead of horizontally. The\nresult is immediately striking and reinforces the idea that Papyrus is a happy\ngo-lucky oddball who's oblivious to the world around him.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29388326,
+          0.36853571,
+          0.90357377,
+          0.49073571
+        ],
+        "mask_bbox": [
+          0.2871837,
+          0.36782143,
+          0.90713259,
+          0.49180714
+        ],
+        "line_ids": [
+          20,
+          22,
+          24,
+          26,
+          28,
+          29,
+          30
+        ]
+      },
+      "translation": {
+        "text": "可惜 Papyrus 字体不支持日文，日语也没有大写字母。因此，为了让 Papyrus 的台词在日语中依然显得古怪、有趣、令人难忘，8-4 技术团队重新设计了他的对话框，采用日语 tate（竖排）形式：字由上往下，列由右往左，不再横排。效果立刻就很醒目，也进一步突出了 Papyrus 乐天、古怪、对周围世界浑然不觉的性格。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 90,
+            "end": 94,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.36710714,
+          0.90509315,
+          0.49430714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5007142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0114-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.36710714,
+          0.90509315,
+          0.49430714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b006",
+      "kind": "aside",
+      "source": {
+        "text": "Almost every equipment ~ name (\"Dusty Tutu\" in this example) was too long to fit on one line in Papyrus' Japanese text box, so the programmers added a list of pre-formatted item names specifically for this one line of dialogue",
+        "raw": "Almost every equipment ~\nname (\"Dusty Tutu\" in\nthis example) was too\nlong to fit on one line\nin Papyrus' Japanese\ntext box, so the\nprogrammers added a\nlist of pre-formatted\nitem names specifically\nfor this one line of\ndialogue",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11565663,
+          0.50619286,
+          0.28476697,
+          0.67145
+        ],
+        "mask_bbox": [
+          0.11433099,
+          0.50547857,
+          0.2860926,
+          0.67252143
+        ],
+        "line_ids": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "几乎所有装备名称（此处为“Dusty Tutu”，沾灰的芭蕾裙）都太长，无法在 Papyrus 的日文对话框里放进一列。程序员因此专为这一句台词，新增了预先排好格式的物品名称表。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11565663,
+          0.50476429,
+          0.28476697,
+          0.67502143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11565663,
+          0.50476429,
+          0.28476697,
+          0.67502143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because Undertale wasn't originally designed with vertical text in mind, Papyrus' Japanese text often led to graphical glitches and formatting problems. The localization team fixed this by manually editing all of Papyrus' text to use only five characters per line.",
+        "raw": "Because Undertale wasn't originally designed with vertical text in mind,\nPapyrus' Japanese text often led to graphical glitches and formatting problems.\nThe localization team fixed this by manually editing all of Papyrus' text to use\nonly five characters per line.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29470924,
+          0.67969286,
+          0.90509315,
+          0.74654286
+        ],
+        "mask_bbox": [
+          0.2871837,
+          0.67897857,
+          0.90713259,
+          0.74761429
+        ],
+        "line_ids": [
+          42,
+          43,
+          44,
+          45
+        ]
+      },
+      "translation": {
+        "text": "Undertale 最初并未考虑竖排文字，因此 Papyrus 的日文台词经常出现显示异常和排版问题。本地化团队逐一手动编辑他的全部台词，把每列限制在五个字，解决了这些问题。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.67826429,
+          0.90509315,
+          0.75011429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.67826429,
+          0.90509315,
+          0.75011429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "This solution wasn't perfect, though - in one scene, for example, Papyrus states the name of the main character's current equipment. Because most Japanese equipment names are longer than five characters, the equipment name would extend outside Papyrus' text window. The programmers fixed this rare issue by adding a new \"Papyrus Equipment Name\" list with pre-formatted equipment names.",
+        "raw": "This solution wasn't perfect, though - in one scene, for example, Papyrus states the\nname of the main character's current equipment. Because most Japanese equipment\nnames are longer than five characters, the equipment name would extend outside\nPapyrus' text window. The programmers fixed this rare issue by adding a new\n\"Papyrus Equipment Name\" list with pre-formatted equipment names.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.28922314,
+          0.7617,
+          0.90488921,
+          0.84779286
+        ],
+        "mask_bbox": [
+          0.2871837,
+          0.76098571,
+          0.90713259,
+          0.84886429
+        ],
+        "line_ids": [
+          46,
+          47,
+          48,
+          49,
+          50
+        ]
+      },
+      "translation": {
+        "text": "但这个办法并不完美。例如某个场景中，Papyrus 会说出主角当前装备的名字。大多数日文装备名超过五个字，就会伸出他的对话框。程序员于是新增了一张“Papyrus 装备名称”表，存放预先排好格式的装备名，解决这个少见的问题。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.76027143,
+          0.90509315,
+          0.85136429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0114-b007"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.76027143,
+          0.90509315,
+          0.85136429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0114-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "All in all, it's clear that the localization team put serious effort into preserving Papyrus' Japanese dialogue, translation-wise and presentation-wise.",
+        "raw": "All in all, it's clear that the localization team put serious effort into preserving\nPapyrus' Japanese dialogue, translation-wise and presentation-wise.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29386287,
+          0.86262857,
+          0.89194896,
+          0.89370714
+        ],
+        "mask_bbox": [
+          0.2871837,
+          0.86191429,
+          0.90713259,
+          0.89477857
+        ],
+        "line_ids": [
+          51,
+          52
+        ]
+      },
+      "translation": {
+        "text": "总之，本地化团队为了在日语中保留 Papyrus 台词的特色，无论翻译还是呈现方式，都下了很大功夫。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29386287,
+          0.8612,
+          0.90509315,
+          0.89727857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0114-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.29386287,
+          0.8612,
+          0.90509315,
+          0.89727857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "4e168135f37614759689a22bb60aec0c53ae80363ce97493040ec9a594baa3ff"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          4,
+          6,
+          7,
+          14,
+          16,
+          17,
+          53
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      288.18,
+      887.59
+    ],
+    "text_runs": [
+      {
+        "id": "p0114-b003",
+        "blocks": [
+          "p0114-b003",
+          "p0114-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 701.0
+      },
+      {
+        "id": "p0114-b007",
+        "blocks": [
+          "p0114-b007",
+          "p0114-b008",
+          "p0114-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

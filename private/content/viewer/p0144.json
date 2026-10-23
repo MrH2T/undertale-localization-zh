@@ -1,0 +1,792 @@
+{
+  "schema_version": 3,
+  "pdf_page": 144,
+  "printed_page": "144",
+  "title": "欢迎随时来访",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.215207+00:00",
+  "reference_size": [
+    975.678867,
+    1400
+  ],
+  "physical_size_pt": [
+    495.84,
+    711.48
+  ],
+  "image_url": "/assets/p0144.jpg",
+  "image_sha256": "6098f2c5ec3ff1c9700ca0b112988cfe738acb7b8f8384564dab3950a23e870d",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0144/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0144-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Vacation Dedication",
+        "raw": "Vacation Dedication",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29528158,
+          0.06362143,
+          0.50526871,
+          0.07697857
+        ],
+        "mask_bbox": [
+          0.29394918,
+          0.06290714,
+          0.50660111,
+          0.07805
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "欢迎随时来访",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29638338,
+          0.05371429,
+          0.90712224,
+          0.07785714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07785714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29638338,
+          0.05371429,
+          0.90712224,
+          0.07785714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 113.0
+    },
+    {
+      "id": "p0144-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Is Papyrus being ~ sarcastic or serious? It's for you to decide!",
+        "raw": "Is Papyrus being ~\nsarcastic or serious?\nIt's for you to decide!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13558765,
+          0.09395,
+          0.28412012,
+          0.13514286
+        ],
+        "mask_bbox": [
+          0.13425524,
+          0.09323571,
+          0.28545253,
+          0.13621429
+        ],
+        "line_ids": [
+          2,
+          3,
+          4
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 是在挖苦人，还是认真的？由你来判断！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11786665,
+          0.09252143,
+          0.28412012,
+          0.13871429
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.3330571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11786665,
+          0.09252143,
+          0.28412012,
+          0.13871429
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "During his bizarre house tour, Papyrus points at his garbage can and says:",
+        "raw": "During his bizarre house tour, Papyrus points at his garbage can and says:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29614252,
+          0.23812857,
+          0.86563318,
+          0.25063571
+        ],
+        "mask_bbox": [
+          0.29409267,
+          0.23741429,
+          0.9091721,
+          0.25170714
+        ],
+        "line_ids": [
+          8
+        ]
+      },
+      "translation": {
+        "text": "在这场古怪的家中导览里，Papyrus 指着垃圾桶说：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29638338,
+          0.2367,
+          0.90712224,
+          0.25884286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29638338,
+          0.2367,
+          0.90712224,
+          0.25884286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b004",
+      "kind": "quote",
+      "source": {
+        "text": "THAT'S THE TRASH CAN. FEEL FREE TO VISIT IT ANY TIME.",
+        "raw": "THAT'S THE TRASH CAN. FEEL FREE TO VISIT IT ANY TIME.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.34136232,
+          0.26577857,
+          0.85239112,
+          0.27786429
+        ],
+        "mask_bbox": [
+          0.34002991,
+          0.26506429,
+          0.85372352,
+          0.27893571
+        ],
+        "line_ids": [
+          9
+        ]
+      },
+      "translation": {
+        "text": "那是垃圾桶。欢迎随时来访。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.34136232,
+          0.26435,
+          0.90712224,
+          0.28493929
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.3342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0144-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.34136232,
+          0.26435,
+          0.90712224,
+          0.28493929
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "In his notes, Toby emphasized that \"people love to copy and paste this line to tell pp\\ they have bad taste ... hopefully we can maintain this quotability\".",
+        "raw": "In his notes, Toby emphasized that \"people love to copy and paste this line to\ntell pp\\ they have bad taste ... hopefully we can maintain this quotability\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29658324,
+          0.29378571,
+          0.89159459,
+          0.32452143
+        ],
+        "mask_bbox": [
+          0.29409267,
+          0.29307143,
+          0.9091721,
+          0.32559286
+        ],
+        "line_ids": [
+          10,
+          11
+        ]
+      },
+      "translation": {
+        "text": "Toby 在注释中特别强调：“大家很喜欢复制粘贴这句话，嘲讽别人品味差……希望我们能保留这种让人爱引用的效果。”",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29638338,
+          0.29235714,
+          0.90712224,
+          0.32809286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3342857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0144-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29638338,
+          0.29235714,
+          0.90712224,
+          0.32809286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b006",
+      "kind": "aside",
+      "source": {
+        "text": "This Papyrus quote ~ has led to a ton of English-language fan art, but not nearly as much Japanese fan art",
+        "raw": "This Papyrus quote ~\nhas led to a ton of\nEnglish-language fan\nart, but not nearly\nas much Japanese\nfan art",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13716603,
+          0.3402,
+          0.28463259,
+          0.42827857
+        ],
+        "mask_bbox": [
+          0.13583363,
+          0.33948571,
+          0.28596499,
+          0.42935
+        ],
+        "line_ids": [
+          12,
+          13,
+          14,
+          15,
+          16,
+          17
+        ]
+      },
+      "translation": {
+        "text": "Papyrus 的这句台词催生了大量英语同人图，日语同人图却远没有那么多。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11786665,
+          0.33877143,
+          0.28463259,
+          0.43185
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11786665,
+          0.33877143,
+          0.28463259,
+          0.43185
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although this line did receive extra attention during Undertale's localization, it basically became a literal translation of the English text. Japanese fans do quote it from time to time, but it's not nearly as popular as the original English quote.",
+        "raw": "Although this line did receive extra attention during Undertale's localization, it\nbasically became a literal translation of the English text. Japanese fans do quote\nit from time to time, but it's not nearly as popular as the original English quote.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29618352,
+          0.55825,
+          0.90712224,
+          0.60786429
+        ],
+        "mask_bbox": [
+          0.29409267,
+          0.55753571,
+          0.9091721,
+          0.60893571
+        ],
+        "line_ids": [
+          18,
+          19,
+          20
+        ]
+      },
+      "translation": {
+        "text": "Undertale 本地化时，团队虽然格外留意了这句台词，最后基本还是采用直译。日本粉丝也偶尔会引用它，但热度远远不及原版英语台词。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29638338,
+          0.55682143,
+          0.90712224,
+          0.61143571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6178571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29638338,
+          0.55682143,
+          0.90712224,
+          0.61143571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b008",
+      "kind": "subheading",
+      "source": {
+        "text": "Translation Memorability",
+        "raw": "Translation Memorability",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.47228654,
+          0.64043571,
+          0.73822446,
+          0.65378571
+        ],
+        "mask_bbox": [
+          0.47095414,
+          0.63972143,
+          0.73955686,
+          0.65485714
+        ],
+        "line_ids": [
+          21
+        ]
+      },
+      "translation": {
+        "text": "译文是否令人难忘",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32592691,
+          0.6301428571428572,
+          0.87733785,
+          0.6542857142857142
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.6542857142857142,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32592691,
+          0.6301428571428572,
+          0.87733785,
+          0.6542857142857142
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 920
+    },
+    {
+      "id": "p0144-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "The \"quotability\" of a line is hard to control during translation, as it's the audience who ultimately decides what's memorable and what isn't. The classic Japanese RPG Final Fantasy IV provides a great example of this:",
+        "raw": "The \"quotability\" of a line is hard to control during translation, as it's the\naudience who ultimately decides what's memorable and what isn't. The\nclassic Japanese RPG Final Fantasy IV provides a great example of this:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3261319,
+          0.66942857,
+          0.87711237,
+          0.71580714
+        ],
+        "mask_bbox": [
+          0.32479949,
+          0.66871429,
+          0.87844477,
+          0.71687857
+        ],
+        "line_ids": [
+          22,
+          23,
+          24
+        ]
+      },
+      "translation": {
+        "text": "一句话能否被反复引用，很难由译者控制：最终决定它是否令人难忘的，还是观众。经典日式角色扮演游戏 Final Fantasy IV 就有很好的例子：",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 48,
+            "end": 64,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.32592691,
+          0.66214286,
+          0.87733785,
+          0.72428571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.725,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.32592691,
+          0.66214286,
+          0.87733785,
+          0.72428571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b010",
+      "kind": "caption",
+      "source": {
+        "text": "ii desu to mo! (roughly \"Indubitably!\") is a famous game quote in Japan, but the same line is forgettable in English",
+        "raw": "ii desu to mo! (roughly \"Indubitably!\") is\na famous game quote in Japan, but the\nsame line is forgettable in English",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33321415,
+          0.85207143,
+          0.59038893,
+          0.89242857
+        ],
+        "mask_bbox": [
+          0.33188174,
+          0.85135714,
+          0.59172133,
+          0.8935
+        ],
+        "line_ids": [
+          25,
+          27,
+          29
+        ]
+      },
+      "translation": {
+        "text": "ii desu to mo!（大意为“当然没问题！”）在日本是句游戏名言，但对应的英文台词却毫不起眼。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 14,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33321415,
+          0.85064286,
+          0.59038893,
+          0.896
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.33321415,
+          0.85064286,
+          0.59038893,
+          0.896
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0144-b011",
+      "kind": "caption",
+      "source": {
+        "text": "\"You spoony bard!\" is a very famous English-language game quote, but the same line is forgettable in Japanese",
+        "raw": "\"You spoony bard!\" is a very famous\nEnglish-language game quote, but the\nsame line is forgettable in Japanese",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.63371261,
+          0.85328571,
+          0.87439631,
+          0.89210714
+        ],
+        "mask_bbox": [
+          0.6323802,
+          0.85257143,
+          0.87572871,
+          0.89317857
+        ],
+        "line_ids": [
+          26,
+          28,
+          30
+        ]
+      },
+      "translation": {
+        "text": "“You spoony bard!”（你这痴情的吟游诗人！）是著名的英语游戏台词，日语原句却并不令人难忘。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.62623064,
+          0.85185714,
+          0.87733785,
+          0.89567857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.9035714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.62623064,
+          0.85185714,
+          0.87733785,
+          0.89567857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "3412efca2bc3faa961cb0676db020fd11ff466efe49c1ee1700cd70b84a2a9f6"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          5,
+          6,
+          7,
+          31
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      289.18,
+      885.06
+    ],
+    "text_runs": [
+      {
+        "id": "p0144-b003",
+        "blocks": [
+          "p0144-b003",
+          "p0144-b004",
+          "p0144-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 468.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

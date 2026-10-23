@@ -1,0 +1,565 @@
+{
+  "schema_version": 3,
+  "pdf_page": 64,
+  "printed_page": "64",
+  "title": "少见的助力",
+  "subtitle": "本地化的过程 · 私人学习译稿",
+  "revision": 1,
+  "updated_at": "2026-10-22T18:27:45.138280+00:00",
+  "reference_size": [
+    983.154001,
+    1400
+  ],
+  "physical_size_pt": [
+    501.24,
+    713.76
+  ],
+  "image_url": "/assets/p0064.jpg",
+  "image_sha256": "a7aa428c5cdcc6583718dd5f895b19f85489bbd9dd255034218c531a4b28dae1",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0064/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0064-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Uncommon Help",
+        "raw": "Uncommon Help",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.2974,
+          0.06241429,
+          0.46830914,
+          0.07572143
+        ],
+        "mask_bbox": [
+          0.29607773,
+          0.0617,
+          0.46963141,
+          0.07679286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "少见的助力",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29679989,
+          0.05228571,
+          0.90944043,
+          0.07642857
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07642857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29679989,
+          0.05228571,
+          0.90944043,
+          0.07642857
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 111.0
+    },
+    {
+      "id": "p0064-b002",
+      "kind": "paragraph",
+      "source": {
+        "text": "Because the entertainment localization industry relies so heavily on agencies, middlemen, paperwork, and tight deadlines, creators and localizers are often separated by a wall of bureaucracy. This separation makes it difficult for both sides to communicate with each other. And even when bureaucracy isn't an issue, some creators simply don't care to be involved in the localization process. Either way, it's rare to see a creator actively participate in a localization project.",
+        "raw": "Because the entertainment localization industry relies so heavily on agencies,\nmiddlemen, paperwork, and tight deadlines, creators and localizers are often\nseparated by a wall of bureaucracy. This separation makes it difficult for both\nsides to communicate with each other. And even when bureaucracy isn't an\nissue, some creators simply don't care to be involved in the localization process.\nEither way, it's rare to see a creator actively participate in a localization project.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29630149,
+          0.08998571,
+          0.90749771,
+          0.19395714
+        ],
+        "mask_bbox": [
+          0.29424688,
+          0.08927143,
+          0.9114747,
+          0.19502857
+        ],
+        "line_ids": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7
+        ]
+      },
+      "translation": {
+        "text": "娱乐本地化行业十分依赖代理机构、中间人、文书流程和紧迫的期限，创作者与本地化人员之间常隔着一道程序性的高墙，难以直接沟通。即使没有这类阻碍，有些创作者也根本不想参与。无论哪种情况，创作者积极参与本地化项目都很少见。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29679989,
+          0.08855714,
+          0.90944043,
+          0.19752857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29679989,
+          0.08855714,
+          0.90944043,
+          0.19752857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0064-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "In Undertale's case, Toby was directly involved with the English-to-Japanese localization process from the very start. He provided 8-4 with all of his development files and copious translation notes ahead of time. He remained in constant contact with the team via e-mail, answered question after question, asked question after question, and even met with the localization team in Japan more than once.",
+        "raw": "In Underta/e's case, Toby was directly involved with the English-to-Japanese\nlocalization process from the very start. He provided 8-4 with all of his\ndevelopment files and copious translation notes ahead of time. He remained\nin constant contact with the team via e-mail, answered question after question,\nasked question after question, and even met with the localization team in\nJapan more than once.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29628115,
+          0.20867857,
+          0.90231032,
+          0.31199286
+        ],
+        "mask_bbox": [
+          0.29424688,
+          0.20796429,
+          0.9114747,
+          0.31306429
+        ],
+        "line_ids": [
+          8,
+          9,
+          10,
+          11,
+          12,
+          13
+        ]
+      },
+      "translation": {
+        "text": "Undertale 则不同，Toby 从一开始就直接参与英译日本地化。他提前把全部开发文件和大量翻译说明交给 8-4，始终通过邮件与团队保持联系，回答一个又一个问题，也提出一个又一个问题，还不止一次到日本与团队见面。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 9,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29679989,
+          0.20725,
+          0.90944043,
+          0.31556429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.3221428571428571,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0064-b002"
+      },
+      "calibration": {
+        "bbox": [
+          0.29679989,
+          0.20725,
+          0.90944043,
+          0.31556429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0064-b004",
+      "kind": "caption",
+      "source": {
+        "text": "Toby chats with John Ricciardi - co-founder of 8-4 and Undertale's localization producer - in Roppongi in 2016",
+        "raw": "Toby chats with John\nRicciardi - co-founder\nof 8-4 and Undertale's\nlocalization producer\n- in Roppongi in 2016",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13297001,
+          0.32704286,
+          0.27121895,
+          0.40175714
+        ],
+        "mask_bbox": [
+          0.13164774,
+          0.32632857,
+          0.27254123,
+          0.40282857
+        ],
+        "line_ids": [
+          14,
+          16,
+          17,
+          18,
+          19
+        ]
+      },
+      "translation": {
+        "text": "2016年，Toby 在六本木与 John Ricciardi 交谈；后者是 8-4 联合创始人，也是 Undertale 的本地化制作人。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 52,
+            "end": 61,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.13297001,
+          0.32561429,
+          0.27121895,
+          0.40532857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.7607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.13297001,
+          0.32561429,
+          0.27121895,
+          0.40532857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0064-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "As the localization neared completion, Toby also brought in outside help to critique key parts of the localization and explain their Japanese nuances to him. Toby then sent these critiques to 8-4 to improve the final script before release.",
+        "raw": "As the localization neared completion, Toby also brought in outside help to\ncritique key parts of the localization and explain their Japanese nuances to him.\nToby then sent these critiques to 8-4 to improve the final script before release.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29729829,
+          0.63739286,
+          0.90944043,
+          0.68689286
+        ],
+        "mask_bbox": [
+          0.29424688,
+          0.63667857,
+          0.9114747,
+          0.68796429
+        ],
+        "line_ids": [
+          20,
+          21,
+          22
+        ]
+      },
+      "translation": {
+        "text": "接近完成时，Toby 还请外部人员评价关键部分，并向他解释日语里的细微意味。随后，他把这些意见发给 8-4，让团队在发行前改进最终稿。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29679989,
+          0.63596429,
+          0.90944043,
+          0.69046429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29679989,
+          0.63596429,
+          0.90944043,
+          0.69046429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0064-b006",
+      "kind": "paragraph",
+      "source": {
+        "text": "In short, although he's understandably not listed as a member of the localization staff, Toby undeniably played a major part in Undertale's Japanese localization.",
+        "raw": "In short, although he's understandably not listed as a member of the\nlocalization staff, Toby undeniably played a major part in Underta/e's Japanese\nlocalization.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29961735,
+          0.70229286,
+          0.89833332,
+          0.75079286
+        ],
+        "mask_bbox": [
+          0.29424688,
+          0.70157857,
+          0.9114747,
+          0.75186429
+        ],
+        "line_ids": [
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "因此，虽然他没有列入本地化人员名单——这也可以理解——Toby 无疑在 Undertale 的日语本地化中起了重要作用。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 36,
+            "end": 45,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29679989,
+          0.70086429,
+          0.90944043,
+          0.75436429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.7607142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0064-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.29679989,
+          0.70086429,
+          0.90944043,
+          0.75436429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0064-b007",
+      "kind": "aside",
+      "source": {
+        "text": "On a side note, sometime near the localization's release, Toby mentioned to me that he'd met with the translator at least once before and that they'd discussed localization concerns in person. He later told me that he was genuinely impressed with her work and that she really \"got\" his style. was surprised - it's rare for entertainment translators and creators to ever meet at all, much less be on the same wavelength!",
+        "raw": "On a side note, sometime near the localization's release, Toby mentioned\nto me that he'd met with the translator at least once before and that\nthey'd discussed localization concerns in person. He later told me that he\nwas genuinely impressed with her work and that she really \"got\" his style.\nwas surprised - it's rare for entertainment translators and creators to ever\nmeet at all, much less be on the same wavelength!",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31741721,
+          0.77795,
+          0.87887554,
+          0.86713571
+        ],
+        "mask_bbox": [
+          0.31609493,
+          0.77723571,
+          0.88019781,
+          0.86820714
+        ],
+        "line_ids": [
+          26,
+          27,
+          28,
+          29,
+          30,
+          31
+        ]
+      },
+      "translation": {
+        "text": "顺便说一句，接近译版发行时，Toby 告诉我，他至少已与译者见过一次面，当面讨论了本地化问题。后来他又说，译者的成果确实让他佩服，她真的“懂”他的风格。我很惊讶：娱乐译者和创作者能见到面就已少见，更别说如此合拍了！",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31741721,
+          0.77652143,
+          0.87887554,
+          0.87070714
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.875,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.31741721,
+          0.77652143,
+          0.87887554,
+          0.87070714
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "e6866a88077d481711414cce3009c5e1c1b6326e915aed4fa8410337889dbdbc"
+  },
+  "chapter_id": "chapter-58",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          15
+        ],
+        "reason": "OCR-noise"
+      },
+      {
+        "lines": [
+          32
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      291.8,
+      894.12
+    ],
+    "text_runs": [
+      {
+        "id": "p0064-b002",
+        "blocks": [
+          "p0064-b002",
+          "p0064-b003"
+        ],
+        "gap": 12,
+        "limit_bottom": 451.0
+      },
+      {
+        "id": "p0064-b005",
+        "blocks": [
+          "p0064-b005",
+          "p0064-b006"
+        ],
+        "gap": 12,
+        "limit_bottom": 1065.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

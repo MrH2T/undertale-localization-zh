@@ -1,0 +1,1096 @@
+{
+  "schema_version": 3,
+  "pdf_page": 201,
+  "printed_page": "201",
+  "title": "游戏租赁与 Muffet",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.768192+00:00",
+  "reference_size": [
+    984.209642,
+    1400
+  ],
+  "physical_size_pt": [
+    502.2,
+    714.36
+  ],
+  "image_url": "/assets/p0201.jpg",
+  "image_sha256": "e228a0dba44a195507b60267a16deca1fdb954e1af29364e685ad011b5a2defe",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0201/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0201-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Explosive Prohibition",
+        "raw": "Explosive Prohibition",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09850544,
+          0.05810714,
+          0.31874307,
+          0.07168571
+        ],
+        "mask_bbox": [
+          0.09718458,
+          0.05739286,
+          0.32006392,
+          0.07275714
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "炸弹与租赁禁令",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.04871429,
+          0.7054493,
+          0.07285714
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07285714,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.04871429,
+          0.7054493,
+          0.07285714
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 106
+    },
+    {
+      "id": "p0201-b002",
+      "kind": "aside",
+      "source": {
+        "text": "It's funny how we can say \"that game is the bomb!\" as a good thing but then also say \"that game bombed!\" as a bad thing",
+        "raw": "It's funny how we can\nsay \"that game is the\nbomb!\" as a good\nthing but then also say\n\"that game bombed!\"\nas a bad thing",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.72620707,
+          0.08787143,
+          0.87375693,
+          0.17491429
+        ],
+        "mask_bbox": [
+          0.72488621,
+          0.08715714,
+          0.87507779,
+          0.17598571
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          7,
+          8
+        ]
+      },
+      "translation": {
+        "text": "真有意思，“that game is the bomb!”可以夸游戏“棒极了”，而“that game bombed!”却是在说它“惨败了”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72620707,
+          0.08644286,
+          0.88020882,
+          0.17848571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.2392857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72620707,
+          0.08644286,
+          0.88020882,
+          0.17848571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "If the player reports on a nearby video game, the video game turns out to be a bomb too. In the English script, the game-bomb's description is:",
+        "raw": "If the player reports on a nearby video game, the video game turns out to be a\nbomb too. In the English script, the game-bomb's description is:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09679848,
+          0.24130714,
+          0.68669313,
+          0.27144286
+        ],
+        "mask_bbox": [
+          0.09446158,
+          0.24059286,
+          0.70748138,
+          0.27251429
+        ],
+        "line_ids": [
+          18,
+          20
+        ]
+      },
+      "translation": {
+        "text": "如果玩家报道附近的电子游戏，它也会被揭穿是一颗炸弹。英文版的说明是：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.23987857,
+          0.7054493,
+          0.27501429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.23987857,
+          0.7054493,
+          0.27501429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b004",
+      "kind": "quote",
+      "source": {
+        "text": "GAME BOMB You really should have rented it first.",
+        "raw": "GAME BOMB\nYou really should have rented it first.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14147392,
+          0.28733571,
+          0.41147738,
+          0.31814286
+        ],
+        "mask_bbox": [
+          0.14015307,
+          0.28662143,
+          0.41279823,
+          0.31921429
+        ],
+        "line_ids": [
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "游戏炸弹\n你真该先租来试试。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14147392,
+          0.28590714,
+          0.7054493,
+          0.32171429
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "flow_after": "p0201-b003",
+        "gap_before": 12
+      },
+      "calibration": {
+        "bbox": [
+          0.14147392,
+          0.28590714,
+          0.7054493,
+          0.32171429
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Although common in many Western countries for decades, game rentals have generally been prohibited in Japan by law since 1984. With this in mind, the translator rephrased the game's Japanese description to say:",
+        "raw": "Although common in many Western countries for decades, game rentals have\ngenerally been prohibited in Japan by law since 1984. With this in mind, the\ntranslator rephrased the game's Japanese description to say:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09649367,
+          0.33336429,
+          0.68812575,
+          0.38129286
+        ],
+        "mask_bbox": [
+          0.09446158,
+          0.33265,
+          0.70748138,
+          0.38236429
+        ],
+        "line_ids": [
+          27,
+          29,
+          31
+        ]
+      },
+      "translation": {
+        "text": "虽然几十年来，游戏租赁在许多西方国家很常见，日本法律自 1984 年起却基本禁止这项业务。因此，译者把日文说明改成：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.33193571,
+          0.7054493,
+          0.38486429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0201-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.33193571,
+          0.7054493,
+          0.38486429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b006",
+      "kind": "quote",
+      "source": {
+        "text": "GAME BOMB You really should've read the shopping site reviews first.",
+        "raw": "GAME BOMB\nYou really should've read the shopping site reviews first.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14147392,
+          0.39687143,
+          0.55571494,
+          0.42800714
+        ],
+        "mask_bbox": [
+          0.14015307,
+          0.39615714,
+          0.55703579,
+          0.42907857
+        ],
+        "line_ids": [
+          34,
+          36
+        ]
+      },
+      "translation": {
+        "text": "游戏炸弹\n你真该先看购物网站上的评价。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.14147392,
+          0.39544286,
+          0.7054493,
+          0.43157857
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0201-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.14147392,
+          0.39544286,
+          0.7054493,
+          0.43157857
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b007",
+      "kind": "aside",
+      "source": {
+        "text": "Game rentals have been prohibited by Japanese law since the 1980s, although there have been attempts to legitimize the market from time to time",
+        "raw": "Game rentals have\nbeen prohibited\nby Japanese law\nsince the 1980s,\nalthough there have\nbeen attempts to\nlegitimize the market\nfrom time to time",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.73245574,
+          0.3254,
+          0.86344409,
+          0.44436429
+        ],
+        "mask_bbox": [
+          0.73113488,
+          0.32468571,
+          0.86476495,
+          0.44543571
+        ],
+        "line_ids": [
+          26,
+          28,
+          30,
+          32,
+          33,
+          35,
+          37,
+          38
+        ]
+      },
+      "translation": {
+        "text": "日本法律自 20 世纪 80 年代起禁止游戏租赁，但其间不时有人尝试让这个市场合法化。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.73245574,
+          0.32397143,
+          0.88020882,
+          0.44793571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.5372928528571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.73245574,
+          0.32397143,
+          0.88020882,
+          0.44793571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "As minor as it is, this localization choice points to a level of cultural knowledge that goes beyond what an inexperienced translator or a machine can currently provide.",
+        "raw": "As minor as it is, this localization choice points to a level of cultural knowledge\nthat goes beyond what an inexperienced translator or a machine can currently\nprovide.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09746907,
+          0.4429,
+          0.6993632,
+          0.49116429
+        ],
+        "mask_bbox": [
+          0.09446158,
+          0.44218571,
+          0.70748138,
+          0.49223571
+        ],
+        "line_ids": [
+          39,
+          40,
+          41
+        ]
+      },
+      "translation": {
+        "text": "改动虽小，却显示了缺乏经验的译者或当前机器翻译难以具备的文化知识。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.44147143,
+          0.7054493,
+          0.49473571
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.5078571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0201-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.44147143,
+          0.7054493,
+          0.49473571
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b009",
+      "kind": "subheading",
+      "source": {
+        "text": "Muffet Speaks",
+        "raw": "Muffet Speaks",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09894233,
+          0.515,
+          0.25027188,
+          0.52857857
+        ],
+        "mask_bbox": [
+          0.09762148,
+          0.51428571,
+          0.25159274,
+          0.52965
+        ],
+        "line_ids": [
+          42
+        ]
+      },
+      "translation": {
+        "text": "Muffet 的说话方式",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.50585714,
+          0.7054493,
+          0.53
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.53,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.50585714,
+          0.7054493,
+          0.53
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 746
+    },
+    {
+      "id": "p0201-b010",
+      "kind": "aside",
+      "source": {
+        "text": "If you're curious, the classic Little Miss Muffet nursery rhyme isn't widely known in Japan, but it has received multiple translations into Japanese over the years",
+        "raw": "If you're curious,\nthe classic Little\nMiss Muffet nursery\nrhyme isn't widely\nknown in Japan,\nbut it has received\nmultiple translations\ninto Japanese over\nthe years",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7333905,
+          0.54443571,
+          0.8602842,
+          0.67886429
+        ],
+        "mask_bbox": [
+          0.73206964,
+          0.54372143,
+          0.86160505,
+          0.67993571
+        ],
+        "line_ids": [
+          43,
+          50,
+          53,
+          56,
+          57,
+          58,
+          59,
+          60,
+          61
+        ]
+      },
+      "translation": {
+        "text": "如果你好奇，经典童谣《Little Miss Muffet》在日本并不广为人知，不过这些年已有多个日译版本。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 11,
+            "end": 29,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.7333905,
+          0.54300714,
+          0.88020882,
+          0.68243571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.7333905,
+          0.54300714,
+          0.88020882,
+          0.68243571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b011",
+      "kind": "paragraph",
+      "source": {
+        "text": "A spider monster named Muffet appears in Hotland. In English, Muffet tends to call the main character \"dearie\", but not in Japanese. This is because the sentiment is already conveyed by her cordial, feminine speech pattern in Japanese - including the use of the polite, feminine pronoun watashi.",
+        "raw": "A spider monster named Muffet appears in Hotland. In English, Muffet tends\nto call the main character \"dearie\", but not in Japanese. This is because the\nsentiment is already conveyed by her cordial, feminine speech pattern in\nJapanese - including the use of the polite, feminine pronoun watashi.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09697121,
+          0.70762857,
+          0.68772949,
+          0.77537857
+        ],
+        "mask_bbox": [
+          0.09446158,
+          0.70691429,
+          0.70748138,
+          0.77645
+        ],
+        "line_ids": [
+          62,
+          63,
+          64,
+          65
+        ]
+      },
+      "translation": {
+        "text": "热域里会出现蜘蛛怪物 Muffet。英语里，她常把主角叫作“dearie”（亲爱的），日语却不会这样叫，因为亲切、女性化的说话方式已经传达了这种感觉，其中还包括用礼貌、女性化的 watashi（我）自称。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 89,
+            "end": 96,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.7062,
+          0.7054493,
+          0.77895
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.7062,
+          0.7054493,
+          0.77895
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b012",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Muffet uses tildes (the squiggly - mark) at the end of words to denote a cute, upbeat tone of voice. This use of tildes is still uncommon in English, which lends Muffet a distinctive vibe. Tilde-like characters are extremely common in Japanese entertainment, so Muffet retains her squiggles in the Japanese script. Basically, this tilde use is a good example of how Toby blended certain Japanese language quirks into Undertale's original English script.",
+        "raw": "In English, Muffet uses tildes (the squiggly - mark) at the end of words to denote\na cute, upbeat tone of voice. This use of tildes is still uncommon in English,\nwhich lends Muffet a distinctive vibe. Tilde-like characters are extremely\ncommon in Japanese entertainment, so Muffet retains her squiggles in the\nJapanese script. Basically, this tilde use is a good example of how Toby blended\ncertain Japanese language quirks into Undertale's original English script.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.09738779,
+          0.79027143,
+          0.7054493,
+          0.89464286
+        ],
+        "mask_bbox": [
+          0.09446158,
+          0.78955714,
+          0.70748138,
+          0.89571429
+        ],
+        "line_ids": [
+          66,
+          67,
+          68,
+          69,
+          70,
+          71
+        ]
+      },
+      "translation": {
+        "text": "在英语中，Muffet 会在词尾加波浪号“~”，表现可爱、轻快的语气。英语里这种用法仍不常见，因此显得她很有特色。类似波浪号的符号在日本娱乐作品中却极为普遍，所以日文保留了这些弯弯的符号。这也很好地说明，Toby 如何把日语的一些特点融进《Undertale》的英语原剧本。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 120,
+            "end": 129,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.09697121,
+          0.78884286,
+          0.7054493,
+          0.89821429
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0201-b011"
+      },
+      "calibration": {
+        "bbox": [
+          0.09697121,
+          0.78884286,
+          0.7054493,
+          0.89821429
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0201-b013",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.64862197,
+          0.93270714,
+          0.70722737,
+          0.94236429
+        ],
+        "mask_bbox": [
+          0.64730112,
+          0.93199286,
+          0.70854823,
+          0.94343571
+        ],
+        "line_ids": [
+          73
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.64862197,
+          0.93127857,
+          0.70722737,
+          0.94927857
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9492785714285714,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.64862197,
+          0.93127857,
+          0.70722737,
+          0.94927857
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "9b6c6db47d4f27343a80d30ee97c311ff5680e65ea1719d0f6e7937e0454e343"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          12
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          21
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          22
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          23
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          44
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          45
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          46
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          47
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          49
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          51
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          52
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          54
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          55
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          72
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      95.44,
+      694.31
+    ],
+    "text_runs": [
+      {
+        "id": "p0201-b003",
+        "blocks": [
+          "p0201-b003",
+          "p0201-b004",
+          "p0201-b005",
+          "p0201-b006",
+          "p0201-b008"
+        ],
+        "gap": 12,
+        "limit_bottom": 711.0
+      },
+      {
+        "id": "p0201-b011",
+        "blocks": [
+          "p0201-b011",
+          "p0201-b012"
+        ],
+        "gap": 12,
+        "limit_bottom": 1294.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

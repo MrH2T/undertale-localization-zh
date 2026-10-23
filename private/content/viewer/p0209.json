@@ -1,0 +1,829 @@
+{
+  "schema_version": 3,
+  "pdf_page": 209,
+  "printed_page": "209",
+  "title": "父亲的幽默",
+  "subtitle": "热域 · 私人学习译稿",
+  "revision": 4,
+  "updated_at": "2026-10-22T19:31:42.763693+00:00",
+  "reference_size": [
+    979.692516,
+    1400
+  ],
+  "physical_size_pt": [
+    497.04,
+    710.28
+  ],
+  "image_url": "/assets/p0209.jpg",
+  "image_sha256": "97b306103ec6c7316b90b3f4b3b635687be1496fd01f28dc7b1dbc065a601fe7",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0209/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0209-b001",
+      "kind": "subheading",
+      "source": {
+        "text": "Fatherly Humor",
+        "raw": "Fatherly Humor",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08938519,
+          0.05911429,
+          0.25209951,
+          0.07277143
+        ],
+        "mask_bbox": [
+          0.08805824,
+          0.0584,
+          0.25342645,
+          0.07384286
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "父亲的幽默",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08829300886483449,
+          0.04942857,
+          0.7022611572139437,
+          0.07357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.07357142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08829300886483449,
+          0.04942857,
+          0.7022611572139437,
+          0.07357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 107.0
+    },
+    {
+      "id": "p0209-b002",
+      "kind": "aside",
+      "source": {
+        "text": "Both Snowdrake and his father speak with an Osaka accent in Japanese, which makes sense - like father, like son",
+        "raw": "Both Snowdrake and\nhis father speak with\nan Osaka accent\nin Japanese, which\nmakes sense - like\nfather, like son",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.7299229,
+          0.08971429,
+          0.86051489,
+          0.17625714
+        ],
+        "mask_bbox": [
+          0.72859595,
+          0.089,
+          0.86184184,
+          0.17732857
+        ],
+        "line_ids": [
+          2,
+          4,
+          5,
+          6,
+          8,
+          12
+        ]
+      },
+      "translation": {
+        "text": "Snowdrake 和父亲在日语里都讲大阪口音，合情合理——有其父必有其子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.72747315,
+          0.08828571,
+          0.87445804,
+          0.17982857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.9242857142857143,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.72747315,
+          0.08828571,
+          0.87445804,
+          0.17982857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Previously, a teenage comedian monster named Snowdrake appeared in the Snowdin area. It turns out that his is father is the in-house comedian at the MTT Hotel in Hotland.",
+        "raw": "Previously, a teenage comedian monster named Snowdrake appeared in the\nSnowdin area. It turns out that his is father is the in-house comedian at the\nMTT Hotel in Hotland.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.0882828,
+          0.22613571,
+          0.6706492,
+          0.27367857
+        ],
+        "mask_bbox": [
+          0.0821176,
+          0.22542143,
+          0.70093421,
+          0.27475
+        ],
+        "line_ids": [
+          21,
+          22,
+          23
+        ]
+      },
+      "translation": {
+        "text": "前面在雪镇出现过名叫 Snowdrake 的少年喜剧怪物。原来，他父亲是热域 MTT 酒店的驻场喜剧演员。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08829300886483449,
+          0.22470714,
+          0.7022611572139437,
+          0.27725
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.08829300886483449,
+          0.22470714,
+          0.7022611572139437,
+          0.27725
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b004",
+      "kind": "paragraph",
+      "source": {
+        "text": "In English, Snowdrake's father has an unusual accent - he uses the word \"fathah\" instead of \"father\", for example. Toby explained in his translation notes that this character \"talks like a weird Jewish dad, in a stilted way\". This unique speech pattern suggests that the father might not be from the Hotland region to begin with.",
+        "raw": "In English, Snowdrake's father has an unusual accent - he uses the word\n\"fathah\" instead of \"father\", for example. Toby explained in his translation\nnotes that this character \"talks like a weird Jewish dad, in a stilted way\". This\nunique speech pattern suggests that the father might not be from the Hotland\nregion to begin with.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08415906,
+          0.28932143,
+          0.68824656,
+          0.37570714
+        ],
+        "mask_bbox": [
+          0.0821176,
+          0.28860714,
+          0.70093421,
+          0.37677857
+        ],
+        "line_ids": [
+          24,
+          25,
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "英语里，Snowdrake 的父亲口音很特别，例如他把 father（父亲）说成 fathah。Toby 在翻译说明中说，这个角色“像个古怪的犹太老爸，说话不太自然”。这种独特腔调暗示他可能原本并非热域居民。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08829300886483449,
+          0.28789286,
+          0.7022611572139437,
+          0.37927857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0209-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.08829300886483449,
+          0.28789286,
+          0.7022611572139437,
+          0.37927857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "To retain this sense of \"outsider-ness\", the translator gave Snowdrake's father a thick Osaka accent. This makes perfect sense for two reasons: Osaka is the comedy capital of Japan, and Snowdrake already has an Osaka accent. The result: Snowdrake's father sounds like a .Japanese comedian who has passed on some of his traits and ambitions to his son.",
+        "raw": "To retain this sense of \"outsider-ness\", the translator gave Snowdrake's father\na thick Osaka accent. This makes perfect sense for two reasons: Osaka is the\ncomedy capital of Japan, and Snowdrake already has an Osaka accent. The\nresult: Snowdrake's father sounds like a .Japanese comedian who has passed on\nsome of his traits and ambitions to his son.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.08822156,
+          0.39069286,
+          0.69889275,
+          0.47707857
+        ],
+        "mask_bbox": [
+          0.0821176,
+          0.38997857,
+          0.70093421,
+          0.47815
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "为保留这种“外来者”的感觉，译者让他讲浓重的大阪口音。这样做有两重道理：大阪是日本的喜剧之都，Snowdrake 本来也讲大阪口音。结果，父亲听起来像个日本喜剧演员，把自己的部分特点与志向传给了儿子。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.08829300886483449,
+          0.38926429,
+          0.7022611572139437,
+          0.48065
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.48714285714285716,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0209-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.08829300886483449,
+          0.38926429,
+          0.7022611572139437,
+          0.48065
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b006",
+      "kind": "subheading",
+      "source": {
+        "text": "Japanese Manzai Comedy",
+        "raw": "Japanese Manzai Comedy",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.26259259,
+          0.50906429,
+          0.53005406,
+          0.52286429
+        ],
+        "mask_bbox": [
+          0.26126565,
+          0.50835,
+          0.53138101,
+          0.52393571
+        ],
+        "line_ids": [
+          34
+        ]
+      },
+      "translation": {
+        "text": "日本漫才",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11636304,
+          0.49942857,
+          0.67572222,
+          0.52357143
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "center",
+        "auto_height": true,
+        "limit_bottom": 0.5235714285714286,
+        "snap_to_guides": true,
+        "resize_anchor": "center"
+      },
+      "calibration": {
+        "bbox": [
+          0.11636304,
+          0.49942857,
+          0.67572222,
+          0.52357143
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 737.0
+    },
+    {
+      "id": "p0209-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "Manzai is a long-established form of Japanese stand-up comedy that traditionally features a team of two comedians. Much like the double-act comedy routines found in other countries, manzai usually involves one bokeh (\"funny man\") and one tsukkomi (\"straight man\") playing off of each other as ridiculous situations unfold.",
+        "raw": "Manzai is a long-established form of Japanese stand-up comedy that\ntraditionally features a team of two comedians. Much like the double-act\ncomedy routines found in other countries, manzai usually involves one\nbokeh (\"funny man\") and one tsukkomi (\"straight man\") playing off of\neach other as ridiculous situations unfold.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11664884,
+          0.53912857,
+          0.67588553,
+          0.61788571
+        ],
+        "mask_bbox": [
+          0.1153219,
+          0.53841429,
+          0.67721248,
+          0.61895714
+        ],
+        "line_ids": [
+          35,
+          36,
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "Manzai（漫才）是日本历史悠久的舞台喜剧形式，传统上由两名演员搭档。与其他国家的双人喜剧相似，漫才通常由 bokeh（装傻逗趣者）与 tsukkomi（吐槽纠正者）相互配合，演出荒唐情境。",
+        "status": "draft",
+        "spans": [
+          {
+            "start": 0,
+            "end": 6,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 55,
+            "end": 60,
+            "italic": true,
+            "lang": "en"
+          },
+          {
+            "start": 69,
+            "end": 77,
+            "italic": true,
+            "lang": "en"
+          }
+        ]
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11636304058486857,
+          0.5377,
+          0.6757222181331842,
+          0.62145714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6278571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11636304058486857,
+          0.5377,
+          0.6757222181331842,
+          0.62145714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b008",
+      "kind": "paragraph",
+      "source": {
+        "text": "Historically, manzai is approximately 1000 years old, but modern-day manzai emerged from Osaka in the early 1900s. From there, Osaka-style manzai spread to the rest of Japan via stage, radio, and other forms of entertainment.",
+        "raw": "Historically, manzai is approximately 1000 years old, but modern-day\nmanzai emerged from Osaka in the early 1900s. From there, Osaka-style\nmanzai spread to the rest of Japan via stage, radio, and other forms of\nentertainment.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11765937,
+          0.7591,
+          0.66688271,
+          0.82128571
+        ],
+        "mask_bbox": [
+          0.11633242,
+          0.75838571,
+          0.66820966,
+          0.82235714
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43
+        ]
+      },
+      "translation": {
+        "text": "漫才的历史约有一千年，不过现代漫才是在 20 世纪初的大阪成形的。此后，大阪式漫才通过舞台、广播等娱乐形式传遍日本。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11636304058486857,
+          0.75767143,
+          0.6757222181331842,
+          0.82485714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9057142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.11636304058486857,
+          0.75767143,
+          0.6757222181331842,
+          0.82485714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b009",
+      "kind": "paragraph",
+      "source": {
+        "text": "Today, manzai corporations play a major part in the Japanese entertainment industry by cultivating and introducing new talent. As such, many Japanese actors, singers, television hosts, and other celebrities begin their careers by making a name for themselves on the national manzai circuit.",
+        "raw": "Today, manzai corporations play a major part in the Japanese entertainment\nindustry by cultivating and introducing new talent. As such, many Japanese\nactors, singers, television hosts, and other celebrities begin their careers by\nmaking a name for themselves on the national manzai circuit.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11578123,
+          0.83377857,
+          0.67645714,
+          0.89665
+        ],
+        "mask_bbox": [
+          0.11445428,
+          0.83306429,
+          0.67778409,
+          0.89772143
+        ],
+        "line_ids": [
+          44,
+          45,
+          46,
+          47
+        ]
+      },
+      "translation": {
+        "text": "如今，漫才公司通过培养、推出新人，在日本娱乐业扮演重要角色。因此，不少日本演员、歌手、电视主持人和其他名人，都是先在全国漫才舞台上闯出名气，再展开事业。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11636304058486857,
+          0.83235,
+          0.6757222181331842,
+          0.90022143
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.9057142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0209-b008"
+      },
+      "calibration": {
+        "bbox": [
+          0.11636304058486857,
+          0.83235,
+          0.6757222181331842,
+          0.90022143
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0209-b010",
+      "kind": "footer",
+      "source": {
+        "text": "Hotland",
+        "raw": "Hotland",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.6459884,
+          0.93759286,
+          0.70415971,
+          0.94801429
+        ],
+        "mask_bbox": [
+          0.64466145,
+          0.93687857,
+          0.70548666,
+          0.94908571
+        ],
+        "line_ids": [
+          49
+        ]
+      },
+      "translation": {
+        "text": "热域",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.6459884,
+          0.93616429,
+          0.70415971,
+          0.95416429
+        ],
+        "font_size": 16,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.9541642857142858,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.6459884,
+          0.93616429,
+          0.70415971,
+          0.95416429
+        ],
+        "font_size": 16,
+        "leading": 23.2
+      },
+      "review_issues": [],
+      "structure": {
+        "role": "running-footer",
+        "source_label": "Hotland",
+        "chapter_id": "chapter-184"
+      }
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "47401deaae33bd51c947c0c965379475a0d0118114fa151e6bfdb67ece958fd1"
+  },
+  "chapter_id": "chapter-184",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          7
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          9
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          10
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          11
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          13
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          14
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          15
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          16
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          17
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          18
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          19
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          20
+        ],
+        "reason": "image-text"
+      },
+      {
+        "lines": [
+          48
+        ],
+        "reason": "page-number"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      86.5,
+      688
+    ],
+    "text_runs": [
+      {
+        "id": "p0209-b003",
+        "blocks": [
+          "p0209-b003",
+          "p0209-b004",
+          "p0209-b005"
+        ],
+        "gap": 12,
+        "limit_bottom": 682.0
+      },
+      {
+        "id": "p0209-b008",
+        "blocks": [
+          "p0209-b008",
+          "p0209-b009"
+        ],
+        "gap": 12,
+        "limit_bottom": 1268.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}

@@ -1,0 +1,730 @@
+{
+  "schema_version": 3,
+  "pdf_page": 124,
+  "printed_page": "124",
+  "title": "就地停下",
+  "subtitle": "雪镇 · 私人学习译稿",
+  "revision": 3,
+  "updated_at": "2026-10-22T19:02:24.726004+00:00",
+  "reference_size": [
+    980.23569,
+    1400
+  ],
+  "physical_size_pt": [
+    499.08,
+    712.8
+  ],
+  "image_url": "/assets/p0124.jpg",
+  "image_sha256": "f13fe6aa030411dbb239b3504fca3fe4db66d60face2d4abd221446140522b9e",
+  "raw_ocr_ref": "private/extracted/audit/samples/p0124/page.json",
+  "page_role": "body",
+  "blocks": [
+    {
+      "id": "p0124-b001",
+      "kind": "heading",
+      "source": {
+        "text": "Stop Right There",
+        "raw": "Stop Right There",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29314378,
+          0.06125714,
+          0.46663267,
+          0.07445
+        ],
+        "mask_bbox": [
+          0.29181757,
+          0.06054286,
+          0.46795888,
+          0.07552143
+        ],
+        "line_ids": [
+          1
+        ]
+      },
+      "translation": {
+        "text": "就地停下",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29350084,
+          0.051571429,
+          0.889735,
+          0.075714286
+        ],
+        "font_size": 26,
+        "line_height": 1.3,
+        "font_weight": 700,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.075714286,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29350084,
+          0.051571429,
+          0.889735,
+          0.075714286
+        ],
+        "font_size": 26,
+        "leading": 33.800000000000004
+      },
+      "review_issues": [],
+      "rule_y": 110
+    },
+    {
+      "id": "p0124-b002",
+      "kind": "aside",
+      "source": {
+        "text": "In his translation notes, ~ Toby emphasized this gameplay hint is meant to sound \"obtuse\". Clarification is at the heart of translation, so I find that translating \"obtuse\" stuff can either be really fun or really nightmarish",
+        "raw": "In his translation notes, ~\nToby emphasized this\ngameplay hint is meant\nto sound \"obtuse\".\nClarification is at the\nheart of translation, so\nI find that translating\n\"obtuse\" stuff can either\nbe really fun or really\nnightmarish",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.11283001,
+          0.09131429,
+          0.28275853,
+          0.23810714
+        ],
+        "mask_bbox": [
+          0.1115038,
+          0.0906,
+          0.28408474,
+          0.23917857
+        ],
+        "line_ids": [
+          2,
+          4,
+          6,
+          8,
+          9,
+          10,
+          12,
+          13,
+          14,
+          15
+        ]
+      },
+      "translation": {
+        "text": "Toby 在翻译说明中强调，这条玩法提示应该显得“晦涩”。翻译的核心是把事情说清，所以在我看来，翻译这种“晦涩”内容，要么非常有趣，要么简直是噩梦。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11283001,
+          0.08988571,
+          0.28275853,
+          0.24167857
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6222071428571428,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11283001,
+          0.08988571,
+          0.28275853,
+          0.24167857
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b003",
+      "kind": "paragraph",
+      "source": {
+        "text": "Sans explains that a blue-colored attack in battle won't cause damage if the player remains still. He then suggests a needlessly complicated technique for remembering this fact:",
+        "raw": "Sans explains that a blue-colored attack in battle won't cause damage if the\nplayer remains still. He then suggests a needlessly complicated technique for\nremembering this fact:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29350084,
+          0.25384286,
+          0.88401188,
+          0.30202143
+        ],
+        "mask_bbox": [
+          0.29113406,
+          0.25312857,
+          0.89177532,
+          0.30309286
+        ],
+        "line_ids": [
+          16,
+          17,
+          18
+        ]
+      },
+      "translation": {
+        "text": "Sans 解释，战斗中的蓝色攻击不会伤害静止不动的玩家。然后，他提供了一个毫无必要地复杂的记忆方法：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29350084,
+          0.25241429,
+          0.889735,
+          0.30559286
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6228571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.29350084,
+          0.25241429,
+          0.889735,
+          0.30559286
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b004",
+      "kind": "quote",
+      "source": {
+        "text": "imagine a stop sign. when you see a stop sign, you stop, right? stop signs are red. so imagine a blue stop sign. simple, right? when.fighting, think about blue stop signs.",
+        "raw": "imagine a stop sign. when you see a stop sign, you stop, right?\nstop signs are red. so imagine a blue stop sign. simple, right?\nwhen.fighting, think about blue stop signs.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.33812276,
+          0.31815714,
+          0.79754288,
+          0.36632857
+        ],
+        "mask_bbox": [
+          0.33679655,
+          0.31744286,
+          0.7988691,
+          0.3674
+        ],
+        "line_ids": [
+          19,
+          20,
+          21
+        ]
+      },
+      "translation": {
+        "text": "想象一个停车标志。看到停车标志，你会停下，对吧？停车标志是红色的。那么，想象一个蓝色停车标志。简单吧？战斗时就想想蓝色停车标志。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.33812276,
+          0.31672857,
+          0.889735,
+          0.3699
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6228571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0124-b003"
+      },
+      "calibration": {
+        "bbox": [
+          0.33812276,
+          0.31672857,
+          0.889735,
+          0.3699
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b005",
+      "kind": "paragraph",
+      "source": {
+        "text": "Stop signs are red in Japan too, so this hint would be easy to translate into Japanese without any major issues. However, the translator felt the information would \"click\" more naturally in Japanese if it referred to a stoplight instead of a stop sign. Thus the line became:",
+        "raw": "Stop signs are red in Japan too, so this hint would be easy to translate\ninto Japanese without any major issues. However, the translator felt the\ninformation would \"click\" more naturally in Japanese if it referred to a\nstoplight instead of a stop sign. Thus the line became:",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29398032,
+          0.38044286,
+          0.84591901,
+          0.44883571
+        ],
+        "mask_bbox": [
+          0.29113406,
+          0.37972857,
+          0.89177532,
+          0.44990714
+        ],
+        "line_ids": [
+          22,
+          23,
+          24,
+          25
+        ]
+      },
+      "translation": {
+        "text": "日本的停车标志也是红色，因此这条提示直接翻成日语也不会有什么大问题。不过，译者觉得，用交通信号灯代替停车标志，日本玩家会更容易“明白过来”。于是台词变成了：",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29350084,
+          0.37901429,
+          0.889735,
+          0.45240714
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6228571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0124-b004"
+      },
+      "calibration": {
+        "bbox": [
+          0.29350084,
+          0.37901429,
+          0.889735,
+          0.45240714
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b006",
+      "kind": "quote",
+      "source": {
+        "text": "everyone stops when a stoplight turns red, right? red stoplights mean \"stop\", but think ofb lue as \"stop\", okay? simple, right? in battle, blue means \"stop\".",
+        "raw": "everyone stops when a stoplight turns red, right?\nred stoplights mean \"stop\", but think ofb lue as \"stop\", okay?\nsimple, right? in battle, blue means \"stop\".",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.3383778,
+          0.46362143,
+          0.78938158,
+          0.51145
+        ],
+        "mask_bbox": [
+          0.33705159,
+          0.46290714,
+          0.79070779,
+          0.51252143
+        ],
+        "line_ids": [
+          26,
+          27,
+          28
+        ]
+      },
+      "translation": {
+        "text": "日版大意是：信号灯变红，大家就会停下，对吧？红灯表示“停”，不过把蓝色当成“停”，好吗？简单吧？战斗时，蓝色就表示“停”。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.3383778,
+          0.46219286,
+          0.889735,
+          0.51502143
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.6228571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0124-b005"
+      },
+      "calibration": {
+        "bbox": [
+          0.3383778,
+          0.46219286,
+          0.889735,
+          0.51502143
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b007",
+      "kind": "paragraph",
+      "source": {
+        "text": "This new text doesn't really seem to be that different from the original text, but there's a cultural reason behind it: in Japanese, green stoplights are called blue stoplights. And since real-life \"blue\" stoplights and red stoplights are opposites, it makes sense for Sans to swap the two in his overly complicated explanation.",
+        "raw": "This new text doesn't really seem to be that different from the original text,\nbut there's a cultural reason behind it: in Japanese, green stoplights are called\nblue stoplights. And since real-life \"blue\" stoplights and red stoplights are\nopposites, it makes sense for Sans to swap the two in his overly complicated\nexplanation.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.29317439,
+          0.52692143,
+          0.889735,
+          0.61245714
+        ],
+        "mask_bbox": [
+          0.29113406,
+          0.52620714,
+          0.89177532,
+          0.61352857
+        ],
+        "line_ids": [
+          29,
+          30,
+          31,
+          32,
+          33
+        ]
+      },
+      "translation": {
+        "text": "新台词乍看与原文没什么不同，但背后有一个文化原因：日语会把绿色交通灯叫作蓝灯。现实中的“蓝灯”与红灯意思相反，因此 Sans 在那番过分复杂的解释里把两者对调，就说得通了。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.29350084,
+          0.52549286,
+          0.889735,
+          0.61602857
+        ],
+        "font_size": 20,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.6228571428571429,
+        "snap_to_guides": true,
+        "resize_anchor": "left",
+        "gap_before": 12,
+        "flow_after": "p0124-b006"
+      },
+      "calibration": {
+        "bbox": [
+          0.29350084,
+          0.52549286,
+          0.889735,
+          0.61602857
+        ],
+        "font_size": 20,
+        "leading": 29.0
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b008",
+      "kind": "aside",
+      "source": {
+        "text": "LEFT: English- ~ speaking players are asked to imagine this",
+        "raw": "LEFT: English- ~\nspeaking players are\nasked to imagine this",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.13498794,
+          0.62935,
+          0.28422756,
+          0.67076429
+        ],
+        "mask_bbox": [
+          0.13366173,
+          0.62863571,
+          0.28555377,
+          0.67183571
+        ],
+        "line_ids": [
+          34,
+          35,
+          36
+        ]
+      },
+      "translation": {
+        "text": "左：英语玩家被要求想象这个。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11731872,
+          0.62792143,
+          0.28422756,
+          0.67433571
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.6750714328571429,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11731872,
+          0.62792143,
+          0.28422756,
+          0.67433571
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b009",
+      "kind": "aside",
+      "source": {
+        "text": "RIGHT: Japanese players are asked to imagine this instead",
+        "raw": "RIGHT: Japanese\nplayers are asked to\nimagine this instead",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.14205767,
+          0.68221429,
+          0.26657874,
+          0.72295
+        ],
+        "mask_bbox": [
+          0.14073146,
+          0.6815,
+          0.26790496,
+          0.72402143
+        ],
+        "line_ids": [
+          37,
+          38,
+          39
+        ]
+      },
+      "translation": {
+        "text": "右：日本玩家则要想象这个。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.11731872,
+          0.68078571,
+          0.26799677,
+          0.72652143
+        ],
+        "font_size": 15.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "right",
+        "auto_height": true,
+        "limit_bottom": 0.7957142857142857,
+        "snap_to_guides": true,
+        "resize_anchor": "right"
+      },
+      "calibration": {
+        "bbox": [
+          0.11731872,
+          0.68078571,
+          0.26799677,
+          0.72652143
+        ],
+        "font_size": 15.5,
+        "leading": 22.474999999999998
+      },
+      "review_issues": []
+    },
+    {
+      "id": "p0124-b010",
+      "kind": "quote",
+      "source": {
+        "text": "On a slightly different note, this whole blue/green issue is a common challenge when translating between Japanese and English. One time, I had to translate a Japanese anime script without any video to check, so I basically had to guess a color and hope it was right. Later, when I saw the final product, I was relieved to see that my guess was right.",
+        "raw": "On a slightly different note, this whole blue/green issue is a common\nchallenge when translating between Japanese and English. One time, I\nhad to translate a Japanese anime script without any video to check, so I\nbasically had to guess a color and hope it was right. Later, when I saw the\nfinal product, I was relieved to see that my guess was right.",
+        "status": "corrected",
+        "languages": [
+          "en"
+        ],
+        "bbox": [
+          0.31289414,
+          0.81522143,
+          0.8709436,
+          0.88761429
+        ],
+        "mask_bbox": [
+          0.31156793,
+          0.81450714,
+          0.87226981,
+          0.88868571
+        ],
+        "line_ids": [
+          40,
+          41,
+          42,
+          43,
+          44
+        ]
+      },
+      "translation": {
+        "text": "稍微岔开一下，蓝色与绿色的区别是日英翻译中的常见难题。有一次，我翻译日本动画剧本时没有视频可核对，只能基本靠猜颜色，祈祷自己猜对。后来看到成片，发现没猜错，才松了口气。",
+        "status": "draft",
+        "spans": []
+      },
+      "annotations": [],
+      "layout": {
+        "bbox": [
+          0.31289414,
+          0.81379286,
+          0.889735,
+          0.89118571
+        ],
+        "font_size": 18.5,
+        "line_height": 1.45,
+        "font_weight": 450,
+        "background": "transparent",
+        "text_align": "left",
+        "auto_height": true,
+        "limit_bottom": 0.895,
+        "snap_to_guides": true,
+        "resize_anchor": "left"
+      },
+      "calibration": {
+        "bbox": [
+          0.31289414,
+          0.81379286,
+          0.889735,
+          0.89118571
+        ],
+        "font_size": 18.5,
+        "leading": 26.825
+      },
+      "review_issues": []
+    }
+  ],
+  "typography": {
+    "body_font": "Noto Serif SC",
+    "latin_font": "Source Serif 4 Text",
+    "heading_font": "Noto Sans SC",
+    "line_break": "paragraph-optimized-v1"
+  },
+  "review": {
+    "translation": "draft",
+    "layout": "pending"
+  },
+  "review_issues": [],
+  "batch": {
+    "id": "fullbook-20261023",
+    "pipeline": "regions-v2-no-shrink",
+    "prompt_sha256": "31ba7e0edd094ed66fa0c1e6169b0cd539fe3db5a3b1708408ee4671f25a4098",
+    "source_sha256": "5d5119e94ec33fa165d9b3d158d51392b4a87ac7fa8bed67cd0890ad7dbba38b",
+    "draft_sha256": "0d30bcb4e8823a6c3bfc0bdbf1c00309449a4a7e465a361c297ed7e556bb77f6"
+  },
+  "chapter_id": "chapter-106",
+  "extraction_review": {
+    "ignored": [
+      {
+        "lines": [
+          3,
+          5,
+          7,
+          11,
+          45
+        ],
+        "reason": "image-text/page-number/decorative/OCR-noise"
+      }
+    ],
+    "unassigned_line_ids": [],
+    "duplicate_line_ids": []
+  },
+  "layout_inference": {
+    "version": 2,
+    "font_shrink": false,
+    "main_column": [
+      287.7,
+      872.15
+    ],
+    "text_runs": [
+      {
+        "id": "p0124-b003",
+        "blocks": [
+          "p0124-b003",
+          "p0124-b004",
+          "p0124-b005",
+          "p0124-b006",
+          "p0124-b007"
+        ],
+        "gap": 12,
+        "limit_bottom": 872.0
+      }
+    ],
+    "obstacles": "scan pixels after text masks; figures and rules remain fixed"
+  }
+}
