@@ -35,7 +35,7 @@ async function loadFonts(page){
   const requests=new Map();
   function add(font,text){requests.set(font,(requests.get(font)||'')+text);}
   for(const block of page.blocks){
-    const sans=['heading','subheading','caption','aside'].includes(block.kind)||block.layout.style==='chapter-heading';
+    const sans=block.content_role!=='author-comment'&&(['heading','subheading','caption','aside'].includes(block.kind)||block.layout.style==='chapter-heading');
     add((block.layout.font_weight||400)+' 20px "Book '+(sans?'Sans':'Serif')+' SC"',block.translation.text);
     for(const token of BookComposition.tokenize(block.translation.text,block.translation.spans)){
       if(token.lang==='en')add((token.italic?'italic ':'')+'400 20px "Book Serif Latin"',token.text);

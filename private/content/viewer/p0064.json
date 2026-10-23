@@ -4,8 +4,8 @@
   "printed_page": "64",
   "title": "少见的助力",
   "subtitle": "本地化的过程 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.138280+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T10:25:54.406079+00:00",
   "reference_size": [
     983.154001,
     1400
@@ -477,7 +477,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "right",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.875,
         "snap_to_guides": true,
@@ -493,7 +493,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

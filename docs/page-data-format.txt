@@ -43,3 +43,7 @@ schemas/viewer-page.schema.json 描述当前核心格式；允许扩展字段，
 data/catalog.json 标记最新发布版本和固定版本；阅读器打开时检查它。
 源仓库的 private/content/reader-index.json 是此前私有读取方案的可重建索引，
 当前公开阅读器不依赖它。原始 PDF、扫描及网页阅读图片独立保存。
+
+作者对白：content_role="author-comment" 标记番茄头像对白；不改变原 kind 或 source。
+两端对齐由 layout.text_align="justify" 保存，样式使用正文宋体，末行左齐。
+layout.break_after 是需要固定断行的原文子串（在该串之后换行）；只是显示指令，译文 text 和 spans 保持原偏移，正文排版器与 PDF 共用此断行。

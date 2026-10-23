@@ -4,8 +4,8 @@
   "printed_page": "120",
   "title": "盛装打扮",
   "subtitle": "雪镇 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.188156+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.437247+00:00",
   "reference_size": [
     979.598719,
     1400
@@ -669,7 +669,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.9,
         "snap_to_guides": true,
@@ -685,7 +685,8 @@
         "font_size": 18.5,
         "leading": 26.825
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

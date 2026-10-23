@@ -100,6 +100,17 @@
     const lines=[];for(let start=0;start<n;){const b=best[start];lines.push({start,end:b.end,...b.m,expansion:b.expansion});start=b.end;}
     return {tokens,lines};
   }
+  function segments(text,breakAfter){
+    const result=[];let start=0;
+    const at=breakAfter?text.indexOf(breakAfter):-1,cut=at>=0?at+breakAfter.length:-1;
+    for(let i=0;i<=text.length;i++){
+      if(i===text.length||text[i]==='\n'||(i===cut&&i>start)){
+        result.push({text:text.slice(start,i),offset:start});
+        start=text[i]==='\n'?i+1:i;
+      }
+    }
+    return result;
+  }
   let context;
   function render(node,text,style){
     if(text.length>4000||/[\p{Extended_Pictographic}\p{Script=Arabic}\p{Script=Hebrew}]/u.test(text))return false;
@@ -116,7 +127,7 @@
       }
       return cache.get(key);
     }
-    let offset=0;const paragraphs=text.split('\n'),results=paragraphs.map(p=>{const spans=style.spans?.filter(s=>s.end>offset&&s.start<offset+p.length).map(s=>({...s,start:Math.max(0,s.start-offset),end:Math.min(p.length,s.end-offset)}));const result=compose(p,style.width,fontSize,measure,spans);offset+=p.length+1;return result;});
+    const results=segments(text,style.breakAfter).map(({text:p,offset})=>{const spans=style.spans?.filter(s=>s.end>offset&&s.start<offset+p.length).map(s=>({...s,start:Math.max(0,s.start-offset),end:Math.min(p.length,s.end-offset)}));return compose(p,style.width,fontSize,measure,spans);});
     if(results.some(r=>!r))return false;
     const fragment=document.createDocumentFragment();
     results.forEach((result,p)=>{
@@ -140,7 +151,7 @@
     });
     node.replaceChildren(fragment);node.classList.add('composed');node.setAttribute('role','group');node.setAttribute('aria-label',text);return true;
   }
-  const api={tokenize,boundary,compose,render};
+  const api={tokenize,boundary,compose,render,segments};
   if(typeof module!=='undefined'&&module.exports)module.exports=api;
   else root.BookComposition=api;
 })(typeof window!=='undefined'?window:globalThis);

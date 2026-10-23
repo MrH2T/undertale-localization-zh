@@ -4,8 +4,8 @@
   "printed_page": "18",
   "title": "为什么需要本地化",
   "subtitle": "什么是本地化？ · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-22T18:27:45.091172+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T10:25:54.371367+00:00",
   "reference_size": [
     983.134152,
     1400
@@ -198,7 +198,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.4035714285714286,
         "snap_to_guides": true,
@@ -313,7 +313,7 @@
         ]
       },
       "translation": {
-        "text": "幽默",
+        "text": "笑点",
         "status": "draft",
         "spans": []
       },
@@ -900,7 +900,7 @@
         ]
       },
       "translation": {
-        "text": "总之，幽默很少能轻易跨越语言。",
+        "text": "总之，笑点很少能轻易跨越语言。",
         "status": "draft",
         "spans": []
       },

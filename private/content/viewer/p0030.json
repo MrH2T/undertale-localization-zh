@@ -2,10 +2,10 @@
   "schema_version": 3,
   "pdf_page": 30,
   "printed_page": "30",
-  "title": "避免意外含义",
+  "title": "避免额外含义",
   "subtitle": "什么是本地化？ · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.102750+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.380183+00:00",
   "reference_size": [
     987.316083,
     1400
@@ -46,7 +46,7 @@
         ]
       },
       "translation": {
-        "text": "避免意外含义",
+        "text": "避免额外含义",
         "status": "draft",
         "spans": []
       },
@@ -715,11 +715,12 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "right",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.8985714285714286,
         "snap_to_guides": true,
-        "resize_anchor": "right"
+        "resize_anchor": "right",
+        "break_after": "原则，"
       },
       "calibration": {
         "bbox": [
@@ -731,7 +732,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

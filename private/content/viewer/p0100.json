@@ -4,8 +4,8 @@
   "printed_page": "100",
   "title": "奇特的派",
   "subtitle": "遗迹 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.154725+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.424729+00:00",
   "reference_size": [
     975.821952,
     1400
@@ -771,7 +771,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.9021428571428571,
         "snap_to_guides": true,
@@ -787,7 +787,8 @@
         "font_size": 18.5,
         "leading": 26.825
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

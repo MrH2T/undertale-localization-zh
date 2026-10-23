@@ -27,7 +27,8 @@ button:focus-visible,select:focus-visible,input:focus-visible,textarea:focus-vis
 .translation-box.paragraph{text-align:justify;text-justify:auto;text-align-last:left;text-wrap:pretty;white-space:pre-line}
 .translation-box.heading,.translation-box.subheading{font-family:"Book Sans SC",sans-serif;font-weight:700}
 .translation-box.chapter-heading{font-family:"Book Sans SC",sans-serif;font-weight:750}
-.translation-box.aside,.translation-box.caption{font-family:"Book Sans SC",sans-serif;font-weight:400;color:#555}.translation-box.aside{text-align:right}.translation-box.caption{text-align:center;text-wrap:balance}.translation-box.quote{font-style:normal}
+.translation-box.aside,.translation-box.caption{font-family:"Book Sans SC",sans-serif;font-weight:400;color:#555}.translation-box.aside{text-align:right}.translation-box.caption{text-align:center;text-wrap:balance}.translation-box.quote{font-style:normal;text-align-last:left}
+.translation-box.author-comment{font-family:"Book Serif SC",serif;text-align:justify;text-align-last:left;text-wrap:pretty;color:#18191d}
 .translation-box [lang="ja"]{font-family:"Book Serif JP",serif;font-style:normal;font-weight:400}
 .translation-box [lang="en"]{font-family:"Book Serif Latin",serif;font-weight:400;text-justify:none}
 .translation-box em[lang="en"]{font-style:italic}

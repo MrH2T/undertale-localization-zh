@@ -4,8 +4,8 @@
   "printed_page": "46",
   "title": "发行",
   "subtitle": "历史 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:27:45.126048+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.390110+00:00",
   "reference_size": [
     985.99865,
     1400
@@ -401,7 +401,7 @@
         ]
       },
       "translation": {
-        "text": "Nintendo Switch 版 Undertale 有独占的秘密房间，还能与一个熟悉的角色展开秘密战斗。",
+        "text": "Nintendo Switch 版 Undertale 有独占的秘密房间，还能与一个熟悉的角色展开隐藏战斗。",
         "status": "draft",
         "spans": [
           {

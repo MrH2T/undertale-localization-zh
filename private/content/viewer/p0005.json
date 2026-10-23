@@ -4,8 +4,8 @@
   "printed_page": "",
   "title": "目录",
   "subtitle": "目录",
-  "revision": 2,
-  "updated_at": "2026-10-22T16:52:37.668155+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.360257+00:00",
   "reference_size": [
     990.2036694159234,
     1400
@@ -756,7 +756,7 @@
         ]
       },
       "translation": {
-        "text": "真正的实验室",
+        "text": "真实验室",
         "status": "draft",
         "spans": []
       },

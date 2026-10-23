@@ -4,8 +4,8 @@
   "printed_page": "76",
   "title": "落到文字上",
   "subtitle": "开始游戏 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T19:12:45.528614+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.410662+00:00",
   "reference_size": [
     984.02027,
     1400
@@ -916,7 +916,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "right",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.8985714285714286,
         "snap_to_guides": true,
@@ -932,7 +932,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

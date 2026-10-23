@@ -4,8 +4,8 @@
   "printed_page": "238",
   "title": "最终战斗：再谈 Flowey 的说话方式",
   "subtitle": "最终战斗 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-22T18:37:49.134774+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T10:25:54.507239+00:00",
   "reference_size": [
     984.749748,
     1400
@@ -805,7 +805,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "right",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.8935714285714286,
         "snap_to_guides": true,
@@ -821,7 +821,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {

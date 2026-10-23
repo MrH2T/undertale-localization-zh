@@ -786,11 +786,71 @@
     {
       "id": "navigation-chapter-230",
       "source_term": "True Lab",
-      "preferred_zh_hans": "真正的实验室",
+      "preferred_zh_hans": "真实验室",
       "alternatives": [],
       "mode": "contextual",
       "context": "页脚、目录、章节标题；正文语言分析保留原语",
-      "notes": "项目导航约定；不自动替换正文。",
+      "notes": "2026-10-23 用户校订：导航与地点名称采用“真实验室”。正文词形分析保留 True Lab。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "user-humor-p18",
+      "source_term": "humor",
+      "preferred_zh_hans": "笑点",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "第18页：标题与总结句",
+      "notes": "2026-10-23 用户校订表确认；不替换无关语境。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "user-side-effects-p30",
+      "source_term": "Side Effects",
+      "preferred_zh_hans": "额外含义",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "第30页：Avoiding Side Effects 译为“避免额外含义”",
+      "notes": "2026-10-23 用户校订表确认；不替换无关语境。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "user-sanity-levels",
+      "source_term": "sanity levels",
+      "preferred_zh_hans": "理智值",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "第44页：游戏开发语境",
+      "notes": "2026-10-23 用户校订表确认；不替换无关语境。",
+      "source_ids": [
+        "project"
+      ],
+      "origin": "project_decision",
+      "status": "project_selected",
+      "automatic_replace": false
+    },
+    {
+      "id": "user-secret-battle",
+      "source_term": "secret battle",
+      "preferred_zh_hans": "隐藏战斗",
+      "alternatives": [],
+      "mode": "contextual",
+      "context": "第46页：游戏隐藏内容",
+      "notes": "2026-10-23 用户校订表确认；不替换无关语境。",
       "source_ids": [
         "project"
       ],

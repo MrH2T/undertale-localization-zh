@@ -2,10 +2,10 @@
   "schema_version": 3,
   "pdf_page": 231,
   "printed_page": "231",
-  "title": "真正的实验室",
+  "title": "真实验室",
   "subtitle": "真正的实验室 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.302992+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T10:25:54.494416+00:00",
   "reference_size": [
     981.910056,
     1400
@@ -44,7 +44,7 @@
         "line_ids": []
       },
       "translation": {
-        "text": "真正的实验室",
+        "text": "真实验室",
         "status": "draft",
         "spans": []
       },

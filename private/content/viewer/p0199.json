@@ -4,8 +4,8 @@
   "printed_page": "199",
   "title": "Banana 的引用",
   "subtitle": "热域 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-22T18:49:29.225866+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T10:25:54.481868+00:00",
   "reference_size": [
     983.771044,
     1400
@@ -526,7 +526,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.5897928528571429,
         "snap_to_guides": true,
@@ -733,7 +733,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.8921428571428571,
         "snap_to_guides": true,
@@ -749,7 +749,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     },
     {
       "id": "p0199-b012",

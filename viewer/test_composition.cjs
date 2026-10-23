@@ -43,3 +43,13 @@ test('all sample paragraphs preserve every character through composition',()=>{
     }
   }
 });
+
+const {segments}=require('./dist/composition.js');
+test('fixed display breaks preserve text and UTF-16 offsets for bilingual formatting',()=>{
+ const text='中文😀。Undertale\n下一段';const rows=segments(text,'😀。');
+ assert.deepEqual(rows,[{text:'中文😀。',offset:0},{text:'Undertale',offset:5},{text:'下一段',offset:15}]);
+ for(const row of rows)assert.equal(text.slice(row.offset,row.offset+row.text.length),row.text);
+ assert.deepEqual(segments('甲\n乙','甲'),[{text:'甲',offset:0},{text:'乙',offset:2}]);
+ assert.deepEqual(segments('甲\n乙','丙'),segments('甲\n乙'));
+ assert.deepEqual(segments('甲','甲'),[{text:'甲',offset:0}]);
+});

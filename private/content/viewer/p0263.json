@@ -4,8 +4,8 @@
   "printed_page": "263",
   "title": "我的收获与零散感想",
   "subtitle": "结语 · 私人学习译稿",
-  "revision": 1,
-  "updated_at": "2026-10-22T18:27:45.337467+00:00",
+  "revision": 2,
+  "updated_at": "2026-10-23T10:25:54.523081+00:00",
   "reference_size": [
     986.417256,
     1400
@@ -343,7 +343,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.39714285714285713,
         "snap_to_guides": true,
@@ -359,7 +359,8 @@
         "font_size": 15.5,
         "leading": 22.474999999999998
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     },
     {
       "id": "p0263-b006",

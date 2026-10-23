@@ -4,8 +4,8 @@
   "printed_page": "108",
   "title": "雪镇：Sans 登场",
   "subtitle": "雪镇 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-22T18:37:49.126766+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T10:25:54.429986+00:00",
   "reference_size": [
     978.67969,
     1400
@@ -737,7 +737,7 @@
         "line_height": 1.45,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "left",
+        "text_align": "justify",
         "auto_height": true,
         "limit_bottom": 0.8992857142857142,
         "snap_to_guides": true,
@@ -753,7 +753,8 @@
         "font_size": 18.5,
         "leading": 26.825
       },
-      "review_issues": []
+      "review_issues": [],
+      "content_role": "author-comment"
     }
   ],
   "typography": {
