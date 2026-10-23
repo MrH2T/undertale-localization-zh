@@ -1,0 +1,44 @@
+静态阅读器（2026-10-23）
+
+阅读地址：https://mrh2t.github.io/undertale-reader/
+公开程序仓库：https://github.com/MrH2T/undertale-reader
+私有数据仓库：https://github.com/MrH2T/undertale-localization-zh
+
+使用
+在阅读页点“连接”。自行在 GitHub 创建 fine-grained personal access token，
+只选择 undertale-localization-zh 仓库，Contents 为 Read-only，然后填进阅读页。
+令牌只保留在当前标签页内存，请勿发进聊天或提交到仓库。刷新后重新连接。
+搜索同时查原文和译文，结果定位到页内段落；可选择搜索语言、区分大小写。
+左右方向键翻页，Ctrl+F 或 / 打开全书搜索。目录、缩放、书签、阅读位置可用。
+书签与阅读位置只存本设备浏览器；稿件和版本来自 GitHub，可跨设备读取。
+对照模式显示选中段落的原文与译文；文本模式适合小屏连续阅读当前页。
+“修改此页”打开 main 对应 JSON 的 GitHub 编辑页；并非在线可视化编辑器。
+版式微调仍用原有本地 viewer，保存后需 git commit / push 才会更新远程。
+静态阅读器不运行 Python PDF 导出；PDF 继续由本地编辑器生成。
+
+数据与版本
+private/content/viewer/pNNNN.json 是唯一有效稿件，原位排版未复制成另一份母稿。
+打开 main 时固定到一个 commit SHA，再用这个 SHA 读取全书、图片，防止版本混杂。
+版本窗口可以输入分支、标签或 SHA；选择“更新到最新稿”才加载新提交。
+private/content/reader-index.json 是加速缓存。包含每页稿件及原文件的 Git blob SHA。
+浏览器核对所选提交的 Git tree：缓存与 blob SHA 一致才复用；新增或变化页面
+从该提交直接读 JSON，已删除页面不显示。因此 GitHub 编辑后不必重建索引。
+定期运行 python scripts/build_reader_data.py 可压缩增量请求数量。
+旧提交没有加速索引时会逐页读取；没有图片时明确显示文本模式。
+private/reader/assets/pNNNN.jpg 是 2800px 高的网页阅读副本，只在私有仓库中。
+原始扫描、PDF、导出及备份仍保留本地，没有加入公共发布物。
+
+发布程序
+python scripts/build_reader.py --output <独立的公开仓库目录>
+该脚本只复制明确列出的 HTML/JS/CSS 和字体许可证，并从现有 viewer 抽取排版函数。
+目标目录出现非白名单文件会拒绝构建。输出包含 build-manifest.json 校验清单。
+公开仓库启用 Pages：Deploy from a branch → main → /(root)。
+只推送此独立目录；不要把 private 仓库或其 Git 历史推到公开仓库。
+private 仓库自身的 Pages 保持关闭。公开网站不包含书籍文本、图片或访问令牌。
+
+实现与测试
+site/ 为阅读器源文件，scripts/build_reader.py 复用本地排版及字体。
+node --test site/tests/reader.test.mjs
+覆盖旧缓存/新增/删除页面、双语搜索、固定 SHA、认证失败、限额和不完整文件树。
+浏览器检查了第 93 页排版、搜索 gorikai、结果定位、段落对照及指定版本读取。
+私有 API 的真实读取还需要使用者在网站输入其只读令牌；不得将本地接口测试冒充线上认证测试。

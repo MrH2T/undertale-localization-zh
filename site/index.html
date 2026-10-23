@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="referrer" content="no-referrer">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' blob:; font-src 'self'; connect-src 'self' https://api.github.com; object-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>书籍阅读</title><link rel="stylesheet" href="book.css"><link rel="stylesheet" href="reader.css">
+</head>
+<body>
+<header class="toolbar" aria-label="阅读工具">
+  <div class="group"><button id="previous" aria-label="上一页" disabled>‹</button><label>页 <input id="page-number" type="number" min="1" value="1" aria-label="页码" disabled></label><span id="page-total"></span><button id="next" aria-label="下一页" disabled>›</button></div>
+  <button id="contents" disabled>目录</button><button id="search-open" disabled>搜索</button>
+  <div class="group"><button id="mode-overlay" aria-pressed="true" disabled>译文</button><button id="mode-source" aria-pressed="false" disabled>原文</button><button id="mode-compare" aria-pressed="false" disabled>对照</button><button id="mode-text" aria-pressed="false" disabled>文本</button></div>
+  <div class="group"><button id="zoom-out" aria-label="缩小" disabled>−</button><select id="zoom" aria-label="缩放"><option value="fit">适合宽度</option><option value="page">整页</option><option value="0.5">50%</option><option value="0.75">75%</option><option value="1">100%</option><option value="1.25">125%</option><option value="1.5">150%</option><option value="2">200%</option></select><button id="zoom-in" aria-label="放大" disabled>＋</button></div>
+  <button id="bookmark" aria-pressed="false" disabled>书签</button><button id="version-open" disabled>版本</button><a id="edit-page" target="_blank" rel="noopener noreferrer" hidden>修改此页 ↗</a><button id="connection">连接</button>
+</header>
+<main class="workspace" id="workspace">
+  <aside id="sidebar" hidden aria-label="目录与搜索">
+    <div class="side-head"><strong id="side-title">目录</strong><button id="side-close" aria-label="关闭侧栏">×</button></div>
+    <div id="search-tools" hidden><label for="search-query">搜索原文和译文</label><input id="search-query" type="search" placeholder="输入词语，回车搜索" autocomplete="off"><div class="search-options"><select id="search-language" aria-label="搜索范围"><option value="both">原文和译文</option><option value="translation">译文</option><option value="source">原文</option></select><label><input type="checkbox" id="search-case">区分大小写</label></div><button id="search-run">搜索</button><p id="search-summary" role="status"></p></div>
+    <div id="side-list"></div>
+  </aside>
+  <section id="viewport" aria-label="书页" tabindex="0">
+    <div id="welcome"><h1>书籍阅读</h1><p>连接私有仓库后，读取原文、译文和书页。支持全文搜索、对照阅读及历史版本。</p><button id="connect-start">连接私有仓库</button><p class="muted">修改保存在 GitHub 仓库；这里仅供阅读。</p></div>
+    <p id="image-message" role="status" hidden></p>
+    <div id="page-stage" hidden><div id="page-content"><img id="page-image" alt="原书扫描"><div id="mask-layer"></div><div id="overlay-layer"></div></div></div>
+    <article id="text-reader" hidden></article>
+  </section>
+  <aside id="comparison" hidden aria-label="段落对照"><div class="side-head"><strong>段落对照</strong><button id="comparison-close" aria-label="关闭段落对照">×</button></div><div id="comparison-body"></div></aside>
+</main>
+<footer><span id="reading-status" role="status">未连接</span><span id="version-status"></span></footer>
+<dialog id="connection-dialog" aria-labelledby="connection-title">
+  <button class="dialog-close" data-close="connection-dialog" aria-label="关闭连接">×</button><h2 id="connection-title">连接私有仓库</h2>
+  <p>数据仓库：<a href="https://github.com/MrH2T/undertale-localization-zh" target="_blank" rel="noopener noreferrer">MrH2T/undertale-localization-zh</a></p>
+  <label for="access-token">GitHub 只读令牌</label><input id="access-token" type="password" autocomplete="off" spellcheck="false" placeholder="粘贴令牌，仅在本次打开期间使用">
+  <p class="muted">令牌只发送给 GitHub API，不存入网址、浏览器存储或代码。关闭或刷新网页后需要重新连接。</p>
+  <details><summary>第一次使用：如何取得只读令牌</summary><ol><li>打开 <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener noreferrer">GitHub 令牌设置</a>，创建 Fine-grained token。</li><li>Repository access 选择 Only select repositories，仅勾选 <b>undertale-localization-zh</b>。</li><li>Repository permissions → Contents 设置为 <b>Read-only</b>，设置合适的到期时间。</li><li>创建后复制到上方输入框。不要发送到聊天或提交到仓库。</li></ol></details>
+  <div class="dialog-actions"><button id="connect-submit">连接</button><button id="disconnect" disabled>断开并清除内容</button></div><p id="connection-status" role="status"></p>
+</dialog>
+<dialog id="version-dialog" aria-labelledby="version-title"><button class="dialog-close" data-close="version-dialog" aria-label="关闭版本">×</button><h2 id="version-title">读取版本</h2><label for="version-ref">分支、标签或提交编号</label><input id="version-ref" value="main" list="version-options" autocomplete="off"><datalist id="version-options"><option value="main"></option></datalist><p id="version-current"></p><div class="dialog-actions"><button id="version-load">读取此版本</button><button id="version-latest">更新到最新稿</button></div><p id="version-message" role="status"></p></dialog>
+<div id="toast" role="status" hidden></div>
+<script src="composition.js"></script><script src="renderer.js"></script><script type="module" src="reader.js"></script>
+</body></html>

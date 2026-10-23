@@ -30,3 +30,10 @@ venv/
 *.log
 *.key
 *.pem
+
+# Authorized private reading copies; never publish these with the Pages program.
+!/private/reader/
+/private/reader/*
+!/private/reader/assets/
+/private/reader/assets/*
+!/private/reader/assets/p*.jpg

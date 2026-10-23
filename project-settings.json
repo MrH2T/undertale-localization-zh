@@ -5,14 +5,17 @@
   "public_deployment_allowed": false,
   "remote_creation_performed": true,
   "tracked_study_content": "private/content/**/*.json and **/*.md",
-  "source_assets": "local ignored files with separate backups",
+  "source_assets": "Original scans stay local; reduced reading copies are versioned only in private/reader/assets.",
   "ai_processing": "remote AI calls are separate from local storage; record provider and sent scope",
   "note": "Declarative project policy; no access-control or deployment enforcement implemented.",
   "remote_url": "git@github.com:MrH2T/undertale-localization-zh.git",
   "private_hosting": {
-    "status": "research_only",
+    "status": "static_reader_implementation",
     "requires_authentication": true,
-    "github_pages_enabled": false
+    "github_pages_enabled": false,
+    "reader_repository": "https://github.com/MrH2T/undertale-reader",
+    "book_content_public": false
   },
-  "github_url": "https://github.com/MrH2T/undertale-localization-zh"
+  "github_url": "https://github.com/MrH2T/undertale-localization-zh",
+  "public_reader_code_allowed": true
 }
