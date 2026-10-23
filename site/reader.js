@@ -31,9 +31,19 @@ function disconnect(){
   $('retry-load').disabled=$('version-load').disabled=$('version-latest').disabled=false;
   setAvailable(false);$('previous').disabled=$('next').disabled=true;status('');
 }
-async function loadFonts(){
-  state.fonts??=Promise.all(['400 20.5px "Book Serif SC"','700 46px "Book Serif SC"','700 22px "Book Sans SC"','400 20px "Book Serif JP"','400 20px "Book Serif Latin"','italic 400 20px "Book Serif Latin"'].map(f=>document.fonts.load(f))).then(all=>{if(all.some(f=>!f.length)){state.fonts=null;throw Error('书页字体未能加载，请检查网络后重试。');}return document.fonts.ready;});
-  return state.fonts;
+async function loadFonts(page){
+  const requests=new Map();
+  function add(font,text){requests.set(font,(requests.get(font)||'')+text);}
+  for(const block of page.blocks){
+    const sans=['heading','subheading','caption','aside'].includes(block.kind)||block.layout.style==='chapter-heading';
+    add((block.layout.font_weight||400)+' 20px "Book '+(sans?'Sans':'Serif')+' SC"',block.translation.text);
+    for(const token of BookComposition.tokenize(block.translation.text,block.translation.spans)){
+      if(token.lang==='en')add((token.italic?'italic ':'')+'400 20px "Book Serif Latin"',token.text);
+      if(token.lang==='ja')add('400 20px "Book Serif JP"',token.text);
+    }
+  }
+  const all=await Promise.all([...requests].filter(([,text])=>text.length).map(([font,text])=>document.fonts.load(font,text)));
+  if(all.some(font=>!font.length))throw Error('书页字体未能加载，请检查网络后重试。');
 }
 async function start(){
   const pageNumber=state.page?.pdf_page||requestedPage;
@@ -42,7 +52,7 @@ async function start(){
   try{
     const ref=$('version-ref').value.trim()||'main',cached=await cachedSnapshot(ref);
     if(operation!==state.operation)return;
-    if(cached){await loadFonts();if(operation!==state.operation)return;await applySnapshot(cached,pageNumber);if(operation!==state.operation)return;$('version-status').textContent='已保存版本';}
+    if(cached){await applySnapshot(cached,pageNumber);if(operation!==state.operation)return;$('version-status').textContent='已保存版本';}
     await loadVersion(ref,pageNumber);if(operation!==state.operation)return;
   }
   catch(e){if(operation===state.operation&&e.name!=='AbortError'){if(state.snapshot){status('显示已保存版本');$('version-status').textContent='尚未更新';}else failure(e);}}
@@ -66,9 +76,9 @@ async function loadVersion(ref,pageNumber=state.page?.pdf_page||requestedPage){
   $('version-message').textContent='读取中…';
   try{
     const snapshot=await client.snapshot(ref,message=>{if(operation===state.operation){if(!state.page)status(message);$('version-message').textContent=message;}},state.snapshot);
-    await loadFonts();if(operation!==state.operation)return;
+    if(operation!==state.operation)return;
     // Keep the page the reader reached while the saved copy was being refreshed.
-    if(snapshot.sha!==state.snapshot?.sha||snapshot.ref!==state.snapshot?.ref||!state.page)await applySnapshot(snapshot,state.snapshot?.ref===ref?(state.page?.pdf_page||pageNumber):pageNumber);
+    if(snapshot.sha!==state.snapshot?.sha||snapshot.ref!==state.snapshot?.ref||snapshot.format!==state.snapshot?.format||!state.page)await applySnapshot(snapshot,state.snapshot?.ref===ref?(state.page?.pdf_page||pageNumber):pageNumber);
     $('version-status').textContent=ref==='main'?'最新版':ref;
     if(operation!==state.operation)return;
     await saveSnapshot(snapshot);
@@ -82,7 +92,7 @@ async function imageFor(page,snapshot){
   if(state.urls.has(key))return state.urls.get(key);
   const client=state.client;let blob=await cachedImage(key);
   if(client!==state.client||snapshot!==state.snapshot)return null;
-  if(!blob){blob=await client.image(page,snapshot);if(client!==state.client||snapshot!==state.snapshot)return null;if(blob)await saveImage(key,blob);}
+  if(!blob){blob=await client.image(page,snapshot);if(client!==state.client||snapshot!==state.snapshot)return null;if(blob)void saveImage(key,blob);}
   if(client!==state.client||snapshot!==state.snapshot)return null;
   if(!blob)return null;
   const url=URL.createObjectURL(blob);state.urls.set(key,url);
@@ -91,11 +101,14 @@ async function imageFor(page,snapshot){
 }
 async function goPage(number,block=null){
   if(!state.snapshot)return;
-  const page=state.snapshot.pages.find(p=>p.pdf_page===number);if(!page){toast('没有这一页。');$('page-number').value=state.page?.pdf_page||1;return;}
-  const operation=++state.pageOperation,snapshot=state.snapshot;status('读取第 '+number+' 页…');
+  const summary=state.snapshot.pages.find(p=>p.pdf_page===number);if(!summary){toast('没有这一页。');$('page-number').value=state.page?.pdf_page||1;return;}
+  const operation=++state.pageOperation,snapshot=state.snapshot,client=state.client;status('读取第 '+number+' 页…');
   let image=null,imageError='';
-  try{image=await imageFor(page,snapshot);}
-  catch(e){if(e.name==='AbortError')return;imageError=e.message;}
+  // Page text/fonts and the reading image load concurrently; search data is deferred.
+  const imageReady=imageFor(summary,snapshot).catch(e=>{if(e.name!=='AbortError')imageError=e.message;return null;});
+  const page=await client.page(number,snapshot);
+  if(operation!==state.pageOperation||snapshot!==state.snapshot)return;
+  const loaded=await Promise.all([imageReady,state.mode==='source'?Promise.resolve():loadFonts(page)]);image=loaded[0];
   if(operation!==state.pageOperation||snapshot!==state.snapshot)return;
   if(image){const img=new Image();img.src=image;try{await img.decode();}catch{image=null;imageError='书页图片未能解码。';}}
   if(operation!==state.pageOperation||snapshot!==state.snapshot)return;
@@ -108,6 +121,9 @@ async function goPage(number,block=null){
   const index=snapshot.pages.findIndex(p=>p.pdf_page===number);$('previous').disabled=index===0;$('next').disabled=index===snapshot.pages.length-1;
   updateBookmark();render();$('viewport').scrollTo(0,0);if(state.selected)selectBlock(state.selected,true);
   status('第 '+number+' 页 · '+page.title);document.title=page.title+' · 书籍阅读';hash();
+  document.body.dataset.readerFirstPageMs??=String(Math.round(performance.now()));
+  document.body.dataset.readerPage=String(number);
+  void saveSnapshot(snapshot);
 }
 function render(){
   if(!state.page)return;
@@ -172,12 +188,20 @@ function showContents(){
   const marked=state.snapshot.pages.filter(p=>bookmarks.includes(p.pdf_page));
   if(marked.length){host.append(node('h3','','书签'));marked.forEach(p=>host.append(tocButton(p,'bookmark-item')));}
   host.append(node('h3','','全部页面'));
-  for(const page of state.snapshot.pages)host.append(tocButton(page,'toc-item'+(page.page_role==='chapter'||page.blocks.some(b=>b.layout.style==='chapter-heading')?' chapter':'')));
+  for(const page of state.snapshot.pages)host.append(tocButton(page,'toc-item'+(page.chapter||page.page_role==='chapter'||page.blocks?.some(b=>b.layout.style==='chapter-heading')?' chapter':'')));
 }
 function updateBookmark(){const marked=bookmarks.includes(state.page?.pdf_page);$('bookmark').setAttribute('aria-pressed',String(marked));$('bookmark').textContent=marked?'已加书签':'书签';}
-function search(){
-  if(!state.snapshot)return;openSidebar('search');state.results=searchPages(state.snapshot.pages,$('search-query').value,{language:$('search-language').value,matchCase:$('search-case').checked});state.resultLimit=100;
-  $('search-summary').textContent=$('search-query').value.trim()?'找到 '+state.results.length+' 段':'输入词语搜索全书。';renderResults();
+async function search(){
+  if(!state.snapshot)return;openSidebar('search');
+  const snapshot=state.snapshot,client=state.client,query=$('search-query').value;
+  if(!query.trim()){state.results=[];$('search-summary').textContent='输入词语搜索全书。';renderResults();return;}
+  $('search-summary').textContent='搜索中…';
+  try{
+    const pages=await client.searchData(snapshot);
+    if(snapshot!==state.snapshot||client!==state.client||query!==$('search-query').value)return;
+    state.results=searchPages(pages,query,{language:$('search-language').value,matchCase:$('search-case').checked});state.resultLimit=100;
+    $('search-summary').textContent='找到 '+state.results.length+' 段';renderResults();
+  }catch(error){if(snapshot===state.snapshot&&error.name!=='AbortError')$('search-summary').textContent='搜索暂时无法加载，请重试。';}
 }
 function renderResults(){
   const host=$('side-list');host.replaceChildren();
@@ -193,7 +217,7 @@ function renderResults(){
 for(const button of document.querySelectorAll('[data-close]'))button.addEventListener('click',()=>$(button.dataset.close).close());
 $('retry-load').addEventListener('click',start);
 $('previous').addEventListener('click',()=>move(-1));$('next').addEventListener('click',()=>move(1));$('page-number').addEventListener('change',()=>goPage(Number($('page-number').value)).catch(failure));
-for(const mode of ['overlay','source','compare','text'])$('mode-'+mode).addEventListener('click',()=>{state.mode=mode;render();if(state.page)hash();});
+for(const mode of ['overlay','source','compare','text'])$('mode-'+mode).addEventListener('click',async()=>{const page=state.page;try{if(page&&mode!=='source')await loadFonts(page);if(page!==state.page)return;state.mode=mode;render();if(page)hash();}catch(error){failure(error);}});
 $('zoom').addEventListener('change',()=>{state.zoom=$('zoom').value;resize();if(state.page)hash();});$('zoom-out').addEventListener('click',()=>zoomStep(-1));$('zoom-in').addEventListener('click',()=>zoomStep(1));
 $('contents').addEventListener('click',showContents);$('side-close').addEventListener('click',()=>{$('sidebar').hidden=true;resize();});
 $('search-open').addEventListener('click',()=>{openSidebar('search');$('side-list').replaceChildren();if(state.results.length)renderResults();$('search-query').focus();});

@@ -5,6 +5,7 @@ export const IMAGE_PREFIX='images/';
 
 export class BookData {
   #controller=new AbortController();
+  #pages=new Map();#searches=new Map();
   constructor({fetcher=fetch}={}){this.fetcher=(...args)=>fetcher(...args);}
   close(){this.#controller.abort();}
   async file(path,cache='default'){
@@ -18,10 +19,27 @@ export class BookData {
     progress('载入中…');
     const catalog=await this.catalog(),version=catalog.versions.find(v=>v.ref===ref||v.sha===ref);
     if(!version||!/^[a-f0-9]{40}$/.test(version.sha))throw Error('这个版本尚未发布。');
-    if(cached?.sha===version.sha&&cached.ref===ref&&cached.tree instanceof Map&&cached.pages?.length)return cached;
-    const data=await (await this.file('versions/'+version.sha+'/index.json')).json();
+    if(cached?.format===2&&cached.sha===version.sha&&cached.ref===ref&&cached.tree instanceof Map&&cached.pages?.length)return cached;
+    const data=await (await this.file('versions/'+version.sha+'/manifest.json')).json();
     if(!Array.isArray(data.pages)||!data.pages.length||data.sha!==version.sha)throw Error('页面数据不完整，请稍后重试。');
-    return {sha:version.sha,ref,date:version.date,pages:data.pages,tree:new Map(Object.entries(data.images||{}))};
+    return {format:2,sha:version.sha,ref,date:version.date,pages:data.pages,tree:new Map(Object.entries(data.images||{}))};
+  }
+  async page(number,snapshot){
+    const current=snapshot.pages.find(p=>p.pdf_page===number);if(!current)throw Error('没有这一页。');
+    if(Array.isArray(current.blocks))return current;
+    const path='versions/'+snapshot.sha+'/pages/p'+String(number).padStart(4,'0')+'.json';
+    if(!this.#pages.has(path))this.#pages.set(path,(async()=>{
+      try{const page=await (await this.file(path)).json();if(page.pdf_page!==number||!Array.isArray(page.blocks))throw Error('页面数据不完整。');Object.assign(current,page);return current;}
+      catch(error){this.#pages.delete(path);throw error;}
+    })());
+    return this.#pages.get(path);
+  }
+  async searchData(snapshot){
+    if(!this.#searches.has(snapshot.sha))this.#searches.set(snapshot.sha,(async()=>{
+      try{const data=await (await this.file('versions/'+snapshot.sha+'/search.json')).json();if(data.sha!==snapshot.sha||!Array.isArray(data.pages))throw Error('搜索数据不完整。');return data.pages;}
+      catch(error){this.#searches.delete(snapshot.sha);throw error;}
+    })());
+    return this.#searches.get(snapshot.sha);
   }
   async image(page,snapshot){
     const key=snapshot.tree.get(IMAGE_PREFIX+'p'+String(page.pdf_page).padStart(4,'0')+'.jpg');

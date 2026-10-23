@@ -1,6 +1,7 @@
 """Build the public reader from an explicit allowlist. Never copy study data."""
 from pathlib import Path
 import argparse, hashlib, json, shutil, re
+from build_reading_assets import build as build_reading_assets
 
 ROOT = Path(__file__).resolve().parents[1]
 PUBLIC_FILES = ('index.html', 'reader.css', 'reader.js', 'book-data.js', 'reader-cache.js')
@@ -46,8 +47,8 @@ def build(output):
     if output == ROOT or output == ROOT/'site':
         raise ValueError('Build output must be separate from source')
     output.mkdir(parents=True,exist_ok=True)
-    allowed=set(PUBLIC_FILES)|{'renderer.js','composition.js','book.css','.nojekyll','build-manifest.json'}|{'fonts/'+name for name in FONT_FILES}
-    data_pattern=re.compile(r'data/(?:catalog\.json|images/[a-f0-9]{40}\.jpg|versions/[a-f0-9]{40}/(?:index\.json|pages/p[0-9]{4}\.json))$')
+    allowed=set(PUBLIC_FILES)|{'renderer.js','composition.js','book.css','.nojekyll','build-manifest.json','fonts/subsets.json'}|{'fonts/'+name for name in FONT_FILES}|{'fonts/web-'+name+'.woff2' for name in ['serif-sc','sans-sc','serif-jp']}
+    data_pattern=re.compile(r'data/(?:catalog\.json|images/[a-f0-9]{40}\.jpg|versions/[a-f0-9]{40}/(?:(?:index|manifest|search)\.json|pages/p[0-9]{4}\.json))$')
     unexpected=[p.relative_to(output).as_posix() for p in output.rglob('*') if p.is_file() and '.git' not in p.relative_to(output).parts and p.relative_to(output).as_posix() not in allowed and not data_pattern.fullmatch(p.relative_to(output).as_posix())]
     if unexpected:raise ValueError('Unexpected files in public output: '+repr(unexpected))
     for name in PUBLIC_FILES: shutil.copyfile(ROOT/'site'/name,output/name)
@@ -58,10 +59,21 @@ def build(output):
     prefix="// Generated from the local viewer; run scripts/build_reader.py to refresh.\n(function(){\n'use strict';\nconst params=new URLSearchParams();\nfunction el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n;}\n"
     (output/'renderer.js').write_text(prefix+shared+RENDER_WRAPPER,encoding='utf-8',newline='\n')
     shutil.copyfile(ROOT/'viewer/dist/composition.js',output/'composition.js')
+    assets=build_reading_assets(output)
     css=(ROOT/'viewer/dist/style.css').read_text(encoding='utf-8').replace('/fonts/','./fonts/')
+    for name,asset in assets.items():css=css.replace('./fonts/'+name+'.woff2','./fonts/web-'+name+'.woff2?v='+asset['sha256'][:12])
     (output/'book.css').write_text(css,encoding='utf-8',newline='\n')
     (output/'fonts').mkdir(exist_ok=True)
     for name in FONT_FILES: shutil.copyfile(ROOT/'viewer/dist/fonts'/name,output/'fonts'/name)
+    # Version URLs as one build so cached modules cannot mix old and new interfaces.
+    def versioned(name):return name+'?v='+hashlib.sha256((output/name).read_bytes()).hexdigest()[:12]
+    reader=(output/'reader.js').read_text(encoding='utf-8')
+    for name in ['book-data.js','reader-cache.js']:reader=reader.replace("'./"+name+"'","'./"+versioned(name)+"'")
+    (output/'reader.js').write_text(reader,encoding='utf-8',newline='\n')
+    html=(output/'index.html').read_text(encoding='utf-8')
+    for name in ['book.css','reader.css','composition.js','renderer.js','reader.js']:
+        html=html.replace('"'+name+'"','"'+versioned(name)+'"')
+    (output/'index.html').write_text(html,encoding='utf-8',newline='\n')
     (output/'.nojekyll').touch()
     manifest={p.relative_to(output).as_posix():hashlib.sha256(p.read_bytes()).hexdigest()
               for p in output.rglob('*') if p.is_file() and '.git' not in p.parts and p.name!='build-manifest.json'}

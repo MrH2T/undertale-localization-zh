@@ -9,7 +9,8 @@
 支持搜索、目录、书签、缩放、原文/译文/对照和版本选择。
 左右方向键翻页，Ctrl+F 或 / 打开全书搜索。
 浏览器保存阅读位置、书签、最近文本和最多 12 张书页图片。
-再次打开先读缓存并检查小型版本目录；版本未变时不重复下载全书文字。
+首次打开仅加载小型页目、当前页 JSON、当前页所需字体和图片；搜索时才加载全文搜索数据。
+再次打开先读缓存并检查小型版本目录，未变内容直接复用。
 main 是最新已发布版本；reader-v1 是固定版本。版本目录内的 SHA 也可直接输入。
 公开静态页面不运行 PDF 导出，仍由本地 viewer 导出。
 
@@ -28,7 +29,7 @@ python scripts/publish_reader.py --output <undertale-reader 的独立本地检�
 它不会把源仓库历史、PDF、原始扫描、备份或访问令牌复制出去。
 公开仓库 Pages 使用 Deploy from a branch → main → /(root)。
 发布目录 data/catalog.json 记录版本；data/versions/<SHA>/pages/pNNNN.json
-保留逐页结构化副本，index.json 是可重建的整合读取文件，不能当作另一份源稿修改。
+保留逐页结构化副本，index.json 是完整导出备份；manifest.json 是轻量页目，search.json 是按需搜索数据，均为可重建文件，不能当作另一份源稿修改。
 data/images/<blob SHA>.jpg 存放阅读图片，相同图片在不同版本间复用。
 公开程序仅从本站 fetch 这些静态文件，不调用私有 GitHub API。
 旧公开快照保留以支持历史链接，不自动删除已发布版本。
@@ -44,3 +45,5 @@ node --test site/tests/reader.test.mjs
 python scripts/check_page_data.py 校验 272 页的结构、格式范围和排版引用。
 
 2026-10-23 上线验证：GitHub Pages 部署 f1b7a44 成功；无 Cookie、无令牌的请求读取到 272 页。正式网页加载第 29 页的图片和译文，reader-v1 版本刷新后可自动恢复，未出现授权输入框。
+
+加载优化：网页字体仅保留已发布各版本所需字符，保留原字体字形、字宽和字重。原始字体和本地/PDF 排版不变；发布时自动重建字集，并校验字符覆盖及字宽。构建依赖 fonttools[woff]（已列在 viewer/requirements.txt）。
