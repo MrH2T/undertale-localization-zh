@@ -42,3 +42,5 @@ data/images/<blob SHA>.jpg 存放阅读图片，相同图片在不同版本间�
 node --test site/tests/reader.test.mjs
 覆盖无凭据同源读取、固定版本、缓存更新、失败处理及中英日搜索。
 python scripts/check_page_data.py 校验 272 页的结构、格式范围和排版引用。
+
+2026-10-23 上线验证：GitHub Pages 部署 f1b7a44 成功；无 Cookie、无令牌的请求读取到 272 页。正式网页加载第 29 页的图片和译文，reader-v1 版本刷新后可自动恢复，未出现授权输入框。

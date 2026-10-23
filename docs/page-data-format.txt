@@ -36,7 +36,10 @@ schemas/viewer-page.schema.json 描述当前核心格式；允许扩展字段，
 运行 python scripts/check_page_data.py 检查页码、段落 ID、格式范围、坐标与衔接引用。
 它不替代视觉校审，也不改写任何页面。
 
-加速文件
-private/content/reader-index.json 只是可重建的读取索引，不在这里改译文。
-索引保存每页 JSON 和对应的 Git blob SHA；文件改动后阅读器会读取新 JSON。
-python scripts/build_reader_data.py 可重建索引。原始 PDF、扫描及网页阅读图片独立保存。
+发布与读取文件
+源稿提交后，运行 scripts/publish_reader.py 发布到公开阅读器仓库。
+公开的 data/versions/<SHA>/pages/pNNNN.json 保留每页结构化副本。
+同目录 index.json 整合全书文字供一次性载入和搜索，是生成文件，不在这里改译文。
+data/catalog.json 标记最新发布版本和固定版本；阅读器打开时检查它。
+源仓库的 private/content/reader-index.json 是此前私有读取方案的可重建索引，
+当前公开阅读器不依赖它。原始 PDF、扫描及网页阅读图片独立保存。

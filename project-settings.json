@@ -21,7 +21,7 @@
     "database": "static_json",
     "authentication": "none",
     "verified_online_read": true,
-    "verified_anonymous_read": false
+    "verified_anonymous_read": true
   },
   "github_url": "https://github.com/MrH2T/undertale-localization-zh",
   "public_reader_code_allowed": true,
