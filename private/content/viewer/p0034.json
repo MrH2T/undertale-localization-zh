@@ -4,8 +4,8 @@
   "printed_page": "34",
   "title": "无法预知的情况",
   "subtitle": "什么是本地化？ · 私人学习译稿",
-  "revision": 4,
-  "updated_at": "2026-10-23T12:23:00.728272+00:00",
+  "revision": 5,
+  "updated_at": "2026-10-23T13:05:15.995077+00:00",
   "reference_size": [
     991.637161,
     1400
@@ -868,18 +868,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.3140564,
-          0.82627857,
-          0.87225452,
-          0.87312143
+          0.31160591005725735,
+          0.8192857142857143,
+          0.8843960618777174,
+          0.8792857142857143
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8778571428571429,
+        "limit_bottom": 0.8814285714285715,
         "snap_to_guides": true,
         "resize_anchor": "right"
       },

@@ -4,8 +4,8 @@
   "printed_page": "86",
   "title": "Toriel 的说话方式",
   "subtitle": "遗迹 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T12:23:00.780863+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T13:05:16.077246+00:00",
   "reference_size": [
     983.389375,
     1400
@@ -410,18 +410,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.30969421,
-          0.43677857,
-          0.87660089,
-          0.48529286
+          0.30710114190526006,
+          0.43,
+          0.8826615601780322,
+          0.49
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.4878571428571429,
+        "limit_bottom": 0.49142857142857144,
         "snap_to_guides": true,
         "resize_anchor": "right"
       },

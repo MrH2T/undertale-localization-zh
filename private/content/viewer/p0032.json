@@ -4,8 +4,8 @@
   "printed_page": "32",
   "title": "外部因素",
   "subtitle": "什么是本地化？ · 私人学习译稿",
-  "revision": 4,
-  "updated_at": "2026-10-23T12:23:00.725268+00:00",
+  "revision": 5,
+  "updated_at": "2026-10-23T13:05:15.981507+00:00",
   "reference_size": [
     986.982249,
     1400
@@ -653,18 +653,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.31113022,
-          0.77981429,
-          0.87743219,
-          0.8731
+          0.3090227816245153,
+          0.7757142857142857,
+          0.8865407669555767,
+          0.8757142857142857
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8771428571428571,
+        "limit_bottom": 0.8807142857142857,
         "snap_to_guides": true,
         "resize_anchor": "right",
         "break_after": "“改造”。"

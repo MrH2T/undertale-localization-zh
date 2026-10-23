@@ -4,8 +4,8 @@
   "printed_page": "232",
   "title": "真实验室：让翻译更难读",
   "subtitle": "真正的实验室 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T10:25:54.494416+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T13:09:20.393102+00:00",
   "reference_size": [
     985.776585,
     1400
@@ -637,18 +637,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.31041516,
-          0.73642857,
-          0.40881474,
-          0.76857143
+          0.3053430204978951,
+          0.7439285714285714,
+          0.4209878854040746,
+          0.7596428571428572
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.7642857142857142,
+        "limit_bottom": 0.7692857142857142,
         "snap_to_guides": true,
         "resize_anchor": "left",
         "color": "#ffffff",
@@ -698,18 +698,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.46968046,
-          0.73642857,
-          0.56808004,
-          0.76857143
+          0.463593888264246,
+          0.7439285714285714,
+          0.5792387531704255,
+          0.7596428571428572
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.7642857142857142,
+        "limit_bottom": 0.7692857142857142,
         "snap_to_guides": true,
         "resize_anchor": "left",
         "color": "#ffffff",
@@ -759,18 +759,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.62793133,
-          0.73642857,
-          0.73241748,
-          0.76857143
+          0.621844756030597,
+          0.7439285714285714,
+          0.7374896209367765,
+          0.7596428571428572
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.7642857142857142,
+        "limit_bottom": 0.7692857142857142,
         "snap_to_guides": true,
         "resize_anchor": "left",
         "color": "#ffffff",
@@ -823,23 +823,24 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.78478228,
-          0.73428571,
-          0.88645847,
-          0.76857143
+          0.7800956237969479,
+          0.7360714285714286,
+          0.8957404887031274,
+          0.7675
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.7685714285714286,
+        "limit_bottom": 0.7692857142857142,
         "snap_to_guides": true,
         "resize_anchor": "left",
         "color": "#ffffff",
         "mask_color": "#343434",
-        "gap_before": 12
+        "gap_before": 12,
+        "break_after": "游戏中的"
       },
       "calibration": {
         "bbox": [
@@ -888,21 +889,22 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.31214984,
-          0.77714286,
-          0.4463486,
-          0.81214286
+          0.3053430204978951,
+          0.7835714285714286,
+          0.4209878854040746,
+          0.815
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.8121428571428572,
+        "limit_bottom": 0.8235714285714286,
         "snap_to_guides": true,
         "resize_anchor": "left",
-        "gap_before": 12
+        "gap_before": 12,
+        "break_after": "I AM A HORSE"
       },
       "calibration": {
         "bbox": [
@@ -950,20 +952,21 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.46866603,
-          0.77928571,
-          0.60556318,
-          0.81428571
+          0.463593888264246,
+          0.7835714285714286,
+          0.5792387531704255,
+          0.815
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.8114285714285714,
+        "limit_bottom": 0.8235714285714286,
         "snap_to_guides": true,
-        "resize_anchor": "left"
+        "resize_anchor": "left",
+        "break_after": "私は馬だ"
       },
       "calibration": {
         "bbox": [
@@ -1012,20 +1015,21 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.62788061,
-          0.7808,
-          0.88988724,
-          0.81132857
+          0.621844756030597,
+          0.7757142857142857,
+          0.7374896209367765,
+          0.8228571428571428
         ],
         "font_size": 16,
-        "line_height": 1.45,
+        "line_height": 1.375,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "left",
         "auto_height": true,
-        "limit_bottom": 0.8114285714285714,
+        "limit_bottom": 0.8235714285714286,
         "snap_to_guides": true,
-        "resize_anchor": "left"
+        "resize_anchor": "left",
+        "break_after": "WATASHI HA UMA DA"
       },
       "calibration": {
         "bbox": [
@@ -1077,9 +1081,9 @@
       "layout": {
         "bbox": [
           0.29609143,
-          0.82891429,
+          0.8371428571428572,
           0.89800266,
-          0.90023571
+          0.9084642771428572
         ],
         "font_size": 20,
         "line_height": 1.45,
@@ -1243,6 +1247,268 @@
         117
       ],
       "fill": "#000000"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        293,
+        1023,
+        423,
+        1082
+      ],
+      "fill": "#343434"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        292,
+        1083,
+        424,
+        1157
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        449,
+        1023,
+        579,
+        1082
+      ],
+      "fill": "#343434"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        448,
+        1083,
+        580,
+        1157
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        605,
+        1023,
+        735,
+        1082
+      ],
+      "fill": "#343434"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        604,
+        1083,
+        736,
+        1157
+      ],
+      "fill": "#ffffff"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        761,
+        1023,
+        891,
+        1082
+      ],
+      "fill": "#343434"
+    },
+    {
+      "type": "rect",
+      "bbox": [
+        760,
+        1138,
+        892,
+        1157
+      ],
+      "fill": "#ffffff"
+    }
+  ],
+  "vector_shapes": [
+    {
+      "type": "line",
+      "points": [
+        [
+          293,
+          1082
+        ],
+        [
+          293,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          423,
+          1082
+        ],
+        [
+          423,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          293,
+          1156
+        ],
+        [
+          423,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          449,
+          1082
+        ],
+        [
+          449,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          579,
+          1082
+        ],
+        [
+          579,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          449,
+          1156
+        ],
+        [
+          579,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          605,
+          1082
+        ],
+        [
+          605,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          735,
+          1082
+        ],
+        [
+          735,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          605,
+          1156
+        ],
+        [
+          735,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          761,
+          1082
+        ],
+        [
+          761,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          891,
+          1082
+        ],
+        [
+          891,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
+    },
+    {
+      "type": "line",
+      "points": [
+        [
+          761,
+          1156
+        ],
+        [
+          891,
+          1156
+        ]
+      ],
+      "stroke": "#555555",
+      "stroke_width": 1
     }
   ]
 }

@@ -4,8 +4,8 @@
   "printed_page": "151",
   "title": "鞋里的秘密",
   "subtitle": "雪镇 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T10:25:54.456700+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T13:05:16.199647+00:00",
   "reference_size": [
     977.122642,
     1400
@@ -637,18 +637,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.11192044,
-          0.81355714,
-          0.66652841,
-          0.8763
+          0.10848177643600239,
+          0.805,
+          0.6918271780258265,
+          0.885
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8814285714285715,
+        "limit_bottom": 0.885,
         "snap_to_guides": true,
         "resize_anchor": "left"
       },

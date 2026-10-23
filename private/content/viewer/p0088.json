@@ -4,8 +4,8 @@
   "printed_page": "88",
   "title": "获得“决心”",
   "subtitle": "遗迹 · 私人学习译稿",
-  "revision": 4,
-  "updated_at": "2026-10-23T12:23:00.783870+00:00",
+  "revision": 5,
+  "updated_at": "2026-10-23T13:05:16.091289+00:00",
   "reference_size": [
     981.965826,
     1400
@@ -705,18 +705,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.31241413,
-          0.84645714,
-          0.87841142,
-          0.89359286
+          0.3095830750427765,
+          0.8392857142857143,
+          0.8910697061264126,
+          0.8992857142857142
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8964285714285715,
+        "limit_bottom": 0.9,
         "snap_to_guides": true,
         "resize_anchor": "right"
       },

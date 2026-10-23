@@ -4,8 +4,8 @@
   "printed_page": "11",
   "title": "关于我",
   "subtitle": "引言 · 私人学习译稿",
-  "revision": 4,
-  "updated_at": "2026-10-23T12:23:00.700879+00:00",
+  "revision": 5,
+  "updated_at": "2026-10-23T13:05:15.950908+00:00",
   "reference_size": [
     993.006757,
     1400
@@ -401,18 +401,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.1208451,
-          0.84428571,
-          0.69385228,
-          0.89857143
+          0.11883101415794294,
+          0.8396428571428571,
+          0.6938522775832431,
+          0.8996428571428572
         ],
-        "font_size": 18,
-        "line_height": 1.388889,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8985714285714286,
+        "limit_bottom": 0.9021428571428571,
         "snap_to_guides": true,
         "resize_anchor": "left"
       },

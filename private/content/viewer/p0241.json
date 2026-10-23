@@ -4,8 +4,8 @@
   "printed_page": "241",
   "title": "在这样的日子里",
   "subtitle": "最终战斗 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-23T10:25:54.510798+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T13:05:16.257891+00:00",
   "reference_size": [
     993.616664,
     1400
@@ -733,18 +733,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.12017713,
-          0.81660714,
-          0.64827818,
-          0.89465
+          0.11674522399113064,
+          0.8146428571428571,
+          0.6883942518097703,
+          0.8946428571428572
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8978571428571429,
+        "limit_bottom": 0.9014285714285715,
         "snap_to_guides": true,
         "resize_anchor": "left"
       },

@@ -4,8 +4,8 @@
   "printed_page": "153",
   "title": "打错电话歌",
   "subtitle": "雪镇 · 私人学习译稿",
-  "revision": 3,
-  "updated_at": "2026-10-23T10:25:54.458705+00:00",
+  "revision": 4,
+  "updated_at": "2026-10-23T13:05:16.215248+00:00",
   "reference_size": [
     982.096584,
     1400
@@ -2088,18 +2088,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.11120088,
-          0.84017857,
-          0.68064589,
-          0.87158571
+          0.10895058769494712,
+          0.835,
+          0.6883233390820959,
+          0.875
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8757142857142857,
+        "limit_bottom": 0.8792857142857143,
         "snap_to_guides": true,
         "resize_anchor": "left"
       },

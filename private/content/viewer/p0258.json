@@ -4,8 +4,8 @@
   "printed_page": "258",
   "title": "裤子里的时尚宣言",
   "subtitle": "结局 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-23T10:25:54.510798+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T13:05:16.285681+00:00",
   "reference_size": [
     993.708777,
     1400
@@ -898,18 +898,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.30285533,
-          0.78999286,
-          0.87518599,
-          0.89931429
+          0.30693097118533347,
+          0.7935714285714286,
+          0.8805396714333338,
+          0.8935714285714286
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.9021428571428571,
+        "limit_bottom": 0.9057142857142857,
         "snap_to_guides": true,
         "resize_anchor": "right"
       },

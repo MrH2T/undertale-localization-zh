@@ -4,8 +4,8 @@
   "printed_page": "265",
   "title": "三的力量",
   "subtitle": "结语 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-23T10:25:54.525085+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T13:05:16.314877+00:00",
   "reference_size": [
     996.417709,
     1400
@@ -643,18 +643,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.12567019,
-          0.72692143,
-          0.6912061,
-          0.77467143
+          0.12243861073328234,
+          0.72,
+          0.6944878576018966,
+          0.78
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.7785714285714286,
+        "limit_bottom": 0.7821428571428571,
         "snap_to_guides": true,
         "resize_anchor": "left"
       },

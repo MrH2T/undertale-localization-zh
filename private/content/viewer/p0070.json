@@ -4,8 +4,8 @@
   "printed_page": "70",
   "title": "本地化之外",
   "subtitle": "本地化的过程 · 私人学习译稿",
-  "revision": 2,
-  "updated_at": "2026-10-23T10:25:54.408658+00:00",
+  "revision": 3,
+  "updated_at": "2026-10-23T13:05:16.053824+00:00",
   "reference_size": [
     983.52782,
     1400
@@ -485,18 +485,18 @@
       "annotations": [],
       "layout": {
         "bbox": [
-          0.3123145,
-          0.74660714,
-          0.87560309,
-          0.84092857
+          0.30909140933095314,
+          0.7525,
+          0.8896545498835,
+          0.8325
         ],
-        "font_size": 15.5,
-        "line_height": 1.45,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
         "text_align": "justify",
         "auto_height": true,
-        "limit_bottom": 0.8435714285714285,
+        "limit_bottom": 0.8471428571428572,
         "snap_to_guides": true,
         "resize_anchor": "right"
       },

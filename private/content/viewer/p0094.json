@@ -4,8 +4,8 @@
   "printed_page": "94",
   "title": "石头中的多数派",
   "subtitle": "Ruins · 私人学习译稿",
-  "revision": 13,
-  "updated_at": "2026-10-23T10:25:54.423164+00:00",
+  "revision": 14,
+  "updated_at": "2026-10-23T13:05:16.104780+00:00",
   "reference_size": [
     980.8029689608637,
     1400
@@ -726,16 +726,18 @@
       },
       "layout": {
         "bbox": [
-          0.3140284,
-          0.7942857,
-          0.8890675,
-          0.8914286
+          0.3119892676550514,
+          0.7925,
+          0.8911066010801142,
+          0.8925
         ],
-        "font_size": 18,
-        "line_height": 1.3888888888888888,
+        "font_size": 20,
+        "line_height": 1.4,
         "font_weight": 450,
         "background": "transparent",
-        "text_align": "justify"
+        "text_align": "justify",
+        "auto_height": true,
+        "limit_bottom": 0.8978571428571429
       },
       "notes": "原图与截图保留；译文为待审校初稿。",
       "calibration": {
