@@ -1,0 +1,42 @@
+页面数据格式
+
+唯一有效的可编辑文本：private/content/viewer/pNNNN.json。
+每页一个 UTF-8 JSON 文件，现有 272 页；每段用固定 id 标识，不能因排序或修改文字重新编号。
+阅读器、搜索、本地编辑器和 PDF 导出都使用这些文件，不另存一份网页译文。
+
+字段
+pdf_page：PDF 中的页序；printed_page：书上印出的页码。
+title、page_role、chapter_id：目录标题、页面类型、所属章节。
+reference_size：排版参考画布的宽、高。整页缩放时文字与图片一起缩放。
+blocks[]：按阅读顺序保存的文字块。
+  id、kind：固定编号与用途，如正文、标题、图注、引文。
+  source.text：校正后的原文；source.raw 与原始 OCR 引用保留提取记录。
+  source.bbox：原文区域；source.mask_bbox：遮盖原文的区域。
+  translation.text：可编辑中文及必要的原语，不含 HTML。
+  translation.spans：斜体、语言等格式的范围，独立于纯文本保存。
+  layout：中文文本框、字号、行高、对齐、段落衔接等版式。
+  structure：表格行列、目录目标页、页脚等结构关系。
+  annotations：已有的可选注释字段；当前翻译规则不主动新增悬停注释。
+revision、updated_at：本地编辑器的保存版本和时间。
+页面还可含 vector_shapes、erase_regions、protected_regions，保留特殊版式信息。
+
+坐标与格式
+bbox 为 [左, 上, 右, 下]，相对于整页的比例；字号按 reference_size 画布的像素记录。
+source.mask_bbox 与 layout.bbox 分离：改中文宽度不应同时扩大原文遮罩。
+line_height 为字号倍数；gap_before 为参考画布像素；flow_after 引用前一段 id。
+spans 的 start 为包含端，end 为不包含端，按 JavaScript UTF-16 索引计数。
+例如 text 为“这是 Undertale。”，其英文斜体为 {"start":3,"end":12,"italic":true,"lang":"en"}。
+直接改 JSON 中的文字时要同步调整格式范围；本地编辑器会在编辑文字时重映射 spans。
+不要用空行或空格模拟位置，位置和段间距由 layout 表达。
+
+修改
+小幅改字可从阅读器“修改此页”进入 GitHub 文件编辑；排版及格式调整宜用本地 viewer。
+保存到本地后，git commit / push 才更新仓库。保留未知字段，避免丢掉特殊页面信息。
+schemas/viewer-page.schema.json 描述当前核心格式；允许扩展字段，以兼容特殊排版。
+运行 python scripts/check_page_data.py 检查页码、段落 ID、格式范围、坐标与衔接引用。
+它不替代视觉校审，也不改写任何页面。
+
+加速文件
+private/content/reader-index.json 只是可重建的读取索引，不在这里改译文。
+索引保存每页 JSON 和对应的 Git blob SHA；文件改动后阅读器会读取新 JSON。
+python scripts/build_reader_data.py 可重建索引。原始 PDF、扫描及网页阅读图片独立保存。
