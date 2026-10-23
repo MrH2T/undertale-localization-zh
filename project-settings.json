@@ -2,7 +2,7 @@
   "version": 1,
   "intended_visibility": "private",
   "current_storage": "local_git_and_private_github",
-  "public_deployment_allowed": false,
+  "public_deployment_allowed": true,
   "remote_creation_performed": true,
   "tracked_study_content": "private/content/**/*.json and **/*.md",
   "source_assets": "Original scans stay local; reduced reading copies are versioned only in private/reader/assets.",
@@ -10,18 +10,25 @@
   "note": "Declarative project policy; no access-control or deployment enforcement implemented.",
   "remote_url": "git@github.com:MrH2T/undertale-localization-zh.git",
   "private_hosting": {
-    "status": "deployed_static_reader",
-    "requires_authentication": true,
+    "status": "public_static_reader",
+    "requires_authentication": false,
     "github_pages_enabled": false,
     "reader_repository": "https://github.com/MrH2T/undertale-reader",
-    "book_content_public": false,
+    "book_content_public": true,
     "reader_url": "https://mrh2t.github.io/undertale-reader/",
     "reader_pages_enabled": true,
     "private_content_repository_pages_enabled": false,
-    "database": "private_git_json",
-    "authentication": "per_tab_fine_grained_read_token",
-    "verified_online_read": true
+    "database": "static_json",
+    "authentication": "none",
+    "verified_online_read": true,
+    "verified_anonymous_read": false
   },
   "github_url": "https://github.com/MrH2T/undertale-localization-zh",
-  "public_reader_code_allowed": true
+  "public_reader_code_allowed": true,
+  "public_book_content_allowed": true,
+  "public_content_authorization": {
+    "date": "2026-10-23",
+    "scope": "Translated text, original text in page JSON, and reduced reading page images; anonymous static reading. Source repository stays private.",
+    "user_confirmation": "确认公开全文和页面图片，任何人无需授权即可阅读"
+  }
 }

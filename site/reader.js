@@ -1,4 +1,5 @@
-import {GitHubData, REPO, PAGE_PREFIX, searchPages} from './github-data.js';
+import {BookData, REPO, PAGE_PREFIX, IMAGE_PREFIX, searchPages} from './book-data.js';
+import {cachedSnapshot,saveSnapshot,cachedImage,saveImage} from './reader-cache.js';
 
 const $=id=>document.getElementById(id);
 const node=(tag,cls,text)=>{const e=document.createElement(tag);if(cls)e.className=cls;if(text!==undefined)e.textContent=text;return e;};
@@ -10,7 +11,7 @@ let bookmarks=stored(bookmarkKey,[]);if(!Array.isArray(bookmarks))bookmarks=[];
 const initialHash=new URLSearchParams(location.hash.slice(1));
 const preference=stored(preferenceKey,{});
 const requestedPage=Number(initialHash.get('page')||preference.page||1);
-$('version-ref').value=initialHash.get('ref')||'main';
+$('version-ref').value=initialHash.get('ref')||preference.ref||'main';
 if(['overlay','source','compare','text'].includes(preference.mode))state.mode=preference.mode;
 if([...$('zoom').options].some(o=>o.value===preference.zoom)){state.zoom=preference.zoom;$('zoom').value=state.zoom;}
 
@@ -18,52 +19,71 @@ function status(message,error=false){$('reading-status').textContent=message;$('
 function toast(message){$('toast').textContent=message;$('toast').hidden=false;clearTimeout(toast.timer);toast.timer=setTimeout(()=>$('toast').hidden=true,4500);}
 function failure(error){if(error.name!=='AbortError'){status(error.message,true);toast(error.message);}}
 function opened(id){if(!$(id).open)$(id).showModal();}
-function hash(){const params=new URLSearchParams({page:state.page.pdf_page,ref:state.snapshot.ref});if(state.selected)params.set('block',state.selected);history.replaceState(null,'','#'+params);remember(preferenceKey,{page:state.page.pdf_page,mode:state.mode,zoom:state.zoom});}
-function setAvailable(yes){for(const id of ['contents','search-open','mode-overlay','mode-source','mode-compare','mode-text','zoom-out','zoom-in','bookmark','version-open','page-number'])$(id).disabled=!yes;$('disconnect').disabled=!yes;}
+function hash(){const params=new URLSearchParams({page:state.page.pdf_page,ref:state.snapshot.ref});if(state.selected)params.set('block',state.selected);history.replaceState(null,'','#'+params);remember(preferenceKey,{page:state.page.pdf_page,ref:state.snapshot.ref,mode:state.mode,zoom:state.zoom});}
+function setAvailable(yes){for(const id of ['contents','search-open','mode-overlay','mode-source','mode-compare','mode-text','zoom-out','zoom-in','bookmark','version-open','page-number'])$(id).disabled=!yes;}
 function clearUrls(){for(const url of state.urls.values())URL.revokeObjectURL(url);state.urls.clear();}
 function disconnect(){
   state.operation++;state.pageOperation++;state.client?.close();state.client=null;state.snapshot=null;state.page=null;state.selected=null;state.results=[];clearUrls();
   for(const id of ['overlay-layer','mask-layer','comparison-body','text-reader','side-list'])$(id).replaceChildren();
   $('page-image').removeAttribute('src');$('page-stage').hidden=$('text-reader').hidden=$('comparison').hidden=$('sidebar').hidden=true;
   $('welcome').hidden=false;$('image-message').hidden=true;$('version-status').textContent='';$('version-current').textContent='';$('page-total').textContent='';
-  $('access-token').value='';$('connection-status').textContent='';$('search-summary').textContent='';$('search-query').value='';$('edit-page').hidden=true;$('edit-page').removeAttribute('href');
-  $('connect-submit').disabled=$('version-load').disabled=$('version-latest').disabled=false;
-  setAvailable(false);$('previous').disabled=$('next').disabled=true;status('未连接');
+  $('search-summary').textContent='';$('search-query').value='';$('edit-page').hidden=true;$('edit-page').removeAttribute('href');
+  $('retry-load').disabled=$('version-load').disabled=$('version-latest').disabled=false;
+  setAvailable(false);$('previous').disabled=$('next').disabled=true;status('');
 }
 async function loadFonts(){
   state.fonts??=Promise.all(['400 20.5px "Book Serif SC"','700 46px "Book Serif SC"','700 22px "Book Sans SC"','400 20px "Book Serif JP"','400 20px "Book Serif Latin"','italic 400 20px "Book Serif Latin"'].map(f=>document.fonts.load(f))).then(all=>{if(all.some(f=>!f.length)){state.fonts=null;throw Error('书页字体未能加载，请检查网络后重试。');}return document.fonts.ready;});
   return state.fonts;
 }
-async function connect(local=false){
-  const token=$('access-token').value.trim();if(!local&&!token){$('connection-status').textContent='请先填入只读令牌。';return;}
-  disconnect();state.client=new GitHubData(token,{local});const operation=state.operation;
-  $('connect-submit').disabled=true;$('connection-status').textContent='连接中…';
-  try{await loadVersion($('version-ref').value.trim()||'main',requestedPage);if(operation!==state.operation)return;$('connection-status').textContent='已连接。';$('connection-dialog').close();}
-  catch(e){if(operation===state.operation&&e.name!=='AbortError'){$('connection-status').textContent=e.message;failure(e);}}
-  finally{if(operation===state.operation)$('connect-submit').disabled=false;}
+async function start(){
+  const pageNumber=state.page?.pdf_page||requestedPage;
+  disconnect();state.client=new BookData();const operation=state.operation;
+  $('retry-load').disabled=true;status('载入中…');
+  try{
+    const ref=$('version-ref').value.trim()||'main',cached=await cachedSnapshot(ref);
+    if(operation!==state.operation)return;
+    if(cached){await loadFonts();if(operation!==state.operation)return;await applySnapshot(cached,pageNumber);if(operation!==state.operation)return;$('version-status').textContent='已保存版本';}
+    await loadVersion(ref,pageNumber);if(operation!==state.operation)return;
+  }
+  catch(e){if(operation===state.operation&&e.name!=='AbortError'){if(state.snapshot){status('显示已保存版本');$('version-status').textContent='尚未更新';}else failure(e);}}
+  finally{if(operation===state.operation)$('retry-load').disabled=false;}
+}
+async function applySnapshot(snapshot,pageNumber){
+  const operation=state.operation;
+  state.snapshot=snapshot;state.pageOperation++;clearUrls();state.page=null;state.results=[];
+  $('side-list').replaceChildren();$('search-summary').textContent='';$('version-ref').value=snapshot.ref;
+  $('version-status').textContent=snapshot.ref==='main'?'最新版':snapshot.ref;
+  $('version-current').textContent=(snapshot.date?new Date(snapshot.date).toLocaleString()+' · ':'')+snapshot.sha.slice(0,7);
+  $('page-total').textContent='/ '+snapshot.pages.length;$('page-number').max=Math.max(...snapshot.pages.map(p=>p.pdf_page));
+  setAvailable(true);$('welcome').hidden=true;
+  await goPage(snapshot.pages.some(p=>p.pdf_page===pageNumber)?pageNumber:snapshot.pages[0].pdf_page,initialHash.get('block'));
+  if(operation!==state.operation)return;
+  if(!$('sidebar').hidden){if(state.sidebar==='search')search();else showContents();}
 }
 async function loadVersion(ref,pageNumber=state.page?.pdf_page||requestedPage){
-  if(!state.client)throw Error('请先连接私有仓库。');
+  if(!state.client)throw Error('请重新加载页面。');
   const client=state.client,operation=state.operation;$('version-load').disabled=$('version-latest').disabled=true;
   $('version-message').textContent='读取中…';
   try{
-    const snapshot=await client.snapshot(ref,message=>{if(operation===state.operation){status(message);$('version-message').textContent=message;}});
+    const snapshot=await client.snapshot(ref,message=>{if(operation===state.operation){if(!state.page)status(message);$('version-message').textContent=message;}},state.snapshot);
     await loadFonts();if(operation!==state.operation)return;
-    state.snapshot=snapshot;state.pageOperation++;clearUrls();state.page=null;state.results=[];
-    $('side-list').replaceChildren();$('search-summary').textContent='';$('version-ref').value=ref;
-    $('version-status').textContent=ref+' · '+snapshot.sha.slice(0,7);
-    $('version-current').textContent='当前：'+snapshot.sha+(snapshot.date?' · '+new Date(snapshot.date).toLocaleString():'');
-    $('page-total').textContent='/ '+snapshot.pages.length;$('page-number').max=Math.max(...snapshot.pages.map(p=>p.pdf_page));
-    setAvailable(true);$('welcome').hidden=true;
-    await goPage(snapshot.pages.some(p=>p.pdf_page===pageNumber)?pageNumber:snapshot.pages[0].pdf_page,initialHash.get('block'));
+    // Keep the page the reader reached while the saved copy was being refreshed.
+    if(snapshot.sha!==state.snapshot?.sha||snapshot.ref!==state.snapshot?.ref||!state.page)await applySnapshot(snapshot,state.snapshot?.ref===ref?(state.page?.pdf_page||pageNumber):pageNumber);
+    $('version-status').textContent=ref==='main'?'最新版':ref;
     if(operation!==state.operation)return;
-    $('version-message').textContent='';$('version-dialog').close();if(!$('sidebar').hidden)showContents();
+    await saveSnapshot(snapshot);
+    if(operation!==state.operation)return;
+    $('version-message').textContent='';$('version-dialog').close();
   }finally{if(operation===state.operation)$('version-load').disabled=$('version-latest').disabled=false;}
 }
 async function imageFor(page,snapshot){
-  const key=snapshot.sha+':'+page.pdf_page;
+  const path=IMAGE_PREFIX+'p'+String(page.pdf_page).padStart(4,'0')+'.jpg',key=snapshot.tree.get(path);
+  if(!key)return null;
   if(state.urls.has(key))return state.urls.get(key);
-  const client=state.client,blob=await client.image(page,snapshot);if(client!==state.client||snapshot!==state.snapshot)return null;
+  const client=state.client;let blob=await cachedImage(key);
+  if(client!==state.client||snapshot!==state.snapshot)return null;
+  if(!blob){blob=await client.image(page,snapshot);if(client!==state.client||snapshot!==state.snapshot)return null;if(blob)await saveImage(key,blob);}
+  if(client!==state.client||snapshot!==state.snapshot)return null;
   if(!blob)return null;
   const url=URL.createObjectURL(blob);state.urls.set(key,url);
   while(state.urls.size>4){const first=state.urls.keys().next().value;URL.revokeObjectURL(state.urls.get(first));state.urls.delete(first);}
@@ -84,7 +104,7 @@ async function goPage(number,block=null){
   if(image)$('page-image').src=image;else $('page-image').removeAttribute('src');
   $('image-message').hidden=!!image;$('image-message').textContent=imageError?imageError+' 已显示此页文本，可切换页面后重试。':'此历史版本未包含书页图片，以下显示该版本的原文和译文。';
   $('edit-page').href='https://github.com/'+REPO+'/edit/main/'+PAGE_PREFIX+'p'+String(number).padStart(4,'0')+'.json';$('edit-page').hidden=false;
-  $('edit-page').title=snapshot.ref==='main'?'修改此页最新稿件':'正在读历史版本；此链接修改 main 的最新稿件';
+  $('edit-page').title=snapshot.ref==='main'?'修改此页':'修改最新版本中的此页';
   const index=snapshot.pages.findIndex(p=>p.pdf_page===number);$('previous').disabled=index===0;$('next').disabled=index===snapshot.pages.length-1;
   updateBookmark();render();$('viewport').scrollTo(0,0);if(state.selected)selectBlock(state.selected,true);
   status('第 '+number+' 页 · '+page.title);document.title=page.title+' · 书籍阅读';hash();
@@ -126,7 +146,7 @@ function renderComparison(){
   const translation=node('p','translated');BookRenderer.formattedInline(translation,block.translation.text,block.translation.spans||[]);host.append(translation);
   const target=block.structure?.target_pdf_page||block.target_pdf_page;
   if(target){const button=node('button','','前往第 '+target+' 页');button.addEventListener('click',()=>goPage(target).catch(failure));host.append(button);}
-  const link=node('a','','在 GitHub 查看此段稿件 ↗');link.href='https://github.com/'+REPO+'/blob/'+state.snapshot.sha+'/'+PAGE_PREFIX+'p'+String(state.page.pdf_page).padStart(4,'0')+'.json';link.target='_blank';link.rel='noopener noreferrer';host.append(link);
+  const link=node('a','','查看此页文件 ↗');link.href='https://github.com/'+REPO+'/blob/'+state.snapshot.sha+'/'+PAGE_PREFIX+'p'+String(state.page.pdf_page).padStart(4,'0')+'.json';link.target='_blank';link.rel='noopener noreferrer';host.append(link);
 }
 function selectBlock(id,scroll){
   if(!state.page?.blocks.some(b=>b.id===id))return;state.selected=id;highlight();renderComparison();hash();
@@ -171,8 +191,7 @@ function renderResults(){
 }
 
 for(const button of document.querySelectorAll('[data-close]'))button.addEventListener('click',()=>$(button.dataset.close).close());
-for(const id of ['connection','connect-start'])$(id).addEventListener('click',()=>opened('connection-dialog'));
-$('connect-submit').addEventListener('click',()=>connect());$('access-token').addEventListener('keydown',e=>{if(e.key==='Enter')connect();});$('disconnect').addEventListener('click',()=>{disconnect();$('connection-dialog').close();});
+$('retry-load').addEventListener('click',start);
 $('previous').addEventListener('click',()=>move(-1));$('next').addEventListener('click',()=>move(1));$('page-number').addEventListener('change',()=>goPage(Number($('page-number').value)).catch(failure));
 for(const mode of ['overlay','source','compare','text'])$('mode-'+mode).addEventListener('click',()=>{state.mode=mode;render();if(state.page)hash();});
 $('zoom').addEventListener('change',()=>{state.zoom=$('zoom').value;resize();if(state.page)hash();});$('zoom-out').addEventListener('click',()=>zoomStep(-1));$('zoom-in').addEventListener('click',()=>zoomStep(1));
@@ -188,7 +207,7 @@ new ResizeObserver(()=>resize()).observe($('viewport'));
 document.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]')||/INPUT|TEXTAREA|SELECT/.test(e.target.tagName))return;if(e.key==='ArrowLeft'){e.preventDefault();move(-1);}if(e.key==='ArrowRight'){e.preventDefault();move(1);}if(e.key==='/'&&state.snapshot){e.preventDefault();$('search-open').click();}if((e.ctrlKey||e.metaKey)&&e.key.toLowerCase()==='f'&&state.snapshot){e.preventDefault();$('search-open').click();}});
 window.addEventListener('hashchange',()=>{const p=new URLSearchParams(location.hash.slice(1)),number=Number(p.get('page')),ref=p.get('ref')||'main';if(state.snapshot){if(ref!==state.snapshot.ref)loadVersion(ref,number).catch(failure);else goPage(number,p.get('block')).catch(failure);}});
 window.addEventListener('pagehide',disconnect);
-// Local QA serves the same app and GitHub-shaped responses; this path cannot run on Pages.
-if(['localhost','127.0.0.1','[::1]'].includes(location.hostname)){
-  fetch('./preview-enabled.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).then(config=>{if(config?.enabled)connect(true);}).catch(()=>{});
-}
+// Remove any credential saved by an intermediate build; this reader never uses it.
+try{localStorage.removeItem('undertale-reader-access-v1');}catch{/* storage unavailable */}
+start();
+window.addEventListener('pageshow',e=>{if(e.persisted)start();});

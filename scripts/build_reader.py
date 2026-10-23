@@ -1,9 +1,9 @@
 """Build the public reader from an explicit allowlist. Never copy study data."""
 from pathlib import Path
-import argparse, hashlib, json, shutil
+import argparse, hashlib, json, shutil, re
 
 ROOT = Path(__file__).resolve().parents[1]
-PUBLIC_FILES = ('index.html', 'reader.css', 'reader.js', 'github-data.js')
+PUBLIC_FILES = ('index.html', 'reader.css', 'reader.js', 'book-data.js', 'reader-cache.js')
 FONT_FILES = ('serif-sc.woff2','sans-sc.woff2','serif-jp.woff2','serif-latin.woff2',
               'serif-latin-italic.woff2','serif-sc-OFL.txt','sans-sc-OFL.txt',
               'serif-jp-OFL.txt','SourceSerif4-LICENSE.txt')
@@ -47,7 +47,8 @@ def build(output):
         raise ValueError('Build output must be separate from source')
     output.mkdir(parents=True,exist_ok=True)
     allowed=set(PUBLIC_FILES)|{'renderer.js','composition.js','book.css','.nojekyll','build-manifest.json'}|{'fonts/'+name for name in FONT_FILES}
-    unexpected=[p.relative_to(output).as_posix() for p in output.rglob('*') if p.is_file() and '.git' not in p.relative_to(output).parts and p.relative_to(output).as_posix() not in allowed]
+    data_pattern=re.compile(r'data/(?:catalog\.json|images/[a-f0-9]{40}\.jpg|versions/[a-f0-9]{40}/(?:index\.json|pages/p[0-9]{4}\.json))$')
+    unexpected=[p.relative_to(output).as_posix() for p in output.rglob('*') if p.is_file() and '.git' not in p.relative_to(output).parts and p.relative_to(output).as_posix() not in allowed and not data_pattern.fullmatch(p.relative_to(output).as_posix())]
     if unexpected:raise ValueError('Unexpected files in public output: '+repr(unexpected))
     for name in PUBLIC_FILES: shutil.copyfile(ROOT/'site'/name,output/name)
     app=(ROOT/'viewer/dist/app.js').read_text(encoding='utf-8')
