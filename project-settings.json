@@ -10,11 +10,17 @@
   "note": "Declarative project policy; no access-control or deployment enforcement implemented.",
   "remote_url": "git@github.com:MrH2T/undertale-localization-zh.git",
   "private_hosting": {
-    "status": "static_reader_implementation",
+    "status": "deployed_static_reader",
     "requires_authentication": true,
     "github_pages_enabled": false,
     "reader_repository": "https://github.com/MrH2T/undertale-reader",
-    "book_content_public": false
+    "book_content_public": false,
+    "reader_url": "https://mrh2t.github.io/undertale-reader/",
+    "reader_pages_enabled": true,
+    "private_content_repository_pages_enabled": false,
+    "database": "private_git_json",
+    "authentication": "per_tab_fine_grained_read_token",
+    "verified_online_read": true
   },
   "github_url": "https://github.com/MrH2T/undertale-localization-zh",
   "public_reader_code_allowed": true

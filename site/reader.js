@@ -27,6 +27,7 @@ function disconnect(){
   $('page-image').removeAttribute('src');$('page-stage').hidden=$('text-reader').hidden=$('comparison').hidden=$('sidebar').hidden=true;
   $('welcome').hidden=false;$('image-message').hidden=true;$('version-status').textContent='';$('version-current').textContent='';$('page-total').textContent='';
   $('access-token').value='';$('connection-status').textContent='';$('search-summary').textContent='';$('search-query').value='';$('edit-page').hidden=true;$('edit-page').removeAttribute('href');
+  $('connect-submit').disabled=$('version-load').disabled=$('version-latest').disabled=false;
   setAvailable(false);$('previous').disabled=$('next').disabled=true;status('未连接');
 }
 async function loadFonts(){
@@ -37,7 +38,7 @@ async function connect(local=false){
   const token=$('access-token').value.trim();if(!local&&!token){$('connection-status').textContent='请先填入只读令牌。';return;}
   disconnect();state.client=new GitHubData(token,{local});const operation=state.operation;
   $('connect-submit').disabled=true;$('connection-status').textContent='连接中…';
-  try{await loadVersion($('version-ref').value.trim()||'main',requestedPage);if(operation!==state.operation)return;$('connection-dialog').close();}
+  try{await loadVersion($('version-ref').value.trim()||'main',requestedPage);if(operation!==state.operation)return;$('connection-status').textContent='已连接。';$('connection-dialog').close();}
   catch(e){if(operation===state.operation&&e.name!=='AbortError'){$('connection-status').textContent=e.message;failure(e);}}
   finally{if(operation===state.operation)$('connect-submit').disabled=false;}
 }
